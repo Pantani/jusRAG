@@ -170,8 +170,72 @@ Agentes: foundation, ui-docs, qa, answer (fix AD-1).
 ### Achado não-bloqueante remanescente (cosmético)
 - ask_demo não imprime mais a linha audit: para answered (grafo carrega audit em state.audit, não no AnswerBuffer). Auditoria segue computada/aplicada; /ask e UI ainda expõem audit. Opcional puxar state.audit no _print_answer.
 
-## BUILD COMPLETO: Fases 1–10 entregues e validadas. Falta só o commit inicial + tag v1.0 (autorização do usuário).
+## BUILD COMPLETO: Fases 1–10 entregues e validadas.
+
+## Validação real / pendências (2026-06-17, sessão 8) — Docker voltou
+### Pendências fechadas
+- ✅ `make up`: 4 serviços `Up`; `/health` 200 via HTTP real.
+- ✅ `make index-cdc` offline (sem OPENAI_API_KEY): switch EMBEDDING_PROVIDER/LLM_PROVIDER ∈ {openai,fake} (default openai). 11 chunks indexados no Qdrant real (dim=256, idempotente).
+- ✅ Bug real corrigido: qdrant-client 1.18 removeu `.search()` → trocado por `query_points`. Sem isso /search HTTP estourava.
+- ✅ /search HTTP: art.12 no top p/ "defeito do produto".
+- ✅ /ask HTTP (in-scope): defeito→answered cita art.12+14+26 (audit passed); banco→Súmula 297/479 separadas.
+- ✅ /ask HTTP (out-of-scope) — AD-2 fix: cripto→refused, sources=[], legal_basis=[], case_law=[], sem inventar. /ask agora roteia pelo run_graph (graph-only, sem flag), espelhando a correção do ask_demo (AD-1).
+### Entregas Fase 11
+- packages/embeddings/selector.py + packages/llm/selector.py (selectors espelhados).
+- apps/api/dependencies.py: AnswerService roteando POST /ask pelo grafo.
+- apps/api/routes/ask.py atualizada; apps/worker/jobs/index_cdc.py honra settings.embedding_provider.
+- packages/storage/qdrant.py: fix qdrant-client 1.18.
+- packages/config/settings.py + .env.example: campos providers.
+- tests/integration/test_ask.py: asserts out-of-scope mais fortes.
+### Baseline final
+166 passed · ruff + mypy strict (90 files) · make eval gate §36 PASSED · stack desmontado.
+### Commit
+6e225a9 (initial, --amend) — 186 files, 16625 insertions, assinado (SSH/1Password).
+### Pendências remanescentes
+- [ ] Tag v1.0 (decisão do usuário; segue sem tag conforme escolha anterior).
+- [ ] Recalibrar verificação léxica com embeddings reais (OPENAI_API_KEY) num corpus maior — fora deste ambiente.
 
 ## Pendências abertas
 - [~] `make up`: build OK + imagem da API serve /health por HTTP + `compose config` válido. Up simultâneo dos 4 serviços não fechado por instabilidade do Docker daemon neste ambiente (colisão de porta 5432 já resolvida; depois o daemon ficou indisponível). Não é defeito do projeto — revalidar em ambiente com daemon estável: `cp .env.example .env && make up`.
 - [ ] demo-script.md e seção demo do README a detalhar na Fase 9.
+
+## Validação real OpenAI + calibração agentic (2026-06-17, sessão 9)
+### Achado
+Com embeddings OpenAI reais (text-embedding-3-small, dim=1536) sobre o seed (11 chunks),
+sonda "Banco responde por fraude em conta corrente?" REGREDIU para `refused` mesmo com
+Súmula 297 (0.516) e Súmula 479 (0.598) recuperadas em /search direto. Bug real
+descoberto: `classify_area` retornava UNKNOWN (sem keywords financeiras), e
+statute/case_law researchers aplicavam `legal_area="unknown"` como FILTRO no Qdrant,
+zerando o retrieval — divergente do /search direto.
+### Fix cirúrgico (agentic)
+- packages/agents/classify_area.py: keywords CONSUMER ampliadas com banco, instituição
+  financeira, conta corrente, cartão, fraude — alinhadas com Súmula 297/479 do seed.
+- packages/agents/statute_researcher.py + case_law_researcher.py: pular filtro
+  `legal_area` quando area=UNKNOWN (sinal não-confiável; auditor segue gating).
+### Validação (stack docker real, providers openai)
+- defeito → answered, 8 sources, audit cov=1.0 unsupp=0.0 passed. ✅
+- banco → answered (era refused), 8 sources, audit cov=1.0 unsupp=0.0 passed. ✅
+- cripto → refused, sources=0 (mantido). ✅
+- make test → 166 passed; make lint → ruff + mypy strict 90 files. ✅
+### Notas
+- Dívida "recalibrar verificação léxica com embeddings reais" parcialmente quitada:
+  pipeline e auditor revalidados em embeddings reais sobre seed atual; não-regressão
+  do gate offline. Recalibração ampla ainda exige corpus maior (CDC completo + STJ
+  ampliada), fora deste ambiente.
+
+## Fase 12 — Providers locais (v1.1) — CONCLUÍDA parcial (2026-06-17, sessão 10)
+Agentes: foundation (12.1), retrieval (12.2), answer (12.3), ui-docs (12.5). QA 12.4 DEFERIDA (requer Docker daemon estável + ~10GB de modelos).
+### Aceite
+- Switches: EMBEDDING_PROVIDER ∈ {fake, openai, local} · LLM_PROVIDER ∈ {fake, openai, ollama}. ✅
+- `make test` → 174 passed (166 + 3 local_embedding + 5 ollama). `make lint` → ruff OK + mypy strict 92 files. `make eval` gate §36 PASSED. ✅
+### Entregas
+- foundation: pyproject `[local]=[sentence-transformers>=3.0, huggingface-hub]`; docker-compose.override.local.yml (ollama:11434 + volume ollama_data + healthcheck); Makefile target `pull-models` (llama3.1:8b + nomic-embed-text); packages/config/settings.py (ollama_base_url, local_embedding_model, ollama_chat_model; Literal embedding_provider/llm_provider ampliados).
+- retrieval: packages/embeddings/local_provider.py (lazy SentenceTransformer, normalize_embeddings=True, dim=768; RuntimeError sem dep instalada); selector aceita "local"; 3 testes offline (stub via sys.modules).
+- answer: packages/llm/ollama_provider.py (httpx síncrono, POST /api/chat com format:"json" + temperature:0; RuntimeError explícito em HTTPError/status≠200/payload malformado); selector aceita "ollama"; 5 testes offline via httpx.MockTransport.
+- ui-docs: README seção "Modo 100% local" (pré-reqs, .env, pip install -e '.[local]', compose overlay, pull-models, DELETE collection, reingest+reindex); docs/limitations.md seção "Modo local (v1.1)" (qualidade, latência, embedding dim); docs/demo-script.md variante local.
+### Pendências
+- [ ] .env.example: bloqueado por hook (.env guarded). Defaults em settings.py cobrem runtime; usuário deve adicionar manualmente OLLAMA_BASE_URL/LOCAL_EMBEDDING_MODEL/OLLAMA_CHAT_MODEL.
+- [x] 12.4 QA executado nesta sessão (stack local real): ollama+qdrant+postgres+redis+api Up; local embeddings (mpnet 768d) indexaram 11 chunks no Qdrant após DELETE+reindex; ollama_provider timeout default elevado para 300s (CPU local exige). Probes: (A) defeito → HTTP 200 em 178s com llama3.2:1b (plumbing OK, qualidade do 1B fraca — short_answer="Não" errado, legal_basis=[], súmulas irrelevantes — confirma docs/limitations.md sobre modelos pequenos); (C) cripto → refused em 4.7s, sources=[], §2.2 honrada. (B) banco pulado por budget (~3min/probe CPU). llama3.1:8b CPU ~52s/20tokens — inviável p/ agentic (synthesize+audit+retry > 300s). Recomendação: GPU para 8B usável.
+- [ ] Commit `feat(providers): add local embeddings (sentence-transformers) and Ollama LLM` — aguarda autorização do usuário.
+### Quebras de ownership (documentadas, lint/test verdes)
+- answer-agent estendeu Literal llm_provider em settings.py para "ollama" (sem widening, mypy strict rejeitaria selector). Orquestrador espelhou widening para embedding_provider "local". Foundation deve ratificar no próximo passe.

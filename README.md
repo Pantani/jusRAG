@@ -114,6 +114,53 @@ curl -X POST http://localhost:8000/ask \
   -d '{"question": "Posso desistir de uma compra feita pela internet?"}'
 ```
 
+### 2b. Modo 100% local (sem OpenAI)
+
+Trilha alternativa à 2: embeddings via `sentence-transformers` (in-process) e LLM via **Ollama** em container. Zero chamadas externas após o pull dos modelos.
+
+**Pré-requisitos:** Docker, ~10 GB livres em disco, RAM ≥ 16 GB recomendada (modelos: `llama3.1:8b` ≈ 4.7 GB, `paraphrase-multilingual-mpnet-base-v2` ≈ 1 GB). Inferência em CPU é viável mas lenta — ver [docs/limitations.md](docs/limitations.md).
+
+```bash
+# a) .env: trocar providers
+cp .env.example .env
+# editar .env e ajustar/adicionar:
+#   EMBEDDING_PROVIDER=local
+#   LLM_PROVIDER=ollama
+#   OLLAMA_BASE_URL=http://ollama:11434
+#   LOCAL_EMBEDDING_MODEL=sentence-transformers/paraphrase-multilingual-mpnet-base-v2
+#   OLLAMA_CHAT_MODEL=llama3.1:8b
+# (as 3 últimas ainda não estão no .env.example — adicione manualmente)
+
+# b) Dependências do modo local (sentence-transformers + httpx)
+pip install -e '.[local]'
+
+# c) Subir stack com overlay que inclui o serviço `ollama` em :11434
+docker compose -f docker-compose.yml -f docker-compose.override.local.yml up -d
+
+# d) Baixar modelos para dentro do container (vai demorar — ~5 GB+ de download)
+make pull-models
+
+# e) IMPORTANTE: se a collection foi indexada antes com OpenAI (dim=1536),
+#    é preciso recriar — embeddings locais têm dim=768 e o upsert quebra.
+curl -X DELETE http://localhost:6333/collections/legal_chunks
+
+# f) Reingestar e reindexar com os providers locais
+make ingest-cdc && make ingest-case-law && make index-cdc
+
+# g) Sondar
+make ask-demo
+# ou
+curl -X POST http://localhost:8000/ask \
+  -H 'content-type: application/json' \
+  -d '{"question": "Posso desistir de uma compra feita pela internet?"}'
+```
+
+**Trade-off de qualidade.** `llama3.1:8b` é significativamente menos capaz que `gpt-4o-mini` / `gpt-4.1-mini` em síntese jurídica e formatação JSON estruturada. As regras invioláveis (§2/§40) seguem aplicadas — o auditor de citações é o gate, independente do provider —, mas espere mais recusas seguras e maior latência por inferência. Detalhes em [docs/limitations.md](docs/limitations.md).
+
+**Alternativas:**
+- **LLM:** `qwen2.5:7b-instruct` costuma ser mais robusto em saída JSON; troque `OLLAMA_CHAT_MODEL` e refaça `ollama pull` dentro do container.
+- **Embeddings:** `nomic-embed-text` via Ollama (já pull-ed por `make pull-models`) como alternativa ao `sentence-transformers`. Mudança de modelo de embedding também exige recriar a collection.
+
 ### 3. UI de demonstração (Streamlit)
 
 A UI consome o `/ask` existente — **apenas apresentação**, sem lógica de negócio jurídica. Streamlit é dependência **opcional** (grupo `demo`), fora do core para não pesar o install/test base.

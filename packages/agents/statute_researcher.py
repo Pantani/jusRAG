@@ -32,7 +32,7 @@ def make_statute_researcher(
 
     def run_statute_research(state: LegalResearchState) -> dict[str, Any]:
         filters: dict[str, Any] = {"doc_type": DocType.STATUTE.value}
-        if state.legal_area:
+        if state.legal_area and state.legal_area != "unknown":
             filters["legal_area"] = state.legal_area
         chunks = search.search(state.question, top_k, filters)
         return {"retrieved_statutes": [chunk_to_source(c) for c in chunks]}

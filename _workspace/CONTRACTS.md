@@ -372,10 +372,33 @@ refusal_when_no_source_rate=1.0 (relevancy heurístico 0.958, faithfulness 1.0).
 ## Settings — `packages/config/settings.py` (dono: foundation)
 
 Seleção de provider por env (lidos como os demais; default preserva produção):
-- `EMBEDDING_PROVIDER: Literal["openai","fake"] = "openai"`
-- `LLM_PROVIDER: Literal["openai","fake"] = "openai"`
+- `EMBEDDING_PROVIDER: Literal["openai","fake","local"] = "openai"`
+- `LLM_PROVIDER: Literal["openai","fake","ollama"] = "openai"`
 
 `"fake"` habilita operação offline/demo determinística sem `OPENAI_API_KEY`.
-Consumidores: `dependencies.py` (retrieval/answer DI) deve escolher
-`FakeEmbeddingProvider`/`OpenAIEmbeddingProvider` e `FakeLLMProvider`/`OpenAILLMProvider`
-conforme esses settings. `.env.example` atualizado com ambos = `openai`.
+`"local"`/`"ollama"` (Fase 12) habilitam stack 100% local sem cloud.
+Consumidores: `dependencies.py` (retrieval/answer DI) escolhe
+`Fake|OpenAI|Local EmbeddingProvider` e `Fake|OpenAI|Ollama LLMProvider`
+via `make_embedding_provider`/`make_llm_provider` (selectors).
+
+## Camada de providers locais — Fase 12 (donos: retrieval, answer)
+
+### LocalEmbeddingProvider — `packages/embeddings/local_provider.py` (Protocol §27)
+- `__init__(model_name: str)` — guarda o nome; NÃO carrega modelo.
+- Lazy `_model()`: `from sentence_transformers import SentenceTransformer` no 1º uso.
+  ImportError → `RuntimeError("sentence-transformers not installed; install with `pip install -e '.[local]'`")`.
+- `embed_texts/embed_query`: `model.encode(..., normalize_embeddings=True).tolist()` (cosine-ready).
+- Default model: `sentence-transformers/paraphrase-multilingual-mpnet-base-v2` (dim=768).
+- Selector "local": `LocalEmbeddingProvider(settings.local_embedding_model)`. Dim != openai (1536) → recriar collection Qdrant.
+
+### OllamaLLMProvider — `packages/llm/ollama_provider.py` (Protocol §29/§30)
+- `__init__(base_url, model, timeout=60.0, transport=None)` — httpx.Client síncrono.
+- POST `{base_url}/api/chat` com `{model, messages, stream:false, format:"json", options:{temperature:0}}`.
+- Erro explícito (RuntimeError com `from exc`) em: `httpx.HTTPError`, status≠200, body não-JSON,
+  ausência/tipo errado de `message.content`. Zero fallback silencioso.
+- Default model: `llama3.1:8b`. Selector "ollama" instancia via `settings.ollama_base_url`/`ollama_chat_model`.
+
+### Settings novos (Foundation 12.1)
+- `ollama_base_url: str = "http://ollama:11434"`
+- `local_embedding_model: str = "sentence-transformers/paraphrase-multilingual-mpnet-base-v2"`
+- `ollama_chat_model: str = "llama3.1:8b"`

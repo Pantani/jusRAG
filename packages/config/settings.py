@@ -50,8 +50,14 @@ class Settings(BaseSettings):
 
     # Provider selection. "fake" enables deterministic offline/demo operation
     # without OPENAI_API_KEY; "openai" (default) preserves production behavior.
-    embedding_provider: Literal["openai", "fake"] = "openai"
-    llm_provider: Literal["openai", "fake"] = "openai"
+    embedding_provider: Literal["openai", "fake", "local"] = "openai"
+    llm_provider: Literal["openai", "fake", "ollama"] = "openai"
+
+    # Local providers (Phase 12). Concrete implementations live in
+    # packages/embeddings (sentence-transformers) and packages/llm (Ollama HTTP).
+    ollama_base_url: str = "http://ollama:11434"
+    local_embedding_model: str = "sentence-transformers/paraphrase-multilingual-mpnet-base-v2"
+    ollama_chat_model: str = "llama3.1:8b"
 
     # OpenSearch (optional)
     enable_opensearch: bool = False

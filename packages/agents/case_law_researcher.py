@@ -29,7 +29,7 @@ def make_case_law_researcher(
 
     def run_case_law_research(state: LegalResearchState) -> dict[str, Any]:
         filters: dict[str, Any] = {"doc_type": DocType.CASE_LAW.value}
-        if state.legal_area:
+        if state.legal_area and state.legal_area != "unknown":
             filters["legal_area"] = state.legal_area
         chunks = search.search(state.question, top_k, filters)
         return {"retrieved_case_law": [chunk_to_source(c) for c in chunks]}

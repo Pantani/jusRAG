@@ -40,6 +40,13 @@ demo = [
     "streamlit>=1.39",
     "httpx>=0.27",  # demo client calls POST /ask
 ]
+# Local providers (Phase 12). sentence-transformers powers the local embedding
+# provider; Ollama is reached via plain HTTP (httpx is already in core), so no
+# extra SDK is required here. Install with `pip install -e ".[local]"`.
+local = [
+    "sentence-transformers>=3.0",
+    "huggingface-hub",
+]
 
 [build-system]
 requires = ["setuptools>=68"]

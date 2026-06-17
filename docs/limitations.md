@@ -30,6 +30,17 @@ A v1 **não** implementa:
 - **Auditoria heurística:** a extração e verificação de claims é simples no MVP; reduz, mas não elimina, claims sem suporte. A taxa é medida (`unsupported_legal_claim_rate`) e limitada por threshold.
 - **Reranker opcional:** ausente ou básico na v1; a interface está preparada para evoluir.
 
+## Modo local (v1.1)
+
+A partir da v1.1 o sistema roda 100% local via `EMBEDDING_PROVIDER=local` (sentence-transformers) + `LLM_PROVIDER=ollama`. Limitações específicas desse modo:
+
+- **Capacidade do LLM.** Modelos 7–8B (`llama3.1:8b`, `qwen2.5:7b-instruct`) são significativamente menos capazes que LLMs cloud-tier (`gpt-4o-mini`, `gpt-4.1-mini`). Esperar: respostas menos articuladas, mais falhas em saída JSON estruturada exigida pelo `AnswerWriter`, e maior incidência de recusa segura quando o auditor reprova. Se `llama3.1:8b` falhar com frequência no parsing, tentar `qwen2.5:7b-instruct` (costuma ser mais disciplinado em JSON).
+- **Latência.** OpenAI cloud entrega `/ask` em ~1–3 s. Ollama local em **CPU** fica tipicamente em **10–30 s**; com **GPU** dedicada, ~3–8 s. Valores orientativos — medir no hardware-alvo. A latência alta torna a UI Streamlit perceptivelmente mais lenta, mas não muda o contrato de resposta.
+- **Embeddings.** `paraphrase-multilingual-mpnet-base-v2` (768d) tem qualidade decente em PT, porém **inferior** a `text-embedding-3-small` da OpenAI (1536d) em recall de termos jurídicos específicos. Ao mudar de provider em produção, reavalie thresholds de `retrieval_recall_at_5` e os pesos do `legal_ranker`.
+- **Compatibilidade de collection Qdrant.** Dim 1536 (OpenAI) ≠ dim 768 (mpnet) — **trocar provider exige recriar** a collection (`curl -X DELETE http://localhost:6333/collections/legal_chunks`) e reindexar. Não há migração in-place.
+- **Regras invioláveis intactas.** §2/§40 — recusa segura, sem invenção de fontes, separação legislação/jurisprudência/ressalva — seguem aplicadas. O `CitationAuditor` é o gate; o provider de LLM é intercambiável.
+- **Avaliação automática.** `make eval` continua rodando offline com **fake providers** determinísticos (CI reproduzível, sem dependência de modelos pesados). Comparar local vs. OpenAI nas métricas reais é validação **manual**, não coberta pelo quality gate automatizado.
+
 ## Riscos e mitigação
 
 | Risco | Mitigação |

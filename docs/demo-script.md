@@ -96,3 +96,41 @@ Esperado na tela:
 
 > Os exemplos refletem o comportamento real do sistema sobre o seed; os textos exatos da
 > resposta dependem do `LLMProvider` configurado (fake determinístico ou OpenAI).
+
+## 6. Variante: demo no modo 100% local
+
+Mesma demo, sem chamadas externas: embeddings via `sentence-transformers` e LLM via Ollama
+em container. Setup completo no README, seção **Modo 100% local**.
+
+```bash
+# .env: EMBEDDING_PROVIDER=local, LLM_PROVIDER=ollama,
+#       OLLAMA_BASE_URL=http://ollama:11434,
+#       LOCAL_EMBEDDING_MODEL=sentence-transformers/paraphrase-multilingual-mpnet-base-v2,
+#       OLLAMA_CHAT_MODEL=llama3.1:8b
+pip install -e '.[local]'
+docker compose -f docker-compose.yml -f docker-compose.override.local.yml up -d
+make pull-models                                                # ~5 GB+, cold start lento
+curl -X DELETE http://localhost:6333/collections/legal_chunks   # se vinha do modo OpenAI (dim ≠)
+make ingest-cdc && make ingest-case-law && make index-cdc
+```
+
+Rode as **mesmas três perguntas** do passo 5 (a, b, c) e a recusa segura (d):
+
+- **a)** Defeito do produto → CDC art. 12;
+- **b)** Direito de arrependimento → CDC art. 49;
+- **c)** CDC aplica-se a banco → STJ Súmula 297;
+- **d)** Fora do escopo → recusa segura.
+
+O que muda em relação à demo OpenAI:
+
+- **Latência.** Esperar ~10–30 s por `/ask` em CPU; ~3–8 s com GPU. A primeira execução
+  após `make pull-models` ainda pode ter cold start adicional (carregamento do modelo na
+  RAM do container Ollama).
+- **Qualidade do texto.** Respostas mais curtas e menos articuladas que o cloud-tier;
+  citações e estrutura JSON são as mesmas — o `AnswerWriter` impõe o shape.
+- **Auditor.** Pode reprovar com mais frequência (maior taxa de `status = refused` ou
+  de reescrita conservadora). Se `llama3.1:8b` falhar repetidamente, trocar para
+  `qwen2.5:7b-instruct` (ajustar `OLLAMA_CHAT_MODEL` e refazer `ollama pull` dentro do
+  container) — costuma ser mais disciplinado em saída estruturada.
+
+Detalhes de trade-off em [limitations.md](limitations.md), seção **Modo local (v1.1)**.
