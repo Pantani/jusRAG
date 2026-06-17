@@ -1,0 +1,178 @@
+# JusRAG Brasil
+
+**Copiloto open source de pesquisa jurídica brasileira com RAG: citações verificáveis, auditoria de claims e avaliação de fidelidade.**
+
+Status: **v1.0** — API, ingestão CDC + jurisprudência STJ seed, vector search, citações, auditor de citações, orquestração LangGraph, evals com quality gate e UI de demonstração. Fases 1–9 concluídas.
+
+> ## Aviso de não aconselhamento jurídico
+>
+> Este projeto **não fornece aconselhamento jurídico**. Ele demonstra uma arquitetura de pesquisa jurídica assistida por IA, com RAG, fontes oficiais, citações verificáveis, versionamento jurídico e avaliação de fidelidade.
+>
+> Toda resposta tem finalidade **informativa** e é gerada com base nas fontes recuperadas pelo sistema. Ela **não substitui** a análise de um advogado ou profissional habilitado, especialmente porque a conclusão pode depender de fatos, documentos, datas e jurisprudência atualizada.
+
+## O que é (e o que não é)
+
+LLMs geram respostas jurídicas convincentes, mas podem **inventar** artigos, súmulas, decisões, teses e números de processo. Em direito, isso é crítico.
+
+O JusRAG Brasil é um **copiloto de pesquisa** que ataca esse problema: nenhuma afirmação jurídica relevante é emitida sem uma fonte recuperada. Toda resposta percorre o encadeamento:
+
+```
+fonte → recuperação → ranking → síntese → auditoria → ressalva → avaliação
+```
+
+O sistema:
+
+- recupera fontes jurídicas oficiais (seed) antes de responder;
+- cita as fontes efetivamente usadas, com `chunk_id`, artigo/súmula e URL;
+- separa legislação, jurisprudência, interpretação e ressalvas;
+- audita afirmações sem suporte e **recusa com segurança** quando não há base suficiente;
+- mede qualidade com evals offline (recall de retrieval, cobertura de citação, taxa de claims sem suporte, taxa de recusa segura).
+
+**O diferencial é a arquitetura, não o LLM bruto.** Detalhes em [docs/legal-rag-design.md](docs/legal-rag-design.md) e [docs/architecture.md](docs/architecture.md).
+
+Isto **não é**: um produto de aconselhamento jurídico, um peticionador automático, nem uma cobertura completa do direito brasileiro. Ver [docs/limitations.md](docs/limitations.md).
+
+## Escopo do MVP
+
+A v1.0 cobre **Direito do Consumidor**, com fontes seed:
+
+- **Legislação** — Código de Defesa do Consumidor (CDC), **Lei 8.078/1990**, artigos **6º, 12, 14, 18, 26 e 49** (texto oficial do Planalto).
+- **Jurisprudência** — súmulas do **STJ**: **130, 297, 302, 479 e 543**.
+
+O recorte é pequeno por design: compacto, demonstrável e reproduzível offline. Perguntas fora desse recorte tendem a **recusa segura** — comportamento esperado, não falha.
+
+## Arquitetura (resumo)
+
+Em runtime, a pergunta passa por um grafo **LangGraph** ponta a ponta:
+
+```
+intake → classify_legal_area → retrieve_statutes / retrieve_case_law
+       → rerank_and_select_context → synthesize_answer
+       → audit_citations → check_risks → final_answer
+```
+
+A auditoria pode reescrever de forma conservadora ou levar à recusa; o `status` da resposta é um de `{running, needs_more_info, answered, refused, failed}`. Fluxo completo, camadas de código e schemas de domínio em [docs/architecture.md](docs/architecture.md).
+
+## Stack
+
+- **Backend:** Python 3.12+, FastAPI, Pydantic v2, pydantic-settings; pytest, ruff, mypy (strict).
+- **IA / RAG:** embeddings OpenAI via interface abstrata (`EmbeddingProvider`), LLM via interface abstrata (`LLMProvider`), Qdrant para vector search, LangGraph para orquestração runtime. OpenSearch/BM25 e reranker têm interface preparada, opcionais na v1.
+- **Infra local:** Docker Compose — `api`, `postgres`, `qdrant`, `redis`.
+- **Observabilidade:** logs estruturados, `run_id` por execução, traces por etapa do grafo.
+
+## Quickstart (do zero)
+
+### 1. Clonar e validar offline (sem Docker, sem chave de API)
+
+Esta trilha roda **100% offline** com fake providers determinísticos — não acessa rede.
+
+```bash
+git clone <repo> && cd jus-rag-brasil
+cp .env.example .env
+python -m venv .venv && source .venv/bin/activate
+pip install -e ".[dev]"
+
+make test            # pytest (sem rede externa)
+make lint            # ruff check . && mypy packages apps
+make ingest-cdc      # gera data/generated/cdc_chunks.jsonl (CDC arts 6/12/14/18/26/49)
+make ingest-case-law # gera data/generated/case_law_chunks.jsonl (súmulas STJ 130/297/302/479/543)
+make search-demo     # demo de busca semântica (fake embeddings)
+make ask-demo        # demo de resposta citada via pipeline /ask (fake LLM)
+make eval            # suíte de evals → data/generated/eval_report.{json,md} + quality gate
+```
+
+`search-demo`, `ask-demo` e `eval` usam fake providers e **não precisam** de Qdrant nem de `OPENAI_API_KEY`.
+
+### 2. Stack real (Docker + Qdrant + OpenAI)
+
+Pré-requisitos: Docker, Docker Compose e uma `OPENAI_API_KEY` válida no `.env`.
+
+```bash
+# .env: defina OPENAI_API_KEY=sk-...
+make up              # docker compose up --build (api, postgres, qdrant, redis)
+
+curl http://localhost:8000/health   # -> {"status": "ok"}
+
+make ingest-cdc      # gera os chunks do CDC
+make ingest-case-law # gera os chunks de jurisprudência (STJ)
+make index-cdc       # indexa statute + case_law na collection Qdrant legal_chunks
+```
+
+`make index-cdc` requer Qdrant no ar **e** `OPENAI_API_KEY`. Sem a chave, o job **falha com erro explícito** — não há fallback silencioso para embeddings fake.
+
+Endpoints:
+
+```bash
+# Busca, separando legislação e jurisprudência
+curl -X POST http://localhost:8000/search \
+  -H 'content-type: application/json' \
+  -d '{"query": "direito de arrependimento na compra pela internet"}'
+
+# Resposta citada, estruturada, com auditoria e aviso
+curl -X POST http://localhost:8000/ask \
+  -H 'content-type: application/json' \
+  -d '{"question": "Posso desistir de uma compra feita pela internet?"}'
+```
+
+### 3. UI de demonstração (Streamlit)
+
+A UI consome o `/ask` existente — **apenas apresentação**, sem lógica de negócio jurídica. Streamlit é dependência **opcional** (grupo `demo`), fora do core para não pesar o install/test base.
+
+```bash
+pip install -e ".[demo]"
+JUSRAG_API_URL=http://localhost:8000 streamlit run apps/web/app.py
+```
+
+A UI abre em `http://localhost:8501`. Para cada pergunta exibe: **resposta**, **fundamento legal** e **jurisprudência** em cards separados, **chunks usados**, **ressalvas**, **audit score** (com destaque quando a auditoria reprova) e o **aviso de não aconselhamento**. Requer a API no ar (passo 2) com a collection indexada. Roteiro completo em [docs/demo-script.md](docs/demo-script.md).
+
+## Comandos `make`
+
+| Comando | O que faz | Requer |
+|---|---|---|
+| `make test` | Roda a suíte de testes (pytest). | offline |
+| `make lint` | `ruff check .` e `mypy packages apps`. | offline |
+| `make format` | `ruff format .`. | offline |
+| `make ingest-cdc` | Ingere o CDC seed → `data/generated/cdc_chunks.jsonl`. | offline |
+| `make ingest-case-law` | Ingere súmulas STJ seed → `data/generated/case_law_chunks.jsonl`. | offline |
+| `make search-demo` | Demonstração de busca semântica (fake embeddings). | offline |
+| `make ask-demo` | Demonstração de resposta citada via `/ask` (fake LLM). | offline |
+| `make eval` | Suíte de evals → relatório JSON + Markdown + quality gate. | offline |
+| `make up` | Sobe os serviços via Docker Compose. | Docker |
+| `make down` | Derruba os serviços e remove volumes. | Docker |
+| `make index-cdc` | Indexa os chunks na collection Qdrant `legal_chunks`. | Docker + `OPENAI_API_KEY` |
+
+## Qualidade e avaliação
+
+`make eval` roda offline com fake providers determinísticos e impõe os quality gates da v1 (§36):
+
+| Métrica | Threshold |
+|---|---|
+| `retrieval_recall_at_5` | ≥ 0.80 |
+| `citation_coverage` | ≥ 0.90 |
+| `unsupported_legal_claim_rate` | ≤ 0.05 |
+| `refusal_when_no_source_rate` | ≥ 0.90 (perguntas fora do escopo) |
+
+O gate da `unsupported_legal_claim_rate` é **sempre** enforçado (a regra "não alucinar", §2); os demais são enforçados por padrão e podem ser relaxados com `EVAL_GATE_STRICT=0` (apenas o gate de alucinação permanece). O job retorna código de saída não-zero quando um gate é violado, podendo **falhar o build**.
+
+O golden dataset (`data/seed/questions/consumer_golden.yaml`) tem **31 perguntas** de Direito do Consumidor (dentro e fora do escopo), acima do mínimo de 30 exigido pela v1.
+
+> **Honestidade sobre as métricas:** os valores reportados pelos evals são medidos sobre um **seed pequeno** (6 artigos do CDC + 5 súmulas do STJ) e com **fake providers determinísticos**, não com o provider real OpenAI. Servem para validar a *arquitetura* (recall, cobertura de citação, recusa segura, ausência de claims sem suporte) de forma reproduzível em CI — **não** são uma medida de desempenho do sistema em produção sobre todo o Direito do Consumidor. Detalhes em [docs/evaluation.md](docs/evaluation.md).
+
+## Limitações
+
+Área única (consumidor), fonte seed restrita, jurisprudência inicial pequena, auditoria heurística e reranker opcional. Leia [docs/limitations.md](docs/limitations.md) antes de qualquer uso além de demonstração.
+
+## Documentação
+
+- [docs/architecture.md](docs/architecture.md) — arquitetura e fluxo runtime (LangGraph).
+- [docs/legal-rag-design.md](docs/legal-rag-design.md) — desenho do Legal RAG, chunking e ranking.
+- [docs/source-policy.md](docs/source-policy.md) — política de fontes oficiais e persistência.
+- [docs/evaluation.md](docs/evaluation.md) — avaliação, métricas e quality gates.
+- [docs/governance.md](docs/governance.md) — regras fundamentais, segurança e privacidade.
+- [docs/limitations.md](docs/limitations.md) — limitações, não-objetivos e riscos.
+- [docs/roadmap.md](docs/roadmap.md) — fases v0.0 → v1.0.
+- [docs/demo-script.md](docs/demo-script.md) — roteiro de demo ponta a ponta.
+
+## Licença
+
+Ver [LICENSE](LICENSE).

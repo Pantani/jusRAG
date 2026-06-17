@@ -1,0 +1,89 @@
+"""Structural chunking: article detection, metadata, stable ids, idempotency."""
+
+from __future__ import annotations
+
+from datetime import UTC, datetime
+
+from packages.ingestion.chunker import chunk_document, iter_article_sections
+from packages.ingestion.loaders.base import RawDocument
+from packages.legal_types.enums import DocType, LegalArea, Source
+
+_BODY = """Preâmbulo ignorado.
+
+## Art. 6º
+
+São direitos básicos do consumidor:
+
+I - a proteção da vida;
+II - a educação.
+
+## Art. 12
+
+O fabricante responde, independentemente de culpa.
+
+§ 1º O produto é defeituoso quando não oferece a segurança esperada.
+
+## Art. 14-A
+
+Texto fictício de teste.
+"""
+
+_TS = datetime(2026, 6, 16, tzinfo=UTC)
+
+
+def _raw(body: str = _BODY) -> RawDocument:
+    return RawDocument(
+        text=body,
+        title="Código de Defesa do Consumidor",
+        source=Source.PLANALTO,
+        source_url="https://www.planalto.gov.br/ccivil_03/leis/l8078.htm",
+        version="2026-06-16",
+        norm_type="lei",
+        norm_number="8078",
+        norm_year="1990",
+        short_name="cdc",
+        legal_area=LegalArea.CONSUMER,
+        jurisdiction="federal",
+    )
+
+
+def test_iter_sections_detects_articles() -> None:
+    nums = [n for n, _ in iter_article_sections(_BODY)]
+    assert nums == ["6", "12", "14-A"]
+
+
+def test_chunk_metadata_and_ids() -> None:
+    chunks = chunk_document(_raw(), created_at=_TS)
+    by_id = {c.chunk_id: c for c in chunks}
+    assert set(by_id) == {
+        "cdc-8078-1990-art-6",
+        "cdc-8078-1990-art-12",
+        "cdc-8078-1990-art-14-a",
+    }
+    art6 = by_id["cdc-8078-1990-art-6"]
+    assert art6.article == "6º"
+    assert by_id["cdc-8078-1990-art-12"].article == "12"
+    assert art6.doc_type is DocType.STATUTE
+    assert art6.source is Source.PLANALTO
+    assert art6.norm_number == "8078"
+    assert art6.norm_year == "1990"
+    assert art6.version == "2026-06-16"
+    assert art6.legal_area is LegalArea.CONSUMER
+    assert art6.content_hash.startswith("sha256:")
+    assert art6.metadata["is_current"] is True
+
+
+def test_internal_structure_preserved_in_text() -> None:
+    chunks = chunk_document(_raw(), created_at=_TS)
+    art12 = next(c for c in chunks if c.chunk_id == "cdc-8078-1990-art-12")
+    assert "§ 1º" in art12.text
+    art6 = next(c for c in chunks if c.chunk_id == "cdc-8078-1990-art-6")
+    assert "I - a proteção da vida" in art6.text
+    assert "II - a educação" in art6.text
+
+
+def test_chunking_is_idempotent() -> None:
+    a = chunk_document(_raw(), created_at=_TS)
+    b = chunk_document(_raw(), created_at=_TS)
+    assert [c.model_dump() for c in a] == [c.model_dump() for c in b]
+    assert [c.content_hash for c in a] == [c.content_hash for c in b]

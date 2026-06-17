@@ -1,0 +1,65 @@
+"""Answer eval tests (§24, §36): refusal rate over out-of-scope, heuristics bounded."""
+
+from __future__ import annotations
+
+from packages.evals.answer_eval import (
+    MIN_REFUSAL_RATE,
+    answer_cases_for_citation,
+    evaluate_answers,
+    produce_answers,
+)
+from packages.evals.golden import GoldenQuestion, load_golden
+from packages.evals.harness import build_harness
+
+
+def test_refusal_rate_meets_threshold_on_seed() -> None:
+    report = evaluate_answers(build_harness(), load_golden())
+    assert report.refusal_when_no_source_rate >= MIN_REFUSAL_RATE
+    assert report.refusal_passed
+
+
+def test_refusal_rate_drops_when_oos_is_answered() -> None:
+    """An out-of-scope question phrased to overlap the corpus lowers the refusal rate."""
+
+    leaking = [
+        GoldenQuestion(
+            id="oos-leak",
+            question=(
+                "Os fornecedores respondem solidariamente pelos vícios de qualidade "
+                "do produto durável que o tornem impróprio ao consumo?"
+            ),
+            expected_chunk_ids=(),
+            expected_behavior="refused",
+        )
+    ]
+    report = evaluate_answers(build_harness(), leaking)
+    assert report.refusal_when_no_source_rate == 0.0
+    assert not report.refusal_passed
+    assert "oos-leak" in report.failing_case_ids
+
+
+def test_heuristics_are_bounded() -> None:
+    report = evaluate_answers(build_harness(), load_golden())
+    assert 0.0 <= report.answer_relevancy <= 1.0
+    assert 0.0 <= report.faithfulness <= 1.0
+
+
+def test_citation_cases_mirror_golden_one_to_one() -> None:
+    harness = build_harness()
+    questions = load_golden()
+    produced = produce_answers(harness, questions)
+    cases = answer_cases_for_citation(harness, produced)
+    assert len(cases) == len(questions)
+    assert {c.case_id for c in cases} == {q.id for q in questions}
+
+
+def test_citation_grounding_uses_real_chunk_text_not_answer_wording() -> None:
+    """Sanity: an in-scope answer's cited chunks carry real corpus text, not paraphrase."""
+
+    harness = build_harness()
+    questions = [q for q in load_golden() if q.in_scope][:1]
+    produced = produce_answers(harness, questions)
+    cases = answer_cases_for_citation(harness, produced)
+    grounding = cases[0].chunks
+    assert grounding
+    assert any("Art" in c.text for c in grounding)
