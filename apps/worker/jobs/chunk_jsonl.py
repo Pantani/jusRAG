@@ -1,0 +1,50 @@
+"""Shared helper: load LegalChunks from the generated JSONL.
+
+Boundary input for the indexer and the search demo (§12.9). Validates each line
+against the ``LegalChunk`` schema — no silent skipping of malformed lines.
+"""
+
+from __future__ import annotations
+
+from pathlib import Path
+
+from packages.legal_types.schemas import LegalChunk
+
+_REPO_ROOT = Path(__file__).resolve().parents[3]
+_GENERATED = _REPO_ROOT / "data" / "generated"
+CHUNKS_PATH = _GENERATED / "cdc_chunks.jsonl"
+CASE_LAW_CHUNKS_PATH = _GENERATED / "case_law_chunks.jsonl"
+
+
+def load_chunks(path: Path = CHUNKS_PATH) -> list[LegalChunk]:
+    """Read and validate every chunk line from the JSONL."""
+
+    if not path.exists():
+        raise FileNotFoundError(f"{path} not found. Run `make ingest-cdc` first to generate it.")
+    chunks: list[LegalChunk] = []
+    for line in path.read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if not line:
+            continue
+        chunks.append(LegalChunk.model_validate_json(line))
+    return chunks
+
+
+def load_case_law_chunks(path: Path = CASE_LAW_CHUNKS_PATH) -> list[LegalChunk]:
+    """Load case-law chunks (doc_type=case_law); empty when not yet generated.
+
+    Jurisprudence is optional in the corpus: missing file -> no case-law chunks
+    (so a query only surfaces case_law when a source exists, §22). Both statute
+    and case_law chunks share the ``LegalChunk`` JSONL shape and the same
+    ``legal_chunks`` collection.
+    """
+
+    if not path.exists():
+        return []
+    return load_chunks(path)
+
+
+def load_indexable_chunks() -> list[LegalChunk]:
+    """All chunks to index into ``legal_chunks``: statutes + available case law."""
+
+    return load_chunks() + load_case_law_chunks()

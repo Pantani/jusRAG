@@ -1,0 +1,46 @@
+name: CI
+
+# Offline by design: no Docker, Qdrant, Redis, Postgres or OPENAI_API_KEY.
+# Unit/integration tests and evals run against the deterministic fake providers
+# (system rules §6, §8). Targets that require the live stack (make up,
+# make index-cdc) are intentionally NOT run here.
+on:
+  push:
+    branches: ["**"]
+  pull_request:
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  lint-test:
+    name: lint + test
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install project
+        run: pip install -e ".[dev]"
+      - name: Lint (ruff + mypy)
+        run: make lint
+      - name: Test (pytest, offline)
+        run: make test
+
+  eval:
+    name: eval gate (offline)
+    runs-on: ubuntu-latest
+    needs: lint-test
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install project
+        run: pip install -e ".[dev]"
+      - name: Eval suite (fake providers, gate §36)
+        run: make eval

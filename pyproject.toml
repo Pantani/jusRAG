@@ -1,0 +1,69 @@
+[project]
+name = "jus-rag-brasil"
+version = "0.1.0"
+description = "Open-source Brazilian legal-research copilot built on RAG with verifiable citations."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    # API + config (Phase 1)
+    "fastapi>=0.115",
+    "uvicorn[standard]>=0.32",
+    "pydantic>=2.9",
+    "pydantic-settings>=2.6",
+    # RAG runtime (Phase 3). qdrant-client and openai are imported lazily
+    # (inside functions / under TYPE_CHECKING) — see packages/storage/qdrant.py
+    # and packages/embeddings/openai_provider.py. They stay in the core anyway:
+    # `make lint` runs `mypy packages apps` over every module, so their type
+    # imports must resolve. Unit tests use the fake providers and never reach
+    # the network (system rules §6, §8).
+    "qdrant-client>=1.12",
+    "openai>=1.54",
+    # Agentic orchestration (Phase 7). Unlike the two above, langgraph is a
+    # TOP-LEVEL import in packages/agents/graph.py and is exercised by
+    # tests/unit/agents/test_graph.py — it MUST be a core dependency, otherwise
+    # `make test`/`make lint` fail. This is the deciding constraint for keeping
+    # the RAG stack in core rather than an optional [rag] group.
+    "langgraph>=0.2",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.3",
+    "httpx>=0.27",  # FastAPI TestClient (offline)
+    "ruff>=0.7",
+    "mypy>=1.13",
+]
+# Optional Streamlit demo UI (Phase 9). Kept out of core deps so the base
+# install / test path stays light; the API + RAG pipeline never imports it.
+# Install with `pip install -e ".[demo]"`.
+demo = [
+    "streamlit>=1.39",
+    "httpx>=0.27",  # demo client calls POST /ask
+]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["apps", "packages"]
+
+[tool.ruff]
+target-version = "py312"
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "C90", "UP", "B"]
+
+[tool.ruff.lint.mccabe]
+max-complexity = 10
+
+[tool.mypy]
+python_version = "3.12"
+strict = true
+warn_unused_configs = true
+ignore_missing_imports = true
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"

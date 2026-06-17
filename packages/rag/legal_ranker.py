@@ -1,0 +1,111 @@
+"""Composite legal ranking — MVP score (§38).
+
+    score = 0.70 * semantic_similarity
+          + 0.20 * legal_authority
+          + 0.10 * exact_citation_match
+
+- ``semantic_similarity``: raw cosine from the vector store, clamped to [0, 1].
+- ``legal_authority``: authority weight from the §39 hierarchy, looked up from the
+  chunk payload (norm_type for statutes; doc_type fallback otherwise).
+- ``exact_citation_match``: 1.0 when the article number requested in the query
+  matches the chunk's article (chunk text carries the "## Art. N" heading too).
+
+BM25, binding weight, recency and source-quality terms are deferred (§38 full).
+"""
+
+from __future__ import annotations
+
+from packages.legal_types.enums import DocType, PrecedentType
+from packages.legal_types.hierarchy import (
+    AuthorityTier,
+    authority_weight_for_doc_type,
+    weight_for,
+)
+from packages.storage.base import VectorSearchResult
+
+# STJ precedent-type tiers (§39): a STJ súmula weighs 0.88, not the generic
+# case-law fallback (0.75). Mirrors hierarchy._STJ_PRECEDENT_TIERS but driven
+# by the stored payload (precedent_type lives in chunk.metadata for case_law).
+_PRECEDENT_TIERS: dict[PrecedentType, AuthorityTier] = {
+    PrecedentType.REPETITIVE_APPEAL: AuthorityTier.STJ_REPETITIVE,
+    PrecedentType.SUMMARY: AuthorityTier.STJ_SUMMARY,
+    PrecedentType.BINDING_SUMMARY: AuthorityTier.FEDERAL_LAW,
+    PrecedentType.BINDING_PRECEDENT: AuthorityTier.FEDERAL_LAW,
+    PrecedentType.GENERAL_REPERCUSSION: AuthorityTier.FEDERAL_LAW,
+}
+
+SEMANTIC_WEIGHT = 0.70
+AUTHORITY_WEIGHT = 0.20
+CITATION_WEIGHT = 0.10
+
+
+def _clamp01(value: float) -> float:
+    return max(0.0, min(1.0, value))
+
+
+def authority_for_payload(payload: dict[str, object]) -> float:
+    """Authority weight (§39) from a stored chunk payload."""
+
+    doc_type_raw = str(payload.get("doc_type", DocType.UNKNOWN))
+    try:
+        doc_type = DocType(doc_type_raw)
+    except ValueError:
+        return weight_for(AuthorityTier.UNKNOWN)
+
+    if doc_type is DocType.STATUTE:
+        # Statute tier from norm_type (§39): constituição = top, any other norm
+        # = federal-law tier, none = unknown. Mirrors hierarchy.tier_for_statute.
+        norm = str(payload.get("norm_type") or "").lower()
+        if norm in {"constituicao", "constituição"}:
+            return weight_for(AuthorityTier.CONSTITUTION)
+        if norm:
+            return weight_for(AuthorityTier.FEDERAL_LAW)
+        return weight_for(AuthorityTier.UNKNOWN)
+    if doc_type is DocType.CASE_LAW:
+        return _case_law_authority(payload)
+    return authority_weight_for_doc_type(doc_type)
+
+
+def _case_law_authority(payload: dict[str, object]) -> float:
+    """Case-law tier from precedent_type/court in the chunk metadata (§39).
+
+    For case_law chunks the §9 payload (court, precedent_type) travels inside the
+    chunk's ``metadata`` sub-dict — so a STJ súmula scores 0.88, not the coarse
+    case-law fallback 0.75.
+    """
+
+    meta = payload.get("metadata")
+    meta = meta if isinstance(meta, dict) else {}
+    precedent_raw = str(meta.get("precedent_type") or "")
+    try:
+        precedent = PrecedentType(precedent_raw)
+    except ValueError:
+        precedent = PrecedentType.UNKNOWN
+    if precedent in _PRECEDENT_TIERS:
+        return weight_for(_PRECEDENT_TIERS[precedent])
+    court = str(meta.get("court") or "").upper()
+    if court == "STF":
+        return weight_for(AuthorityTier.FEDERAL_LAW)
+    if court == "STJ":
+        return weight_for(AuthorityTier.STJ_CASE_LAW)
+    if court.startswith("TJ"):
+        return weight_for(AuthorityTier.TJ)
+    return authority_weight_for_doc_type(DocType.CASE_LAW)
+
+
+def exact_citation_match(payload: dict[str, object], requested_article: str | None) -> float:
+    """1.0 if the requested article equals the chunk's article, else 0.0."""
+
+    if not requested_article:
+        return 0.0
+    return 1.0 if str(payload.get("article") or "") == str(requested_article) else 0.0
+
+
+def composite_score(hit: VectorSearchResult, requested_article: str | None) -> tuple[float, float]:
+    """Return ``(composite_score, semantic_score)`` for a hit (§38)."""
+
+    semantic = _clamp01(hit.score)
+    authority = authority_for_payload(hit.payload)
+    citation = exact_citation_match(hit.payload, requested_article)
+    score = SEMANTIC_WEIGHT * semantic + AUTHORITY_WEIGHT * authority + CITATION_WEIGHT * citation
+    return score, semantic

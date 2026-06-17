@@ -1,0 +1,224 @@
+# Golden dataset — Direito do Consumidor (CDC, Lei 8.078/1990) + STJ súmulas.
+#
+# Source of truth for Phase-8 evals (§24, §35–37). Each item:
+#   id                 stable identifier (never renumber; extend only by appending)
+#   question           the user query (calibrated for lexical overlap so the
+#                      deterministic FakeEmbeddingProvider recovers the right chunk
+#                      in the top-5 — recall@5 ≥ 0.80, §36)
+#   expected_chunk_ids chunk_ids from the seed that MUST be retrieved (recall/precision@5)
+#   expected_behavior  answered | refused
+#   expected_articles  (optional) CDC article numbers the answer should rest on
+#   expected_sumulas   (optional) STJ súmula numbers the answer should rest on
+#
+# Out-of-scope items (tax, criminal, civil, labor, social-security) carry
+# expected_behavior=refused and no expected_chunk_ids — they measure
+# refusal_when_no_source_rate (§36). Faithful to the seed: no invented
+# article/súmula. The corpus seeds CDC arts. 6º, 12, 14, 18, 26, 49 and STJ
+# súmulas 130, 297, 302, 479, 543.
+
+# ---------------------------------------------------------------------------
+# In-scope: CDC art. 6º — direitos básicos do consumidor
+# ---------------------------------------------------------------------------
+- id: cdc-art6-direitos-basicos
+  question: Quais são os direitos básicos do consumidor previstos no CDC?
+  expected_chunk_ids: [cdc-8078-1990-art-6]
+  expected_behavior: answered
+  expected_articles: ["6º"]
+
+- id: cdc-art6-informacao-adequada
+  question: O consumidor tem direito à informação adequada e clara sobre os produtos e serviços?
+  expected_chunk_ids: [cdc-8078-1990-art-6]
+  expected_behavior: answered
+  expected_articles: ["6º"]
+
+- id: cdc-art6-protecao-vida-saude
+  question: O consumidor tem direito à proteção da vida, saúde e segurança contra riscos de produtos perigosos?
+  expected_chunk_ids: [cdc-8078-1990-art-6]
+  expected_behavior: answered
+  expected_articles: ["6º"]
+
+# ---------------------------------------------------------------------------
+# In-scope: CDC art. 12 — fato do produto / responsabilidade do fabricante
+# ---------------------------------------------------------------------------
+- id: cdc-art12-fabricante-sem-culpa
+  question: O fabricante responde independentemente de culpa pela reparação dos danos causados por defeitos do produto?
+  expected_chunk_ids: [cdc-8078-1990-art-12]
+  expected_behavior: answered
+  expected_articles: ["12"]
+
+- id: cdc-art12-produto-defeituoso
+  question: Quando um produto é considerado defeituoso por não oferecer a segurança que dele se espera?
+  expected_chunk_ids: [cdc-8078-1990-art-12]
+  expected_behavior: answered
+  expected_articles: ["12"]
+
+# ---------------------------------------------------------------------------
+# In-scope: CDC art. 14 — fato do serviço / responsabilidade do fornecedor
+# ---------------------------------------------------------------------------
+- id: cdc-art14-fornecedor-servico
+  question: O fornecedor de serviços responde por danos causados aos consumidores por defeitos relativos à prestação dos serviços?
+  expected_chunk_ids: [cdc-8078-1990-art-14]
+  expected_behavior: answered
+  expected_articles: ["14"]
+
+- id: cdc-art14-servico-defeituoso
+  question: Quando o serviço é considerado defeituoso pela falta da segurança que o consumidor dele pode esperar?
+  expected_chunk_ids: [cdc-8078-1990-art-14]
+  expected_behavior: answered
+  expected_articles: ["14"]
+
+# ---------------------------------------------------------------------------
+# In-scope: CDC art. 18 — vício do produto / responsabilidade solidária
+# ---------------------------------------------------------------------------
+- id: cdc-art18-vicio-solidario
+  question: Os fornecedores respondem solidariamente pelos vícios de qualidade ou quantidade que tornem o produto impróprio ao consumo?
+  expected_chunk_ids: [cdc-8078-1990-art-18]
+  expected_behavior: answered
+  expected_articles: ["18"]
+
+- id: cdc-art18-vicio-nao-sanado
+  question: Se o vício do produto não for sanado no prazo de trinta dias o consumidor pode exigir a substituição das partes viciadas?
+  expected_chunk_ids: [cdc-8078-1990-art-18]
+  expected_behavior: answered
+  expected_articles: ["18"]
+
+# ---------------------------------------------------------------------------
+# In-scope: CDC art. 26 — decadência para reclamar de vícios aparentes
+# ---------------------------------------------------------------------------
+- id: cdc-art26-prazo-decadencial
+  question: Qual o prazo decadencial para reclamar pelos vícios aparentes ou de fácil constatação em produtos duráveis e não duráveis?
+  expected_chunk_ids: [cdc-8078-1990-art-26]
+  expected_behavior: answered
+  expected_articles: ["26"]
+
+- id: cdc-art26-caduca-servico
+  question: Em quantos dias caduca o direito de reclamar por vícios de fácil constatação no fornecimento de serviço?
+  expected_chunk_ids: [cdc-8078-1990-art-26]
+  expected_behavior: answered
+  expected_articles: ["26"]
+
+# ---------------------------------------------------------------------------
+# In-scope: CDC art. 49 — direito de arrependimento
+# ---------------------------------------------------------------------------
+- id: cdc-art49-arrependimento-7-dias
+  question: O consumidor pode desistir do contrato no prazo de 7 dias exercendo o direito de arrependimento?
+  expected_chunk_ids: [cdc-8078-1990-art-49]
+  expected_behavior: answered
+  expected_articles: ["49"]
+
+- id: cdc-art49-fora-estabelecimento
+  question: Compras de produtos e serviços feitas fora do estabelecimento comercial por telefone têm prazo de reflexão?
+  expected_chunk_ids: [cdc-8078-1990-art-49]
+  expected_behavior: answered
+  expected_articles: ["49"]
+
+- id: cdc-art49-restituicao-valores
+  question: Ao exercer o direito de arrependimento os valores pagos durante o prazo de reflexão são devolvidos de imediato?
+  expected_chunk_ids: [cdc-8078-1990-art-49]
+  expected_behavior: answered
+  expected_articles: ["49"]
+
+# ---------------------------------------------------------------------------
+# In-scope: STJ súmulas (jurisprudência)
+# ---------------------------------------------------------------------------
+- id: stj-sumula130-estacionamento
+  question: A empresa responde perante o cliente pela reparação de dano ou furto de veículo ocorrido em seu estacionamento?
+  expected_chunk_ids: [stj-sumula-130]
+  expected_behavior: answered
+  expected_sumulas: ["130"]
+
+- id: stj-sumula297-instituicoes-financeiras
+  question: O Código de Defesa do Consumidor é aplicável às instituições financeiras?
+  expected_chunk_ids: [stj-sumula-297]
+  expected_behavior: answered
+  expected_sumulas: ["297"]
+
+- id: stj-sumula302-plano-saude-internacao
+  question: É abusiva a cláusula contratual de plano de saúde que limita no tempo a internação hospitalar do segurado?
+  expected_chunk_ids: [stj-sumula-302]
+  expected_behavior: answered
+  expected_sumulas: ["302"]
+
+- id: stj-sumula479-fraude-bancaria
+  question: As instituições financeiras respondem objetivamente pelos danos gerados por fraudes e delitos de terceiros em operações bancárias?
+  expected_chunk_ids: [stj-sumula-479]
+  expected_behavior: answered
+  expected_sumulas: ["479"]
+
+- id: stj-sumula543-restituicao-imovel
+  question: Na resolução de contrato de promessa de compra e venda de imóvel submetido ao CDC deve ocorrer a imediata restituição das parcelas pagas?
+  expected_chunk_ids: [stj-sumula-543]
+  expected_behavior: answered
+  expected_sumulas: ["543"]
+
+# ---------------------------------------------------------------------------
+# In-scope: additional phrasings (lexical-variation coverage, all in-corpus)
+# ---------------------------------------------------------------------------
+- id: cdc-art12-importador-responsabilidade
+  question: O importador e o produtor respondem pela reparação dos danos causados por defeitos de fabricação do produto?
+  expected_chunk_ids: [cdc-8078-1990-art-12]
+  expected_behavior: answered
+  expected_articles: ["12"]
+
+- id: cdc-art18-substituicao-produto
+  question: Diante de vícios de qualidade que diminuam o valor do produto o consumidor pode exigir a substituição das partes viciadas?
+  expected_chunk_ids: [cdc-8078-1990-art-18]
+  expected_behavior: answered
+  expected_articles: ["18"]
+
+- id: cdc-art26-noventa-dias-duraveis
+  question: O prazo de noventa dias para reclamar de vícios aparentes aplica-se ao fornecimento de produtos duráveis?
+  expected_chunk_ids: [cdc-8078-1990-art-26]
+  expected_behavior: answered
+  expected_articles: ["26"]
+
+- id: cdc-art6-educacao-consumo
+  question: O consumidor tem direito à educação e divulgação sobre o consumo adequado dos produtos e serviços?
+  expected_chunk_ids: [cdc-8078-1990-art-6]
+  expected_behavior: answered
+  expected_articles: ["6º"]
+
+- id: cdc-art14-informacoes-insuficientes
+  question: O fornecedor de serviços responde por informações insuficientes ou inadequadas sobre a fruição e os riscos do serviço?
+  expected_chunk_ids: [cdc-8078-1990-art-14]
+  expected_behavior: answered
+  expected_articles: ["14"]
+
+# ---------------------------------------------------------------------------
+# Out-of-scope: must REFUSE (refusal_when_no_source_rate, §36).
+# No source for these areas exists in the seed corpus.
+# ---------------------------------------------------------------------------
+- id: oos-imposto-territorial
+  question: Qual a alíquota do imposto territorial rural cobrado pela Receita Federal?
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+- id: oos-crime-homicidio
+  question: Qual a pena prevista no Código Penal para o crime de homicídio qualificado?
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+- id: oos-usucapiao-imovel
+  question: Quais são os requisitos da usucapião extraordinária previstos no Código Civil?
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+- id: oos-aposentadoria-inss
+  question: Quais são os requisitos para aposentadoria por tempo de contribuição junto ao INSS?
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+- id: oos-declarar-bitcoin
+  question: Como declarar criptomoedas e bitcoin na malha fina da Receita Federal?
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+- id: oos-prescricao-trabalhista
+  question: Qual o prazo de prescrição para ajuizar reclamação na Justiça do Trabalho?
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+- id: oos-divorcio-partilha
+  question: Como funciona a partilha de bens no divórcio litigioso segundo o direito de família?
+  expected_chunk_ids: []
+  expected_behavior: refused
