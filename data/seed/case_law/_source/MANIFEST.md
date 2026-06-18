@@ -60,6 +60,40 @@ Form body: `p=true&novaConsulta=true&quantidadeResultadosPorPagina=10&i=1&pesqui
 Estas 9 entradas configuravam violação direta da regra §2 (NUNCA INVENTAR) e foram substituídas
 por Temas reais de Direito do Consumidor (lista de substitutos acima).
 
+## Súmulas com snapshots Wayback removidos (review #3435741430)
+
+Em 2026-06-18 foi descoberto que os HTMLs em `cloudflare_unblock/wayback_*.html` (snapshots
+Wayback Machine 2022-11-21 do SCON/STJ) na verdade vendoravam a página de challenge
+JavaScript do Cloudflare/TSPD, sem nenhum conteúdo de Súmula. O snapshot capturado pelo
+Wayback é o próprio HTML do interstitial — o JavaScript que renderiza a Súmula nunca foi
+executado. Portanto:
+
+- Diretório `cloudflare_unblock/` foi removido.
+- Súmulas 472, 595 e 608 foram revertidas de `verified` para `needs_review` em
+  `stj_consumer_seed.jsonl`.
+- Súmulas 477, 532 e 632 permanecem `needs_review` (notas atualizadas para refletir a
+  causa real — não havia conteúdo no snapshot vendored).
+
+Reverificação dessas seis Súmulas requer browser real com solver de Cloudflare ou PDF da
+Revista de Súmulas. Ver `_workspace/13_human_curation_task_v1.3.md`.
+
+## Encoding dos HTMLs de Temas
+
+Em 2026-06-18 os 15 arquivos `stj_tema_*.html` foram re-codificados de ISO-8859-1 (latin-1,
+encoding nativo do SCON/STJ) para UTF-8, com atualização concomitante da declaração
+`<meta charset>`. Conteúdo é byte-equivalente após decode; SHA256 mudaram (ver
+`MANIFEST.txt`).
+
 ## SHA256
 
-Veja `MANIFEST.txt` (gerado por `shasum -a 256 *`).
+`MANIFEST.txt` é gerado deterministicamente por:
+
+```sh
+cd data/seed/case_law/_source
+find . -type f \( -name '*.pdf' -o -name '*.html' \) -print0 \
+  | LC_ALL=C sort -z \
+  | xargs -0 shasum -a 256 > MANIFEST.txt
+```
+
+Validar integridade com `shasum -a 256 -c MANIFEST.txt` a partir de
+`data/seed/case_law/_source/`.
