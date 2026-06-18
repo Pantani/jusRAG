@@ -269,3 +269,23 @@ Agentes: ingestion (13.A.1, 13.A.2), retrieval (13.A.3, 13.A.5), answer (13.A.4)
 - [ ] Curadoria humana das 25 entradas STJ marcadas `verification_status: needs_review` antes do release v1.2 final.
 - [ ] `make eval-real` com provider real (openai/local) executado pelo usuário com credenciais, para baseline de qualidade comparativa documentado.
 - [ ] hybrid retrieval ativado e calibrado em produção (default permanece OFF; calibração de pesos contra corpus real ainda não feita).
+
+## Fase 13.C — Pendências v1.2 cobertas (2026-06-18, sessão 11 cont.)
+Agentes: ingestion (C.1), qa (C.2, C.3), retrieval (C.4).
+### Decisões do usuário
+- C.1: `curl` STJ oficial + verificador automático.
+- C.2+C.3: ambos providers reais (local + openai).
+- C.4: grid-search hybrid contra openai baseline.
+### Aceite
+- 194 passed · ruff+mypy OK · `make eval` (fake) gate §36 PASSED.
+- `make eval-real EVAL_PROVIDER=openai` strict gate §36 PASSED.
+### Entregas
+- **C.1** (d96e239 + 4a1cc6a): 24/30 STJ verified via curl oficial STJ; 10 inventadas removidas/substituídas por reais; 6 súmulas remanescentes needs_review (Cloudflare no SCON, exige browser humano).
+- **C.2** (25f77f5): retrieval full local sentence-transformers (dim 768): recall@5=0.8843 PASSED. LLM end-to-end CPU inviável (~40h estimadas); 3 smoke probes OK. Recomendação `--sample-llm N` documentada para v1.3.
+- **C.3** (a7122ac report): openai eval-real (text-embedding-3-small + gpt-4.1-mini): recall@5=0.9754 · coverage=1.0 · unsupp=0.0 · refusal=0.919; custo $0.34/159q. 3 retrieval misses (cdc-pre-02, cdc-ab-04, cdc-ab-08) + 3 OOS leaked (oos-emp-01, oos-adm-02, oos-pre-02) — input v1.3.
+- **C.4** (a8173c2): OpenSearchBM25Store real implementado + index_opensearch job; grid 9 pesos × 158q ($0.00015) → todos empate em recall@5=0.9836 (Δ+0.82pp vs C.3 < gate +2pp). `enable_hybrid` permanece **False** default; pesos 0.70/0.30 mantidos.
+### Pendências v1.3 (não-bloqueantes para v1.2 final)
+- [ ] 6 súmulas STJ Cloudflare-bloqueadas: revisão humana via browser (SCON exige captcha/JS).
+- [ ] `OllamaLLMProvider.timeout` parametrizável + `--sample-llm N` em run_all (para local LLM full eval).
+- [ ] Investigar 3 OOS leaked openai (oos-emp-01, oos-adm-02, oos-pre-02) — margem fina sobre gate 0.90.
+- [ ] Investigar 3 retrieval misses openai (cdc-pre-02, cdc-ab-04, cdc-ab-08).
