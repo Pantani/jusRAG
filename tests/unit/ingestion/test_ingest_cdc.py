@@ -5,7 +5,8 @@ from __future__ import annotations
 from datetime import UTC, datetime
 from pathlib import Path
 
-from apps.worker.jobs.ingest_cdc import SEED_PATH, build_chunks, run
+import apps.worker.jobs.ingest_cdc as ingest_cdc
+from apps.worker.jobs.ingest_cdc import SEED_PATH, build_chunks, main, run
 from packages.legal_types.schemas import LegalChunk
 
 _REQUIRED_ARTICLES = {"6º", "12", "14", "18", "26", "49"}
@@ -66,6 +67,23 @@ def test_reingestion_is_byte_stable(tmp_path: Path) -> None:
     first = out.read_bytes()
     run(seed, out, created_at=_TS)
     assert out.read_bytes() == first
+
+
+def test_main_fails_fast_when_source_html_missing(
+    tmp_path: Path,
+    monkeypatch,
+    capsys,
+) -> None:
+    """`main()` returns 1 (no chunks published) if the Planalto HTML is absent."""
+
+    monkeypatch.setattr(ingest_cdc, "SOURCE_HTML_PATH", tmp_path / "missing.html")
+    monkeypatch.setattr(ingest_cdc, "SEED_PATH", tmp_path / "cdc.md")
+    monkeypatch.setattr(ingest_cdc, "OUTPUT_PATH", tmp_path / "out.jsonl")
+    rc = main()
+    assert rc == 1
+    err = capsys.readouterr().err
+    assert "Missing source HTML" in err
+    assert not (tmp_path / "out.jsonl").exists()
 
 
 def test_real_seed_has_required_articles() -> None:

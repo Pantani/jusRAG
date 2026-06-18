@@ -93,10 +93,21 @@ def run(
 def main() -> int:
     # Fixed timestamp keeps the JSONL byte-stable across runs (idempotency proof).
     created_at = datetime(2026, 6, 16, tzinfo=UTC)
-    regenerated = regenerate_seed_from_html()
-    if regenerated:
-        print(f"Regenerated {SEED_PATH} from {SOURCE_HTML_PATH}")
-    chunks = run(created_at=created_at, html_path=None)
+    # Read module-level paths via the module so test monkeypatches take effect.
+    html_path = SOURCE_HTML_PATH
+    seed_path = SEED_PATH
+    output_path = OUTPUT_PATH
+    regenerated = regenerate_seed_from_html(html_path, seed_path)
+    if not regenerated:
+        print(
+            f"Missing source HTML: {html_path}. "
+            "Vendore o HTML oficial do Planalto antes de rodar `make ingest-cdc` — "
+            "publicar chunks a partir de um seed possivelmente stale viola §40.4.",
+            file=sys.stderr,
+        )
+        return 1
+    print(f"Regenerated {seed_path} from {html_path}")
+    chunks = run(seed_path, output_path, created_at=created_at, html_path=None)
     articles = sorted(
         (c.article for c in chunks if c.article is not None),
         key=lambda a: int(a.rstrip("ºo°").split("-")[0]),
