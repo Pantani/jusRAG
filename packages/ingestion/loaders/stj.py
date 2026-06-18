@@ -37,7 +37,9 @@ from packages.legal_types.citations import slugify
 from packages.legal_types.enums import DocType, LegalArea, PrecedentType, Source
 from packages.legal_types.schemas import CaseLawDocument
 
-_REQUIRED_KEYS = ("summary_number", "court", "source", "ementa")
+_REQUIRED_BASE_KEYS = ("court", "source", "ementa")
+_SUMMARY_KEY = "summary_number"
+_THEME_KEY = "theme_number"
 
 
 def _parse_date(value: str | None) -> date | None:
@@ -73,18 +75,51 @@ def _coerce_precedent(value: str | None) -> PrecedentType | None:
         return PrecedentType.UNKNOWN
 
 
+def _identify(entry: dict[str, object]) -> tuple[str, str, dict[str, str]]:
+    """Return ``(document_id, case_number, extra_metadata)`` for an entry.
+
+    Two shapes are supported (§22): STJ *súmulas* (keyed by ``summary_number``)
+    and STJ *recursos repetitivos* / Temas (keyed by ``theme_number`` plus a
+    paradigm ``case_number`` like ``"REsp 1.234.567/SP"``). The seed picks one
+    of the two; both produce a `CaseLawDocument` with the same shape so the
+    chunker and indexer stay agnostic.
+    """
+
+    court = str(entry["court"])
+    if _SUMMARY_KEY in entry:
+        summary_number = str(entry[_SUMMARY_KEY])
+        return (
+            slugify(f"{court}-sumula-{summary_number}"),
+            f"Súmula {summary_number}",
+            {"summary_number": summary_number},
+        )
+    if _THEME_KEY in entry:
+        theme_number = str(entry[_THEME_KEY])
+        case_number = str(entry.get("case_number") or f"Tema {theme_number}")
+        return (
+            slugify(f"{court}-tema-{theme_number}"),
+            case_number,
+            {"theme_number": theme_number},
+        )
+    raise ValueError(
+        f"case-law entry needs either '{_SUMMARY_KEY}' or '{_THEME_KEY}': {entry!r}"
+    )
+
+
 def _build_document(entry: dict[str, object]) -> CaseLawDocument:
     """Map one seed entry to a normalized `CaseLawDocument`."""
 
-    missing = [k for k in _REQUIRED_KEYS if k not in entry]
+    missing = [k for k in _REQUIRED_BASE_KEYS if k not in entry]
     if missing:
         raise ValueError(f"missing required case-law keys: {missing}")
 
+    document_id, case_number, extra_metadata = _identify(entry)
     court = str(entry["court"])
-    summary_number = str(entry["summary_number"])
-    case_number = f"Súmula {summary_number}"
-    document_id = slugify(f"{court}-sumula-{summary_number}")
     ementa = normalize_text(str(entry["ementa"]))
+    verification_status = entry.get("verification_status")
+    metadata: dict[str, object] = dict(extra_metadata)
+    if verification_status is not None:
+        metadata["verification_status"] = str(verification_status)
 
     return CaseLawDocument(
         document_id=document_id,
@@ -103,7 +138,7 @@ def _build_document(entry: dict[str, object]) -> CaseLawDocument:
         full_text=ementa,
         source_url=entry.get("source_url"),  # type: ignore[arg-type]
         content_hash=content_hash(ementa),
-        metadata={"summary_number": summary_number},
+        metadata=metadata,
     )
 
 
