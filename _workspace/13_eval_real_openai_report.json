@@ -1,0 +1,3548 @@
+{
+  "provider": {
+    "embedding": "openai",
+    "llm": "openai"
+  },
+  "golden": {
+    "total": 159,
+    "in_scope": 122,
+    "out_of_scope": 37,
+    "min_required": 30,
+    "meets_minimum": true
+  },
+  "gate": {
+    "strict": true,
+    "passed": true,
+    "checks": [
+      {
+        "metric": "retrieval_recall_at_5",
+        "passed": true,
+        "always_enforced": false
+      },
+      {
+        "metric": "citation_coverage",
+        "passed": true,
+        "always_enforced": false
+      },
+      {
+        "metric": "unsupported_legal_claim_rate",
+        "passed": true,
+        "always_enforced": true
+      },
+      {
+        "metric": "refusal_when_no_source_rate",
+        "passed": true,
+        "always_enforced": false
+      }
+    ]
+  },
+  "metrics": {
+    "retrieval": {
+      "retrieval_recall_at_5": {
+        "value": 0.9754098360655737,
+        "threshold": 0.8,
+        "passed": true
+      },
+      "retrieval_precision_at_5": {
+        "value": 0.19508196721311474
+      },
+      "total_expected": 122,
+      "total_found": 119,
+      "failing_case_ids": [
+        "cdc-pre-02",
+        "cdc-ab-04",
+        "cdc-ab-08"
+      ],
+      "cases": [
+        {
+          "case_id": "cdc-art6-direitos-basicos",
+          "expected": [
+            "cdc-8078-1990-art-6"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-6",
+            "cdc-8078-1990-art-5",
+            "cdc-8078-1990-art-4",
+            "cdc-8078-1990-art-43",
+            "cdc-8078-1990-art-1"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-art6-informacao-adequada",
+          "expected": [
+            "cdc-8078-1990-art-6"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-6",
+            "cdc-8078-1990-art-44",
+            "cdc-8078-1990-art-8",
+            "cdc-8078-1990-art-43",
+            "cdc-8078-1990-art-55"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-art6-protecao-vida-saude",
+          "expected": [
+            "cdc-8078-1990-art-6"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-6",
+            "cdc-8078-1990-art-8",
+            "cdc-8078-1990-art-10",
+            "cdc-8078-1990-art-7",
+            "cdc-8078-1990-art-55"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-art12-fabricante-sem-culpa",
+          "expected": [
+            "cdc-8078-1990-art-12"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-25",
+            "cdc-8078-1990-art-12",
+            "cdc-8078-1990-art-13",
+            "cdc-8078-1990-art-14",
+            "cdc-8078-1990-art-20"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-art12-produto-defeituoso",
+          "expected": [
+            "cdc-8078-1990-art-12"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-12",
+            "cdc-8078-1990-art-18",
+            "cdc-8078-1990-art-14",
+            "cdc-8078-1990-art-26",
+            "cdc-8078-1990-art-25"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-art14-fornecedor-servico",
+          "expected": [
+            "cdc-8078-1990-art-14"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-14",
+            "cdc-8078-1990-art-20",
+            "cdc-8078-1990-art-13",
+            "cdc-8078-1990-art-7",
+            "cdc-8078-1990-art-101"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-art14-servico-defeituoso",
+          "expected": [
+            "cdc-8078-1990-art-14"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-14",
+            "cdc-8078-1990-art-12",
+            "cdc-8078-1990-art-20",
+            "cdc-8078-1990-art-26",
+            "cdc-8078-1990-art-18"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-art18-vicio-solidario",
+          "expected": [
+            "cdc-8078-1990-art-18"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-19",
+            "cdc-8078-1990-art-18",
+            "cdc-8078-1990-art-23",
+            "cdc-8078-1990-art-20",
+            "cdc-8078-1990-art-10"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-art18-vicio-nao-sanado",
+          "expected": [
+            "cdc-8078-1990-art-18"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-18",
+            "cdc-8078-1990-art-26",
+            "cdc-8078-1990-art-12",
+            "cdc-8078-1990-art-19",
+            "cdc-8078-1990-art-70"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-art26-prazo-decadencial",
+          "expected": [
+            "cdc-8078-1990-art-26"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-26",
+            "cdc-8078-1990-art-18",
+            "cdc-8078-1990-art-100",
+            "cdc-8078-1990-art-25",
+            "cdc-8078-1990-art-13"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-art26-caduca-servico",
+          "expected": [
+            "cdc-8078-1990-art-26"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-26",
+            "cdc-8078-1990-art-18",
+            "cdc-8078-1990-art-14",
+            "cdc-8078-1990-art-20",
+            "cdc-8078-1990-art-74"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-art49-arrependimento-7-dias",
+          "expected": [
+            "cdc-8078-1990-art-49"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-49",
+            "cdc-8078-1990-art-54-f",
+            "cdc-8078-1990-art-26",
+            "cdc-8078-1990-art-74",
+            "cdc-8078-1990-art-18"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-art49-fora-estabelecimento",
+          "expected": [
+            "cdc-8078-1990-art-49"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-49",
+            "cdc-8078-1990-art-33",
+            "cdc-8078-1990-art-26",
+            "cdc-8078-1990-art-54-f",
+            "cdc-8078-1990-art-18"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-art49-restituicao-valores",
+          "expected": [
+            "cdc-8078-1990-art-49"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-49",
+            "cdc-8078-1990-art-54-f",
+            "stj-sumula-543",
+            "cdc-8078-1990-art-42",
+            "cdc-8078-1990-art-100"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "stj-sumula130-estacionamento",
+          "expected": [
+            "stj-sumula-130"
+          ],
+          "retrieved": [
+            "stj-sumula-130",
+            "cdc-8078-1990-art-20",
+            "cdc-8078-1990-art-14",
+            "cdc-8078-1990-art-22",
+            "stj-sumula-479"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "stj-sumula297-instituicoes-financeiras",
+          "expected": [
+            "stj-sumula-297"
+          ],
+          "retrieved": [
+            "stj-sumula-297",
+            "cdc-8078-1990-art-54-d",
+            "cdc-8078-1990-art-104-c",
+            "cdc-8078-1990-art-43",
+            "stj-sumula-608"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "stj-sumula302-plano-saude-internacao",
+          "expected": [
+            "stj-sumula-302"
+          ],
+          "retrieved": [
+            "stj-sumula-302",
+            "stj-tema-610",
+            "stj-tema-952",
+            "cdc-8078-1990-art-51",
+            "stj-tema-958"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "stj-sumula479-fraude-bancaria",
+          "expected": [
+            "stj-sumula-479"
+          ],
+          "retrieved": [
+            "stj-sumula-479",
+            "stj-sumula-297",
+            "cdc-8078-1990-art-54-g",
+            "cdc-8078-1990-art-54-d",
+            "cdc-8078-1990-art-22"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "stj-sumula543-restituicao-imovel",
+          "expected": [
+            "stj-sumula-543"
+          ],
+          "retrieved": [
+            "stj-sumula-543",
+            "stj-tema-577",
+            "cdc-8078-1990-art-49",
+            "cdc-8078-1990-art-53",
+            "stj-tema-960"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-art12-importador-responsabilidade",
+          "expected": [
+            "cdc-8078-1990-art-12"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-12",
+            "cdc-8078-1990-art-13",
+            "cdc-8078-1990-art-25",
+            "cdc-8078-1990-art-19",
+            "cdc-8078-1990-art-7"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-art18-substituicao-produto",
+          "expected": [
+            "cdc-8078-1990-art-18"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-18",
+            "cdc-8078-1990-art-19",
+            "cdc-8078-1990-art-20",
+            "cdc-8078-1990-art-12",
+            "cdc-8078-1990-art-23"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-art26-noventa-dias-duraveis",
+          "expected": [
+            "cdc-8078-1990-art-26"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-26",
+            "cdc-8078-1990-art-18",
+            "cdc-8078-1990-art-100",
+            "cdc-8078-1990-art-12",
+            "cdc-8078-1990-art-19"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-art6-educacao-consumo",
+          "expected": [
+            "cdc-8078-1990-art-6"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-6",
+            "cdc-8078-1990-art-55",
+            "cdc-8078-1990-art-4",
+            "cdc-8078-1990-art-44",
+            "cdc-8078-1990-art-8"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-art14-informacoes-insuficientes",
+          "expected": [
+            "cdc-8078-1990-art-14"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-20",
+            "cdc-8078-1990-art-14",
+            "cdc-8078-1990-art-8",
+            "cdc-8078-1990-art-34",
+            "cdc-8078-1990-art-10"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-pri-01",
+          "expected": [
+            "cdc-8078-1990-art-2"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-2",
+            "cdc-8078-1990-art-3",
+            "cdc-8078-1990-art-43",
+            "cdc-8078-1990-art-6",
+            "cdc-8078-1990-art-4"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-pri-02",
+          "expected": [
+            "cdc-8078-1990-art-2"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-2",
+            "cdc-8078-1990-art-81",
+            "cdc-8078-1990-art-4",
+            "cdc-8078-1990-art-106",
+            "cdc-8078-1990-art-117"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-pri-03",
+          "expected": [
+            "cdc-8078-1990-art-3"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-3",
+            "cdc-8078-1990-art-34",
+            "cdc-8078-1990-art-2",
+            "cdc-8078-1990-art-12",
+            "cdc-8078-1990-art-107"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-pri-04",
+          "expected": [
+            "cdc-8078-1990-art-3"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-3",
+            "cdc-8078-1990-art-8",
+            "cdc-8078-1990-art-39",
+            "cdc-8078-1990-art-10",
+            "cdc-8078-1990-art-2"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-pri-05",
+          "expected": [
+            "cdc-8078-1990-art-7"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-7",
+            "cdc-8078-1990-art-25",
+            "cdc-8078-1990-art-103",
+            "cdc-8078-1990-art-22",
+            "cdc-8078-1990-art-113"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-qu-01",
+          "expected": [
+            "cdc-8078-1990-art-13"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-13",
+            "cdc-8078-1990-art-12",
+            "cdc-8078-1990-art-34",
+            "cdc-8078-1990-art-25",
+            "cdc-8078-1990-art-19"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-qu-02",
+          "expected": [
+            "cdc-8078-1990-art-13"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-13",
+            "cdc-8078-1990-art-12",
+            "cdc-8078-1990-art-19",
+            "cdc-8078-1990-art-8",
+            "cdc-8078-1990-art-18"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-qu-03",
+          "expected": [
+            "cdc-8078-1990-art-13"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-18",
+            "cdc-8078-1990-art-13",
+            "cdc-8078-1990-art-19",
+            "cdc-8078-1990-art-8",
+            "cdc-8078-1990-art-31"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-qu-04",
+          "expected": [
+            "cdc-8078-1990-art-25"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-51",
+            "cdc-8078-1990-art-25",
+            "stj-tema-577",
+            "stj-tema-958",
+            "cdc-8078-1990-art-47"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-qu-05",
+          "expected": [
+            "cdc-8078-1990-art-25"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-25",
+            "cdc-8078-1990-art-7",
+            "cdc-8078-1990-art-13",
+            "cdc-8078-1990-art-22",
+            "cdc-8078-1990-art-101"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-qu-06",
+          "expected": [
+            "cdc-8078-1990-art-18"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-18",
+            "cdc-8078-1990-art-19",
+            "cdc-8078-1990-art-17",
+            "cdc-8078-1990-art-23",
+            "cdc-8078-1990-art-25"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-qu-07",
+          "expected": [
+            "cdc-8078-1990-art-22"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-22",
+            "cdc-8078-1990-art-20",
+            "cdc-8078-1990-art-84",
+            "cdc-8078-1990-art-59",
+            "stj-sumula-130"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-qu-08",
+          "expected": [
+            "cdc-8078-1990-art-19"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-19",
+            "cdc-8078-1990-art-20",
+            "cdc-8078-1990-art-23",
+            "cdc-8078-1990-art-18",
+            "cdc-8078-1990-art-12"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-pre-01",
+          "expected": [
+            "cdc-8078-1990-art-27"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-100",
+            "cdc-8078-1990-art-25",
+            "cdc-8078-1990-art-27",
+            "cdc-8078-1990-art-7",
+            "cdc-8078-1990-art-26"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-pre-02",
+          "expected": [
+            "cdc-8078-1990-art-27"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-25",
+            "cdc-8078-1990-art-18",
+            "cdc-8078-1990-art-100",
+            "cdc-8078-1990-art-26",
+            "cdc-8078-1990-art-7"
+          ],
+          "hits": 0,
+          "recall": 0.0,
+          "precision": 0.0
+        },
+        {
+          "case_id": "cdc-pre-03",
+          "expected": [
+            "cdc-8078-1990-art-26"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-26",
+            "cdc-8078-1990-art-18",
+            "cdc-8078-1990-art-74",
+            "cdc-8078-1990-art-100",
+            "cdc-8078-1990-art-12"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-of-01",
+          "expected": [
+            "cdc-8078-1990-art-30"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-30",
+            "cdc-8078-1990-art-36",
+            "cdc-8078-1990-art-10",
+            "cdc-8078-1990-art-35",
+            "cdc-8078-1990-art-8"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-of-02",
+          "expected": [
+            "cdc-8078-1990-art-31"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-31",
+            "cdc-8078-1990-art-36",
+            "cdc-8078-1990-art-35",
+            "cdc-8078-1990-art-8",
+            "cdc-8078-1990-art-30"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-of-03",
+          "expected": [
+            "cdc-8078-1990-art-35"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-35",
+            "cdc-8078-1990-art-74",
+            "cdc-8078-1990-art-56",
+            "cdc-8078-1990-art-18",
+            "cdc-8078-1990-art-39"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-of-04",
+          "expected": [
+            "cdc-8078-1990-art-35"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-35",
+            "cdc-8078-1990-art-20",
+            "cdc-8078-1990-art-54-f",
+            "cdc-8078-1990-art-19",
+            "cdc-8078-1990-art-39"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-of-05",
+          "expected": [
+            "cdc-8078-1990-art-35"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-49",
+            "stj-sumula-543",
+            "cdc-8078-1990-art-84",
+            "stj-tema-577",
+            "cdc-8078-1990-art-35"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-of-06",
+          "expected": [
+            "cdc-8078-1990-art-37"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-37",
+            "cdc-8078-1990-art-67",
+            "cdc-8078-1990-art-60",
+            "cdc-8078-1990-art-68",
+            "cdc-8078-1990-art-38"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-of-07",
+          "expected": [
+            "cdc-8078-1990-art-38"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-38",
+            "cdc-8078-1990-art-36",
+            "cdc-8078-1990-art-60",
+            "cdc-8078-1990-art-30",
+            "cdc-8078-1990-art-37"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-ab-01",
+          "expected": [
+            "cdc-8078-1990-art-39"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-35",
+            "cdc-8078-1990-art-39",
+            "cdc-8078-1990-art-41",
+            "cdc-8078-1990-art-18",
+            "cdc-8078-1990-art-34"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-ab-02",
+          "expected": [
+            "cdc-8078-1990-art-39"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-39",
+            "cdc-8078-1990-art-54-g",
+            "cdc-8078-1990-art-18",
+            "cdc-8078-1990-art-19",
+            "cdc-8078-1990-art-20"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-ab-03",
+          "expected": [
+            "cdc-8078-1990-art-39"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-39",
+            "cdc-8078-1990-art-3",
+            "cdc-8078-1990-art-35",
+            "cdc-8078-1990-art-74",
+            "cdc-8078-1990-art-33"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-ab-04",
+          "expected": [
+            "cdc-8078-1990-art-39"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-18",
+            "cdc-8078-1990-art-23",
+            "cdc-8078-1990-art-37",
+            "cdc-8078-1990-art-17",
+            "cdc-8078-1990-art-54-d"
+          ],
+          "hits": 0,
+          "recall": 0.0,
+          "precision": 0.0
+        },
+        {
+          "case_id": "cdc-ab-05",
+          "expected": [
+            "cdc-8078-1990-art-39"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-39",
+            "cdc-8078-1990-art-35",
+            "stj-tema-27",
+            "cdc-8078-1990-art-51",
+            "stj-tema-958"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-ab-06",
+          "expected": [
+            "cdc-8078-1990-art-39"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-39",
+            "stj-tema-27",
+            "cdc-8078-1990-art-35",
+            "cdc-8078-1990-art-52",
+            "cdc-8078-1990-art-19"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-ab-07",
+          "expected": [
+            "cdc-8078-1990-art-39"
+          ],
+          "retrieved": [
+            "stj-tema-952",
+            "stj-tema-27",
+            "cdc-8078-1990-art-47",
+            "stj-tema-958",
+            "cdc-8078-1990-art-39"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-ab-08",
+          "expected": [
+            "cdc-8078-1990-art-39"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-53",
+            "cdc-8078-1990-art-35",
+            "cdc-8078-1990-art-52",
+            "cdc-8078-1990-art-33",
+            "cdc-8078-1990-art-54-c"
+          ],
+          "hits": 0,
+          "recall": 0.0,
+          "precision": 0.0
+        },
+        {
+          "case_id": "cdc-co-01",
+          "expected": [
+            "cdc-8078-1990-art-42"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-42",
+            "cdc-8078-1990-art-104-a",
+            "cdc-8078-1990-art-104-c",
+            "cdc-8078-1990-art-52",
+            "cdc-8078-1990-art-54-g"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-co-02",
+          "expected": [
+            "cdc-8078-1990-art-42"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-42",
+            "cdc-8078-1990-art-54-g",
+            "cdc-8078-1990-art-54-f",
+            "cdc-8078-1990-art-49",
+            "cdc-8078-1990-art-54-d"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-co-03",
+          "expected": [
+            "cdc-8078-1990-art-42"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-42",
+            "cdc-8078-1990-art-52",
+            "cdc-8078-1990-art-54-f",
+            "cdc-8078-1990-art-104-a",
+            "cdc-8078-1990-art-54-b"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-bd-01",
+          "expected": [
+            "cdc-8078-1990-art-43"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-43",
+            "cdc-8078-1990-art-44",
+            "cdc-8078-1990-art-42-a",
+            "cdc-8078-1990-art-6",
+            "cdc-8078-1990-art-54-d"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-bd-02",
+          "expected": [
+            "cdc-8078-1990-art-43"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-43",
+            "cdc-8078-1990-art-42-a",
+            "stj-sumula-404",
+            "cdc-8078-1990-art-73",
+            "cdc-8078-1990-art-72"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-bd-03",
+          "expected": [
+            "cdc-8078-1990-art-43"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-43",
+            "cdc-8078-1990-art-54-d",
+            "stj-sumula-359",
+            "cdc-8078-1990-art-44",
+            "stj-sumula-404"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-bd-04",
+          "expected": [
+            "cdc-8078-1990-art-43"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-43",
+            "cdc-8078-1990-art-73",
+            "cdc-8078-1990-art-42-a",
+            "cdc-8078-1990-art-72",
+            "stj-sumula-404"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-cl-01",
+          "expected": [
+            "cdc-8078-1990-art-46"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-46",
+            "cdc-8078-1990-art-54-d",
+            "cdc-8078-1990-art-6",
+            "cdc-8078-1990-art-51",
+            "cdc-8078-1990-art-54-g"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-cl-02",
+          "expected": [
+            "cdc-8078-1990-art-47"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-47",
+            "cdc-8078-1990-art-51",
+            "cdc-8078-1990-art-54",
+            "stj-tema-577",
+            "stj-tema-958"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-cl-03",
+          "expected": [
+            "cdc-8078-1990-art-51"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-51",
+            "cdc-8078-1990-art-25",
+            "stj-tema-958",
+            "cdc-8078-1990-art-50",
+            "cdc-8078-1990-art-18"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-cl-04",
+          "expected": [
+            "cdc-8078-1990-art-51"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-51",
+            "stj-tema-958",
+            "stj-tema-577",
+            "cdc-8078-1990-art-54-c",
+            "cdc-8078-1990-art-54"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-cl-05",
+          "expected": [
+            "cdc-8078-1990-art-51"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-51",
+            "stj-tema-958",
+            "stj-tema-577",
+            "cdc-8078-1990-art-54-g",
+            "cdc-8078-1990-art-54-c"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-cl-06",
+          "expected": [
+            "cdc-8078-1990-art-54"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-54",
+            "cdc-8078-1990-art-53",
+            "cdc-8078-1990-art-47",
+            "cdc-8078-1990-art-107",
+            "cdc-8078-1990-art-50"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-cl-07",
+          "expected": [
+            "cdc-8078-1990-art-54"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-54",
+            "cdc-8078-1990-art-47",
+            "cdc-8078-1990-art-53",
+            "cdc-8078-1990-art-50",
+            "cdc-8078-1990-art-107"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-cl-08",
+          "expected": [
+            "cdc-8078-1990-art-54"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-54",
+            "cdc-8078-1990-art-51",
+            "stj-tema-958",
+            "cdc-8078-1990-art-54-c",
+            "cdc-8078-1990-art-50"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-cl-09",
+          "expected": [
+            "cdc-8078-1990-art-53"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-53",
+            "stj-tema-577",
+            "cdc-8078-1990-art-52",
+            "stj-tema-958",
+            "cdc-8078-1990-art-51"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-cl-10",
+          "expected": [
+            "cdc-8078-1990-art-53"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-53",
+            "stj-sumula-543",
+            "cdc-8078-1990-art-49",
+            "stj-tema-577",
+            "cdc-8078-1990-art-100"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-de-01",
+          "expected": [
+            "cdc-8078-1990-art-81"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-81",
+            "cdc-8078-1990-art-80",
+            "cdc-8078-1990-art-103",
+            "cdc-8078-1990-art-90",
+            "cdc-8078-1990-art-117"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-de-02",
+          "expected": [
+            "cdc-8078-1990-art-81"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-81",
+            "cdc-8078-1990-art-110",
+            "cdc-8078-1990-art-90",
+            "cdc-8078-1990-art-82",
+            "cdc-8078-1990-art-113"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-de-03",
+          "expected": [
+            "cdc-8078-1990-art-81"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-81",
+            "cdc-8078-1990-art-90",
+            "cdc-8078-1990-art-103",
+            "cdc-8078-1990-art-82",
+            "cdc-8078-1990-art-110"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-de-04",
+          "expected": [
+            "cdc-8078-1990-art-81"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-81",
+            "cdc-8078-1990-art-90",
+            "cdc-8078-1990-art-103",
+            "cdc-8078-1990-art-83",
+            "cdc-8078-1990-art-110"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-de-05",
+          "expected": [
+            "cdc-8078-1990-art-83"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-81",
+            "cdc-8078-1990-art-82",
+            "cdc-8078-1990-art-83",
+            "cdc-8078-1990-art-102",
+            "cdc-8078-1990-art-103"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-de-06",
+          "expected": [
+            "cdc-8078-1990-art-84"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-84",
+            "cdc-8078-1990-art-102",
+            "cdc-8078-1990-art-98",
+            "stj-tema-35",
+            "cdc-8078-1990-art-95"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-de-07",
+          "expected": [
+            "cdc-8078-1990-art-98"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-97",
+            "cdc-8078-1990-art-104-b",
+            "cdc-8078-1990-art-98",
+            "cdc-8078-1990-art-104-a",
+            "cdc-8078-1990-art-87"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-de-08",
+          "expected": [
+            "cdc-8078-1990-art-101"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-101",
+            "cdc-8078-1990-art-13",
+            "cdc-8078-1990-art-25",
+            "cdc-8078-1990-art-34",
+            "cdc-8078-1990-art-14"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-de-09",
+          "expected": [
+            "cdc-8078-1990-art-101"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-101",
+            "stj-sumula-632",
+            "stj-tema-1112",
+            "cdc-8078-1990-art-25",
+            "cdc-8078-1990-art-14"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-de-10",
+          "expected": [
+            "cdc-8078-1990-art-103"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-103",
+            "cdc-8078-1990-art-90",
+            "cdc-8078-1990-art-81",
+            "cdc-8078-1990-art-98",
+            "cdc-8078-1990-art-87"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-se-01",
+          "expected": [
+            "cdc-8078-1990-art-104-a"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-104-b",
+            "cdc-8078-1990-art-104-a",
+            "cdc-8078-1990-art-104-c",
+            "cdc-8078-1990-art-54-a",
+            "cdc-8078-1990-art-54-f"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-se-02",
+          "expected": [
+            "cdc-8078-1990-art-104-a"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-104-a",
+            "cdc-8078-1990-art-104-b",
+            "cdc-8078-1990-art-97",
+            "cdc-8078-1990-art-104-c",
+            "cdc-8078-1990-art-99"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-se-03",
+          "expected": [
+            "cdc-8078-1990-art-104-b"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-104-b",
+            "cdc-8078-1990-art-104-a",
+            "cdc-8078-1990-art-104-c",
+            "cdc-8078-1990-art-54-a",
+            "cdc-8078-1990-art-54-d"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-se-04",
+          "expected": [
+            "cdc-8078-1990-art-104-c"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-104-c",
+            "cdc-8078-1990-art-104-a",
+            "cdc-8078-1990-art-43",
+            "cdc-8078-1990-art-54-d",
+            "cdc-8078-1990-art-54-a"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-inf-01",
+          "expected": [
+            "cdc-8078-1990-art-18"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-12",
+            "cdc-8078-1990-art-74",
+            "cdc-8078-1990-art-18",
+            "cdc-8078-1990-art-70",
+            "cdc-8078-1990-art-50"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-inf-02",
+          "expected": [
+            "cdc-8078-1990-art-18"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-18",
+            "cdc-8078-1990-art-26",
+            "cdc-8078-1990-art-74",
+            "cdc-8078-1990-art-12",
+            "cdc-8078-1990-art-19"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-inf-03",
+          "expected": [
+            "cdc-8078-1990-art-49"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-49",
+            "stj-sumula-543",
+            "cdc-8078-1990-art-54-f",
+            "cdc-8078-1990-art-33",
+            "cdc-8078-1990-art-18"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-inf-04",
+          "expected": [
+            "cdc-8078-1990-art-42"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-42",
+            "cdc-8078-1990-art-54-f",
+            "cdc-8078-1990-art-54-g",
+            "stj-tema-27",
+            "stj-sumula-385"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-inf-05",
+          "expected": [
+            "cdc-8078-1990-art-43"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-43",
+            "stj-sumula-385",
+            "stj-sumula-359",
+            "stj-sumula-404",
+            "cdc-8078-1990-art-42-a"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-art-num-01",
+          "expected": [
+            "cdc-8078-1990-art-14"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-14",
+            "cdc-8078-1990-art-20",
+            "cdc-8078-1990-art-11",
+            "cdc-8078-1990-art-7",
+            "cdc-8078-1990-art-25"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-art-num-02",
+          "expected": [
+            "cdc-8078-1990-art-49"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-49",
+            "cdc-8078-1990-art-54-f",
+            "cdc-8078-1990-art-54-g",
+            "cdc-8078-1990-art-42",
+            "cdc-8078-1990-art-27"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-art-num-03",
+          "expected": [
+            "cdc-8078-1990-art-6"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-6",
+            "cdc-8078-1990-art-4",
+            "cdc-8078-1990-art-55",
+            "cdc-8078-1990-art-8",
+            "cdc-8078-1990-art-7"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-art-num-04",
+          "expected": [
+            "cdc-8078-1990-art-51"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-51",
+            "cdc-8078-1990-art-54",
+            "cdc-8078-1990-art-47",
+            "cdc-8078-1990-art-50",
+            "cdc-8078-1990-art-25"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-art-num-05",
+          "expected": [
+            "cdc-8078-1990-art-27"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-27",
+            "cdc-8078-1990-art-25",
+            "cdc-8078-1990-art-100",
+            "cdc-8078-1990-art-7",
+            "cdc-8078-1990-art-18"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "cdc-adv-01",
+          "expected": [
+            "cdc-8078-1990-art-18"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-12",
+            "cdc-8078-1990-art-18",
+            "cdc-8078-1990-art-19",
+            "cdc-8078-1990-art-13",
+            "cdc-8078-1990-art-74"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "stj-01",
+          "expected": [
+            "stj-tema-27"
+          ],
+          "retrieved": [
+            "stj-tema-27",
+            "stj-tema-958",
+            "stj-tema-247",
+            "stj-tema-953",
+            "stj-tema-939"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "stj-02",
+          "expected": [
+            "stj-tema-35"
+          ],
+          "retrieved": [
+            "stj-tema-35",
+            "stj-sumula-359",
+            "cdc-8078-1990-art-104-a",
+            "cdc-8078-1990-art-104-b",
+            "cdc-8078-1990-art-104-c"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "stj-03",
+          "expected": [
+            "stj-tema-247"
+          ],
+          "retrieved": [
+            "stj-tema-247",
+            "stj-tema-953",
+            "stj-tema-27",
+            "stj-tema-958",
+            "cdc-8078-1990-art-52"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "stj-04",
+          "expected": [
+            "stj-tema-575"
+          ],
+          "retrieved": [
+            "stj-tema-575",
+            "stj-tema-27",
+            "cdc-8078-1990-art-117",
+            "stj-tema-939",
+            "stj-tema-958"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "stj-05",
+          "expected": [
+            "stj-tema-577"
+          ],
+          "retrieved": [
+            "stj-tema-577",
+            "stj-tema-939",
+            "stj-tema-938",
+            "stj-sumula-543",
+            "stj-tema-27"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "stj-06",
+          "expected": [
+            "stj-tema-610"
+          ],
+          "retrieved": [
+            "stj-tema-610",
+            "stj-tema-952",
+            "stj-tema-958",
+            "stj-tema-577",
+            "stj-tema-990"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "stj-07",
+          "expected": [
+            "stj-tema-938"
+          ],
+          "retrieved": [
+            "stj-tema-938",
+            "stj-tema-960",
+            "stj-tema-939",
+            "stj-tema-577",
+            "stj-tema-958"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "stj-08",
+          "expected": [
+            "stj-tema-939"
+          ],
+          "retrieved": [
+            "stj-tema-939",
+            "stj-tema-938",
+            "stj-tema-960",
+            "stj-tema-577",
+            "stj-tema-958"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "stj-09",
+          "expected": [
+            "stj-tema-953"
+          ],
+          "retrieved": [
+            "stj-tema-953",
+            "stj-tema-247",
+            "stj-tema-958",
+            "stj-tema-27",
+            "stj-tema-938"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "stj-10",
+          "expected": [
+            "stj-tema-952"
+          ],
+          "retrieved": [
+            "stj-tema-952",
+            "stj-tema-610",
+            "stj-tema-990",
+            "stj-tema-27",
+            "stj-sumula-608"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "stj-11",
+          "expected": [
+            "stj-tema-958"
+          ],
+          "retrieved": [
+            "stj-tema-958",
+            "stj-tema-939",
+            "stj-tema-577",
+            "stj-tema-1061",
+            "stj-tema-27"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "stj-12",
+          "expected": [
+            "stj-tema-960"
+          ],
+          "retrieved": [
+            "stj-tema-960",
+            "stj-tema-939",
+            "stj-tema-938",
+            "stj-tema-577",
+            "stj-tema-953"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "stj-13",
+          "expected": [
+            "stj-tema-1061"
+          ],
+          "retrieved": [
+            "stj-tema-1061",
+            "stj-tema-577",
+            "stj-tema-939",
+            "stj-tema-958",
+            "stj-tema-953"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "stj-14",
+          "expected": [
+            "stj-tema-990"
+          ],
+          "retrieved": [
+            "stj-tema-990",
+            "stj-tema-952",
+            "stj-tema-610",
+            "stj-sumula-608",
+            "stj-tema-1112"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "stj-15",
+          "expected": [
+            "stj-tema-1112"
+          ],
+          "retrieved": [
+            "stj-tema-1112",
+            "stj-tema-610",
+            "stj-tema-953",
+            "stj-tema-939",
+            "stj-tema-952"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "stj-381",
+          "expected": [
+            "stj-sumula-381"
+          ],
+          "retrieved": [
+            "stj-sumula-381",
+            "stj-tema-958",
+            "stj-tema-577",
+            "stj-tema-1061",
+            "stj-tema-939"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "stj-16",
+          "expected": [
+            "stj-sumula-359"
+          ],
+          "retrieved": [
+            "stj-sumula-359",
+            "stj-tema-35",
+            "cdc-8078-1990-art-43",
+            "cdc-8078-1990-art-54-d",
+            "cdc-8078-1990-art-54-c"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "stj-17",
+          "expected": [
+            "stj-sumula-385"
+          ],
+          "retrieved": [
+            "stj-sumula-385",
+            "stj-tema-35",
+            "cdc-8078-1990-art-54-c",
+            "stj-tema-958",
+            "stj-sumula-359"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "stj-18",
+          "expected": [
+            "stj-sumula-404"
+          ],
+          "retrieved": [
+            "stj-sumula-404",
+            "stj-tema-958",
+            "stj-tema-938",
+            "stj-tema-939",
+            "cdc-8078-1990-art-38"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "stj-19",
+          "expected": [
+            "stj-sumula-472"
+          ],
+          "retrieved": [
+            "stj-sumula-472",
+            "stj-tema-938",
+            "stj-tema-939",
+            "stj-tema-958",
+            "stj-tema-953"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "stj-20",
+          "expected": [
+            "stj-sumula-477"
+          ],
+          "retrieved": [
+            "cdc-8078-1990-art-26",
+            "stj-sumula-477",
+            "stj-tema-27",
+            "cdc-8078-1990-art-25",
+            "cdc-8078-1990-art-27"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "stj-21",
+          "expected": [
+            "stj-sumula-532"
+          ],
+          "retrieved": [
+            "stj-sumula-532",
+            "stj-tema-1061",
+            "stj-tema-35",
+            "stj-tema-958",
+            "stj-tema-27"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "stj-22",
+          "expected": [
+            "stj-sumula-595"
+          ],
+          "retrieved": [
+            "stj-sumula-595",
+            "stj-tema-27",
+            "cdc-8078-1990-art-99",
+            "stj-tema-1112",
+            "stj-tema-939"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "stj-23",
+          "expected": [
+            "stj-sumula-608"
+          ],
+          "retrieved": [
+            "stj-sumula-608",
+            "stj-tema-610",
+            "stj-tema-952",
+            "stj-tema-577",
+            "stj-tema-990"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        },
+        {
+          "case_id": "stj-24",
+          "expected": [
+            "stj-sumula-632"
+          ],
+          "retrieved": [
+            "stj-tema-1112",
+            "stj-tema-577",
+            "stj-sumula-632",
+            "stj-tema-610",
+            "cdc-8078-1990-art-101"
+          ],
+          "hits": 1,
+          "recall": 1.0,
+          "precision": 0.2
+        }
+      ]
+    },
+    "citation": {
+      "citation_coverage": {
+        "value": 1.0,
+        "threshold": 0.9,
+        "passed": true
+      },
+      "unsupported_legal_claim_rate": {
+        "value": 0.0,
+        "threshold": 0.05,
+        "passed": true
+      },
+      "total_claims": 225,
+      "total_unsupported": 0,
+      "passed": true,
+      "failing_case_ids": [],
+      "cases": [
+        {
+          "case_id": "cdc-art6-direitos-basicos",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 3,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-art6-informacao-adequada",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 4,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-art6-protecao-vida-saude",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 5,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-art12-fabricante-sem-culpa",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 3,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-art12-produto-defeituoso",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 1,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-art14-fornecedor-servico",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-art14-servico-defeituoso",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-art18-vicio-solidario",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 3,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-art18-vicio-nao-sanado",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-art26-prazo-decadencial",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-art26-caduca-servico",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-art49-arrependimento-7-dias",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-art49-fora-estabelecimento",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-art49-restituicao-valores",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "stj-sumula130-estacionamento",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 3,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "stj-sumula297-instituicoes-financeiras",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "stj-sumula302-plano-saude-internacao",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "stj-sumula479-fraude-bancaria",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 1,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "stj-sumula543-restituicao-imovel",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 1,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-art12-importador-responsabilidade",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-art18-substituicao-produto",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 3,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-art26-noventa-dias-duraveis",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-art6-educacao-consumo",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 3,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-art14-informacoes-insuficientes",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 3,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "oos-imposto-territorial",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "oos-crime-latrocinio",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "oos-usucapiao-imovel",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "oos-aposentadoria-inss",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "oos-declarar-bitcoin",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "oos-prescricao-trabalhista",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "oos-divorcio-partilha",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-pri-01",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-pri-02",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-pri-03",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-pri-04",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-pri-05",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-qu-01",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 1,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-qu-02",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-qu-03",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 3,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-qu-04",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 3,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-qu-05",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-qu-06",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 3,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-qu-07",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 1,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-qu-08",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 5,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-pre-01",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 1,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-pre-02",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-pre-03",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-of-01",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-of-02",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-of-03",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-of-04",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-of-05",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-of-06",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-of-07",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-ab-01",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-ab-02",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-ab-03",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-ab-04",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 5,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-ab-05",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 3,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-ab-06",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-ab-07",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-ab-08",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 3,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-co-01",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-co-02",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-co-03",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-bd-01",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 6,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-bd-02",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 1,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-bd-03",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-bd-04",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-cl-01",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 3,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-cl-02",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-cl-03",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-cl-04",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 3,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-cl-05",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-cl-06",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-cl-07",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-cl-08",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-cl-09",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 3,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-cl-10",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-de-01",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 3,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-de-02",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-de-03",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 1,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-de-04",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-de-05",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 4,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-de-06",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-de-07",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-de-08",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-de-09",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-de-10",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-se-01",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 3,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-se-02",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-se-03",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 3,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-se-04",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 5,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-inf-01",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-inf-02",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-inf-03",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-inf-04",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-inf-05",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-art-num-01",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-art-num-02",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-art-num-03",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-art-num-04",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 3,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-art-num-05",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "cdc-adv-01",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "stj-01",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "stj-02",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "stj-03",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "stj-04",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 3,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "stj-05",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 1,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "stj-06",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 1,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "stj-07",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "stj-08",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 1,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "stj-09",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "stj-10",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 1,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "stj-11",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 3,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "stj-12",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 1,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "stj-13",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 1,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "stj-14",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "stj-15",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "stj-381",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 1,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "stj-16",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 1,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "stj-17",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 1,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "stj-18",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 1,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "stj-19",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 1,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "stj-20",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "stj-21",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 1,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "stj-22",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 1,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "stj-23",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 1,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "stj-24",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 1,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "oos-tax-01",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "oos-tax-02",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "oos-tax-03",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "oos-tax-04",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "oos-tax-05",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "oos-pen-01",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "oos-pen-02",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "oos-pen-03",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "oos-tra-01",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "oos-tra-02",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "oos-tra-03",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "oos-tra-04",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "oos-fam-01",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "oos-fam-02",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "oos-fam-03",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "oos-suc-01",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "oos-suc-02",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "oos-suc-03",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "oos-emp-01",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 2,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "oos-emp-02",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "oos-emp-03",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "oos-adm-01",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "oos-adm-02",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 1,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "oos-adm-03",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "oos-pre-01",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "oos-pre-02",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "oos-pre-03",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "oos-ele-01",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "oos-int-01",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        },
+        {
+          "case_id": "oos-civ-01",
+          "citation_coverage": 1.0,
+          "unsupported_legal_claim_rate": 0.0,
+          "total_claims": 0,
+          "unsupported_claims": [],
+          "passed": true
+        }
+      ]
+    },
+    "answer": {
+      "refusal_when_no_source_rate": {
+        "value": 0.918918918918919,
+        "threshold": 0.9,
+        "passed": true
+      },
+      "answer_relevancy": {
+        "value": 0.9836065573770492,
+        "heuristic": true
+      },
+      "faithfulness": {
+        "value": 0.8688524590163934,
+        "heuristic": true
+      },
+      "out_of_scope_total": 37,
+      "correctly_refused": 34,
+      "failing_case_ids": [
+        "oos-emp-01",
+        "oos-adm-02",
+        "oos-pre-02"
+      ],
+      "refusal_cases": [
+        {
+          "case_id": "oos-imposto-territorial",
+          "expected_refused": true,
+          "refused": true,
+          "correct": true
+        },
+        {
+          "case_id": "oos-crime-latrocinio",
+          "expected_refused": true,
+          "refused": true,
+          "correct": true
+        },
+        {
+          "case_id": "oos-usucapiao-imovel",
+          "expected_refused": true,
+          "refused": true,
+          "correct": true
+        },
+        {
+          "case_id": "oos-aposentadoria-inss",
+          "expected_refused": true,
+          "refused": true,
+          "correct": true
+        },
+        {
+          "case_id": "oos-declarar-bitcoin",
+          "expected_refused": true,
+          "refused": true,
+          "correct": true
+        },
+        {
+          "case_id": "oos-prescricao-trabalhista",
+          "expected_refused": true,
+          "refused": true,
+          "correct": true
+        },
+        {
+          "case_id": "oos-divorcio-partilha",
+          "expected_refused": true,
+          "refused": true,
+          "correct": true
+        },
+        {
+          "case_id": "oos-tax-01",
+          "expected_refused": true,
+          "refused": true,
+          "correct": true
+        },
+        {
+          "case_id": "oos-tax-02",
+          "expected_refused": true,
+          "refused": true,
+          "correct": true
+        },
+        {
+          "case_id": "oos-tax-03",
+          "expected_refused": true,
+          "refused": true,
+          "correct": true
+        },
+        {
+          "case_id": "oos-tax-04",
+          "expected_refused": true,
+          "refused": true,
+          "correct": true
+        },
+        {
+          "case_id": "oos-tax-05",
+          "expected_refused": true,
+          "refused": true,
+          "correct": true
+        },
+        {
+          "case_id": "oos-pen-01",
+          "expected_refused": true,
+          "refused": true,
+          "correct": true
+        },
+        {
+          "case_id": "oos-pen-02",
+          "expected_refused": true,
+          "refused": true,
+          "correct": true
+        },
+        {
+          "case_id": "oos-pen-03",
+          "expected_refused": true,
+          "refused": true,
+          "correct": true
+        },
+        {
+          "case_id": "oos-tra-01",
+          "expected_refused": true,
+          "refused": true,
+          "correct": true
+        },
+        {
+          "case_id": "oos-tra-02",
+          "expected_refused": true,
+          "refused": true,
+          "correct": true
+        },
+        {
+          "case_id": "oos-tra-03",
+          "expected_refused": true,
+          "refused": true,
+          "correct": true
+        },
+        {
+          "case_id": "oos-tra-04",
+          "expected_refused": true,
+          "refused": true,
+          "correct": true
+        },
+        {
+          "case_id": "oos-fam-01",
+          "expected_refused": true,
+          "refused": true,
+          "correct": true
+        },
+        {
+          "case_id": "oos-fam-02",
+          "expected_refused": true,
+          "refused": true,
+          "correct": true
+        },
+        {
+          "case_id": "oos-fam-03",
+          "expected_refused": true,
+          "refused": true,
+          "correct": true
+        },
+        {
+          "case_id": "oos-suc-01",
+          "expected_refused": true,
+          "refused": true,
+          "correct": true
+        },
+        {
+          "case_id": "oos-suc-02",
+          "expected_refused": true,
+          "refused": true,
+          "correct": true
+        },
+        {
+          "case_id": "oos-suc-03",
+          "expected_refused": true,
+          "refused": true,
+          "correct": true
+        },
+        {
+          "case_id": "oos-emp-01",
+          "expected_refused": true,
+          "refused": false,
+          "correct": false
+        },
+        {
+          "case_id": "oos-emp-02",
+          "expected_refused": true,
+          "refused": true,
+          "correct": true
+        },
+        {
+          "case_id": "oos-emp-03",
+          "expected_refused": true,
+          "refused": true,
+          "correct": true
+        },
+        {
+          "case_id": "oos-adm-01",
+          "expected_refused": true,
+          "refused": true,
+          "correct": true
+        },
+        {
+          "case_id": "oos-adm-02",
+          "expected_refused": true,
+          "refused": false,
+          "correct": false
+        },
+        {
+          "case_id": "oos-adm-03",
+          "expected_refused": true,
+          "refused": true,
+          "correct": true
+        },
+        {
+          "case_id": "oos-pre-01",
+          "expected_refused": true,
+          "refused": true,
+          "correct": true
+        },
+        {
+          "case_id": "oos-pre-02",
+          "expected_refused": true,
+          "refused": false,
+          "correct": false
+        },
+        {
+          "case_id": "oos-pre-03",
+          "expected_refused": true,
+          "refused": true,
+          "correct": true
+        },
+        {
+          "case_id": "oos-ele-01",
+          "expected_refused": true,
+          "refused": true,
+          "correct": true
+        },
+        {
+          "case_id": "oos-int-01",
+          "expected_refused": true,
+          "refused": true,
+          "correct": true
+        },
+        {
+          "case_id": "oos-civ-01",
+          "expected_refused": true,
+          "refused": true,
+          "correct": true
+        }
+      ]
+    }
+  }
+}

@@ -67,6 +67,11 @@ class Settings(BaseSettings):
     opensearch_url: str = "http://opensearch:9200"
 
     # Hybrid retrieval (semantic + BM25). Default OFF — Phase 3 baseline preserved.
+    # Calibração 13.C.4 (grid 0.50–0.90 sobre golden 122q in-scope, OpenAI provider):
+    # toda a grid empata em recall@5=0.9836 (Δ=+0.0082 vs semantic-only 0.9754).
+    # Δ < +0.02 -> mantemos opt-in; 0.70/0.30 já está dentro do conjunto ótimo,
+    # então nenhum valor é alterado. Reavaliar quando golden ≥ 300q ou ao plugar
+    # analyzer pt-BR no OpenSearch (atualmente standard analyzer).
     enable_hybrid: bool = False
     hybrid_semantic_weight: float = 0.7
     hybrid_bm25_weight: float = 0.3
