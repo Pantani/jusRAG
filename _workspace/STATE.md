@@ -239,3 +239,53 @@ Agentes: foundation (12.1), retrieval (12.2), answer (12.3), ui-docs (12.5). QA 
 - [ ] Commit `feat(providers): add local embeddings (sentence-transformers) and Ollama LLM` — aguarda autorização do usuário.
 ### Quebras de ownership (documentadas, lint/test verdes)
 - answer-agent estendeu Literal llm_provider em settings.py para "ollama" (sem widening, mypy strict rejeitaria selector). Orquestrador espelhou widening para embedding_provider "local". Foundation deve ratificar no próximo passe.
+
+## Fase 13 — Corpus expandido + eval real (v1.2) — CONCLUÍDA (2026-06-18, sessão 11)
+Agentes: ingestion (13.A.1, 13.A.2), retrieval (13.A.3, 13.A.5), answer (13.A.4), eval (13.B.1, 13.B.2), qa (13.B.3), ui-docs (13.B.4).
+### Decisões do usuário
+- CDC: `curl` único do Planalto compilado + loader determinístico HTML→md (vendored).
+- STJ: 15 súmulas + 15 repetitivos consumer.
+- Hybrid retrieval: opt-in, `enable_hybrid=false` default.
+- Regressões eval pela expansão STJ: tratadas via recalibração 13.A.4 (sem relaxar §2.2).
+### Aceite
+- `make test` → 194 passed (174 + 20 novos: planalto loader, hybrid retriever, eval-real + golden 158q + auditor recal). ✅
+- `make lint` → ruff OK + mypy strict (worktree limpo). ✅
+- `make eval` (fake/CI) gate §36 PASSED: recall@5=0.967, citation_coverage=1.0, unsupported_legal_claim_rate=0.0, refusal_when_no_source_rate=1.0. ✅
+- `make eval-real --provider={openai,local}` disponível, com preflight de chave/serviço + dim mismatch. Não executado no CI.
+### Entregas (commits)
+- 8991f5d feat(corpus): full CDC integral (130 chunks, arts. 1º–119 incl. 42-A, 54-A..G, 104-A..C/Lei 14.181/2021) + expanded STJ (30 entradas; 5 verified + 25 needs_review).
+- b907690 feat(retrieval): hybrid BM25 opt-in + recall fix (idf_power=0.35 em FakeEmbeddingProvider → recall@5 0.7916→0.8333).
+- 9348fc2 fix(answer): recalibrate auditor (_MIN_OVERLAP 0.18→0.40) + writer (_MIN_SEMANTIC_SCORE 0.20→0.30) com justificativa F1-grid.
+- 14138da feat(eval): make eval-real (--provider=fake|openai|local), preflight, report annota provider.
+- b59b0a9 feat(eval): golden ampliado para 158 questões (121 in-scope + 37 OOS).
+- 95f9cc4 docs: README + evaluation + limitations + source-policy atualizados para v1.2.
+- 8b8e23c chore(workspace): artefatos dos agentes da Fase 13.
+### QA cross-provider (13.B.3)
+- fake/fake: gate §36 PASSED; 3 probes (defeito/banco/cripto) ok; cripto refused (§2.2). ✅
+- local: abortou em preflight (sentence-transformers não instalado neste worktree). Esperado/correto, sem fallback silencioso.
+- openai: abortou em preflight (OPENAI_API_KEY ausente). Esperado/correto.
+- Para rodar real: instalar `.[local]` + ollama up OU exportar OPENAI_API_KEY, então `make eval-real`.
+### Pendências
+- [ ] Curadoria humana das 25 entradas STJ marcadas `verification_status: needs_review` antes do release v1.2 final.
+- [ ] `make eval-real` com provider real (openai/local) executado pelo usuário com credenciais, para baseline de qualidade comparativa documentado.
+- [ ] hybrid retrieval ativado e calibrado em produção (default permanece OFF; calibração de pesos contra corpus real ainda não feita).
+
+## Fase 13.C — Pendências v1.2 cobertas (2026-06-18, sessão 11 cont.)
+Agentes: ingestion (C.1), qa (C.2, C.3), retrieval (C.4).
+### Decisões do usuário
+- C.1: `curl` STJ oficial + verificador automático.
+- C.2+C.3: ambos providers reais (local + openai).
+- C.4: grid-search hybrid contra openai baseline.
+### Aceite
+- 194 passed · ruff+mypy OK · `make eval` (fake) gate §36 PASSED.
+- `make eval-real EVAL_PROVIDER=openai` strict gate §36 PASSED.
+### Entregas
+- **C.1** (d96e239 + 4a1cc6a) + **D.5** (32db51e): 24/30 STJ verified via curl oficial STJ; 10 inventadas removidas/substituídas por reais; 6 súmulas remanescentes needs_review. D.1 (aa2fb45) tentativamente promoveu 472/595/608 via Wayback, mas D.5 descobriu que os 6 snapshots eram interstitial Cloudflare (sem conteúdo SCON real); arquivos removidos e súmulas revertidas para needs_review por §40.4. Revisão humana via navegador continua pendente.
+- **C.2** (25f77f5): retrieval full local sentence-transformers (dim 768): recall@5=0.8843 PASSED. LLM end-to-end CPU inviável (~40h estimadas); 3 smoke probes OK. Recomendação `--sample-llm N` documentada para v1.3.
+- **C.3** (a7122ac report): openai eval-real (text-embedding-3-small + gpt-4.1-mini): recall@5=0.9754 · coverage=1.0 · unsupp=0.0 · refusal=0.919; custo $0.34/159q. 3 retrieval misses (cdc-pre-02, cdc-ab-04, cdc-ab-08) + 3 OOS leaked (oos-emp-01, oos-adm-02, oos-pre-02) — input v1.3.
+- **C.4** (a8173c2): OpenSearchBM25Store real implementado + index_opensearch job; grid 9 pesos × 158q ($0.00015) → todos empate em recall@5=0.9836 (Δ+0.82pp vs C.3 < gate +2pp). `enable_hybrid` permanece **False** default; pesos 0.70/0.30 mantidos.
+### Pendências v1.3 (não-bloqueantes para v1.2 final)
+- [ ] 6 súmulas STJ Cloudflare-bloqueadas remanescentes (472, 477, 532, 595, 608, 632): revisão humana via navegador (SCON exige captcha/JS). Wayback Machine não viável — só captura interstitial.
+- [ ] `OllamaLLMProvider.timeout` parametrizável + `--sample-llm N` em run_all (para local LLM full eval).
+- [ ] Investigar 3 OOS leaked openai (oos-emp-01, oos-adm-02, oos-pre-02) — margem fina sobre gate 0.90.
+- [ ] Investigar 3 retrieval misses openai (cdc-pre-02, cdc-ab-04, cdc-ab-08).

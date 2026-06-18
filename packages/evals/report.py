@@ -12,12 +12,26 @@ from typing import Any
 
 def render_markdown(payload: dict[str, Any]) -> str:
     lines: list[str] = ["# JusRAG Brasil — Eval Report", ""]
+    lines += _provider_section(payload.get("provider"))
     lines += _golden_section(payload["golden"])
+    lines += _sample_section(payload.get("llm_sampled"))
     lines += _gate_section(payload["gate"])
     lines += _metrics_table(payload)
     lines += _failures_section(payload["metrics"])
     lines.append("")
     return "\n".join(lines)
+
+
+def _provider_section(provider: dict[str, Any] | None) -> list[str]:
+    if not provider:
+        return []
+    return [
+        "## Providers",
+        "",
+        f"- Embedding: **{provider.get('embedding', 'unknown')}**",
+        f"- LLM: **{provider.get('llm', 'unknown')}**",
+        "",
+    ]
 
 
 def _golden_section(golden: dict[str, Any]) -> list[str]:
@@ -32,8 +46,28 @@ def _golden_section(golden: dict[str, Any]) -> list[str]:
     ]
 
 
+def _sample_section(sample: dict[str, Any] | None) -> list[str]:
+    if not sample or not sample.get("active"):
+        return []
+    ids = ", ".join(sample.get("sampled_ids", [])) or "—"
+    return [
+        "## LLM sample (informational)",
+        "",
+        f"- Sampled questions: **{sample['size']}**",
+        f"- IDs: {ids}",
+        "- Note: LLM-bound metrics (citation_coverage, "
+        "unsupported_legal_claim_rate, refusal_when_no_source_rate) reflect "
+        "this subset only. Retrieval metrics still cover the full golden set.",
+        "",
+    ]
+
+
 def _gate_section(gate: dict[str, Any]) -> list[str]:
-    verdict = "PASSED" if gate["passed"] else "FAILED"
+    informational = gate.get("informational", False)
+    if informational:
+        verdict = "INFORMATIONAL (amostra)"
+    else:
+        verdict = "PASSED" if gate["passed"] else "FAILED"
     mode = "strict (all §36 thresholds)" if gate["strict"] else "hallucination-only"
     return [
         "## Build gate (§36)",
@@ -60,6 +94,9 @@ def _metrics_table(payload: dict[str, Any]) -> list[str]:
         metrics["citation"]["unsupported_legal_claim_rate"],
         metrics["answer"]["refusal_when_no_source_rate"],
     ]
+    # Retrieval metrics stay over the full set even when --sample-llm is active;
+    # LLM-bound rows (idx > 0) get an "(amostra)" suffix.
+    sampled = bool(payload.get("llm_sampled", {}).get("active"))
     names = list(_METRIC_LABELS.values())
     lines = [
         "## Metrics (§36 thresholds)",
@@ -67,9 +104,11 @@ def _metrics_table(payload: dict[str, Any]) -> list[str]:
         "| Metric | Value | Threshold | Result |",
         "| --- | --- | --- | --- |",
     ]
-    for name, row in zip(names, rows, strict=True):
-        result = "PASS" if row["passed"] else "FAIL"
-        lines.append(f"| {name} | {row['value']:.4f} | {row['threshold']} | {result} |")
+    for idx, (name, row) in enumerate(zip(names, rows, strict=True)):
+        verdict = "PASS" if row["passed"] else "FAIL"
+        if sampled and idx > 0:  # retrieval (idx 0) is full-set; others are subset
+            verdict = f"{verdict} (amostra)"
+        lines.append(f"| {name} | {row['value']:.4f} | {row['threshold']} | {verdict} |")
     lines += _heuristic_rows(metrics["answer"])
     lines.append("")
     return lines

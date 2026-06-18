@@ -15,6 +15,8 @@ BM25, binding weight, recency and source-quality terms are deferred (§38 full).
 
 from __future__ import annotations
 
+import re
+
 from packages.legal_types.enums import DocType, PrecedentType
 from packages.legal_types.hierarchy import (
     AuthorityTier,
@@ -22,6 +24,13 @@ from packages.legal_types.hierarchy import (
     weight_for,
 )
 from packages.storage.base import VectorSearchResult
+
+# Phrase-overlap window: minimum consecutive query tokens that must appear
+# verbatim in a chunk to award the citation-tier lexical bonus. Conservative
+# (4 tokens) so it only fires on genuine quote-like queries — the kind that
+# break pure semantic ranking when the citation unit is a long article whose
+# semantic centroid drifts away from a specific inciso (e.g. art. 39 CDC).
+_PHRASE_WINDOW = 4
 
 # STJ precedent-type tiers (§39): a STJ súmula weighs 0.88, not the generic
 # case-law fallback (0.75). Mirrors hierarchy._STJ_PRECEDENT_TIERS but driven
@@ -101,11 +110,57 @@ def exact_citation_match(payload: dict[str, object], requested_article: str | No
     return 1.0 if str(payload.get("article") or "") == str(requested_article) else 0.0
 
 
-def composite_score(hit: VectorSearchResult, requested_article: str | None) -> tuple[float, float]:
-    """Return ``(composite_score, semantic_score)`` for a hit (§38)."""
+_WORD_RE = re.compile(r"\w+", re.UNICODE)
+
+
+def _tokenize(text: str) -> list[str]:
+    return [m.group(0).lower() for m in _WORD_RE.finditer(text)]
+
+
+def phrase_overlap(query: str, chunk_text: str, window: int = _PHRASE_WINDOW) -> float:
+    """1.0 when any ``window``-token query n-gram appears verbatim in ``chunk_text``.
+
+    Lexical fallback that complements semantic similarity when the citation unit
+    is large (e.g. CDC art. 39, with 14 incisos): a query quoting an inciso has
+    high lexical overlap with that single article but the article's semantic
+    centroid is diluted across the other incisos. Cheap and deterministic — no
+    BM25 dependency yet (deferred §38 full).
+    """
+
+    q_tokens = _tokenize(query)
+    if len(q_tokens) < window:
+        return 0.0
+    chunk_tokens = _tokenize(chunk_text)
+    if len(chunk_tokens) < window:
+        return 0.0
+    chunk_ngrams = {
+        tuple(chunk_tokens[i : i + window])
+        for i in range(len(chunk_tokens) - window + 1)
+    }
+    for i in range(len(q_tokens) - window + 1):
+        if tuple(q_tokens[i : i + window]) in chunk_ngrams:
+            return 1.0
+    return 0.0
+
+
+def composite_score(
+    hit: VectorSearchResult,
+    requested_article: str | None,
+    *,
+    query: str = "",
+) -> tuple[float, float]:
+    """Return ``(composite_score, semantic_score)`` for a hit (§38).
+
+    The ``CITATION_WEIGHT`` slot carries the max of two signals so the §38
+    weights stay unchanged: ``exact_citation_match`` (article-number citation)
+    and ``phrase_overlap`` (verbatim n-gram quote). For queries with neither,
+    behaviour is identical to before.
+    """
 
     semantic = _clamp01(hit.score)
     authority = authority_for_payload(hit.payload)
-    citation = exact_citation_match(hit.payload, requested_article)
+    citation_num = exact_citation_match(hit.payload, requested_article)
+    phrase = phrase_overlap(query, hit.text) if query else 0.0
+    citation = max(citation_num, phrase)
     score = SEMANTIC_WEIGHT * semantic + AUTHORITY_WEIGHT * authority + CITATION_WEIGHT * citation
     return score, semantic

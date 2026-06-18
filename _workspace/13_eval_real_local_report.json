@@ -1,0 +1,2012 @@
+{
+  "provider": {
+    "embedding": "local",
+    "llm": "ollama"
+  },
+  "model": {
+    "embedding": "sentence-transformers/paraphrase-multilingual-mpnet-base-v2",
+    "llm": "llama3.2:3b"
+  },
+  "golden": {
+    "total": 158,
+    "in_scope": 121,
+    "out_of_scope": 37
+  },
+  "timings_s": {
+    "harness_build": 9.45206618309021,
+    "retrieval_full": 2.8973548412323
+  },
+  "indexed_count": 160,
+  "retrieval": {
+    "retrieval_recall_at_5": {
+      "value": 0.8842975206611571,
+      "threshold": 0.8,
+      "passed": true
+    },
+    "retrieval_precision_at_5": {
+      "value": 0.1768595041322314
+    },
+    "total_expected": 121,
+    "total_found": 107,
+    "failing_case_ids": [
+      "cdc-art18-vicio-solidario",
+      "cdc-art49-fora-estabelecimento",
+      "cdc-qu-03",
+      "cdc-qu-04",
+      "cdc-pre-02",
+      "cdc-ab-07",
+      "cdc-cl-04",
+      "cdc-cl-08",
+      "cdc-de-07",
+      "cdc-de-10",
+      "cdc-se-02",
+      "cdc-inf-05",
+      "cdc-art-num-02",
+      "stj-19"
+    ],
+    "cases": [
+      {
+        "case_id": "cdc-art6-direitos-basicos",
+        "expected": [
+          "cdc-8078-1990-art-6"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-6",
+          "cdc-8078-1990-art-1",
+          "cdc-8078-1990-art-4",
+          "cdc-8078-1990-art-5",
+          "cdc-8078-1990-art-106"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-art6-informacao-adequada",
+        "expected": [
+          "cdc-8078-1990-art-6"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-43",
+          "cdc-8078-1990-art-6",
+          "cdc-8078-1990-art-4",
+          "cdc-8078-1990-art-54-d",
+          "cdc-8078-1990-art-2"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-art6-protecao-vida-saude",
+        "expected": [
+          "cdc-8078-1990-art-6"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-6",
+          "cdc-8078-1990-art-8",
+          "cdc-8078-1990-art-9",
+          "cdc-8078-1990-art-10",
+          "cdc-8078-1990-art-12"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-art12-fabricante-sem-culpa",
+        "expected": [
+          "cdc-8078-1990-art-12"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-25",
+          "cdc-8078-1990-art-13",
+          "stj-sumula-130",
+          "stj-tema-952",
+          "cdc-8078-1990-art-12"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-art12-produto-defeituoso",
+        "expected": [
+          "cdc-8078-1990-art-12"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-12",
+          "cdc-8078-1990-art-14",
+          "cdc-8078-1990-art-23",
+          "cdc-8078-1990-art-9",
+          "cdc-8078-1990-art-8"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-art14-fornecedor-servico",
+        "expected": [
+          "cdc-8078-1990-art-14"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-14",
+          "cdc-8078-1990-art-20",
+          "cdc-8078-1990-art-35",
+          "stj-sumula-130",
+          "cdc-8078-1990-art-23"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-art14-servico-defeituoso",
+        "expected": [
+          "cdc-8078-1990-art-14"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-14",
+          "cdc-8078-1990-art-23",
+          "cdc-8078-1990-art-12",
+          "cdc-8078-1990-art-20",
+          "cdc-8078-1990-art-39"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-art18-vicio-solidario",
+        "expected": [
+          "cdc-8078-1990-art-18"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-23",
+          "cdc-8078-1990-art-19",
+          "stj-tema-952",
+          "cdc-8078-1990-art-12",
+          "cdc-8078-1990-art-9"
+        ],
+        "hits": 0,
+        "recall": 0.0,
+        "precision": 0.0
+      },
+      {
+        "case_id": "cdc-art18-vicio-nao-sanado",
+        "expected": [
+          "cdc-8078-1990-art-18"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-18",
+          "stj-tema-990",
+          "cdc-8078-1990-art-70",
+          "cdc-8078-1990-art-73",
+          "cdc-8078-1990-art-49"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-art26-prazo-decadencial",
+        "expected": [
+          "cdc-8078-1990-art-26"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-18",
+          "stj-tema-952",
+          "cdc-8078-1990-art-26",
+          "cdc-8078-1990-art-23",
+          "cdc-8078-1990-art-9"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-art26-caduca-servico",
+        "expected": [
+          "cdc-8078-1990-art-26"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-26",
+          "cdc-8078-1990-art-14",
+          "cdc-8078-1990-art-49",
+          "cdc-8078-1990-art-20",
+          "cdc-8078-1990-art-40"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-art49-arrependimento-7-dias",
+        "expected": [
+          "cdc-8078-1990-art-49"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-49",
+          "cdc-8078-1990-art-26",
+          "cdc-8078-1990-art-74",
+          "cdc-8078-1990-art-40",
+          "cdc-8078-1990-art-54-g"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-art49-fora-estabelecimento",
+        "expected": [
+          "cdc-8078-1990-art-49"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-33",
+          "cdc-8078-1990-art-18",
+          "cdc-8078-1990-art-40",
+          "cdc-8078-1990-art-39",
+          "cdc-8078-1990-art-26"
+        ],
+        "hits": 0,
+        "recall": 0.0,
+        "precision": 0.0
+      },
+      {
+        "case_id": "cdc-art49-restituicao-valores",
+        "expected": [
+          "cdc-8078-1990-art-49"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-49",
+          "cdc-8078-1990-art-100",
+          "cdc-8078-1990-art-42",
+          "stj-sumula-543",
+          "cdc-8078-1990-art-99"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "stj-sumula130-estacionamento",
+        "expected": [
+          "stj-sumula-130"
+        ],
+        "retrieved": [
+          "stj-sumula-130",
+          "cdc-8078-1990-art-25",
+          "cdc-8078-1990-art-101",
+          "cdc-8078-1990-art-21",
+          "cdc-8078-1990-art-14"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "stj-sumula297-instituicoes-financeiras",
+        "expected": [
+          "stj-sumula-297"
+        ],
+        "retrieved": [
+          "stj-sumula-297",
+          "stj-sumula-321",
+          "cdc-8078-1990-art-1",
+          "cdc-8078-1990-art-54-d",
+          "cdc-8078-1990-art-54-c"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "stj-sumula302-plano-saude-internacao",
+        "expected": [
+          "stj-sumula-302"
+        ],
+        "retrieved": [
+          "stj-sumula-302",
+          "stj-tema-958",
+          "stj-sumula-608",
+          "cdc-8078-1990-art-51",
+          "stj-sumula-632"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "stj-sumula479-fraude-bancaria",
+        "expected": [
+          "stj-sumula-479"
+        ],
+        "retrieved": [
+          "stj-sumula-479",
+          "stj-sumula-297",
+          "stj-tema-1020",
+          "stj-tema-950",
+          "stj-tema-1030"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "stj-sumula543-restituicao-imovel",
+        "expected": [
+          "stj-sumula-543"
+        ],
+        "retrieved": [
+          "stj-sumula-543",
+          "stj-tema-932",
+          "stj-tema-717",
+          "cdc-8078-1990-art-53",
+          "cdc-8078-1990-art-100"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-art12-importador-responsabilidade",
+        "expected": [
+          "cdc-8078-1990-art-12"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-12",
+          "cdc-8078-1990-art-13",
+          "cdc-8078-1990-art-19",
+          "cdc-8078-1990-art-25",
+          "cdc-8078-1990-art-11"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-art18-substituicao-produto",
+        "expected": [
+          "cdc-8078-1990-art-18"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-18",
+          "cdc-8078-1990-art-23",
+          "cdc-8078-1990-art-19",
+          "stj-tema-952",
+          "cdc-8078-1990-art-12"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-art26-noventa-dias-duraveis",
+        "expected": [
+          "cdc-8078-1990-art-26"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-26",
+          "cdc-8078-1990-art-18",
+          "stj-tema-952",
+          "cdc-8078-1990-art-74",
+          "cdc-8078-1990-art-40"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-art6-educacao-consumo",
+        "expected": [
+          "cdc-8078-1990-art-6"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-6",
+          "cdc-8078-1990-art-2",
+          "cdc-8078-1990-art-4",
+          "cdc-8078-1990-art-5",
+          "cdc-8078-1990-art-10"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-art14-informacoes-insuficientes",
+        "expected": [
+          "cdc-8078-1990-art-14"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-14",
+          "cdc-8078-1990-art-20",
+          "cdc-8078-1990-art-23",
+          "cdc-8078-1990-art-10",
+          "cdc-8078-1990-art-39"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-pri-01",
+        "expected": [
+          "cdc-8078-1990-art-2"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-2",
+          "cdc-8078-1990-art-43",
+          "cdc-8078-1990-art-106",
+          "cdc-8078-1990-art-4",
+          "cdc-8078-1990-art-3"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-pri-02",
+        "expected": [
+          "cdc-8078-1990-art-2"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-2",
+          "cdc-8078-1990-art-4",
+          "cdc-8078-1990-art-17",
+          "cdc-8078-1990-art-5",
+          "cdc-8078-1990-art-29"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-pri-03",
+        "expected": [
+          "cdc-8078-1990-art-3"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-3",
+          "cdc-8078-1990-art-13",
+          "cdc-8078-1990-art-34",
+          "cdc-8078-1990-art-101",
+          "cdc-8078-1990-art-28"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-pri-04",
+        "expected": [
+          "cdc-8078-1990-art-3"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-9",
+          "cdc-8078-1990-art-3",
+          "cdc-8078-1990-art-8",
+          "cdc-8078-1990-art-31",
+          "cdc-8078-1990-art-36"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-pri-05",
+        "expected": [
+          "cdc-8078-1990-art-7"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-7",
+          "cdc-8078-1990-art-25",
+          "cdc-8078-1990-art-90",
+          "cdc-8078-1990-art-22",
+          "cdc-8078-1990-art-87"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-qu-01",
+        "expected": [
+          "cdc-8078-1990-art-13"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-13",
+          "cdc-8078-1990-art-12",
+          "stj-tema-952",
+          "cdc-8078-1990-art-34",
+          "cdc-8078-1990-art-11"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-qu-02",
+        "expected": [
+          "cdc-8078-1990-art-13"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-13",
+          "stj-tema-952",
+          "cdc-8078-1990-art-12",
+          "cdc-8078-1990-art-23",
+          "cdc-8078-1990-art-9"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-qu-03",
+        "expected": [
+          "cdc-8078-1990-art-13"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-18",
+          "cdc-8078-1990-art-23",
+          "stj-tema-952",
+          "cdc-8078-1990-art-9",
+          "cdc-8078-1990-art-12"
+        ],
+        "hits": 0,
+        "recall": 0.0,
+        "precision": 0.0
+      },
+      {
+        "case_id": "cdc-qu-04",
+        "expected": [
+          "cdc-8078-1990-art-25"
+        ],
+        "retrieved": [
+          "stj-sumula-472",
+          "cdc-8078-1990-art-51",
+          "stj-sumula-532",
+          "cdc-8078-1990-art-84",
+          "cdc-8078-1990-art-35"
+        ],
+        "hits": 0,
+        "recall": 0.0,
+        "precision": 0.0
+      },
+      {
+        "case_id": "cdc-qu-05",
+        "expected": [
+          "cdc-8078-1990-art-25"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-25",
+          "cdc-8078-1990-art-34",
+          "cdc-8078-1990-art-19",
+          "cdc-8078-1990-art-21",
+          "cdc-8078-1990-art-17"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-qu-06",
+        "expected": [
+          "cdc-8078-1990-art-18"
+        ],
+        "retrieved": [
+          "stj-tema-952",
+          "cdc-8078-1990-art-19",
+          "cdc-8078-1990-art-18",
+          "cdc-8078-1990-art-9",
+          "cdc-8078-1990-art-34"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-qu-07",
+        "expected": [
+          "cdc-8078-1990-art-22"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-22",
+          "cdc-8078-1990-art-84",
+          "cdc-8078-1990-art-25",
+          "cdc-8078-1990-art-41",
+          "cdc-8078-1990-art-104-c"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-qu-08",
+        "expected": [
+          "cdc-8078-1990-art-19"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-23",
+          "cdc-8078-1990-art-19",
+          "stj-tema-952",
+          "cdc-8078-1990-art-20",
+          "cdc-8078-1990-art-12"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-pre-01",
+        "expected": [
+          "cdc-8078-1990-art-27"
+        ],
+        "retrieved": [
+          "stj-tema-990",
+          "cdc-8078-1990-art-27",
+          "cdc-8078-1990-art-100",
+          "cdc-8078-1990-art-25",
+          "cdc-8078-1990-art-20"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-pre-02",
+        "expected": [
+          "cdc-8078-1990-art-27"
+        ],
+        "retrieved": [
+          "stj-tema-990",
+          "cdc-8078-1990-art-18",
+          "stj-tema-988",
+          "stj-tema-952",
+          "cdc-8078-1990-art-12"
+        ],
+        "hits": 0,
+        "recall": 0.0,
+        "precision": 0.0
+      },
+      {
+        "case_id": "cdc-pre-03",
+        "expected": [
+          "cdc-8078-1990-art-26"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-26",
+          "cdc-8078-1990-art-18",
+          "cdc-8078-1990-art-49",
+          "stj-tema-990",
+          "cdc-8078-1990-art-74"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-of-01",
+        "expected": [
+          "cdc-8078-1990-art-30"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-30",
+          "cdc-8078-1990-art-36",
+          "cdc-8078-1990-art-10",
+          "cdc-8078-1990-art-60",
+          "cdc-8078-1990-art-8"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-of-02",
+        "expected": [
+          "cdc-8078-1990-art-31"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-31",
+          "cdc-8078-1990-art-36",
+          "cdc-8078-1990-art-8",
+          "cdc-8078-1990-art-43",
+          "cdc-8078-1990-art-10"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-of-03",
+        "expected": [
+          "cdc-8078-1990-art-35"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-35",
+          "cdc-8078-1990-art-39",
+          "cdc-8078-1990-art-56",
+          "cdc-8078-1990-art-74",
+          "cdc-8078-1990-art-10"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-of-04",
+        "expected": [
+          "cdc-8078-1990-art-35"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-35",
+          "cdc-8078-1990-art-39",
+          "cdc-8078-1990-art-20",
+          "cdc-8078-1990-art-14",
+          "cdc-8078-1990-art-40"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-of-05",
+        "expected": [
+          "cdc-8078-1990-art-35"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-49",
+          "cdc-8078-1990-art-100",
+          "stj-sumula-543",
+          "cdc-8078-1990-art-84",
+          "cdc-8078-1990-art-35"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-of-06",
+        "expected": [
+          "cdc-8078-1990-art-37"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-37",
+          "cdc-8078-1990-art-67",
+          "cdc-8078-1990-art-38",
+          "cdc-8078-1990-art-60",
+          "cdc-8078-1990-art-68"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-of-07",
+        "expected": [
+          "cdc-8078-1990-art-38"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-38",
+          "cdc-8078-1990-art-36",
+          "cdc-8078-1990-art-37",
+          "cdc-8078-1990-art-60",
+          "cdc-8078-1990-art-10"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-ab-01",
+        "expected": [
+          "cdc-8078-1990-art-39"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-39",
+          "cdc-8078-1990-art-32",
+          "cdc-8078-1990-art-35",
+          "stj-tema-952",
+          "cdc-8078-1990-art-13"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-ab-02",
+        "expected": [
+          "cdc-8078-1990-art-39"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-39",
+          "cdc-8078-1990-art-23",
+          "cdc-8078-1990-art-18",
+          "cdc-8078-1990-art-29",
+          "cdc-8078-1990-art-35"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-ab-03",
+        "expected": [
+          "cdc-8078-1990-art-39"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-39",
+          "cdc-8078-1990-art-35",
+          "cdc-8078-1990-art-40",
+          "cdc-8078-1990-art-9",
+          "cdc-8078-1990-art-10"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-ab-04",
+        "expected": [
+          "cdc-8078-1990-art-39"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-23",
+          "cdc-8078-1990-art-39",
+          "cdc-8078-1990-art-2",
+          "stj-tema-958",
+          "cdc-8078-1990-art-43"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-ab-05",
+        "expected": [
+          "cdc-8078-1990-art-39"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-2",
+          "cdc-8078-1990-art-39",
+          "cdc-8078-1990-art-4",
+          "cdc-8078-1990-art-17",
+          "cdc-8078-1990-art-23"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-ab-06",
+        "expected": [
+          "cdc-8078-1990-art-39"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-23",
+          "cdc-8078-1990-art-39",
+          "cdc-8078-1990-art-9",
+          "stj-tema-939",
+          "cdc-8078-1990-art-17"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-ab-07",
+        "expected": [
+          "cdc-8078-1990-art-39"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-47",
+          "cdc-8078-1990-art-84",
+          "cdc-8078-1990-art-51",
+          "cdc-8078-1990-art-53",
+          "cdc-8078-1990-art-24"
+        ],
+        "hits": 0,
+        "recall": 0.0,
+        "precision": 0.0
+      },
+      {
+        "case_id": "cdc-ab-08",
+        "expected": [
+          "cdc-8078-1990-art-39"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-35",
+          "cdc-8078-1990-art-39",
+          "stj-sumula-532",
+          "cdc-8078-1990-art-40",
+          "cdc-8078-1990-art-33"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-co-01",
+        "expected": [
+          "cdc-8078-1990-art-42"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-42",
+          "cdc-8078-1990-art-104-a",
+          "cdc-8078-1990-art-54-a",
+          "cdc-8078-1990-art-46",
+          "stj-sumula-385"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-co-02",
+        "expected": [
+          "cdc-8078-1990-art-42"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-42",
+          "stj-tema-939",
+          "cdc-8078-1990-art-54-g",
+          "cdc-8078-1990-art-54-a",
+          "cdc-8078-1990-art-52"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-co-03",
+        "expected": [
+          "cdc-8078-1990-art-42"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-42",
+          "cdc-8078-1990-art-52",
+          "stj-tema-939",
+          "cdc-8078-1990-art-99",
+          "cdc-8078-1990-art-54-a"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-bd-01",
+        "expected": [
+          "cdc-8078-1990-art-43"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-43",
+          "cdc-8078-1990-art-42-a",
+          "cdc-8078-1990-art-54-d",
+          "cdc-8078-1990-art-44",
+          "stj-sumula-321"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-bd-02",
+        "expected": [
+          "cdc-8078-1990-art-43"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-43",
+          "cdc-8078-1990-art-73",
+          "cdc-8078-1990-art-74",
+          "cdc-8078-1990-art-72",
+          "stj-sumula-404"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-bd-03",
+        "expected": [
+          "cdc-8078-1990-art-43"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-43",
+          "stj-sumula-359",
+          "cdc-8078-1990-art-54-d",
+          "cdc-8078-1990-art-31",
+          "cdc-8078-1990-art-42-a"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-bd-04",
+        "expected": [
+          "cdc-8078-1990-art-43"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-43",
+          "cdc-8078-1990-art-54-d",
+          "cdc-8078-1990-art-42-a",
+          "stj-sumula-404",
+          "cdc-8078-1990-art-49"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-cl-01",
+        "expected": [
+          "cdc-8078-1990-art-46"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-46",
+          "cdc-8078-1990-art-43",
+          "cdc-8078-1990-art-39",
+          "cdc-8078-1990-art-51",
+          "stj-sumula-608"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-cl-02",
+        "expected": [
+          "cdc-8078-1990-art-47"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-47",
+          "cdc-8078-1990-art-4",
+          "cdc-8078-1990-art-2",
+          "stj-sumula-632",
+          "cdc-8078-1990-art-5"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-cl-03",
+        "expected": [
+          "cdc-8078-1990-art-51"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-51",
+          "cdc-8078-1990-art-13",
+          "cdc-8078-1990-art-25",
+          "cdc-8078-1990-art-22",
+          "stj-sumula-532"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-cl-04",
+        "expected": [
+          "cdc-8078-1990-art-51"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-54-a",
+          "cdc-8078-1990-art-42",
+          "cdc-8078-1990-art-104-a",
+          "cdc-8078-1990-art-54-c",
+          "stj-tema-939"
+        ],
+        "hits": 0,
+        "recall": 0.0,
+        "precision": 0.0
+      },
+      {
+        "case_id": "cdc-cl-05",
+        "expected": [
+          "cdc-8078-1990-art-51"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-42",
+          "cdc-8078-1990-art-51",
+          "cdc-8078-1990-art-49",
+          "cdc-8078-1990-art-54-g",
+          "cdc-8078-1990-art-40"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-cl-06",
+        "expected": [
+          "cdc-8078-1990-art-54"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-54",
+          "cdc-8078-1990-art-107",
+          "cdc-8078-1990-art-82",
+          "cdc-8078-1990-art-113",
+          "cdc-8078-1990-art-112"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-cl-07",
+        "expected": [
+          "cdc-8078-1990-art-54"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-54",
+          "cdc-8078-1990-art-50",
+          "cdc-8078-1990-art-31",
+          "cdc-8078-1990-art-47",
+          "cdc-8078-1990-art-53"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-cl-08",
+        "expected": [
+          "cdc-8078-1990-art-54"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-6",
+          "cdc-8078-1990-art-43",
+          "cdc-8078-1990-art-1",
+          "cdc-8078-1990-art-80",
+          "cdc-8078-1990-art-31"
+        ],
+        "hits": 0,
+        "recall": 0.0,
+        "precision": 0.0
+      },
+      {
+        "case_id": "cdc-cl-09",
+        "expected": [
+          "cdc-8078-1990-art-53"
+        ],
+        "retrieved": [
+          "stj-tema-932",
+          "cdc-8078-1990-art-104-a",
+          "stj-sumula-543",
+          "cdc-8078-1990-art-53",
+          "stj-tema-717"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-cl-10",
+        "expected": [
+          "cdc-8078-1990-art-53"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-53",
+          "cdc-8078-1990-art-100",
+          "stj-tema-932",
+          "stj-tema-952",
+          "stj-sumula-543"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-de-01",
+        "expected": [
+          "cdc-8078-1990-art-81"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-81",
+          "cdc-8078-1990-art-5",
+          "cdc-8078-1990-art-90",
+          "cdc-8078-1990-art-106",
+          "cdc-8078-1990-art-117"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-de-02",
+        "expected": [
+          "cdc-8078-1990-art-81"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-81",
+          "cdc-8078-1990-art-28",
+          "cdc-8078-1990-art-90",
+          "cdc-8078-1990-art-110",
+          "cdc-8078-1990-art-117"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-de-03",
+        "expected": [
+          "cdc-8078-1990-art-81"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-81",
+          "cdc-8078-1990-art-90",
+          "cdc-8078-1990-art-28",
+          "cdc-8078-1990-art-117",
+          "cdc-8078-1990-art-110"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-de-04",
+        "expected": [
+          "cdc-8078-1990-art-81"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-81",
+          "cdc-8078-1990-art-90",
+          "cdc-8078-1990-art-117",
+          "cdc-8078-1990-art-28",
+          "cdc-8078-1990-art-110"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-de-05",
+        "expected": [
+          "cdc-8078-1990-art-83"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-90",
+          "cdc-8078-1990-art-102",
+          "cdc-8078-1990-art-83",
+          "cdc-8078-1990-art-7",
+          "cdc-8078-1990-art-81"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-de-06",
+        "expected": [
+          "cdc-8078-1990-art-84"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-84",
+          "cdc-8078-1990-art-98",
+          "cdc-8078-1990-art-22",
+          "cdc-8078-1990-art-28",
+          "cdc-8078-1990-art-113"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-de-07",
+        "expected": [
+          "cdc-8078-1990-art-98"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-104-c",
+          "cdc-8078-1990-art-22",
+          "stj-sumula-359",
+          "cdc-8078-1990-art-54-f",
+          "stj-sumula-321"
+        ],
+        "hits": 0,
+        "recall": 0.0,
+        "precision": 0.0
+      },
+      {
+        "case_id": "cdc-de-08",
+        "expected": [
+          "cdc-8078-1990-art-101"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-101",
+          "cdc-8078-1990-art-13",
+          "cdc-8078-1990-art-34",
+          "cdc-8078-1990-art-11",
+          "cdc-8078-1990-art-51"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-de-09",
+        "expected": [
+          "cdc-8078-1990-art-101"
+        ],
+        "retrieved": [
+          "stj-sumula-632",
+          "cdc-8078-1990-art-101",
+          "stj-sumula-321",
+          "cdc-8078-1990-art-25",
+          "cdc-8078-1990-art-22"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-de-10",
+        "expected": [
+          "cdc-8078-1990-art-103"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-90",
+          "cdc-8078-1990-art-81",
+          "cdc-8078-1990-art-98",
+          "cdc-8078-1990-art-104",
+          "cdc-8078-1990-art-87"
+        ],
+        "hits": 0,
+        "recall": 0.0,
+        "precision": 0.0
+      },
+      {
+        "case_id": "cdc-se-01",
+        "expected": [
+          "cdc-8078-1990-art-104-a"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-104-a",
+          "stj-tema-932",
+          "stj-sumula-543",
+          "cdc-8078-1990-art-52",
+          "cdc-8078-1990-art-54-a"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-se-02",
+        "expected": [
+          "cdc-8078-1990-art-104-a"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-104-b",
+          "cdc-8078-1990-art-104-c",
+          "cdc-8078-1990-art-112",
+          "cdc-8078-1990-art-113",
+          "cdc-8078-1990-art-102"
+        ],
+        "hits": 0,
+        "recall": 0.0,
+        "precision": 0.0
+      },
+      {
+        "case_id": "cdc-se-03",
+        "expected": [
+          "cdc-8078-1990-art-104-b"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-104-b",
+          "cdc-8078-1990-art-84",
+          "cdc-8078-1990-art-104-c",
+          "cdc-8078-1990-art-99",
+          "cdc-8078-1990-art-100"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-se-04",
+        "expected": [
+          "cdc-8078-1990-art-104-c"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-104-c",
+          "stj-sumula-297",
+          "cdc-8078-1990-art-5",
+          "cdc-8078-1990-art-54-c",
+          "cdc-8078-1990-art-54-a"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-inf-01",
+        "expected": [
+          "cdc-8078-1990-art-18"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-23",
+          "cdc-8078-1990-art-33",
+          "stj-tema-990",
+          "cdc-8078-1990-art-18",
+          "cdc-8078-1990-art-12"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-inf-02",
+        "expected": [
+          "cdc-8078-1990-art-18"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-18",
+          "cdc-8078-1990-art-73",
+          "cdc-8078-1990-art-74",
+          "cdc-8078-1990-art-39",
+          "stj-tema-990"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-inf-03",
+        "expected": [
+          "cdc-8078-1990-art-49"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-49",
+          "cdc-8078-1990-art-18",
+          "cdc-8078-1990-art-54-g",
+          "stj-sumula-404",
+          "cdc-8078-1990-art-100"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-inf-04",
+        "expected": [
+          "cdc-8078-1990-art-42"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-42",
+          "cdc-8078-1990-art-52",
+          "cdc-8078-1990-art-54-a",
+          "cdc-8078-1990-art-100",
+          "cdc-8078-1990-art-54-g"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-inf-05",
+        "expected": [
+          "cdc-8078-1990-art-43"
+        ],
+        "retrieved": [
+          "stj-sumula-404",
+          "stj-sumula-385",
+          "stj-sumula-359",
+          "cdc-8078-1990-art-54-c",
+          "cdc-8078-1990-art-54-d"
+        ],
+        "hits": 0,
+        "recall": 0.0,
+        "precision": 0.0
+      },
+      {
+        "case_id": "cdc-art-num-01",
+        "expected": [
+          "cdc-8078-1990-art-14"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-14",
+          "stj-tema-988",
+          "cdc-8078-1990-art-11",
+          "cdc-8078-1990-art-22",
+          "cdc-8078-1990-art-34"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-art-num-02",
+        "expected": [
+          "cdc-8078-1990-art-49"
+        ],
+        "retrieved": [
+          "stj-tema-990",
+          "cdc-8078-1990-art-91",
+          "stj-tema-717",
+          "cdc-8078-1990-art-7",
+          "cdc-8078-1990-art-27"
+        ],
+        "hits": 0,
+        "recall": 0.0,
+        "precision": 0.0
+      },
+      {
+        "case_id": "cdc-art-num-03",
+        "expected": [
+          "cdc-8078-1990-art-6"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-6",
+          "cdc-8078-1990-art-1",
+          "cdc-8078-1990-art-4",
+          "cdc-8078-1990-art-8",
+          "cdc-8078-1990-art-10"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-art-num-04",
+        "expected": [
+          "cdc-8078-1990-art-51"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-51",
+          "cdc-8078-1990-art-102",
+          "stj-tema-666",
+          "cdc-8078-1990-art-83",
+          "stj-tema-717"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-art-num-05",
+        "expected": [
+          "cdc-8078-1990-art-27"
+        ],
+        "retrieved": [
+          "stj-tema-990",
+          "cdc-8078-1990-art-27",
+          "cdc-8078-1990-art-25",
+          "cdc-8078-1990-art-70",
+          "cdc-8078-1990-art-100"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "cdc-adv-01",
+        "expected": [
+          "cdc-8078-1990-art-18"
+        ],
+        "retrieved": [
+          "cdc-8078-1990-art-18",
+          "cdc-8078-1990-art-23",
+          "cdc-8078-1990-art-12",
+          "cdc-8078-1990-art-35",
+          "cdc-8078-1990-art-39"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "stj-01",
+        "expected": [
+          "stj-tema-1006"
+        ],
+        "retrieved": [
+          "stj-tema-1006",
+          "stj-tema-938",
+          "stj-tema-887",
+          "stj-tema-932",
+          "stj-tema-950"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "stj-02",
+        "expected": [
+          "stj-tema-1020"
+        ],
+        "retrieved": [
+          "stj-tema-1020",
+          "stj-tema-887",
+          "stj-tema-1030",
+          "stj-tema-939",
+          "cdc-8078-1990-art-52"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "stj-03",
+        "expected": [
+          "stj-tema-1030"
+        ],
+        "retrieved": [
+          "stj-tema-1030",
+          "stj-tema-887",
+          "stj-tema-1020",
+          "stj-tema-950",
+          "stj-tema-938"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "stj-04",
+        "expected": [
+          "stj-tema-666"
+        ],
+        "retrieved": [
+          "stj-tema-666",
+          "stj-tema-1006",
+          "cdc-8078-1990-art-45",
+          "stj-tema-950",
+          "cdc-8078-1990-art-54"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "stj-05",
+        "expected": [
+          "stj-tema-717"
+        ],
+        "retrieved": [
+          "stj-tema-717",
+          "stj-tema-932",
+          "cdc-8078-1990-art-104-a",
+          "cdc-8078-1990-art-71",
+          "cdc-8078-1990-art-53"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "stj-06",
+        "expected": [
+          "stj-tema-887"
+        ],
+        "retrieved": [
+          "stj-tema-887",
+          "stj-tema-1006",
+          "stj-tema-938",
+          "stj-tema-939",
+          "cdc-8078-1990-art-41"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "stj-07",
+        "expected": [
+          "stj-tema-932"
+        ],
+        "retrieved": [
+          "stj-tema-939",
+          "stj-tema-932",
+          "stj-tema-887",
+          "cdc-8078-1990-art-41",
+          "stj-tema-938"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "stj-08",
+        "expected": [
+          "stj-tema-939"
+        ],
+        "retrieved": [
+          "stj-tema-939",
+          "stj-tema-1030",
+          "stj-tema-932",
+          "stj-tema-887",
+          "cdc-8078-1990-art-57"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "stj-09",
+        "expected": [
+          "stj-tema-950"
+        ],
+        "retrieved": [
+          "stj-tema-950",
+          "stj-tema-958",
+          "stj-tema-952",
+          "cdc-8078-1990-art-80",
+          "cdc-8078-1990-art-53"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "stj-10",
+        "expected": [
+          "stj-tema-952"
+        ],
+        "retrieved": [
+          "stj-tema-952",
+          "cdc-8078-1990-art-115",
+          "cdc-8078-1990-art-75",
+          "cdc-8078-1990-art-80",
+          "cdc-8078-1990-art-27"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "stj-11",
+        "expected": [
+          "stj-tema-958"
+        ],
+        "retrieved": [
+          "stj-tema-950",
+          "stj-tema-958",
+          "stj-tema-952",
+          "cdc-8078-1990-art-53",
+          "cdc-8078-1990-art-41"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "stj-12",
+        "expected": [
+          "stj-tema-960"
+        ],
+        "retrieved": [
+          "stj-tema-988",
+          "stj-tema-952",
+          "stj-tema-1006",
+          "stj-tema-960",
+          "stj-tema-938"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "stj-13",
+        "expected": [
+          "stj-tema-988"
+        ],
+        "retrieved": [
+          "stj-tema-952",
+          "stj-tema-988",
+          "cdc-8078-1990-art-11",
+          "stj-tema-990",
+          "cdc-8078-1990-art-41"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "stj-14",
+        "expected": [
+          "stj-tema-990"
+        ],
+        "retrieved": [
+          "stj-tema-990",
+          "stj-tema-666",
+          "stj-tema-717",
+          "stj-tema-950",
+          "cdc-8078-1990-art-118"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "stj-15",
+        "expected": [
+          "stj-sumula-321"
+        ],
+        "retrieved": [
+          "stj-sumula-321",
+          "cdc-8078-1990-art-1",
+          "stj-sumula-608",
+          "cdc-8078-1990-art-101",
+          "stj-sumula-632"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "stj-16",
+        "expected": [
+          "stj-sumula-359"
+        ],
+        "retrieved": [
+          "stj-sumula-359",
+          "stj-tema-887",
+          "stj-tema-1020",
+          "stj-tema-666",
+          "stj-tema-950"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "stj-17",
+        "expected": [
+          "stj-sumula-385"
+        ],
+        "retrieved": [
+          "stj-tema-887",
+          "stj-sumula-385",
+          "stj-tema-950",
+          "stj-tema-1020",
+          "stj-tema-1030"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "stj-18",
+        "expected": [
+          "stj-sumula-404"
+        ],
+        "retrieved": [
+          "stj-tema-990",
+          "stj-sumula-404",
+          "stj-tema-666",
+          "stj-tema-717",
+          "cdc-8078-1990-art-21"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "stj-19",
+        "expected": [
+          "stj-sumula-472"
+        ],
+        "retrieved": [
+          "stj-tema-887",
+          "stj-tema-717",
+          "stj-tema-939",
+          "stj-tema-1006",
+          "cdc-8078-1990-art-100"
+        ],
+        "hits": 0,
+        "recall": 0.0,
+        "precision": 0.0
+      },
+      {
+        "case_id": "stj-20",
+        "expected": [
+          "stj-sumula-477"
+        ],
+        "retrieved": [
+          "stj-tema-990",
+          "stj-sumula-477",
+          "stj-tema-666",
+          "stj-tema-717",
+          "stj-tema-988"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "stj-21",
+        "expected": [
+          "stj-sumula-532"
+        ],
+        "retrieved": [
+          "stj-tema-666",
+          "stj-tema-887",
+          "stj-sumula-532",
+          "stj-tema-950",
+          "stj-tema-939"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "stj-22",
+        "expected": [
+          "stj-sumula-595"
+        ],
+        "retrieved": [
+          "stj-sumula-595",
+          "cdc-8078-1990-art-42-a",
+          "cdc-8078-1990-art-91",
+          "stj-tema-887",
+          "cdc-8078-1990-art-62"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "stj-23",
+        "expected": [
+          "stj-sumula-608"
+        ],
+        "retrieved": [
+          "stj-sumula-608",
+          "stj-tema-958",
+          "cdc-8078-1990-art-1",
+          "stj-sumula-632",
+          "stj-sumula-321"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      },
+      {
+        "case_id": "stj-24",
+        "expected": [
+          "stj-sumula-632"
+        ],
+        "retrieved": [
+          "stj-sumula-632",
+          "stj-sumula-608",
+          "cdc-8078-1990-art-1",
+          "stj-tema-950",
+          "stj-sumula-321"
+        ],
+        "hits": 1,
+        "recall": 1.0,
+        "precision": 0.2
+      }
+    ]
+  },
+  "llm_smoke": [
+    {
+      "id": "cdc-art6-direitos-basicos",
+      "question": "Quais são os direitos básicos do consumidor previstos no CDC?",
+      "elapsed_s": 0.4890279769897461,
+      "error": "Ollama returned HTTP 500 from http://localhost:11434/api/chat: '{\"error\":\"model runner has unexpectedly stopped, this may be due to resource limitations or an internal error, check ollama server logs "
+    },
+    {
+      "id": "cdc-art6-informacao-adequada",
+      "question": "O consumidor tem direito à informação adequada e clara sobre os produtos e serviços?",
+      "elapsed_s": 186.00809383392334,
+      "short_answer": "Sim, o consumidor tem direito à informação adequada e clara sobre os produtos e serviços, conforme disposto no artigo 43 do Código de Defesa do Consumidor (Lei nº 8.078/1990).",
+      "n_basis": 1,
+      "n_sources": 16,
+      "refused": false
+    },
+    {
+      "id": "cdc-art6-protecao-vida-saude",
+      "question": "O consumidor tem direito à proteção da vida, saúde e segurança contra riscos de produtos perigosos?",
+      "elapsed_s": 140.0869460105896,
+      "short_answer": "Sim, o consumidor tem direito à proteção da vida, saúde e segurança contra riscos de produtos perigosos.",
+      "n_basis": 1,
+      "n_sources": 16,
+      "refused": false
+    }
+  ]
+}

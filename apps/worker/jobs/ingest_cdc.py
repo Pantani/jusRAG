@@ -16,13 +16,35 @@ from pathlib import Path
 
 from packages.ingestion.chunker import chunk_document
 from packages.ingestion.loaders.local_markdown import LocalMarkdownLoader
+from packages.ingestion.loaders.planalto_html import build_seed_markdown
 from packages.ingestion.versioning import deduplicate_by_hash
 from packages.legal_types.schemas import LegalChunk
 
 # Repo-root-relative paths (this file lives at apps/worker/jobs/).
 _REPO_ROOT = Path(__file__).resolve().parents[3]
 SEED_PATH = _REPO_ROOT / "data" / "seed" / "cdc" / "cdc.md"
+SOURCE_HTML_PATH = (
+    _REPO_ROOT / "data" / "seed" / "cdc" / "_source" / "planalto_l8078compilado.html"
+)
 OUTPUT_PATH = _REPO_ROOT / "data" / "generated" / "cdc_chunks.jsonl"
+
+
+def regenerate_seed_from_html(
+    html_path: Path = SOURCE_HTML_PATH,
+    seed_path: Path = SEED_PATH,
+) -> bool:
+    """Rebuild ``cdc.md`` from the vendored Planalto HTML if present.
+
+    Deterministic regeneration: the markdown is a pure function of the HTML
+    bytes, so re-running keeps the seed byte-identical (idempotency §40.4).
+    Returns ``True`` if the seed was (re)generated, ``False`` otherwise.
+    """
+
+    if not html_path.is_file():
+        return False
+    seed_path.parent.mkdir(parents=True, exist_ok=True)
+    seed_path.write_text(build_seed_markdown(html_path), encoding="utf-8")
+    return True
 
 
 def build_chunks(
@@ -51,9 +73,18 @@ def run(
     output_path: Path = OUTPUT_PATH,
     *,
     created_at: datetime | None = None,
+    html_path: Path | None = None,
 ) -> list[LegalChunk]:
-    """Run the full ingestion and return the chunks written."""
+    """Run the full ingestion and return the chunks written.
 
+    If ``html_path`` is provided and exists, ``cdc.md`` is regenerated from it
+    before chunking so the full Planalto-vendored CDC drives the output. The
+    CLI ``main()`` handles HTML regeneration explicitly; callers (e.g. tests)
+    pass ``html_path=None`` to skip it.
+    """
+
+    if html_path is not None:
+        regenerate_seed_from_html(html_path, seed_path)
     chunks = build_chunks(seed_path, created_at=created_at)
     write_jsonl(chunks, output_path)
     return chunks
@@ -62,7 +93,21 @@ def run(
 def main() -> int:
     # Fixed timestamp keeps the JSONL byte-stable across runs (idempotency proof).
     created_at = datetime(2026, 6, 16, tzinfo=UTC)
-    chunks = run(created_at=created_at)
+    # Read module-level paths via the module so test monkeypatches take effect.
+    html_path = SOURCE_HTML_PATH
+    seed_path = SEED_PATH
+    output_path = OUTPUT_PATH
+    regenerated = regenerate_seed_from_html(html_path, seed_path)
+    if not regenerated:
+        print(
+            f"Missing source HTML: {html_path}. "
+            "Vendore o HTML oficial do Planalto antes de rodar `make ingest-cdc` — "
+            "publicar chunks a partir de um seed possivelmente stale viola §40.4.",
+            file=sys.stderr,
+        )
+        return 1
+    print(f"Regenerated {seed_path} from {html_path}")
+    chunks = run(seed_path, output_path, created_at=created_at, html_path=None)
     articles = sorted(
         (c.article for c in chunks if c.article is not None),
         key=lambda a: int(a.rstrip("ºo°").split("-")[0]),

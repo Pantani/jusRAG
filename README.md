@@ -2,7 +2,7 @@
 
 **Copiloto open source de pesquisa jurídica brasileira com RAG: citações verificáveis, auditoria de claims e avaliação de fidelidade.**
 
-Status: **v1.0** — API, ingestão CDC + jurisprudência STJ seed, vector search, citações, auditor de citações, orquestração LangGraph, evals com quality gate e UI de demonstração. Fases 1–9 concluídas.
+Status: **v1.2** — API, ingestão do **CDC integral** (130 artigos do Planalto) + jurisprudência STJ ampliada (30 entradas — súmulas + repetitivos), vector search, hybrid retrieval **opt-in** (semantic + BM25), citações, auditor recalibrado, orquestração LangGraph, evals com quality gate sobre 158 perguntas + harness `eval-real` para providers reais, UI de demonstração. Fases 1–13 concluídas.
 
 > ## Aviso de não aconselhamento jurídico
 >
@@ -34,12 +34,12 @@ Isto **não é**: um produto de aconselhamento jurídico, um peticionador autom�
 
 ## Escopo do MVP
 
-A v1.0 cobre **Direito do Consumidor**, com fontes seed:
+A v1.2 cobre **Direito do Consumidor**, com corpus seed expandido:
 
-- **Legislação** — Código de Defesa do Consumidor (CDC), **Lei 8.078/1990**, artigos **6º, 12, 14, 18, 26 e 49** (texto oficial do Planalto).
-- **Jurisprudência** — súmulas do **STJ**: **130, 297, 302, 479 e 543**.
+- **Legislação — CDC integral.** Código de Defesa do Consumidor (**Lei 8.078/1990**), texto compilado vigente, **130 chunks** (1 por artigo, do art. 1º ao 119, incluindo 42-A, 54-A..G, 104-A..C). Fonte: HTML oficial do Planalto (`planalto.gov.br/ccivil_03/leis/l8078compilado.htm`) **vendored** em `data/seed/cdc/_source/planalto_l8078compilado.html` (SHA256 fixado no frontmatter para auditoria). Loader determinístico HTML→markdown converte para o formato consumido pelo chunker.
+- **Jurisprudência — STJ ampliada.** **30 entradas** consumer-específicas: **15 súmulas** (130, 297, 302, 321, 359, 385, 404, 472, 477, 479, 532, 543, 595, 608, 632) + **15 Temas repetitivos** (666, 717, 887, 932, 938, 939, 950, 952, 958, 960, 988, 990, 1006, 1020, 1030). Breakdown: **5 verified** (revisadas contra a fonte oficial) + **25 needs_review** (marcadas como pendentes de curadoria humana antes do release v1.2 final — campo `verification_status` no payload). Ver [docs/source-policy.md](docs/source-policy.md) e [docs/limitations.md](docs/limitations.md).
 
-O recorte é pequeno por design: compacto, demonstrável e reproduzível offline. Perguntas fora desse recorte tendem a **recusa segura** — comportamento esperado, não falha.
+Perguntas fora desse recorte tendem a **recusa segura** — comportamento esperado, não falha.
 
 ## Arquitetura (resumo)
 
@@ -183,10 +183,29 @@ A UI abre em `http://localhost:8501`. Para cada pergunta exibe: **resposta**, **
 | `make ingest-case-law` | Ingere súmulas STJ seed → `data/generated/case_law_chunks.jsonl`. | offline |
 | `make search-demo` | Demonstração de busca semântica (fake embeddings). | offline |
 | `make ask-demo` | Demonstração de resposta citada via `/ask` (fake LLM). | offline |
-| `make eval` | Suíte de evals → relatório JSON + Markdown + quality gate. | offline |
+| `make eval` | Suíte de evals (fake providers determinísticos, CI). → relatório JSON + Markdown + quality gate. | offline |
+| `make eval-real` | Mesma suíte com **providers reais** opt-in (OpenAI / sentence-transformers + Ollama). Uso: `EVAL_PROVIDER=openai OPENAI_API_KEY=sk-... make eval-real` ou `EVAL_PROVIDER=local make eval-real`. Pré-flight valida dim da collection Qdrant e disponibilidade de chave/Ollama antes de qualquer chamada paga. **Não roda em CI.** | Qdrant + chave/Ollama |
 | `make up` | Sobe os serviços via Docker Compose. | Docker |
 | `make down` | Derruba os serviços e remove volumes. | Docker |
 | `make index-cdc` | Indexa os chunks na collection Qdrant `legal_chunks`. | Docker + `OPENAI_API_KEY` |
+
+## Retrieval híbrido (opt-in)
+
+Desde a v1.2, `HybridRetriever` aceita fusão **semantic + BM25** com pesos default `0.7 / 0.3` e normalização min-max por modalidade antes da fusão (ranking §38 preservado: `0.70 · hybrid + 0.20 · authority + 0.10 · exact_citation_match`). **Default: OFF** — `enable_hybrid=false` faz o retriever delegar 1:1 ao path semântico, preservando o baseline da Fase 3 bit-a-bit.
+
+Habilitar:
+
+```bash
+# .env
+ENABLE_HYBRID=true
+HYBRID_SEMANTIC_WEIGHT=0.7
+HYBRID_BM25_WEIGHT=0.3
+
+# subir OpenSearch via profile dedicado
+docker compose --profile hybrid up
+```
+
+Quando ativar: queries com **número de artigo explícito** ("art. 14 CDC...") ou **termos legais raros** que o embedding genérico confunde. `OpenSearchBM25Store` real ainda é stub (analyzer PT/stemmer pendentes — ver [docs/limitations.md](docs/limitations.md)); o `FakeBM25Store` cobre o caminho determinístico em testes.
 
 ## Qualidade e avaliação
 
@@ -201,9 +220,18 @@ A UI abre em `http://localhost:8501`. Para cada pergunta exibe: **resposta**, **
 
 O gate da `unsupported_legal_claim_rate` é **sempre** enforçado (a regra "não alucinar", §2); os demais são enforçados por padrão e podem ser relaxados com `EVAL_GATE_STRICT=0` (apenas o gate de alucinação permanece). O job retorna código de saída não-zero quando um gate é violado, podendo **falhar o build**.
 
-O golden dataset (`data/seed/questions/consumer_golden.yaml`) tem **31 perguntas** de Direito do Consumidor (dentro e fora do escopo), acima do mínimo de 30 exigido pela v1.
+O golden dataset (`data/seed/questions/consumer_golden.yaml`) tem **158 perguntas** de Direito do Consumidor — **121 in-scope** (cobrindo todos os capítulos do CDC + súmulas e Temas STJ) + **37 out-of-scope** (tributário, penal, trabalho, família, sucessões, empresarial, administrativo, previdenciário, eleitoral, internacional, civil-reais) para validar recusa segura.
 
-> **Honestidade sobre as métricas:** os valores reportados pelos evals são medidos sobre um **seed pequeno** (6 artigos do CDC + 5 súmulas do STJ) e com **fake providers determinísticos**, não com o provider real OpenAI. Servem para validar a *arquitetura* (recall, cobertura de citação, recusa segura, ausência de claims sem suporte) de forma reproduzível em CI — **não** são uma medida de desempenho do sistema em produção sobre todo o Direito do Consumidor. Detalhes em [docs/evaluation.md](docs/evaluation.md).
+Métricas atuais sobre o golden ampliado (fake providers, `make eval`):
+
+| Métrica | Valor | Threshold |
+|---|---|---|
+| `retrieval_recall_at_5` | **0.967** | ≥ 0.80 |
+| `citation_coverage` | **1.000** | ≥ 0.90 |
+| `unsupported_legal_claim_rate` | **0.000** | ≤ 0.05 |
+| `refusal_when_no_source_rate` | **1.000** | ≥ 0.90 |
+
+> **Honestidade sobre as métricas:** os valores acima são medidos com **fake providers determinísticos** offline para CI. Para medir com providers reais (OpenAI / sentence-transformers + Ollama) use `make eval-real` — manual, não-CI. Detalhes em [docs/evaluation.md](docs/evaluation.md).
 
 ## Limitações
 

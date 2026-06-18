@@ -402,3 +402,28 @@ via `make_embedding_provider`/`make_llm_provider` (selectors).
 - `ollama_base_url: str = "http://ollama:11434"`
 - `local_embedding_model: str = "sentence-transformers/paraphrase-multilingual-mpnet-base-v2"`
 - `ollama_chat_model: str = "llama3.1:8b"`
+
+## Fase 13 — adições contratuais (2026-06-18)
+
+### Settings (packages/config/settings.py)
+- `enable_hybrid: bool = False` — ativa retrieval híbrido (semantic + BM25).
+- `hybrid_semantic_weight: float = 0.7`, `hybrid_bm25_weight: float = 0.3` — validador exige soma=1.0 ±1e-6.
+
+### Thresholds recalibrados (data-justified, gates §2.2/§36 preservados)
+- packages/answer/citation_auditor.py `_MIN_OVERLAP`: 0.18 → 0.40 (Jaccard sobre corpus expandido; F1-optimal).
+- packages/answer/answer_writer.py `_MIN_SEMANTIC_SCORE`: 0.20 → 0.30 (idem; 0.29 após fine-tune em A.5).
+- packages/embeddings/fake_provider.py `idf_power`: novo (0.35) — dampens IDF para preservar recall@5 ≥ 0.80 em corpus 6× maior. Determinístico, offline.
+
+### Loaders novos
+- packages/ingestion/loaders/planalto_html.py — HTML compilado Planalto → markdown `## Art. N`. Idempotente; SHA256 do HTML registrado em frontmatter.
+- packages/ingestion/loaders/stj.py — estendido para Temas repetitivos (além de súmulas); novo campo `verification_status: "verified" | "needs_review"` em CaseLawDocument metadata (não-quebrante).
+
+### Eval harness
+- packages/evals/run_all.py CLI ampliado: `--provider={fake,openai,local}`. Sem flag = fake (comportamento atual). Provider real exige preflight (env var/serviço/dim Qdrant).
+- Makefile target `eval-real` adicionado. CI mantém apenas `make eval`.
+- eval_report.json/md inclui campo `provider`.
+
+### Hybrid retrieval
+- packages/rag/hybrid_retriever.py — concreto. Quando `enable_hybrid=False`, delega 100% ao semantic (no-op contractual). Quando True: paralelo semantic+BM25, normalização min-max, dedup por chunk_id, combinação ponderada.
+- packages/storage/opensearch.py — FakeOpenSearchAdapter determinístico para testes offline. Real adapter requer OpenSearch container up.
+- packages/rag/legal_ranker.py — quando hybrid ativo, substitui `semantic_similarity` por `hybrid_score` no composto §38 (pesos 0.70/0.20/0.10 inalterados).

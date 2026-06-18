@@ -18,8 +18,11 @@ from packages.rag.types import CitationRef, RetrievalQuery, RetrievedChunk
 from packages.storage.base import VectorSearchResult, VectorStore
 
 # Over-fetch from the vector layer, then re-rank, then truncate to top_k.
-_CANDIDATE_MULTIPLIER = 3
-_MIN_CANDIDATES = 16
+# The wider pool lets ``phrase_overlap`` / authority lift quote-bearing chunks
+# that the pure semantic search ranks deep (e.g. long articles whose centroid
+# drifts away from a single inciso). 6x covers CDC art. 39 at default top_k=5.
+_CANDIDATE_MULTIPLIER = 6
+_MIN_CANDIDATES = 32
 
 
 @dataclass(frozen=True)
@@ -57,7 +60,7 @@ class LegalRetriever:
 
         ranked: list[RetrievedChunk] = []
         for hit in hits:
-            score, semantic = composite_score(hit, requested_article)
+            score, semantic = composite_score(hit, requested_article, query=query)
             ranked.append(_to_retrieved_chunk(hit, score, semantic))
 
         ranked.sort(key=lambda r: r.score, reverse=True)

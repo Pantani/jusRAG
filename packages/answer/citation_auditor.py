@@ -31,10 +31,14 @@ from dataclasses import dataclass, field
 # v1 quality gate (§36): at most 5% of legal claims may be unsupported.
 MAX_UNSUPPORTED_LEGAL_CLAIM_RATE = 0.05
 
-# Minimum token-overlap (Jaccard) between a claim and a context chunk to count the
-# claim's wording as grounded. Conservative: a claim must share a real chunk of its
-# meaningful vocabulary with some recovered source, not a stray word.
-_MIN_OVERLAP = 0.18
+# Minimum token-overlap (Jaccard-like) between a claim and a context chunk for the
+# claim's wording to count as grounded. Recalibrated on the expanded corpus (130 CDC
+# arts + 30 STJ entries): paraphrased supported claims overlap their target chunk at
+# ≥0.40, while OOS claims that share casual vocabulary (e.g. "prazo", "código") top
+# out at ~0.43 — 0.40 is the inflection point. The previous 0.18 was tuned to the
+# 6-article seed where any non-stopword hit suggested grounding; on the larger
+# corpus that lets too many off-topic chunks "ground" a claim by accident.
+_MIN_OVERLAP = 0.40
 
 _SENTENCE_SPLIT = re.compile(r"(?<=[.;:])\s+|\n+")
 _WORD = re.compile(r"[0-9a-zãáâàéêíóôõúüçñ]+", re.IGNORECASE)

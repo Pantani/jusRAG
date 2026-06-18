@@ -103,12 +103,41 @@ def test_idempotent_by_hash(tmp_path: Path) -> None:
 def test_real_seed_is_case_law_and_pii_free() -> None:
     assert SEED_PATH.is_file(), f"missing seed at {SEED_PATH}"
     chunks = build_chunks(created_at=_TS)
-    assert 4 <= len(chunks) <= 6
+    assert len(chunks) >= 30, f"expected >=30 seeded entries, got {len(chunks)}"
+    summaries = [c for c in chunks if c.metadata.get("summary_number")]
+    repetitives = [c for c in chunks if c.metadata.get("theme_number")]
+    assert len(summaries) >= 15
+    assert len(repetitives) >= 15
     for c in chunks:
         assert c.doc_type is DocType.CASE_LAW
         assert c.metadata["court"] == "STJ"
         assert c.source_url and c.source_url.startswith("https://")
         assert c.content_hash.startswith("sha256:")
         assert not _PII_RE.search(c.text), f"possible PII in chunk {c.chunk_id}"
-        # súmula enunciado has no process/case number embedded (only the label).
-        assert c.metadata["case_number"].startswith("Súmula ")
+        # Case number is either "Súmula N" or a paradigm REsp/Tema reference.
+        case_number = c.metadata["case_number"]
+        assert case_number.startswith("Súmula ") or "REsp" in case_number or case_number.startswith(
+            "Tema "
+        )
+
+
+def test_repetitivo_entry_loads_with_theme_metadata(tmp_path: Path) -> None:
+    line = (
+        '{"theme_number": "938", "case_number": "REsp 1.578.553/SP", '
+        '"court": "STJ", "source": "stj", "precedent_type": "repetitive_appeal", '
+        '"is_binding": true, "legal_area": "consumer", '
+        '"ementa": "Tese repetitiva exemplo.", '
+        '"source_url": "https://www.stj.jus.br/repetitivos-temas/", '
+        '"verification_status": "needs_review"}\n'
+    )
+    seed = tmp_path / "rep.jsonl"
+    seed.write_text(line, encoding="utf-8")
+    docs = StjCaseLawLoader(seed).load()
+    assert len(docs) == 1
+    doc = docs[0]
+    assert doc.document_id == "stj-tema-938"
+    assert doc.case_number == "REsp 1.578.553/SP"
+    assert doc.precedent_type is PrecedentType.REPETITIVE_APPEAL
+    assert doc.is_binding is True
+    assert doc.metadata["theme_number"] == "938"
+    assert doc.metadata["verification_status"] == "needs_review"

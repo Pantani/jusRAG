@@ -1,4 +1,4 @@
-.PHONY: up down test lint format ingest-cdc ingest-case-law index-cdc search-demo ask-demo eval pull-models bootstrap-local up-local down-local restart-local wait-ollama pull-chat-model seed-local logs-local ui
+.PHONY: up down test lint format ingest-cdc ingest-case-law index-cdc search-demo ask-demo eval eval-real pull-models bootstrap-local up-local down-local restart-local wait-ollama pull-chat-model seed-local logs-local ui
 
 up:
 	docker compose up --build
@@ -33,6 +33,24 @@ ask-demo:
 
 eval:
 	$(COMPOSE_LOCAL) exec -T api python -m packages.evals.run_all
+
+# Opt-in eval against real providers — NOT used by CI. Requires a running Qdrant
+# stack (`make up`) whose `legal_chunks` collection matches the chosen provider's
+# vector size; run-time pre-flight aborts with a recreate command on mismatch.
+# Usage:
+#   EVAL_PROVIDER=openai OPENAI_API_KEY=sk-... make eval-real
+#   EVAL_PROVIDER=local make eval-real            # sentence-transformers + ollama
+#   EVAL_PROVIDER=fake make eval-real             # equivalent to `make eval`
+#
+# `EVAL_SAMPLE_LLM=N` (optional): run LLM-bound metrics over a stratified
+# subset of N golden questions (N//2 in-scope + N//2 OOS); retrieval stays
+# full. The §36 gate becomes informational. Useful to validate plumbing of
+# slow local models (e.g. CPU Ollama: ~25min for N=10 vs ~40h full).
+#   EVAL_PROVIDER=local EVAL_SAMPLE_LLM=10 make eval-real
+eval-real:
+	python -m packages.evals.run_all \
+		--provider=$${EVAL_PROVIDER:-fake} \
+		--sample-llm=$${EVAL_SAMPLE_LLM:-0}
 
 # Streamlit demo UI. Roda no host e aponta para a API no Docker.
 # Requer `pip install -e .` (ou pelo menos streamlit + requests) no .venv.

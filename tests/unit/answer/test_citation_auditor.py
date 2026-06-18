@@ -291,3 +291,28 @@ def test_audit_answer_flags_hallucination_before_rewrite(
     result = audit_answer(draft, context)
     assert result.passed is False
     assert any("999" in c for c in result.unsupported_claims)
+
+
+# ------------------------------------------------------------ expanded-corpus boundary
+
+# Boundary case for the recalibrated _MIN_OVERLAP (0.40): a claim that merely
+# *grazes* the chunk wording with casual vocabulary ("prazo", "consumidor") must be
+# flagged as unsupported. Before recalibration the 0.18 threshold let this through.
+def test_low_overlap_claim_is_flagged_on_expanded_corpus() -> None:
+    art26 = AuditChunk(
+        chunk_id="cdc-8078-1990-art-26",
+        text=(
+            "## Art. 26\n\nO direito de reclamar pelos vícios aparentes ou de fácil "
+            "constatação caduca em trinta dias, tratando-se de fornecimento de "
+            "serviço e de produtos não duráveis, e em noventa dias, tratando-se de "
+            "fornecimento de serviço e de produtos duráveis."
+        ),
+    )
+    grazing = LegalClaim(
+        text="O consumidor sempre tem prazo para reclamar de qualquer abuso.",
+    )
+    result = audit_claims("", [grazing], [art26])
+
+    assert result.passed is False
+    assert grazing.text in result.unsupported_claims
+    assert result.citation_coverage == pytest.approx(0.0)

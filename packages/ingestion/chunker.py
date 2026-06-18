@@ -183,6 +183,9 @@ def chunk_case_law(
             "is_binding": doc.is_binding,
             "judgment_date": _date_iso(doc.judgment_date),
             "publication_date": _date_iso(doc.publication_date),
+            # Forward loader-supplied document metadata (summary/theme number,
+            # verification_status, …) so it reaches the indexer payload (§9).
+            **{k: v for k, v in (doc.metadata or {}).items() if v is not None},
         },
     )
 

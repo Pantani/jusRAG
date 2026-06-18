@@ -4,26 +4,17 @@ from __future__ import annotations
 
 import pytest
 
+from apps.worker.jobs.chunk_jsonl import load_indexable_chunks
 from packages.evals.golden import (
     in_scope_questions,
     load_golden,
     out_of_scope_questions,
 )
 
-# chunk_ids actually present in the seed corpus.
-_SEED_CHUNK_IDS = {
-    "cdc-8078-1990-art-6",
-    "cdc-8078-1990-art-12",
-    "cdc-8078-1990-art-14",
-    "cdc-8078-1990-art-18",
-    "cdc-8078-1990-art-26",
-    "cdc-8078-1990-art-49",
-    "stj-sumula-130",
-    "stj-sumula-297",
-    "stj-sumula-302",
-    "stj-sumula-479",
-    "stj-sumula-543",
-}
+# chunk_ids actually present in the seed corpus (CDC + STJ jurisprudence).
+# Derived from the indexed corpus so the test scales with §22 corpus expansions
+# instead of drifting out of sync with a hand-maintained allowlist.
+_SEED_CHUNK_IDS = {c.chunk_id for c in load_indexable_chunks()}
 
 
 def test_golden_has_at_least_30_questions() -> None:

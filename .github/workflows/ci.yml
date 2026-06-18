@@ -25,8 +25,14 @@ jobs:
           cache: pip
       - name: Install project
         run: pip install -e ".[dev]"
+      - name: Provision .env from example (Settings has required fields without defaults)
+        run: cp .env.example .env
       - name: Lint (ruff + mypy)
         run: make lint
+      - name: Generate seed corpus (offline, direct python — Makefile targets assume docker)
+        run: |
+          python -m apps.worker.jobs.ingest_cdc
+          python -m apps.worker.jobs.ingest_case_law
       - name: Test (pytest, offline)
         run: make test
 
@@ -42,5 +48,11 @@ jobs:
           cache: pip
       - name: Install project
         run: pip install -e ".[dev]"
+      - name: Provision .env from example (Settings has required fields without defaults)
+        run: cp .env.example .env
+      - name: Generate seed corpus (offline, direct python — Makefile targets assume docker)
+        run: |
+          python -m apps.worker.jobs.ingest_cdc
+          python -m apps.worker.jobs.ingest_case_law
       - name: Eval suite (fake providers, gate §36)
-        run: make eval
+        run: python -m packages.evals.run_all

@@ -91,6 +91,62 @@ def test_transport_error_raises_runtime_error() -> None:
         provider.generate_answer(_messages(), _empty_context())
 
 
+def test_timeout_env_propagates(monkeypatch: pytest.MonkeyPatch) -> None:
+    monkeypatch.setenv("OLLAMA_TIMEOUT_SECONDS", "60")
+    transport = httpx.MockTransport(lambda r: httpx.Response(200, json={}))
+    provider = OllamaLLMProvider(
+        base_url="http://ollama-test:11434",
+        model="llama3.1:8b",
+        transport=transport,
+    )
+    assert provider.timeout == 60.0
+
+
+def test_timeout_env_default_when_unset(monkeypatch: pytest.MonkeyPatch) -> None:
+    monkeypatch.delenv("OLLAMA_TIMEOUT_SECONDS", raising=False)
+    transport = httpx.MockTransport(lambda r: httpx.Response(200, json={}))
+    provider = OllamaLLMProvider(
+        base_url="http://ollama-test:11434",
+        model="llama3.1:8b",
+        transport=transport,
+    )
+    assert provider.timeout == 300.0
+
+
+def test_timeout_env_explicit_arg_wins(monkeypatch: pytest.MonkeyPatch) -> None:
+    monkeypatch.setenv("OLLAMA_TIMEOUT_SECONDS", "60")
+    transport = httpx.MockTransport(lambda r: httpx.Response(200, json={}))
+    provider = OllamaLLMProvider(
+        base_url="http://ollama-test:11434",
+        model="llama3.1:8b",
+        timeout=12.5,
+        transport=transport,
+    )
+    assert provider.timeout == 12.5
+
+
+def test_timeout_env_invalid_raises(monkeypatch: pytest.MonkeyPatch) -> None:
+    monkeypatch.setenv("OLLAMA_TIMEOUT_SECONDS", "abc")
+    transport = httpx.MockTransport(lambda r: httpx.Response(200, json={}))
+    with pytest.raises(RuntimeError, match="OLLAMA_TIMEOUT_SECONDS"):
+        OllamaLLMProvider(
+            base_url="http://ollama-test:11434",
+            model="llama3.1:8b",
+            transport=transport,
+        )
+
+
+def test_timeout_env_non_positive_raises(monkeypatch: pytest.MonkeyPatch) -> None:
+    monkeypatch.setenv("OLLAMA_TIMEOUT_SECONDS", "0")
+    transport = httpx.MockTransport(lambda r: httpx.Response(200, json={}))
+    with pytest.raises(RuntimeError, match="positive float"):
+        OllamaLLMProvider(
+            base_url="http://ollama-test:11434",
+            model="llama3.1:8b",
+            transport=transport,
+        )
+
+
 def test_selector_returns_ollama_provider_without_network() -> None:
     settings = Settings(
         llm_provider="ollama",
