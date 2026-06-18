@@ -1,40 +1,26 @@
 # Local-providers overlay (Phase 12).
 #
-# Adds an Ollama service and wires the API to it. Activate by composing both
-# files explicitly:
+# Wires the API to local providers (sentence-transformers embeddings + Ollama LLM).
+# Activate by composing both files explicitly:
 #
 #   docker compose -f docker-compose.yml -f docker-compose.override.local.yml up --build
 #
-# Provider selection is read from `.env` (EMBEDDING_PROVIDER, LLM_PROVIDER);
-# set them to `local` / `ollama` respectively to engage the local path.
+# Ollama runs **on the macOS host** (not in a container) so it can use Metal/GPU.
+# Docker Desktop on macOS exposes only CPU to containers, which makes 3B+ chat
+# models exceed any reasonable request timeout. The API reaches the host daemon
+# via the Docker-provided DNS alias `host.docker.internal` (mapped explicitly
+# below for Linux parity).
+#
+# Prereq on the host: `brew install ollama && ollama serve`, then
+# `ollama pull llama3.1:8b` (see `make pull-models`).
 
 services:
   api:
     environment:
-      OLLAMA_BASE_URL: ${OLLAMA_BASE_URL:-http://ollama:11434}
+      OLLAMA_BASE_URL: ${OLLAMA_BASE_URL:-http://host.docker.internal:11434}
       EMBEDDING_PROVIDER: ${EMBEDDING_PROVIDER:-local}
       LLM_PROVIDER: ${LLM_PROVIDER:-ollama}
       LOCAL_EMBEDDING_MODEL: ${LOCAL_EMBEDDING_MODEL:-sentence-transformers/paraphrase-multilingual-mpnet-base-v2}
       OLLAMA_CHAT_MODEL: ${OLLAMA_CHAT_MODEL:-llama3.1:8b}
-    depends_on:
-      - postgres
-      - qdrant
-      - redis
-      - ollama
-
-  ollama:
-    image: ollama/ollama:latest
-    ports:
-      - "11434:11434"
-    volumes:
-      - ollama_data:/root/.ollama
-    restart: unless-stopped
-    healthcheck:
-      test: ["CMD-SHELL", "curl -fsS http://localhost:11434/api/tags || exit 1"]
-      interval: 30s
-      timeout: 5s
-      retries: 5
-      start_period: 20s
-
-volumes:
-  ollama_data:
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
