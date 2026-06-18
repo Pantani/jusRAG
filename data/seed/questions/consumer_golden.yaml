@@ -628,66 +628,70 @@
 
 # --- In-scope: STJ — súmulas e temas repetitivos (jurisprudência) ---
 - id: stj-01
-  question: "Tema 1006 STJ cobrança de tarifa de registro de contrato"
-  expected_chunk_ids: [stj-tema-1006]
+  question: "Tema 27 STJ revisão judicial de taxas de juros remuneratórios em contratos bancários abusivos"
+  expected_chunk_ids: [stj-tema-27]
   expected_behavior: answered
 - id: stj-02
-  question: "Tema 1020 STJ limites e abusividade de juros remuneratórios"
-  expected_chunk_ids: [stj-tema-1020]
+  question: "Tema 35 STJ inscrição de devedor em cadastro de inadimplentes durante discussão judicial"
+  expected_chunk_ids: [stj-tema-35]
   expected_behavior: answered
 - id: stj-03
-  question: "Tema 1030 STJ capitalização de juros em contrato"
-  expected_chunk_ids: [stj-tema-1030]
+  question: "Tema 247 STJ capitalização de juros em periodicidade inferior à anual em contrato bancário"
+  expected_chunk_ids: [stj-tema-247]
   expected_behavior: answered
 - id: stj-04
-  question: "Tema 666 STJ exibição de documentos relativos a contrato"
-  expected_chunk_ids: [stj-tema-666]
+  question: "Tema 575 STJ participação financeira do consumidor no custeio de rede elétrica rural"
+  expected_chunk_ids: [stj-tema-575]
   expected_behavior: answered
 - id: stj-05
-  question: "Tema 717 STJ purgação da mora em contrato de alienação"
-  expected_chunk_ids: [stj-tema-717]
+  question: "Tema 577 STJ restituição imediata em rescisão de contrato de incorporação imobiliária CDC"
+  expected_chunk_ids: [stj-tema-577]
   expected_behavior: answered
 - id: stj-06
-  question: "Tema 887 STJ cobrança de tarifa de cadastro e tarifa"
-  expected_chunk_ids: [stj-tema-887]
+  question: "Tema 610 STJ prescrição da pretensão de revisão de cláusula de reajuste em plano de saúde"
+  expected_chunk_ids: [stj-tema-610]
   expected_behavior: answered
 - id: stj-07
-  question: "Tema 932 STJ devolução de valores pagos por consumidor"
-  expected_chunk_ids: [stj-tema-932]
+  question: "Tema 938 STJ comissão de corretagem em promessa de compra e venda de imóvel"
+  expected_chunk_ids: [stj-tema-938]
   expected_behavior: answered
 - id: stj-08
-  question: "Tema 939 STJ devolução em dobro de valores"
+  question: "Tema 939 STJ legitimidade da incorporadora para responder por comissão de corretagem"
   expected_chunk_ids: [stj-tema-939]
   expected_behavior: answered
 - id: stj-09
-  question: "Tema 950 STJ revisão contratual e cláusulas abusivas"
-  expected_chunk_ids: [stj-tema-950]
+  question: "Tema 953 STJ pactuação expressa de juros capitalizados em contrato de mútuo"
+  expected_chunk_ids: [stj-tema-953]
   expected_behavior: answered
 - id: stj-10
-  question: "Tema 952 STJ vícios redibitórios e responsabilidade"
+  question: "Tema 952 STJ reajuste de mensalidade de plano de saúde por faixa etária"
   expected_chunk_ids: [stj-tema-952]
   expected_behavior: answered
 - id: stj-11
-  question: "Tema 958 STJ cláusulas abusivas em contratos"
+  question: "Tema 958 STJ abusividade de ressarcimento de serviços de terceiros em contratos bancários"
   expected_chunk_ids: [stj-tema-958]
   expected_behavior: answered
 - id: stj-12
-  question: "Tema 960 STJ responsabilidade do fornecedor de transporte"
+  question: "Tema 960 STJ comissão de corretagem em Minha Casa Minha Vida"
   expected_chunk_ids: [stj-tema-960]
   expected_behavior: answered
 - id: stj-13
-  question: "Tema 988 STJ responsabilidade do fornecedor por"
-  expected_chunk_ids: [stj-tema-988]
+  question: "Tema 1061 STJ ônus da prova quando consumidor impugna assinatura em contrato bancário"
+  expected_chunk_ids: [stj-tema-1061]
   expected_behavior: answered
 - id: stj-14
-  question: "Tema 990 STJ prazo prescricional do art. 27 do CDC"
+  question: "Tema 990 STJ obrigação de plano de saúde fornecer medicamento sem registro na ANVISA"
   expected_chunk_ids: [stj-tema-990]
   expected_behavior: answered
 - id: stj-15
-  question: "Súmula 321 STJ Código de Defesa do Consumidor aplicável à relação jurídica entre entidade de previdência privada e participantes"
-  expected_chunk_ids: [stj-sumula-321]
+  question: "Tema 1112 STJ legitimidade do estipulante em contrato de seguro de vida coletivo"
+  expected_chunk_ids: [stj-tema-1112]
   expected_behavior: answered
-  expected_sumulas: ["321"]
+- id: stj-381
+  question: "Súmula 381 STJ vedação ao conhecimento de ofício de abusividade em contratos bancários"
+  expected_chunk_ids: [stj-sumula-381]
+  expected_behavior: answered
+  expected_sumulas: ["381"]
 - id: stj-16
   question: "Súmula 359 STJ órgão mantenedor do cadastro de proteção ao crédito notificação"
   expected_chunk_ids: [stj-sumula-359]
