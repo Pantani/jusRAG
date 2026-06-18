@@ -43,7 +43,7 @@ Em `_preflight_qdrant()`, ao escolher provider real, fazemos `GET
 `config.params.vectors.size` com `embedding_vector_size(settings)` (256 fake / 768
 local / 1536 openai). Mismatch → `SystemExit` com mensagem operacional:
 
-```
+```text
 Qdrant collection 'legal_chunks' has vector size 256, but provider 'openai'
 requires 1536. Recreate the collection:
   curl -X DELETE http://localhost:6333/collections/legal_chunks && make index-cdc
@@ -90,7 +90,7 @@ E o `.md` ganha seção `## Providers` no topo.
 
 ## Testes
 
-```
+```bash
 $ make eval
 Provider: embedding=fake, llm=fake
 Golden questions: 158 (in-scope 121, out-of-scope 37)
@@ -101,7 +101,7 @@ Golden questions: 158 (in-scope 121, out-of-scope 37)
 Gate (strict): PASSED
 ```
 
-```
+```bash
 $ pytest tests/evals/test_run_all.py -v
 14 passed
 ```

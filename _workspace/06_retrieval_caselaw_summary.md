@@ -49,7 +49,7 @@ make search-demo                                 # prova offline (fake provider)
 
 ## Prova de separação + não-regressão (`make search-demo`, saída real)
 
-```
+```text
 [OK] statute query='defeito do produto' -> art. 12        (art.12 score=0.421 topo)
 [OK] statute query='direito de arrependimento ...' -> 49   (art.49 score=0.391 topo)
 [OK] statute query='prazo para reclamar de vício' -> 26    (art.26 score=0.449 topo)
@@ -77,7 +77,7 @@ refletindo a autoridade 0.88.
 - `tests/unit/conftest.py`: fixture `case_law_chunks` (Súmulas 297/479, payload §9 em
   `metadata`).
 
-```
+```bash
 make test  -> 125 passed
 make lint  -> ruff: All checks passed ; mypy: Success, 69 files
 ```

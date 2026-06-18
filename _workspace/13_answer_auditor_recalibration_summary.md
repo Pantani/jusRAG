@@ -18,7 +18,7 @@ Medi sobre 6 claims supported parafrasados (não verbatim) ancorados em arts. 6/
 contra os respectivos chunks; e sobre 7 claims OOS (penal, tributário, trabalhista, previdência,
 família, cripto, usucapião) calculando max-overlap contra o corpus inteiro.
 
-```
+```text
 SUPPORTED (paraphrased claim vs target chunk):
   min=0.417  median=0.583  max=1.000
   arts. testados: 6=1.000, 12=0.545, 14=0.462, 18=0.583, 26=1.000, 49=0.417
@@ -32,7 +32,7 @@ UNSUPPORTED (OOS claim, max overlap sobre TODO corpus):
 
 ### Grid F1 por threshold (step 0.02, range 0.10–0.30) + plateau
 
-```
+```text
 t=0.10–0.27:  F1 platô 0.979–0.985 (rec=1.0, prec sobe de 0.958→0.970)
 t=0.28–0.30:  F1=0.988 (prec=0.976, rec=1.0)  <-- top do platô
 t=0.35+ :    rec começa a cair (paraphrased min=0.417 ainda passa, mas margem fica fina)
@@ -57,14 +57,14 @@ Sobre paraphrased-supported (caso real), o min de 0.417 é o teto seguro.
 
 Medi semantic_score do top-chunk (statutes ∪ case_law) sobre 24 in-scope + 7 OOS golden:
 
-```
+```text
 IN-SCOPE  top semantic_score:  min=0.342  median=0.478  max=1.000 (súmulas idênticas à query)
 OOS       top semantic_score:  min=0.230  median=0.250  max=0.371 (homicídio — overlap legítimo)
 ```
 
 Sweep F1 (positivo = in-scope mantido):
 
-```
+```text
 t=0.20 (atual):  TP=24 FN=0 FP=7 TN=0  F1=0.873  refusal_oos=0.000
 t=0.25:          TP=24 FN=0 FP=5 TN=2  F1=0.906  refusal_oos=0.286
 t=0.28:          TP=24 FN=0 FP=2 TN=5  F1=0.960  refusal_oos=0.714
@@ -110,7 +110,7 @@ antigo 0.18.
 
 ## Verificação final
 
-```
+```bash
 $ make lint
 ruff check .            -> All checks passed!
 mypy packages apps      -> Success: no issues found in 93 source files
@@ -156,6 +156,6 @@ GATE STRICT (recall + refusal):        FALSE  <-- bloqueado por retrieval recall
 
 ## Commit sugerido
 
-```
+```text
 fix(audit): recalibrate Jaccard threshold for expanded corpus + fix eval refusal expectations
 ```

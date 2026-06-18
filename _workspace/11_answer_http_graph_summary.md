@@ -1,6 +1,7 @@
 # Fase 11 — AD-2 fix: POST /ask roteado via grafo agentic (Opção A)
 
 ## Escopo
+
 Defeito: a rota HTTP `POST /ask` usava `AnswerWriter` direto, cujo gate de escopo é
 o `_MIN_SEMANTIC_SCORE = 0.20` (heurística do embedder léxico fake). Para
 "Qual a alíquota do imposto de renda sobre criptomoedas?" a Súmula 543/CDC passou
@@ -30,6 +31,7 @@ existentes — só não é mais o caminho de `/ask`.
 ## Mudanças
 
 ### `apps/api/dependencies.py`
+
 - Removi `get_answer_writer`/`AnswerWriterDep` (rota não consome mais o writer
   direto na produção).
 - Adicionei `AnswerService` (graph-backed): constrói o grafo §14 uma vez por
@@ -60,11 +62,13 @@ existentes — só não é mais o caminho de `/ask`.
   Marcado com `# noqa: ARG002` + docstring.
 
 ### `apps/api/routes/ask.py`
+
 - Delega a `AnswerServiceDep.ask`. Nada de gate semantic-score na rota.
 - Docstring atualizada: cita AD-2/AD-1, scope gate via classifier (§15.2),
   `not_legal_advice=true` invariante.
 
 ### `tests/integration/test_ask.py`
+
 - `test_ask_out_of_scope_refuses` reforçado: além de `status=refused` e
   `legal_basis=[]`, agora exige `case_law=[]` **e** `sources=[]`. É exatamente
   o invariante que AD-2 quebrava (a rota citava Súmula 543 com sources não
@@ -75,7 +79,7 @@ existentes — só não é mais o caminho de `/ask`.
 
 ### Suite local (offline, sem rede — fakes)
 
-```
+```bash
 $ source .venv/bin/activate
 $ python -m pytest
 ... 166 passed, 1 warning in 1.11s
@@ -92,7 +96,7 @@ Success: no issues found in 90 source files
 
 #### (a) `/ask` defeito → answered cita art. 12
 
-```
+```text
 POST /ask {"question":"O fornecedor responde por defeito do produto?","top_k":5}
 ```
 
@@ -124,7 +128,7 @@ Art. 12 presente em `legal_basis`/`sources`. Auditoria passou
 
 #### (b) `/ask` cripto → refused, sources=[], sem inventar súmula
 
-```
+```text
 POST /ask {"question":"Qual a alíquota do imposto de renda sobre criptomoedas?","top_k":5}
 ```
 
@@ -152,7 +156,7 @@ Súmula 543 (nem qualquer súmula CDC) citada. Caveat do classifier indicando a
 
 #### (c) `/health` 200
 
-```
+```bash
 $ curl -s -w "\nHTTP=%{http_code}\n" http://localhost:8000/health
 {"status":"ok"}
 HTTP=200

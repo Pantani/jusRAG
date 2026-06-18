@@ -21,6 +21,7 @@ Ambiente: `.venv` Python 3.12.13, offline, fake providers determinísticos.
 | make ask-demo | `python -m apps.worker.jobs.ask_demo` | exit 0 (ver achado AD-1) |
 
 ### Métricas eval reais (§36)
+
 Golden: 31 perguntas (in-scope 24, out-of-scope 7).
 
 | Métrica | Valor | Threshold | Veredito |

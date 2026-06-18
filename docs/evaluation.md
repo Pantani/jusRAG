@@ -50,7 +50,7 @@ Cada candidato passou por probe determinística antes da inclusão: in-scope pre
 
 ## Métricas atuais (fake providers, golden 158)
 
-```
+```text
 Provider: embedding=fake, llm=fake
 Golden questions: 158 (in-scope 121, out-of-scope 37)
   [PASS] retrieval_recall_at_5       = 0.9669  (threshold 0.80)

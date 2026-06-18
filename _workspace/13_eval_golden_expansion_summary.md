@@ -72,7 +72,7 @@ Cada candidato passou por probe determinística **antes** de ser incluído:
 
 `make eval` (strict gate, EVAL_GATE_STRICT=1, default):
 
-```
+```text
 Provider: embedding=fake, llm=fake
 Golden questions: 159 (in-scope 122, out-of-scope 37)
   [PASS] retrieval_recall_at_5       = 0.9669  (threshold 0.80)

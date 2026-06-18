@@ -16,26 +16,31 @@ Toda mudança de shape passa pelo `legal-domain` agent e reflete aqui.
 ## Schemas — `packages/legal_types/schemas.py` (Pydantic v2)
 
 ### SourceMetadata (provenance, §18/§40.4)
+
 `source: Source`, `source_url: str|None`, `version: str`, `content_hash: str`,
 `ingested_at: datetime`, `is_current: bool = True`
 
 ### LegalDocument (§8)
+
 `document_id, doc_type: DocType, source: Source, title, legal_area: LegalArea|None,
 country="BR", jurisdiction: str|None, norm_type: str|None, norm_number: str|None,
 norm_year: str|None, version, source_url: str|None, content_hash, created_at: datetime,
 metadata: dict`
 
 ### LegalChunk (§8) — fields do documento + endereço estrutural
+
 campos do LegalDocument exceto `document_id` (mantém) +
 `chunk_id, article: str|None, paragraph: str|None, inciso: str|None, alinea: str|None,
 text: str (min_length=1)`. Defaults: `country="BR"`, `metadata={}`.
 
 ### LegalCitation (§8)
+
 `citation_id, source: Source, doc_type: DocType, title, source_url: str|None,
 article: str|None, case_number: str|None, court: str|None, judgment_date: date|None,
 publication_date: date|None, support_level: SupportLevel, chunk_id: str|None`
 
 ### CaseLawDocument (§8) — `doc_type` fixo = case_law
+
 `document_id, doc_type: Literal[DocType.CASE_LAW], source: Source, court: str,
 case_number: str|None, rapporteur: str|None, panel: str|None, judgment_date: date|None,
 publication_date: date|None, legal_area: LegalArea|None, precedent_type: PrecedentType|None,
@@ -69,12 +74,14 @@ Helpers: `weight_for(tier)`, `tier_for_statute(chunk)`, `tier_for_case_law(doc)`
 ## Camada de recuperação — Fase 3 (dono: retrieval)
 
 ### EmbeddingProvider — `packages/embeddings/base.py` (Protocol, §27)
+
 `embed_texts(list[str]) -> list[list[float]]`, `embed_query(str) -> list[float]`.
 Impls: `FakeEmbeddingProvider` (determinístico, sem rede, hashed bag-of-words +
 destem PT + sinônimos jurídicos + TF sublinear, L2-normalizado, dim=256 default),
 `OpenAIEmbeddingProvider` (lazy import, lê settings; nunca em unit).
 
 ### VectorStore — `packages/storage/base.py` (Protocol, §28)
+
 `upsert_chunks(chunks, vectors) -> None`, `search(query_vector, top_k, filters?) ->
 list[VectorSearchResult]`. Impls: `QdrantVectorStore` (collection `legal_chunks`,
 distance COSINE, point id = uuid5(chunk_id) → idempotente), `InMemoryVectorStore`
@@ -83,10 +90,12 @@ payload §9; `FILTERABLE_KEYS = (doc_type, legal_area, source, article, norm_num
 norm_year, is_current)`.
 
 ### VectorSearchResult — `packages/storage/base.py` (dataclass frozen)
+
 `chunk_id: str`, `score: float` (cosseno bruto), `text: str`,
 `payload: dict`, `metadata: dict`.
 
 ### Retriever I/O — `packages/rag/types.py` (§29)
+
 - `RetrievalQuery`: `query, top_k=8, legal_area?, doc_type?, filters: dict`.
 - `RetrievedChunk` (saída do retriever, consumido por answer/agentic):
   `chunk_id, text, score` (composto §38), `semantic_score` (cosseno bruto),
@@ -100,6 +109,7 @@ casa o nº do artigo extraído da query (`query_analyzer.extract_article`).
 `context_builder.build_context(chunks) -> BuiltContext{text, citations, chunks}`.
 
 ### POST /search — `apps/api/routes/search.py`
+
 Request `SearchRequest`: `{query: str(min 1), top_k: int(1..50, default 8),
 filters?: dict}`. Response `SearchResponse`: `{query, top_k, results: SearchHit[]}`,
 `SearchHit`: `{chunk_id, text, score, semantic_score, citation: CitationOut,
@@ -110,6 +120,7 @@ source}`. Rota só valida e delega a `SearchService` (DI em `dependencies.py`:
 ## Camada de resposta — Fase 4 (dono: answer)
 
 ### LLMProvider — `packages/llm/base.py` (Protocol, §30)
+
 `generate_answer(messages: list[LLMMessage], context: BuiltContext) -> LLMAnswerDraft`.
 - `LLMMessage`: `{role: str, content: str}` (dataclass frozen).
 - `LLMAnswerDraft`: `{short_answer: str, legal_basis: list[DraftLegalBasis],
@@ -122,6 +133,7 @@ nunca em unit). A passagem do `BuiltContext` ao Protocol permite ao fake fundame
 estritamente nas fontes; o provider real usa o texto do prompt.
 
 ### AnswerRequest/AnswerResponse — `packages/answer/schemas.py` (§30)
+
 - `AnswerRequest`: `{question: str(min 1), top_k: int(1..50, default 8), filters?: dict}`.
 - `AnswerStatus` (StrEnum): `answered | refused`.
 - `AnswerResponse`: `{status: AnswerStatus, short_answer: str,
@@ -142,6 +154,7 @@ anexado a `caveats`; citações fora do contexto recuperado são removidas; recu
 → `status=refused`, `legal_basis=[]`, `sources=[]`.
 
 ### AnswerWriter — `packages/answer/answer_writer.py` (§30)
+
 `AnswerWriter(search_service, llm, min_semantic_score=0.20)`;
 `write(question, top_k=8, filters?) -> AnswerResponse`. Pipeline:
 retrieve **separado** (`SearchService.search_separated` → `statutes[]`, `case_law[]`) →
@@ -155,12 +168,14 @@ ambos os blocos, então súmula alucinada é detectada. `min_semantic_score` é 
 robusto vem do Area Classifier (Fase 7) + CitationAuditor (Fase 5).
 
 ### POST /ask — `apps/api/routes/ask.py`
+
 Request `AnswerRequest`, Response `AnswerResponse` (acima). Rota só valida e delega ao
 `AnswerWriter` (DI em `dependencies.py`: `get_llm_provider`/`get_answer_writer`,
 sobrescritíveis em teste; override de `get_llm_provider` deve retornar uma instância
 via `lambda`, não a classe). Prompts §32 em `packages/answer/prompts.py`.
 
 ### Para a Fase 5 (CitationAuditor) — entrada esperada
+
 Recebe `answer: AnswerResponse` + `selected_context: BuiltContext` (+ `sources`).
 Cada `legal_basis[].citations` já é ⊆ `sources[].chunk_id` (garantido pelo formatter),
 mas o auditor deve re-extrair claims do `short_answer`/`legal_basis[].text` e verificar
@@ -170,6 +185,7 @@ suporte contra `BuiltContext.chunks[].text`, calculando `citation_coverage` e
 ## Camada de auditoria — Fase 5 (dono: answer / CitationAuditAgent)
 
 ### CitationAuditor — `packages/answer/citation_auditor.py` (§31)
+
 Função pura, determinística, sem rede. API reusável pelo eval-agent:
 - `audit_claims(short_answer: str, legal_basis: list[LegalClaim], chunks:
   list[AuditChunk], *, max_unsupported_rate=0.05) -> CitationAuditResult`.
@@ -188,12 +204,14 @@ Função pura, determinística, sem rede. API reusável pelo eval-agent:
 - `passed = unsupported_legal_claim_rate <= 0.05` (§36). Saída no shape EXATO §31.
 
 ### Nó de runtime — `packages/agents/citation_auditor.py` (§12.8, Fase 7)
+
 Função pura (sem LangGraph ainda): `audit_answer(answer: AnswerResponse, context:
 BuiltContext) -> CitationAuditResult` adapta `legal_basis[]→LegalClaim` (carregando
 `citations` em `cited_ids`) e `context.chunks→AuditChunk`. `run_citation_audit_node`
 é o entrypoint que o grafo da Fase 7 chamará para preencher `LegalResearchState.audit`.
 
 ### Integração no AnswerWriter (§30 → §31)
+
 `AnswerWriter.write` agora: retrieve → context → LLM → `formatter.build_answer` →
 **auditoria**. Se o audit não passa: reescreve conservador (remove os `legal_basis`
 cujo `text` está em `unsupported_claims`; se o `short_answer` foi flagado, adota o
@@ -203,6 +221,7 @@ re-audit ainda falhar → **recusa segura** (`status=refused`, `legal_basis=[]`)
 `_MIN_SEMANTIC_SCORE` (primeira passada heurística), o gate robusto é o auditor.
 
 ### Campo `audit` do AnswerResponse — `packages/answer/schemas.py`
+
 `AnswerResponse.audit: CitationAudit | None = None`, onde
 `CitationAudit{citation_coverage:float, unsupported_legal_claim_rate:float,
 unsupported_claims:list[str], passed:bool}` (mesmo shape §31, serializável na resposta
@@ -210,6 +229,7 @@ HTTP `/ask`). `None` apenas em respostas que não passaram pela auditoria (não 
 no fluxo atual: toda resposta answered/refused pós-auditoria carrega `audit`).
 
 ### Para o eval-agent (Fase 5 evals)
+
 Reusar `audit_claims` / `audit_answer` e as métricas `citation_coverage` e
 `unsupported_legal_claim_rate` do `CitationAuditResult`. Threshold v1 (§36):
 `unsupported_legal_claim_rate ≤ 0.05`. NÃO relaxar o limiar para passar testes de
@@ -218,17 +238,20 @@ alucinação — bug = corrigir extração/verificação no auditor.
 ## Camada de jurisprudência — Fase 6 (dono: ingestion / CaseLawAgent)
 
 ### Seed STJ — `data/seed/case_law/stj_consumer_seed.jsonl`
+
 JSONL de súmulas públicas reais do STJ (consumer): por linha `summary_number, court,
 source, precedent_type, is_binding, legal_area, judgment_date, publication_date,
 ementa, source_url`. Sem PII/sigiloso (§40). 5 entradas (Súmulas 297, 302, 130, 479, 543).
 
 ### StjCaseLawLoader — `packages/ingestion/loaders/stj.py`
+
 `load() -> list[CaseLawDocument]`. `document_id=slugify("STJ-sumula-<n>")` (`stj-sumula-297`),
 `case_number="Súmula <n>"`, ementa normalizada, `content_hash=sha256(ementa)`,
 `precedent_type=summary`, `is_binding=False`. `StfCaseLawLoader` (`stf.py`) é placeholder
 (`NotImplementedError`) para fase futura.
 
 ### Chunker de ementa — `packages/ingestion/chunker.py`
+
 `chunk_case_law(doc) -> LegalChunk | None` e `chunk_case_law_documents(docs) -> list`.
 **Não há novo tipo de chunk**: jurisprudência vira `LegalChunk` com `doc_type=case_law`,
 `chunk_id=document_id`, `text=ementa`, `version=judgment_date.iso`. O payload §9 de
@@ -237,12 +260,14 @@ judgment_date, publication_date) viaja em `metadata` → projetado por `chunk_to
 sem alterar `payload.py`. Sem ementa → não emite (§22).
 
 ### Job — `apps/worker/jobs/ingest_case_law.py`
+
 `python -m apps.worker.jobs.ingest_case_law` → `data/generated/case_law_chunks.jsonl`
 (mesmo shape `LegalChunk` JSONL do `ingest_cdc`). Idempotente por `content_hash`,
 byte-estável com `created_at` fixo. **Pendência orquestrador**: `make ingest-case-law`
 e incluir o JSONL na indexação (collection `legal_chunks`).
 
 ### Para retrieval (Fase 6, dono: retrieval)
+
 Filtrar jurisprudência com `filters={"doc_type": "case_law"}` (já em `FILTERABLE_KEYS`);
 statute com `{"doc_type": "statute"}`. Metadados de citação de case_law no `metadata`/payload
 do resultado. `schemas.py` NÃO foi estendido (CaseLawDocument já bastava).
@@ -250,6 +275,7 @@ do resultado. `schemas.py` NÃO foi estendido (CaseLawDocument já bastava).
 ## Camada de recuperação — Fase 6 (dono: retrieval): separação statute/case_law
 
 ### Indexação (statute + case_law na mesma collection)
+
 `apps/worker/jobs/index_cdc.py` (via `load_indexable_chunks()` em `chunk_jsonl.py`) indexa
 `cdc_chunks.jsonl` + `case_law_chunks.jsonl` (quando presente) em `legal_chunks`. Idempotente
 por `chunk_id`. `load_case_law_chunks()` retorna `[]` se o JSONL não existe → jurisprudência
@@ -258,23 +284,27 @@ só é indexada/exibida com fonte (§22). Comando: `make ingest-cdc` →
 `make ingest-case-law`.
 
 ### Ranking de autoridade para case_law (§39)
+
 `legal_ranker.authority_for_payload` resolve `case_law` por `payload["metadata"]`
 (`precedent_type`/`court`): **STJ súmula = 0.88** (STJ_SUMMARY), STJ acórdão 0.75, STF 0.95,
 TJ 0.60. (Antes caía no fallback 0.75 por doc_type.)
 
 ### Recuperação separada — `packages/rag/retriever.py`
+
 `SeparatedRetrieval{statutes: list[RetrievedChunk], case_law: list[RetrievedChunk]}` via
 `LegalRetriever.retrieve_separated(RetrievalQuery)` (duas buscas doc_type-filtradas, cada bloco
 ranqueado/truncado a `top_k`). `SearchService.search_separated(query, top_k, filters?)` expõe
 ao app. `case_law=[]` quando nenhuma fonte de jurisprudência foi recuperada (nunca inventa, §22).
 
 ### POST /search (estendido)
+
 `SearchRequest` ganha `separate: bool=False`. Quando `true`, `SearchResponse` carrega
 `separated: {statutes: SearchHit[], case_law: SearchHit[]}` além de `results`. Cada `SearchHit`
 já traz `citation.doc_type ∈ {statute, case_law}`. Sem `separate`, comportamento Fase 3 inalterado;
 filtro `{"doc_type": ...}` continua válido.
 
 ### Consumo pelo answer
+
 Renderizar §32: "Fundamento legal" ← `statutes`; "Jurisprudência relevante" ← `case_law`
 (omitir bloco vazio). Alternativa: `search(..., filters={"doc_type": "statute"|"case_law"})`.
 `RetrievedChunk`/`CitationRef` NÃO mudaram (já carregavam `doc_type`); novidade = `SeparatedRetrieval`
@@ -289,6 +319,7 @@ no formato `sha256:<hex>`. Enums serializam como string (StrEnum).
 ## Camada agentic — Fase 7 (dono: agentic) — LangGraph runtime
 
 ### LegalResearchState efetivo — `packages/agents/state.py` (§13, Pydantic v2, EXATO)
+
 Sem campos extras além de §13. `status: Literal["running","needs_more_info","answered",
 "refused","failed"] = "running"`.
 - `RetrievedSource`: `chunk_id, doc_type, title, text, score, source_url: str|None=None,
@@ -301,6 +332,7 @@ Sem campos extras além de §13. `status: Literal["running","needs_more_info","a
   caveats: list[str], audit: CitationAuditResult|None, status, errors: list[str]`.
 
 ### Grafo — `packages/agents/graph.py` (§14)
+
 `build_graph(*, search: SearchService, llm: LLMProvider, buffer?, collector?) -> CompiledStateGraph`
 e `run_graph(question, *, run_id, search, llm, jurisdiction="BR", collector?) -> LegalResearchState`.
 Nós (nomes dos nós LangGraph): `intake, classify_legal_area, retrieve_statutes,
@@ -310,6 +342,7 @@ audit_citations, retry_synthesis, needs_more_info, check_risks`. Cada nó é
 edges; retry de síntese cap=1 contado por `RETRY_MARKER` em `state.errors`.
 
 ### Contrato dos nós (reuso por quem integrar /ask)
+
 - Researchers consomem `SearchService.search(q, top_k, {"doc_type":..., "legal_area":...})`
   e mapeiam `RetrievedChunk -> RetrievedSource` (`_adapters.chunk_to_source`).
 - `synthesize_answer` reusa `build_context`/`build_answer` + `LLMProvider`; a `AnswerResponse`
@@ -319,10 +352,12 @@ edges; retry de síntese cap=1 contado por `RETRY_MARKER` em `state.errors`.
 - `check_risks` injeta caveats + disclaimer §41, seta `final_answer`/`status` terminal.
 
 ### Traces — `packages/agents/trace.py`
+
 `TraceCollector.record(run_id, step, status, note)` + log `jusrag.agents`; `for_run(run_id)`.
 `retry_attempts(errors)`/`visible_errors(errors)` (filtra `RETRY_MARKER`).
 
 ### Dep adicionada
+
 `pyproject.toml [project.dependencies]`: `langgraph>=0.2` (instalado 1.2.5). Ratificada
 pelo FoundationAgent na Fase 10. `/ask` HTTP integrado ao grafo via `AnswerService`
 em `apps/api/dependencies.py` (Fase 11, AD-2 fix, graph-only sem flag).
@@ -330,6 +365,7 @@ em `apps/api/dependencies.py` (Fase 11, AD-2 fix, graph-only sem flag).
 ## Camada de avaliação — Fase 8 (dono: eval)
 
 ### Golden dataset — `data/seed/questions/consumer_golden.yaml`
+
 Lista YAML, 31 perguntas (24 in-scope CDC/STJ + 7 out-of-scope). Por item: `id` (estável,
 nunca renumerar — só append), `question`, `expected_chunk_ids` (chunk_ids do seed que DEVEM
 ser recuperados), `expected_behavior ∈ {answered, refused}`, `expected_articles?`,
@@ -337,17 +373,20 @@ ser recuperados), `expected_behavior ∈ {answered, refused}`, `expected_article
 artigo/súmula inventado). Calibrado para o `FakeEmbeddingProvider` (recall@5=1.0).
 
 ### Loader — `packages/evals/golden.py`
+
 `load_golden(path?) -> list[GoldenQuestion]` (valida shape, ids únicos, falha alto em arquivo
 malformado). `GoldenQuestion{id, question, expected_chunk_ids, expected_behavior,
 expected_articles, expected_sumulas, in_scope}`. `in_scope_questions` / `out_of_scope_questions`
 / `golden_stats`.
 
 ### Harness offline — `packages/evals/harness.py`
+
 `build_harness() -> EvalHarness{search: SearchService, answer_writer: AnswerWriter,
 indexed_count}` sobre `FakeEmbeddingProvider` + `InMemoryVectorStore` + `FakeLLMProvider`,
 indexado com `load_indexable_chunks()`. Determinístico, sem rede — caminho de CI.
 
 ### Métricas — `retrieval_eval.py` / `answer_eval.py` / `citation_eval.py` (reuso)
+
 - `evaluate_retrieval(harness, questions, k=5) -> RetrievalEvalReport` (recall@k micro-avg,
   gate `≥0.80`; precision@k informativo).
 - `evaluate_answers(harness, questions, produced?) -> AnswerEvalReport`
@@ -359,6 +398,7 @@ indexado com `load_indexable_chunks()`. Determinístico, sem rede — caminho de
   `unsupported_legal_claim_rate` (gate `≤0.05`).
 
 ### Orquestrador + gate — `packages/evals/run_all.py`
+
 `run_suite() -> EvalSuiteResult` (uma passada). `main()` escreve
 `data/generated/eval_report.{json,md}`, imprime resumo, e **sai !=0** quando o gate falha.
 Gate de alucinação (`unsupported_legal_claim_rate>0.05`) é SEMPRE aplicado; demais thresholds
@@ -366,6 +406,7 @@ Gate de alucinação (`unsupported_legal_claim_rate>0.05`) é SEMPRE aplicado; d
 `make eval` (`python -m packages.evals.run_all`) já existe; exit code agora falha o build.
 
 ### Valores reais no seed (fake provider): TODOS passam o gate §36
+
 recall@5=1.0 · citation_coverage=1.0 · unsupported_legal_claim_rate=0.0 ·
 refusal_when_no_source_rate=1.0 (relevancy heurístico 0.958, faithfulness 1.0).
 
@@ -384,6 +425,7 @@ via `make_embedding_provider`/`make_llm_provider` (selectors).
 ## Camada de providers locais — Fase 12 (donos: retrieval, answer)
 
 ### LocalEmbeddingProvider — `packages/embeddings/local_provider.py` (Protocol §27)
+
 - `__init__(model_name: str)` — guarda o nome; NÃO carrega modelo.
 - Lazy `_model()`: `from sentence_transformers import SentenceTransformer` no 1º uso.
   ImportError → `RuntimeError("sentence-transformers not installed; install with `pip install -e '.[local]'`")`.
@@ -392,6 +434,7 @@ via `make_embedding_provider`/`make_llm_provider` (selectors).
 - Selector "local": `LocalEmbeddingProvider(settings.local_embedding_model)`. Dim != openai (1536) → recriar collection Qdrant.
 
 ### OllamaLLMProvider — `packages/llm/ollama_provider.py` (Protocol §29/§30)
+
 - `__init__(base_url, model, timeout=60.0, transport=None)` — httpx.Client síncrono.
 - POST `{base_url}/api/chat` com `{model, messages, stream:false, format:"json", options:{temperature:0}}`.
 - Erro explícito (RuntimeError com `from exc`) em: `httpx.HTTPError`, status≠200, body não-JSON,
@@ -399,6 +442,7 @@ via `make_embedding_provider`/`make_llm_provider` (selectors).
 - Default model: `llama3.1:8b`. Selector "ollama" instancia via `settings.ollama_base_url`/`ollama_chat_model`.
 
 ### Settings novos (Foundation 12.1)
+
 - `ollama_base_url: str = "http://ollama:11434"`
 - `local_embedding_model: str = "sentence-transformers/paraphrase-multilingual-mpnet-base-v2"`
 - `ollama_chat_model: str = "llama3.1:8b"`
@@ -406,24 +450,29 @@ via `make_embedding_provider`/`make_llm_provider` (selectors).
 ## Fase 13 — adições contratuais (2026-06-18)
 
 ### Settings (packages/config/settings.py)
+
 - `enable_hybrid: bool = False` — ativa retrieval híbrido (semantic + BM25).
 - `hybrid_semantic_weight: float = 0.7`, `hybrid_bm25_weight: float = 0.3` — validador exige soma=1.0 ±1e-6.
 
 ### Thresholds recalibrados (data-justified, gates §2.2/§36 preservados)
+
 - packages/answer/citation_auditor.py `_MIN_OVERLAP`: 0.18 → 0.40 (Jaccard sobre corpus expandido; F1-optimal).
 - packages/answer/answer_writer.py `_MIN_SEMANTIC_SCORE`: 0.20 → 0.30 (idem; 0.29 após fine-tune em A.5).
 - packages/embeddings/fake_provider.py `idf_power`: novo (0.35) — dampens IDF para preservar recall@5 ≥ 0.80 em corpus 6× maior. Determinístico, offline.
 
 ### Loaders novos
+
 - packages/ingestion/loaders/planalto_html.py — HTML compilado Planalto → markdown `## Art. N`. Idempotente; SHA256 do HTML registrado em frontmatter.
 - packages/ingestion/loaders/stj.py — estendido para Temas repetitivos (além de súmulas); novo campo `verification_status: "verified" | "needs_review"` em CaseLawDocument metadata (não-quebrante).
 
 ### Eval harness
+
 - packages/evals/run_all.py CLI ampliado: `--provider={fake,openai,local}`. Sem flag = fake (comportamento atual). Provider real exige preflight (env var/serviço/dim Qdrant).
 - Makefile target `eval-real` adicionado. CI mantém apenas `make eval`.
 - eval_report.json/md inclui campo `provider`.
 
 ### Hybrid retrieval
+
 - packages/rag/hybrid_retriever.py — concreto. Quando `enable_hybrid=False`, delega 100% ao semantic (no-op contractual). Quando True: paralelo semantic+BM25, normalização min-max, dedup por chunk_id, combinação ponderada.
 - packages/storage/opensearch.py — FakeOpenSearchAdapter determinístico para testes offline. Real adapter requer OpenSearch container up.
 - packages/rag/legal_ranker.py — quando hybrid ativo, substitui `semantic_similarity` por `hybrid_score` no composto §38 (pesos 0.70/0.20/0.10 inalterados).

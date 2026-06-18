@@ -35,7 +35,7 @@ Tratar isso como evidência válida violava §40.4 e §2 (audit-trail quebrado).
 
 15 arquivos `stj_tema_*.html` (ISO-8859-1 → UTF-8). Novos SHA256:
 
-```
+```text
 9fede2e74f10eaa41bc38de2429025a9978a00f9892956424903138b472226ee  stj_tema_1061.html
 03702d7b65d1ab910122f282a610703c8e98bca06bd762492be3f187aa4849cf  stj_tema_1112.html
 5de7e20d511234f745dae5d054a1d09cf67239bcc5cee2c217b64f41ebbe72bb  stj_tema_247.html
