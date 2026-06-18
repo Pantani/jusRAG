@@ -8,7 +8,10 @@ explicit validation error at startup.
 from functools import lru_cache
 from typing import Literal
 
+from pydantic import model_validator
 from pydantic_settings import BaseSettings, SettingsConfigDict
+
+_HYBRID_WEIGHT_TOLERANCE = 1e-6
 
 
 class Settings(BaseSettings):
@@ -62,6 +65,21 @@ class Settings(BaseSettings):
     # OpenSearch (optional)
     enable_opensearch: bool = False
     opensearch_url: str = "http://opensearch:9200"
+
+    # Hybrid retrieval (semantic + BM25). Default OFF — Phase 3 baseline preserved.
+    enable_hybrid: bool = False
+    hybrid_semantic_weight: float = 0.7
+    hybrid_bm25_weight: float = 0.3
+
+    @model_validator(mode="after")
+    def _validate_hybrid_weights(self) -> "Settings":
+        total = self.hybrid_semantic_weight + self.hybrid_bm25_weight
+        if abs(total - 1.0) > _HYBRID_WEIGHT_TOLERANCE:
+            raise ValueError(
+                "hybrid_semantic_weight + hybrid_bm25_weight must sum to 1.0 "
+                f"(got {total:.6f})"
+            )
+        return self
 
     # Run logs
     store_run_logs: bool = True
