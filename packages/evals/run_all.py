@@ -42,7 +42,14 @@ from packages.evals.answer_eval import (
     produce_answers,
 )
 from packages.evals.citation_eval import CitationEvalReport, evaluate_citations
-from packages.evals.golden import GoldenStats, golden_stats, load_golden
+from packages.evals.golden import (
+    GoldenQuestion,
+    GoldenStats,
+    golden_stats,
+    in_scope_questions,
+    load_golden,
+    out_of_scope_questions,
+)
 from packages.evals.harness import EvalHarness, build_harness, build_real_harness
 from packages.evals.report import render_markdown
 from packages.evals.retrieval_eval import RetrievalEvalReport, evaluate_retrieval
@@ -53,6 +60,9 @@ REPORT_JSON = _GENERATED / "eval_report.json"
 REPORT_MD = _GENERATED / "eval_report.md"
 
 MIN_GOLDEN = 30
+
+# Sentinel: 0 disables sampling (full LLM eval over the whole golden set).
+SAMPLE_LLM_DISABLED = 0
 
 # Default LLM paired with each embedding provider when --llm-provider is omitted.
 _DEFAULT_LLM_FOR_EMBEDDING = {
@@ -75,6 +85,25 @@ class ProviderSelection:
 
 
 @dataclass(frozen=True)
+class LLMSampleInfo:
+    """Records the LLM-sample subset used when --sample-llm is active.
+
+    ``size == 0`` (the default) means LLM ran over the *whole* golden set and the
+    §36 gates are bindingly enforced. ``size > 0`` means metrics derived from LLM
+    output (citation_coverage, unsupported_legal_claim_rate,
+    refusal_when_no_source_rate) were computed over the subset only — gates are
+    reported as informational ("(amostra)"), never blocking.
+    """
+
+    size: int
+    sampled_ids: tuple[str, ...]
+
+    @property
+    def active(self) -> bool:
+        return self.size > 0
+
+
+@dataclass(frozen=True)
 class EvalSuiteResult:
     """The full aggregated suite: every §36 metric + headcount + gate verdict."""
 
@@ -83,6 +112,7 @@ class EvalSuiteResult:
     citation: CitationEvalReport
     answer: AnswerEvalReport
     provider: ProviderSelection = ProviderSelection(embedding="fake", llm="fake")
+    llm_sample: LLMSampleInfo = LLMSampleInfo(size=0, sampled_ids=())
 
     @property
     def gate_checks(self) -> list[tuple[str, bool, bool]]:
@@ -96,8 +126,14 @@ class EvalSuiteResult:
         ]
 
     def gate_passed(self, *, strict: bool) -> bool:
-        """Build verdict. Strict: every gate. Non-strict: only the hallucination gate."""
+        """Build verdict. Strict: every gate. Non-strict: only the hallucination gate.
 
+        When ``llm_sample.active`` is True the gate is informational only — the
+        subset is statistically too weak to bind CI — so this returns True.
+        """
+
+        if self.llm_sample.active:
+            return True
         return all(
             passed for _, passed, always in self.gate_checks if strict or always
         )
@@ -107,6 +143,11 @@ class EvalSuiteResult:
             "provider": {
                 "embedding": self.provider.embedding,
                 "llm": self.provider.llm,
+            },
+            "llm_sampled": {
+                "size": self.llm_sample.size,
+                "active": self.llm_sample.active,
+                "sampled_ids": list(self.llm_sample.sampled_ids),
             },
             "golden": {
                 "total": self.golden.total,
@@ -118,6 +159,7 @@ class EvalSuiteResult:
             "gate": {
                 "strict": strict,
                 "passed": self.gate_passed(strict=strict),
+                "informational": self.llm_sample.active,
                 "checks": [
                     {"metric": name, "passed": passed, "always_enforced": always}
                     for name, passed, always in self.gate_checks
@@ -131,19 +173,72 @@ class EvalSuiteResult:
         }
 
 
+def stratified_llm_sample(
+    questions: list[GoldenQuestion],
+    size: int,
+) -> list[GoldenQuestion]:
+    """Pick ``size`` questions: ``size//2`` in-scope + the remainder OOS.
+
+    Deterministic — preserves the golden YAML order, no random. When ``size``
+    is odd the extra slot goes to in-scope (the larger family). If a stratum
+    has fewer questions than its share, the leftover is borrowed from the
+    other stratum so the total sample size is honored.
+    """
+
+    if size <= 0:
+        return list(questions)
+    in_scope = in_scope_questions(questions)
+    out_scope = out_of_scope_questions(questions)
+    in_quota = (size + 1) // 2
+    oos_quota = size // 2
+    in_take = min(in_quota, len(in_scope))
+    oos_take = min(oos_quota, len(out_scope))
+    # Borrow leftover slots from the other stratum if one ran short.
+    leftover = size - in_take - oos_take
+    if leftover > 0:
+        if in_take < len(in_scope):
+            extra = min(leftover, len(in_scope) - in_take)
+            in_take += extra
+            leftover -= extra
+        if leftover > 0 and oos_take < len(out_scope):
+            extra = min(leftover, len(out_scope) - oos_take)
+            oos_take += extra
+    picked_ids = {q.id for q in in_scope[:in_take]} | {q.id for q in out_scope[:oos_take]}
+    # Preserve the original golden order.
+    return [q for q in questions if q.id in picked_ids]
+
+
 def run_suite(
     harness: EvalHarness | None = None,
     *,
     provider: ProviderSelection | None = None,
+    sample_llm: int = SAMPLE_LLM_DISABLED,
 ) -> EvalSuiteResult:
-    """Run every eval over the golden set in a single pipeline pass."""
+    """Run every eval over the golden set in a single pipeline pass.
+
+    When ``sample_llm > 0`` retrieval still runs over the *full* golden set
+    (cheap, deterministic) but LLM-bound metrics (citation, answer/refusal)
+    are computed only over the stratified subset. The §36 gate becomes
+    informational in that mode — a sample of N is too small to bind CI.
+    """
 
     harness = harness or build_harness()
     questions = load_golden()
 
     retrieval = evaluate_retrieval(harness, questions)
-    produced = produce_answers(harness, questions)
-    answer = evaluate_answers(harness, questions, produced=produced)
+
+    if sample_llm > 0:
+        subset = stratified_llm_sample(questions, sample_llm)
+        sample_info = LLMSampleInfo(
+            size=len(subset),
+            sampled_ids=tuple(q.id for q in subset),
+        )
+    else:
+        subset = questions
+        sample_info = LLMSampleInfo(size=0, sampled_ids=())
+
+    produced = produce_answers(harness, subset)
+    answer = evaluate_answers(harness, subset, produced=produced)
     citation = evaluate_citations(answer_cases_for_citation(harness, produced))
 
     return EvalSuiteResult(
@@ -152,6 +247,7 @@ def run_suite(
         citation=citation,
         answer=answer,
         provider=provider or ProviderSelection(embedding="fake", llm="fake"),
+        llm_sample=sample_info,
     )
 
 
@@ -178,10 +274,19 @@ def _print_summary(result: EvalSuiteResult, *, strict: bool) -> None:
         ),
         ("refusal_when_no_source_rate", ans.refusal_when_no_source_rate, 0.90, ans.refusal_passed),
     ]
+    sampled = result.llm_sample.active
+    suffix = " (amostra)" if sampled else ""
     for name, value, threshold, passed in rows:
         mark = "PASS" if passed else "FAIL"
-        print(f"  [{mark}] {name} = {value:.4f} (threshold {threshold})")
-    verdict = "PASSED" if result.gate_passed(strict=strict) else "FAILED"
+        print(f"  [{mark}] {name} = {value:.4f} (threshold {threshold}){suffix}")
+    if sampled:
+        print(
+            f"LLM sample active: {result.llm_sample.size} questions "
+            f"({', '.join(result.llm_sample.sampled_ids)}); gate is informational."
+        )
+        verdict = "INFORMATIONAL"
+    else:
+        verdict = "PASSED" if result.gate_passed(strict=strict) else "FAILED"
     mode = "strict" if strict else "hallucination-only"
     print(f"Gate ({mode}): {verdict}")
     print(f"Report: {REPORT_JSON} | {REPORT_MD}")
@@ -208,6 +313,19 @@ def _parse_args(argv: list[str] | None) -> argparse.Namespace:
         choices=["fake", "openai", "ollama"],
         default=None,
         help="LLM provider override; defaults pair to --provider (openai→openai, local→ollama).",
+    )
+    parser.add_argument(
+        "--sample-llm",
+        type=int,
+        default=SAMPLE_LLM_DISABLED,
+        metavar="N",
+        help=(
+            "If > 0, run LLM-bound metrics over a stratified subset of N golden "
+            "questions (N//2 in-scope + N//2 out-of-scope, deterministic YAML "
+            "order). Retrieval still runs on the full set. Use to validate the "
+            "plumbing of slow local models (e.g. CPU Ollama) without paying for "
+            "a full pass; the §36 gate becomes informational only."
+        ),
     )
     return parser.parse_args(argv)
 
@@ -330,7 +448,8 @@ def main(argv: list[str] | None = None) -> int:
     _apply_provider_env(selection)
     strict = _strict_mode()
     harness = _build_harness_for(selection)
-    result = run_suite(harness, provider=selection)
+    sample_llm = max(0, int(args.sample_llm))
+    result = run_suite(harness, provider=selection, sample_llm=sample_llm)
     write_reports(result, strict=strict)
     _print_summary(result, strict=strict)
     if result.golden.total < MIN_GOLDEN:

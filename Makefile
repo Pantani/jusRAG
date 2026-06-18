@@ -41,8 +41,16 @@ eval:
 #   EVAL_PROVIDER=openai OPENAI_API_KEY=sk-... make eval-real
 #   EVAL_PROVIDER=local make eval-real            # sentence-transformers + ollama
 #   EVAL_PROVIDER=fake make eval-real             # equivalent to `make eval`
+#
+# `EVAL_SAMPLE_LLM=N` (optional): run LLM-bound metrics over a stratified
+# subset of N golden questions (N//2 in-scope + N//2 OOS); retrieval stays
+# full. The §36 gate becomes informational. Useful to validate plumbing of
+# slow local models (e.g. CPU Ollama: ~25min for N=10 vs ~40h full).
+#   EVAL_PROVIDER=local EVAL_SAMPLE_LLM=10 make eval-real
 eval-real:
-	python -m packages.evals.run_all --provider=$${EVAL_PROVIDER:-fake}
+	python -m packages.evals.run_all \
+		--provider=$${EVAL_PROVIDER:-fake} \
+		--sample-llm=$${EVAL_SAMPLE_LLM:-0}
 
 # Pull local models into the Ollama container (Phase 12). Requires the
 # `docker-compose.override.local.yml` overlay to be active. `nomic-embed-text`

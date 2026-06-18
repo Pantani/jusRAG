@@ -189,6 +189,78 @@ def test_default_invocation_stays_on_fake_providers(
     assert payload["provider"] == {"embedding": "fake", "llm": "fake"}
 
 
+def test_sample_llm_runs_retrieval_full_but_llm_subset(
+    monkeypatch: pytest.MonkeyPatch,
+) -> None:
+    """--sample-llm N: retrieval over full golden; LLM (produce_answers) over N only."""
+
+    from packages.evals import run_all as ra
+
+    questions = ra.load_golden()
+    total = len(questions)
+
+    produce_calls: list[int] = []
+    real_produce = ra.produce_answers
+
+    def spy_produce(harness, subset):  # type: ignore[no-untyped-def]
+        produce_calls.append(len(subset))
+        return real_produce(harness, subset)
+
+    retrieval_calls: list[int] = []
+    real_retrieval = ra.evaluate_retrieval
+
+    def spy_retrieval(harness, qs, **kwargs):  # type: ignore[no-untyped-def]
+        retrieval_calls.append(len(qs))
+        return real_retrieval(harness, qs, **kwargs)
+
+    monkeypatch.setattr(ra, "produce_answers", spy_produce)
+    monkeypatch.setattr(ra, "evaluate_retrieval", spy_retrieval)
+
+    result = ra.run_suite(sample_llm=4)
+
+    assert retrieval_calls == [total]  # retrieval gets the full set
+    assert produce_calls == [4]  # LLM only the 4-sample
+    assert result.llm_sample.size == 4
+    assert result.llm_sample.active
+    assert len(result.llm_sample.sampled_ids) == 4
+    # Gate is informational under sampling: always "passes" (does not block CI).
+    assert result.gate_passed(strict=True)
+
+
+def test_stratified_llm_sample_is_deterministic_and_balanced() -> None:
+    from packages.evals.run_all import stratified_llm_sample
+
+    questions = load_golden_for_sample_test()
+    sample = stratified_llm_sample(questions, 4)
+    ids = [q.id for q in sample]
+    in_scope = [q for q in sample if q.in_scope]
+    oos = [q for q in sample if not q.in_scope]
+    assert len(sample) == 4
+    assert len(in_scope) == 2
+    assert len(oos) == 2
+    # Determinism: same call -> same order (preserves YAML order).
+    again = [q.id for q in stratified_llm_sample(questions, 4)]
+    assert ids == again
+
+
+def load_golden_for_sample_test():  # type: ignore[no-untyped-def]
+    from packages.evals.golden import load_golden as _lg
+
+    return _lg()
+
+
+def test_sample_llm_report_marks_gate_informational(tmp_path: Path) -> None:
+    from packages.evals.report import render_markdown
+
+    payload = run_suite(sample_llm=4).as_dict(strict=True)
+    assert payload["llm_sampled"]["active"] is True
+    assert payload["llm_sampled"]["size"] == 4
+    assert payload["gate"]["informational"] is True
+    md = render_markdown(payload)
+    assert "LLM sample" in md
+    assert "INFORMATIONAL" in md
+
+
 def test_resolve_providers_pairs_default_llm() -> None:
     import argparse
 

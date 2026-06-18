@@ -14,12 +14,41 @@ model uses the prompt text.
 from __future__ import annotations
 
 import json
+import os
 from typing import Any
 
 import httpx
 
 from packages.llm.base import DraftLegalBasis, LLMAnswerDraft, LLMMessage
 from packages.rag.context_builder import BuiltContext
+
+DEFAULT_OLLAMA_TIMEOUT_SECONDS = 300.0
+_TIMEOUT_ENV = "OLLAMA_TIMEOUT_SECONDS"
+
+
+def _resolve_timeout(explicit: float | None) -> float:
+    """Pick the HTTP timeout (seconds). Explicit arg > env > default.
+
+    A malformed env value is a configuration error: surface it explicitly per
+    system rules §2/§6 (no silent fallbacks).
+    """
+
+    if explicit is not None:
+        return explicit
+    raw = os.environ.get(_TIMEOUT_ENV)
+    if raw is None or raw == "":
+        return DEFAULT_OLLAMA_TIMEOUT_SECONDS
+    try:
+        value = float(raw)
+    except ValueError as exc:
+        raise RuntimeError(
+            f"Invalid {_TIMEOUT_ENV}={raw!r}: must be a positive float (seconds)."
+        ) from exc
+    if value <= 0:
+        raise RuntimeError(
+            f"Invalid {_TIMEOUT_ENV}={raw!r}: must be a positive float (seconds)."
+        )
+    return value
 
 
 class OllamaLLMProvider:
@@ -29,12 +58,17 @@ class OllamaLLMProvider:
         self,
         base_url: str,
         model: str,
-        timeout: float = 300.0,
+        timeout: float | None = None,
         transport: httpx.BaseTransport | None = None,
     ) -> None:
         self._base_url = base_url.rstrip("/")
         self._model = model
-        self._client = httpx.Client(timeout=timeout, transport=transport)
+        self._timeout = _resolve_timeout(timeout)
+        self._client = httpx.Client(timeout=self._timeout, transport=transport)
+
+    @property
+    def timeout(self) -> float:
+        return self._timeout
 
     def generate_answer(
         self,
