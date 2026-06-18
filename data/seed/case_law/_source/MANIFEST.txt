@@ -17,3 +17,11 @@ dbde2da0af56fdc937a1b1baed8c6dccb971b21791e613e98869cb76866e634e  stj_tema_610.h
 0078fbaba4702fe5fed82d10c38a1e82be72ba984b7a00bc20868b69154a3554  stj_tema_958.html
 09f77d174d5771539cd75770b228b4f22cfa2d64041ec21af61b0ca365101678  stj_tema_960.html
 8e65bc71be9f154f157b4ef00414f6ea51108bcdd21ce1c2e77b99255db1e48f  stj_tema_990.html
+
+# Fase 13.D.1 — desbloqueio via Wayback Machine (snapshots de 2022-11-21 do SCON)
+bf8517488af6b6c19c35cc57703d47c2b0672943d205c8a1b1584247f9964d6c  cloudflare_unblock/wayback_472.html
+9eb20c286e9d96290232ba9a989536a5c54303755b0f771ad5b4613880289548  cloudflare_unblock/wayback_595.html
+c143d3bc81d1a63a3d55335bc13b5dc1cd4b426f2ba5c669f6e1e412d0eaf2b9  cloudflare_unblock/wayback_608.html
+9df610f9eaae874e00eb8867ac19791a264ab1a4a958bb21917db9d0cc5c7212  cloudflare_unblock/wayback_477.html  # 0-result snapshot (proof of attempt)
+db74b45899e579a4e0efb07baf5e2476ac4a68da1f92161ef06835cdeb5af211  cloudflare_unblock/wayback_532.html  # 0-result snapshot (proof of attempt)
+5e32173c2da70d33d66dabce46714a36d2bd443b7b48554a4f95f060bb22ea92  cloudflare_unblock/wayback_632.html  # 0-result snapshot (proof of attempt)
