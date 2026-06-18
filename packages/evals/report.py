@@ -12,12 +12,25 @@ from typing import Any
 
 def render_markdown(payload: dict[str, Any]) -> str:
     lines: list[str] = ["# JusRAG Brasil — Eval Report", ""]
+    lines += _provider_section(payload.get("provider"))
     lines += _golden_section(payload["golden"])
     lines += _gate_section(payload["gate"])
     lines += _metrics_table(payload)
     lines += _failures_section(payload["metrics"])
     lines.append("")
     return "\n".join(lines)
+
+
+def _provider_section(provider: dict[str, Any] | None) -> list[str]:
+    if not provider:
+        return []
+    return [
+        "## Providers",
+        "",
+        f"- Embedding: **{provider.get('embedding', 'unknown')}**",
+        f"- LLM: **{provider.get('llm', 'unknown')}**",
+        "",
+    ]
 
 
 def _golden_section(golden: dict[str, Any]) -> list[str]:

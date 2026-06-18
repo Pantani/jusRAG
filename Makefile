@@ -1,4 +1,4 @@
-.PHONY: up down test lint format ingest-cdc ingest-case-law index-cdc search-demo ask-demo eval pull-models
+.PHONY: up down test lint format ingest-cdc ingest-case-law index-cdc search-demo ask-demo eval eval-real pull-models
 
 up:
 	docker compose up --build
@@ -33,6 +33,16 @@ ask-demo:
 
 eval:
 	python -m packages.evals.run_all
+
+# Opt-in eval against real providers — NOT used by CI. Requires a running Qdrant
+# stack (`make up`) whose `legal_chunks` collection matches the chosen provider's
+# vector size; run-time pre-flight aborts with a recreate command on mismatch.
+# Usage:
+#   EVAL_PROVIDER=openai OPENAI_API_KEY=sk-... make eval-real
+#   EVAL_PROVIDER=local make eval-real            # sentence-transformers + ollama
+#   EVAL_PROVIDER=fake make eval-real             # equivalent to `make eval`
+eval-real:
+	python -m packages.evals.run_all --provider=$${EVAL_PROVIDER:-fake}
 
 # Pull local models into the Ollama container (Phase 12). Requires the
 # `docker-compose.override.local.yml` overlay to be active. `nomic-embed-text`

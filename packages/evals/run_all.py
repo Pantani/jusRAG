@@ -14,11 +14,20 @@ Gate semantics (§36, and the rule "make eval may fail the build"):
   to enforce *only* the hallucination gate (e.g. while a dependent module is being
   fixed); the report still records every pass/fail regardless.
 
-Fully offline (fake providers) — safe to run in CI with no network.
+Provider modes (CI vs opt-in):
+
+* ``python -m packages.evals.run_all`` (no flag) — fake providers, no network, no
+  Qdrant. This is the CI path (``make eval``) and stays deterministic.
+* ``--provider={fake,openai,local}`` — selects the embedding provider; for openai
+  and local also pairs a sensible default LLM (openai → ``openai``; local → ``ollama``).
+  Override the LLM independently with ``--llm-provider={fake,openai,ollama}``.
+  Used by ``make eval-real``; requires a running Qdrant collection whose vector size
+  matches the chosen embedding provider (pre-flight aborts on mismatch).
 """
 
 from __future__ import annotations
 
+import argparse
 import json
 import os
 import sys
@@ -34,7 +43,7 @@ from packages.evals.answer_eval import (
 )
 from packages.evals.citation_eval import CitationEvalReport, evaluate_citations
 from packages.evals.golden import GoldenStats, golden_stats, load_golden
-from packages.evals.harness import EvalHarness, build_harness
+from packages.evals.harness import EvalHarness, build_harness, build_real_harness
 from packages.evals.report import render_markdown
 from packages.evals.retrieval_eval import RetrievalEvalReport, evaluate_retrieval
 
@@ -45,6 +54,25 @@ REPORT_MD = _GENERATED / "eval_report.md"
 
 MIN_GOLDEN = 30
 
+# Default LLM paired with each embedding provider when --llm-provider is omitted.
+_DEFAULT_LLM_FOR_EMBEDDING = {
+    "fake": "fake",
+    "openai": "openai",
+    "local": "ollama",
+}
+
+
+@dataclass(frozen=True)
+class ProviderSelection:
+    """Resolved (embedding, llm) provider pair used by the eval suite."""
+
+    embedding: str
+    llm: str
+
+    @property
+    def label(self) -> str:
+        return f"embedding={self.embedding}, llm={self.llm}"
+
 
 @dataclass(frozen=True)
 class EvalSuiteResult:
@@ -54,6 +82,7 @@ class EvalSuiteResult:
     retrieval: RetrievalEvalReport
     citation: CitationEvalReport
     answer: AnswerEvalReport
+    provider: ProviderSelection = ProviderSelection(embedding="fake", llm="fake")
 
     @property
     def gate_checks(self) -> list[tuple[str, bool, bool]]:
@@ -75,6 +104,10 @@ class EvalSuiteResult:
 
     def as_dict(self, *, strict: bool) -> dict[str, Any]:
         return {
+            "provider": {
+                "embedding": self.provider.embedding,
+                "llm": self.provider.llm,
+            },
             "golden": {
                 "total": self.golden.total,
                 "in_scope": self.golden.in_scope,
@@ -98,7 +131,11 @@ class EvalSuiteResult:
         }
 
 
-def run_suite(harness: EvalHarness | None = None) -> EvalSuiteResult:
+def run_suite(
+    harness: EvalHarness | None = None,
+    *,
+    provider: ProviderSelection | None = None,
+) -> EvalSuiteResult:
     """Run every eval over the golden set in a single pipeline pass."""
 
     harness = harness or build_harness()
@@ -114,6 +151,7 @@ def run_suite(harness: EvalHarness | None = None) -> EvalSuiteResult:
         retrieval=retrieval,
         citation=citation,
         answer=answer,
+        provider=provider or ProviderSelection(embedding="fake", llm="fake"),
     )
 
 
@@ -125,6 +163,7 @@ def write_reports(result: EvalSuiteResult, *, strict: bool) -> None:
 
 
 def _print_summary(result: EvalSuiteResult, *, strict: bool) -> None:
+    print(f"Provider: {result.provider.label}")
     g = result.golden
     print(f"Golden questions: {g.total} (in-scope {g.in_scope}, out-of-scope {g.out_of_scope})")
     ret, cit, ans = result.retrieval, result.citation, result.answer
@@ -152,9 +191,146 @@ def _strict_mode() -> bool:
     return os.environ.get("EVAL_GATE_STRICT", "1") != "0"
 
 
-def main() -> int:
+def _parse_args(argv: list[str] | None) -> argparse.Namespace:
+    parser = argparse.ArgumentParser(prog="run_all", description=__doc__)
+    parser.add_argument(
+        "--provider",
+        choices=["fake", "openai", "local"],
+        default=None,
+        help=(
+            "Embedding provider for the eval. Default (omitted): fake — offline, "
+            "deterministic, CI baseline (make eval). Real values opt into the live "
+            "Qdrant + provider stack (make eval-real)."
+        ),
+    )
+    parser.add_argument(
+        "--llm-provider",
+        choices=["fake", "openai", "ollama"],
+        default=None,
+        help="LLM provider override; defaults pair to --provider (openai→openai, local→ollama).",
+    )
+    return parser.parse_args(argv)
+
+
+def _resolve_providers(args: argparse.Namespace) -> ProviderSelection:
+    """Pick (embedding, llm). Default (no flag) preserves the fake CI baseline."""
+
+    if args.provider is None and args.llm_provider is None:
+        return ProviderSelection(embedding="fake", llm="fake")
+    embedding = args.provider or "fake"
+    llm = args.llm_provider or _DEFAULT_LLM_FOR_EMBEDDING[embedding]
+    return ProviderSelection(embedding=embedding, llm=llm)
+
+
+def _apply_provider_env(selection: ProviderSelection) -> None:
+    """Mirror the CLI choice into env so settings/selectors see the same provider."""
+
+    os.environ["EMBEDDING_PROVIDER"] = selection.embedding
+    os.environ["LLM_PROVIDER"] = selection.llm
+    # get_settings() is lru_cache'd — invalidate so the new env is observed.
+    from packages.config.settings import get_settings as _gs
+
+    _gs.cache_clear()
+
+
+def _check_provider_prereqs(selection: ProviderSelection) -> None:
+    """Fail fast with a clear message when a real provider is unusable."""
+
+    if selection.embedding == "openai" or selection.llm == "openai":
+        if not os.environ.get("OPENAI_API_KEY"):
+            raise SystemExit(
+                "OPENAI_API_KEY is not set; cannot run eval with provider 'openai'. "
+                "Export it (e.g. `export OPENAI_API_KEY=sk-...`) or pick another provider."
+            )
+    if selection.llm == "ollama":
+        _check_ollama_reachable()
+
+
+def _check_ollama_reachable() -> None:
+    from packages.config.settings import get_settings
+
+    base_url = get_settings().ollama_base_url.rstrip("/")
+    try:
+        import httpx
+
+        httpx.get(f"{base_url}/api/tags", timeout=2.0)
+    except Exception as exc:  # noqa: BLE001 — surface any transport failure
+        raise SystemExit(
+            f"Ollama is not reachable at {base_url} ({exc}). "
+            "Start it (e.g. `make up` with the local overlay) or pick another LLM provider."
+        ) from exc
+
+
+def _preflight_qdrant(selection: ProviderSelection) -> None:
+    """Abort if the existing ``legal_chunks`` collection has a different vector size.
+
+    Never deletes — destructive ops require explicit operator action. The error
+    message tells the operator exactly which command to run.
+    """
+
+    from packages.config.settings import get_settings
+    from packages.embeddings.selector import embedding_vector_size
+
+    settings = get_settings()
+    expected = embedding_vector_size(settings)
+    collection = settings.qdrant_collection_legal_chunks
+    url = settings.qdrant_url.rstrip("/")
+
+    try:
+        import httpx
+
+        response = httpx.get(f"{url}/collections/{collection}", timeout=3.0)
+    except Exception as exc:  # noqa: BLE001
+        raise SystemExit(
+            f"Qdrant pre-flight failed: cannot reach {url} ({exc}). "
+            "Start it with `make up` before running eval-real."
+        ) from exc
+
+    if response.status_code == 404:
+        # Collection will be created on first upsert with the correct size — fine.
+        return
+    if response.status_code != 200:
+        raise SystemExit(
+            f"Qdrant pre-flight failed: HTTP {response.status_code} from "
+            f"{url}/collections/{collection}: {response.text[:200]!r}"
+        )
+
+    try:
+        data = response.json()
+        size = int(
+            data["result"]["config"]["params"]["vectors"]["size"]
+        )
+    except (KeyError, TypeError, ValueError) as exc:
+        raise SystemExit(
+            f"Qdrant pre-flight failed: unexpected collection schema: {exc}"
+        ) from exc
+
+    if size != expected:
+        raise SystemExit(
+            f"Qdrant collection '{collection}' has vector size {size}, but provider "
+            f"'{selection.embedding}' requires {expected}. Recreate the collection:\n"
+            f"  curl -X DELETE {url}/collections/{collection} && make index-cdc"
+        )
+
+
+def _build_harness_for(selection: ProviderSelection) -> EvalHarness:
+    if selection.embedding == "fake" and selection.llm == "fake":
+        return build_harness()
+    _check_provider_prereqs(selection)
+    _preflight_qdrant(selection)
+    return build_real_harness()
+
+
+def main(argv: list[str] | None = None) -> int:
+    # When invoked programmatically (e.g. tests), default to no args so we don't
+    # accidentally parse the host's sys.argv (pytest flags, etc.). CLI use goes
+    # through ``if __name__ == "__main__"`` below which passes ``sys.argv[1:]``.
+    args = _parse_args(argv if argv is not None else [])
+    selection = _resolve_providers(args)
+    _apply_provider_env(selection)
     strict = _strict_mode()
-    result = run_suite()
+    harness = _build_harness_for(selection)
+    result = run_suite(harness, provider=selection)
     write_reports(result, strict=strict)
     _print_summary(result, strict=strict)
     if result.golden.total < MIN_GOLDEN:
@@ -164,4 +340,4 @@ def main() -> int:
 
 
 if __name__ == "__main__":
-    sys.exit(main())
+    sys.exit(main(sys.argv[1:]))
