@@ -35,10 +35,10 @@ from packages.rag.legal_ranker import (
     exact_citation_match,
 )
 from packages.rag.query_analyzer import build_filters, extract_article
-from packages.rag.retriever import LegalRetriever
+from packages.rag.retriever import LegalRetriever, SeparatedRetrieval
 from packages.rag.types import CitationRef, RetrievalQuery, RetrievedChunk
 from packages.storage.base import VectorSearchResult, VectorStore
-from packages.storage.opensearch import BM25SearchResult, BM25Store
+from packages.storage.opensearch import BM25SearchResult, BM25Store, OpenSearchBM25Store
 
 _CANDIDATE_MULTIPLIER = 3
 _MIN_CANDIDATES = 16
@@ -126,10 +126,34 @@ class HybridRetriever:
                 + AUTHORITY_WEIGHT * authority
                 + CITATION_WEIGHT * citation
             )
-            ranked.append(_to_chunk(cand, score, hybrid))
+            ranked.append(_to_chunk(cand, score, cand.semantic_raw))
 
         ranked.sort(key=lambda r: (-r.score, r.chunk_id))
         return ranked[:top_k]
+
+    def retrieve_separated(self, request: RetrievalQuery) -> SeparatedRetrieval:
+        # BM25 fusion not applied on the statute/case_law split path in v1.2;
+        # the dense retriever already enforces the topology used by §22.
+        return self._dense.retrieve_separated(request)
+
+
+def make_retriever(
+    embeddings: EmbeddingProvider,
+    store: VectorStore,
+    settings: Settings,
+) -> LegalRetriever | HybridRetriever:
+    """Build the retriever the runtime should use.
+
+    Returns ``LegalRetriever`` (zero overhead) when ``enable_hybrid`` is False;
+    otherwise wraps it in ``HybridRetriever`` with an ``OpenSearchBM25Store``
+    built from ``settings.opensearch_url``. This is the single seam through
+    which ``/ask``, ``/search`` and ``make eval-real`` pick up the flag.
+    """
+
+    if not settings.enable_hybrid:
+        return LegalRetriever(embeddings, store)
+    bm25 = OpenSearchBM25Store(url=settings.opensearch_url)
+    return HybridRetriever(embeddings, store, settings, bm25=bm25)
 
 
 def _merge_candidates(
@@ -169,7 +193,11 @@ def _merge_candidates(
     return out
 
 
-def _to_chunk(cand: _Candidate, score: float, hybrid_semantic: float) -> RetrievedChunk:
+def _to_chunk(cand: _Candidate, score: float, raw_semantic: float) -> RetrievedChunk:
+    # ``semantic_score`` must stay the raw dense similarity so downstream
+    # grounding gates (rerank_select, AnswerWriter._MIN_SEMANTIC_SCORE) see an
+    # absolute cosine value. Min-max-normalized fused score would inflate the
+    # top hit on OOS queries to ~1.0 and leak into "grounded".
     payload = cand.payload
     citation = CitationRef(
         title=str(payload.get("title", "")),
@@ -183,10 +211,10 @@ def _to_chunk(cand: _Candidate, score: float, hybrid_semantic: float) -> Retriev
         chunk_id=cand.chunk_id,
         text=cand.text,
         score=score,
-        semantic_score=hybrid_semantic,
+        semantic_score=raw_semantic,
         citation=citation,
         metadata=dict(cand.metadata),
     )
 
 
-__all__ = ["HybridRetriever"]
+__all__ = ["HybridRetriever", "make_retriever"]

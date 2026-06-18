@@ -10,6 +10,7 @@ from __future__ import annotations
 
 from typing import Any
 
+from packages.rag.hybrid_retriever import HybridRetriever
 from packages.rag.retriever import LegalRetriever, SeparatedRetrieval
 from packages.rag.types import RetrievalQuery, RetrievedChunk
 
@@ -17,7 +18,7 @@ from packages.rag.types import RetrievalQuery, RetrievedChunk
 class SearchService:
     """Coordinates retrieval for the ``/search`` endpoint."""
 
-    def __init__(self, retriever: LegalRetriever) -> None:
+    def __init__(self, retriever: LegalRetriever | HybridRetriever) -> None:
         self._retriever = retriever
 
     def search(

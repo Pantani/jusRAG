@@ -24,7 +24,7 @@ from packages.embeddings.selector import embedding_vector_size, make_embedding_p
 from packages.llm.base import LLMProvider
 from packages.llm.fake_provider import FakeLLMProvider
 from packages.llm.selector import make_llm_provider
-from packages.rag.retriever import LegalRetriever
+from packages.rag.hybrid_retriever import make_retriever
 from packages.rag.search_service import SearchService
 from packages.storage.base import VectorStore
 from packages.storage.memory import InMemoryVectorStore
@@ -46,7 +46,7 @@ def build_harness() -> EvalHarness:
     embeddings: EmbeddingProvider = FakeEmbeddingProvider()
     store: VectorStore = InMemoryVectorStore()
     llm: LLMProvider = FakeLLMProvider()
-    return _assemble(embeddings, store, llm)
+    return _assemble(embeddings, store, llm, get_settings())
 
 
 def build_real_harness(settings: Settings | None = None) -> EvalHarness:
@@ -69,15 +69,16 @@ def build_real_harness(settings: Settings | None = None) -> EvalHarness:
         vector_size=embedding_vector_size(settings),
     )
     llm = make_llm_provider(settings)
-    return _assemble(embeddings, store, llm)
+    return _assemble(embeddings, store, llm, settings)
 
 
 def _assemble(
     embeddings: EmbeddingProvider,
     store: VectorStore,
     llm: LLMProvider,
+    settings: Settings,
 ) -> EvalHarness:
     count = ChunkRepository(embeddings, store).index_chunks(load_indexable_chunks())
-    search = SearchService(LegalRetriever(embeddings, store))
+    search = SearchService(make_retriever(embeddings, store, settings))
     answer_writer = AnswerWriter(search, llm)
     return EvalHarness(search=search, answer_writer=answer_writer, indexed_count=count)

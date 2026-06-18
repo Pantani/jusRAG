@@ -41,7 +41,7 @@ from packages.embeddings.selector import embedding_vector_size, make_embedding_p
 from packages.llm.base import LLMProvider
 from packages.llm.selector import make_llm_provider
 from packages.rag.context_builder import BuiltContext
-from packages.rag.retriever import LegalRetriever
+from packages.rag.hybrid_retriever import make_retriever
 from packages.rag.search_service import SearchService
 from packages.storage.base import VectorStore
 from packages.storage.qdrant import QdrantVectorStore
@@ -80,8 +80,12 @@ EmbeddingProviderDep = Annotated[EmbeddingProvider, Depends(get_embedding_provid
 VectorStoreDep = Annotated[VectorStore, Depends(get_vector_store)]
 
 
-def get_search_service(embeddings: EmbeddingProviderDep, store: VectorStoreDep) -> SearchService:
-    return SearchService(LegalRetriever(embeddings, store))
+def get_search_service(
+    embeddings: EmbeddingProviderDep,
+    store: VectorStoreDep,
+    settings: SettingsDep,
+) -> SearchService:
+    return SearchService(make_retriever(embeddings, store, settings))
 
 
 SearchServiceDep = Annotated[SearchService, Depends(get_search_service)]
