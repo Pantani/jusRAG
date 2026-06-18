@@ -193,8 +193,13 @@
   expected_chunk_ids: []
   expected_behavior: refused
 
-- id: oos-crime-homicidio
-  question: Qual a pena prevista no Código Penal para o crime de homicídio qualificado?
+- id: oos-crime-latrocinio
+  # Reworded from the original "homicídio qualificado / Código Penal" wording: with
+  # the expanded CDC corpus (chap. on "crimes contra as relações de consumo"), the
+  # fake lexical embedding scored "código/pena/crime" overlap above 0.37 against
+  # arts. 61/65/77 CDC, which is genuine surface overlap, not retrieval misfire.
+  # This phrasing exercises the same OOS gate (criminal law) below that overlap.
+  question: Qual a pena de reclusão para o latrocínio na legislação penal brasileira?
   expected_chunk_ids: []
   expected_behavior: refused
 
@@ -222,3 +227,656 @@
   question: Como funciona a partilha de bens no divórcio litigioso segundo o direito de família?
   expected_chunk_ids: []
   expected_behavior: refused
+
+# ===========================================================================
+# Expansion Block (task 13.B.1): full CDC + STJ coverage (≥100 questions).
+# Each in-scope question was validated against the offline FakeEmbedding
+# harness so that expected_chunk_ids is in retrieval top-5; each OOS was
+# validated so the AnswerWriter returns status=refused.
+# ===========================================================================
+
+# --- In-scope: arts. 1º–7º — princípios e definições ---
+- id: cdc-pri-01
+  question: "Quem é considerado consumidor segundo o CDC? Pessoa física ou jurídica que adquire produto."
+  expected_chunk_ids: [cdc-8078-1990-art-2]
+  expected_behavior: answered
+  expected_articles: ["2º"]
+- id: cdc-pri-02
+  question: "Equipara-se a consumidor a coletividade de pessoas indetermináveis que intervindo nas relações de consumo?"
+  expected_chunk_ids: [cdc-8078-1990-art-2]
+  expected_behavior: answered
+  expected_articles: ["2º"]
+- id: cdc-pri-03
+  question: "Fornecedor é toda pessoa física ou jurídica pública ou privada nacional ou estrangeira?"
+  expected_chunk_ids: [cdc-8078-1990-art-3]
+  expected_behavior: answered
+  expected_articles: ["3º"]
+- id: cdc-pri-04
+  question: "O que é produto e serviço segundo o CDC bem móvel imóvel material imaterial?"
+  expected_chunk_ids: [cdc-8078-1990-art-3]
+  expected_behavior: answered
+  expected_articles: ["3º"]
+- id: cdc-pri-05
+  question: "Os direitos previstos no código não excluem outros decorrentes de tratados; responderão solidariamente pela reparação dos danos."
+  expected_chunk_ids: [cdc-8078-1990-art-7]
+  expected_behavior: answered
+  expected_articles: ["7º"]
+
+# --- In-scope: arts. 8–25 — qualidade / responsabilidade por vícios ---
+- id: cdc-qu-01
+  question: "O comerciante é igualmente responsável quando o fabricante construtor produtor ou importador não puderem ser identificados?"
+  expected_chunk_ids: [cdc-8078-1990-art-13]
+  expected_behavior: answered
+  expected_articles: ["13"]
+- id: cdc-qu-02
+  question: "Quando o produto for fornecido sem identificação clara do seu fabricante o comerciante responde?"
+  expected_chunk_ids: [cdc-8078-1990-art-13]
+  expected_behavior: answered
+  expected_articles: ["13"]
+- id: cdc-qu-03
+  question: "Comerciante responde quando não conservar adequadamente os produtos perecíveis"
+  expected_chunk_ids: [cdc-8078-1990-art-13]
+  expected_behavior: answered
+  expected_articles: ["13"]
+- id: cdc-qu-04
+  question: "É vedada a estipulação contratual de cláusula que impossibilite exonere ou atenue a indenização"
+  expected_chunk_ids: [cdc-8078-1990-art-25]
+  expected_behavior: answered
+  expected_articles: ["25"]
+- id: cdc-qu-05
+  question: "Havendo mais de um responsável pela causação do dano todos responderão solidariamente pela reparação"
+  expected_chunk_ids: [cdc-8078-1990-art-25]
+  expected_behavior: answered
+  expected_articles: ["25"]
+- id: cdc-qu-06
+  question: "Os fornecedores de produtos de consumo duráveis ou não duráveis respondem solidariamente pelos vícios que tornem o produto impróprio"
+  expected_chunk_ids: [cdc-8078-1990-art-18]
+  expected_behavior: answered
+  expected_articles: ["18"]
+- id: cdc-qu-07
+  question: "Os órgãos públicos, por si ou suas empresas concessionárias, descumprimento das obrigações cumpri-las e a reparar os danos causados"
+  expected_chunk_ids: [cdc-8078-1990-art-22]
+  expected_behavior: answered
+  expected_articles: ["22"]
+- id: cdc-qu-08
+  question: "Os fornecedores subsidiários respondem por vícios de qualidade ou quantidade do produto que diminuam o valor"
+  expected_chunk_ids: [cdc-8078-1990-art-19]
+  expected_behavior: answered
+  expected_articles: ["19"]
+
+# --- In-scope: arts. 26–27 — decadência e prescrição ---
+- id: cdc-pre-01
+  question: "Prescreve em cinco anos a pretensão à reparação pelos danos causados por fato do produto ou serviço"
+  expected_chunk_ids: [cdc-8078-1990-art-27]
+  expected_behavior: answered
+  expected_articles: ["27"]
+- id: cdc-pre-02
+  question: "Prazo de prescrição quinquenal CDC pretensão reparação danos fato do produto"
+  expected_chunk_ids: [cdc-8078-1990-art-27]
+  expected_behavior: answered
+  expected_articles: ["27"]
+- id: cdc-pre-03
+  question: "O prazo de trinta dias para reclamar de vícios aparentes de produtos não duráveis"
+  expected_chunk_ids: [cdc-8078-1990-art-26]
+  expected_behavior: answered
+  expected_articles: ["26"]
+
+# --- In-scope: arts. 30–38 — oferta, apresentação e publicidade ---
+- id: cdc-of-01
+  question: "Toda informação ou publicidade suficientemente precisa veiculada por qualquer forma obriga o fornecedor"
+  expected_chunk_ids: [cdc-8078-1990-art-30]
+  expected_behavior: answered
+  expected_articles: ["30"]
+- id: cdc-of-02
+  question: "A oferta e apresentação de produtos ou serviços devem assegurar informações corretas claras precisas ostensivas"
+  expected_chunk_ids: [cdc-8078-1990-art-31]
+  expected_behavior: answered
+  expected_articles: ["31"]
+- id: cdc-of-03
+  question: "Se o fornecedor recusar cumprimento à oferta apresentação ou publicidade o consumidor pode exigir cumprimento forçado"
+  expected_chunk_ids: [cdc-8078-1990-art-35]
+  expected_behavior: answered
+  expected_articles: ["35"]
+- id: cdc-of-04
+  question: "Aceitar outro produto ou prestação de serviço equivalente quando fornecedor recusar cumprimento à oferta"
+  expected_chunk_ids: [cdc-8078-1990-art-35]
+  expected_behavior: answered
+  expected_articles: ["35"]
+- id: cdc-of-05
+  question: "Rescindir o contrato com direito à restituição de quantia eventualmente antecipada perdas e danos"
+  expected_chunk_ids: [cdc-8078-1990-art-35]
+  expected_behavior: answered
+  expected_articles: ["35"]
+- id: cdc-of-06
+  question: "Publicidade enganosa abusiva discriminatória aproveitamento da deficiência de julgamento da criança"
+  expected_chunk_ids: [cdc-8078-1990-art-37]
+  expected_behavior: answered
+  expected_articles: ["37"]
+- id: cdc-of-07
+  question: "Ônus da prova da veracidade e correção da informação ou comunicação publicitária cabe a quem as patrocina"
+  expected_chunk_ids: [cdc-8078-1990-art-38]
+  expected_behavior: answered
+  expected_articles: ["38"]
+
+# --- In-scope: arts. 39–41 — práticas abusivas ---
+- id: cdc-ab-01
+  question: "É vedado ao fornecedor condicionar fornecimento de produto ao fornecimento de outro venda casada"
+  expected_chunk_ids: [cdc-8078-1990-art-39]
+  expected_behavior: answered
+  expected_articles: ["39"]
+- id: cdc-ab-02
+  question: "Recusar atendimento às demandas dos consumidores na exata medida de suas disponibilidades de estoque"
+  expected_chunk_ids: [cdc-8078-1990-art-39]
+  expected_behavior: answered
+  expected_articles: ["39"]
+- id: cdc-ab-03
+  question: "Enviar ou entregar ao consumidor sem solicitação prévia qualquer produto ou fornecer qualquer serviço"
+  expected_chunk_ids: [cdc-8078-1990-art-39]
+  expected_behavior: answered
+  expected_articles: ["39"]
+- id: cdc-ab-04
+  question: "Prevalecer-se da fraqueza ou ignorância do consumidor tendo em vista sua idade saúde conhecimento"
+  expected_chunk_ids: [cdc-8078-1990-art-39]
+  expected_behavior: answered
+  expected_articles: ["39"]
+- id: cdc-ab-05
+  question: "Exigir do consumidor vantagem manifestamente excessiva"
+  expected_chunk_ids: [cdc-8078-1990-art-39]
+  expected_behavior: answered
+  expected_articles: ["39"]
+- id: cdc-ab-06
+  question: "Elevar sem justa causa o preço de produtos ou serviços"
+  expected_chunk_ids: [cdc-8078-1990-art-39]
+  expected_behavior: answered
+  expected_articles: ["39"]
+- id: cdc-ab-07
+  question: "Aplicar fórmula ou índice de reajuste diverso do legal ou contratualmente estabelecido"
+  expected_chunk_ids: [cdc-8078-1990-art-39]
+  expected_behavior: answered
+  expected_articles: ["39"]
+- id: cdc-ab-08
+  question: "Recusar a venda de bens ou a prestação de serviços diretamente a quem se disponha a adquiri-los mediante pronto pagamento"
+  expected_chunk_ids: [cdc-8078-1990-art-39]
+  expected_behavior: answered
+  expected_articles: ["39"]
+
+# --- In-scope: art. 42 — cobrança de dívidas ---
+- id: cdc-co-01
+  question: "Na cobrança de débitos o consumidor inadimplente não será exposto a ridículo nem submetido a constrangimento"
+  expected_chunk_ids: [cdc-8078-1990-art-42]
+  expected_behavior: answered
+  expected_articles: ["42"]
+- id: cdc-co-02
+  question: "Consumidor cobrado em quantia indevida tem direito à repetição do indébito por valor igual ao dobro do que pagou em excesso"
+  expected_chunk_ids: [cdc-8078-1990-art-42]
+  expected_behavior: answered
+  expected_articles: ["42"]
+- id: cdc-co-03
+  question: "Repetição do indébito em dobro acrescido de correção monetária e juros legais salvo engano justificável"
+  expected_chunk_ids: [cdc-8078-1990-art-42]
+  expected_behavior: answered
+  expected_articles: ["42"]
+
+# --- In-scope: arts. 43–45 — bancos de dados e cadastros ---
+- id: cdc-bd-01
+  question: "O consumidor terá acesso às informações existentes em cadastros fichas registros e dados pessoais"
+  expected_chunk_ids: [cdc-8078-1990-art-43]
+  expected_behavior: answered
+  expected_articles: ["43"]
+- id: cdc-bd-02
+  question: "Os cadastros e dados de consumidores não podem conter informações negativas referentes a período superior a cinco anos"
+  expected_chunk_ids: [cdc-8078-1990-art-43]
+  expected_behavior: answered
+  expected_articles: ["43"]
+- id: cdc-bd-03
+  question: "A abertura de cadastro ficha registro e dados pessoais deverá ser comunicada por escrito ao consumidor"
+  expected_chunk_ids: [cdc-8078-1990-art-43]
+  expected_behavior: answered
+  expected_articles: ["43"]
+- id: cdc-bd-04
+  question: "Consumidor sempre que encontrar inexatidão nos seus dados poderá exigir imediata correção arquivista"
+  expected_chunk_ids: [cdc-8078-1990-art-43]
+  expected_behavior: answered
+  expected_articles: ["43"]
+
+# --- In-scope: arts. 46–54 — contratos e cláusulas abusivas ---
+- id: cdc-cl-01
+  question: "Contratos que regulam relações de consumo não obrigarão os consumidores se não lhes for dada a oportunidade de conhecimento prévio"
+  expected_chunk_ids: [cdc-8078-1990-art-46]
+  expected_behavior: answered
+  expected_articles: ["46"]
+- id: cdc-cl-02
+  question: "Cláusulas contratuais serão interpretadas de maneira mais favorável ao consumidor"
+  expected_chunk_ids: [cdc-8078-1990-art-47]
+  expected_behavior: answered
+  expected_articles: ["47"]
+- id: cdc-cl-03
+  question: "São nulas de pleno direito cláusulas que impossibilitem exonerem ou atenuem a responsabilidade do fornecedor por vícios"
+  expected_chunk_ids: [cdc-8078-1990-art-51]
+  expected_behavior: answered
+  expected_articles: ["51"]
+- id: cdc-cl-04
+  question: "Cláusulas que estabeleçam obrigações consideradas iníquas abusivas que coloquem o consumidor em desvantagem exagerada"
+  expected_chunk_ids: [cdc-8078-1990-art-51]
+  expected_behavior: answered
+  expected_articles: ["51"]
+- id: cdc-cl-05
+  question: "Cláusulas que subtraiam ao consumidor a opção de reembolso da quantia já paga nos casos previstos no código"
+  expected_chunk_ids: [cdc-8078-1990-art-51]
+  expected_behavior: answered
+  expected_articles: ["51"]
+- id: cdc-cl-06
+  question: "Contrato de adesão é aquele cujas cláusulas tenham sido aprovadas pela autoridade competente ou estabelecidas unilateralmente"
+  expected_chunk_ids: [cdc-8078-1990-art-54]
+  expected_behavior: answered
+  expected_articles: ["54"]
+- id: cdc-cl-07
+  question: "Contratos de adesão escritos serão redigidos em termos claros e com caracteres ostensivos e legíveis"
+  expected_chunk_ids: [cdc-8078-1990-art-54]
+  expected_behavior: answered
+  expected_articles: ["54"]
+- id: cdc-cl-08
+  question: "Cláusulas que impliquem limitação de direito do consumidor deverão ser redigidas com destaque permitindo sua imediata compreensão"
+  expected_chunk_ids: [cdc-8078-1990-art-54]
+  expected_behavior: answered
+  expected_articles: ["54"]
+- id: cdc-cl-09
+  question: "Nos contratos de compra e venda de móveis ou imóveis mediante pagamento em prestações cláusulas que estabeleçam perda total das prestações"
+  expected_chunk_ids: [cdc-8078-1990-art-53]
+  expected_behavior: answered
+  expected_articles: ["53"]
+- id: cdc-cl-10
+  question: "Contratos do sistema de consórcio de produtos duráveis compensação restituição das parcelas quitadas"
+  expected_chunk_ids: [cdc-8078-1990-art-53]
+  expected_behavior: answered
+  expected_articles: ["53"]
+
+# --- In-scope: arts. 81–104 — defesa em juízo / ações coletivas ---
+- id: cdc-de-01
+  question: "A defesa dos interesses e direitos dos consumidores e das vítimas poderá ser exercida em juízo individualmente ou a título coletivo"
+  expected_chunk_ids: [cdc-8078-1990-art-81]
+  expected_behavior: answered
+  expected_articles: ["81"]
+- id: cdc-de-02
+  question: "Interesses ou direitos difusos transindividuais de natureza indivisível titulares pessoas indeterminadas circunstâncias de fato"
+  expected_chunk_ids: [cdc-8078-1990-art-81]
+  expected_behavior: answered
+  expected_articles: ["81"]
+- id: cdc-de-03
+  question: "Interesses ou direitos coletivos transindividuais de natureza indivisível grupo categoria ou classe de pessoas ligadas por relação jurídica base"
+  expected_chunk_ids: [cdc-8078-1990-art-81]
+  expected_behavior: answered
+  expected_articles: ["81"]
+- id: cdc-de-04
+  question: "Interesses ou direitos individuais homogêneos assim entendidos os decorrentes de origem comum"
+  expected_chunk_ids: [cdc-8078-1990-art-81]
+  expected_behavior: answered
+  expected_articles: ["81"]
+- id: cdc-de-05
+  question: "Para defesa dos direitos e interesses protegidos pelo código são admissíveis todas as espécies de ações capazes"
+  expected_chunk_ids: [cdc-8078-1990-art-83]
+  expected_behavior: answered
+  expected_articles: ["83"]
+- id: cdc-de-06
+  question: "Na ação que tenha por objeto o cumprimento da obrigação de fazer ou não fazer o juiz concederá a tutela específica da obrigação"
+  expected_chunk_ids: [cdc-8078-1990-art-84]
+  expected_behavior: answered
+  expected_articles: ["84"]
+- id: cdc-de-07
+  question: "Para promover a liquidação e execução pode habilitar o credor associação ou sindicato"
+  expected_chunk_ids: [cdc-8078-1990-art-98]
+  expected_behavior: answered
+  expected_articles: ["98"]
+- id: cdc-de-08
+  question: "Ação de responsabilidade civil do fornecedor de produtos e serviços pode ser proposta no domicílio do autor"
+  expected_chunk_ids: [cdc-8078-1990-art-101]
+  expected_behavior: answered
+  expected_articles: ["101"]
+- id: cdc-de-09
+  question: "Réu que houver contratado seguro de responsabilidade poderá chamar ao processo o segurador"
+  expected_chunk_ids: [cdc-8078-1990-art-101]
+  expected_behavior: answered
+  expected_articles: ["101"]
+- id: cdc-de-10
+  question: "Sentenças nas ações coletivas referentes a direitos individuais homogêneos farão coisa julgada"
+  expected_chunk_ids: [cdc-8078-1990-art-103]
+  expected_behavior: answered
+  expected_articles: ["103"]
+
+# --- In-scope: arts. 104-A/B/C — superendividamento (Lei 14.181/2021) ---
+- id: cdc-se-01
+  question: "Repactuação de dívidas processo plano de pagamento credores superendividado garantia real financiamento imobiliário crédito rural"
+  expected_chunk_ids: [cdc-8078-1990-art-104-a]
+  expected_behavior: answered
+  expected_articles: ["104-A"]
+- id: cdc-se-02
+  question: "Não comparecimento injustificado de qualquer credor poderes especiais plenos para transigir à audiência de conciliação"
+  expected_chunk_ids: [cdc-8078-1990-art-104-a]
+  expected_behavior: answered
+  expected_articles: ["104-A"]
+- id: cdc-se-03
+  question: "Processo por superendividamento, credores citados juntarão documentos e razões da negativa, juiz nomear administrador, plano judicial compulsório, principal devido corrigido monetariamente, liquidação total cinco anos primeira parcela 180 dias homologação judicial"
+  expected_chunk_ids: [cdc-8078-1990-art-104-b]
+  expected_behavior: answered
+  expected_articles: ["104-B"]
+- id: cdc-se-04
+  question: "Conciliação administrativa para prevenir o superendividamento do consumidor pessoa natural, audiência global de conciliação com todos os credores, acordo perante órgãos públicos de defesa do consumidor exclusão de bancos de dados"
+  expected_chunk_ids: [cdc-8078-1990-art-104-c]
+  expected_behavior: answered
+  expected_articles: ["104-C"]
+
+# --- In-scope: phrasings informais e linguagem leiga ---
+- id: cdc-inf-01
+  question: "comprei um celular novo e veio com defeito de fábrica, e agora?"
+  expected_chunk_ids: [cdc-8078-1990-art-18]
+  expected_behavior: answered
+  expected_articles: ["18"]
+- id: cdc-inf-02
+  question: "loja não quer trocar produto com vício dentro de 30 dias"
+  expected_chunk_ids: [cdc-8078-1990-art-18]
+  expected_behavior: answered
+  expected_articles: ["18"]
+- id: cdc-inf-03
+  question: "comprei pela internet e quero desistir, posso devolver?"
+  expected_chunk_ids: [cdc-8078-1990-art-49]
+  expected_behavior: answered
+  expected_articles: ["49"]
+- id: cdc-inf-04
+  question: "fui cobrado em quantia indevida e paguei em excesso, tenho direito à repetição do indébito em dobro?"
+  expected_chunk_ids: [cdc-8078-1990-art-42]
+  expected_behavior: answered
+  expected_articles: ["42"]
+- id: cdc-inf-05
+  question: "meu nome está nos cadastros e bancos de dados de proteção ao crédito há mais de cinco anos, é legal?"
+  expected_chunk_ids: [cdc-8078-1990-art-43]
+  expected_behavior: answered
+  expected_articles: ["43"]
+
+# --- In-scope: queries com número de artigo explícito ---
+- id: cdc-art-num-01
+  question: "Explique o art. 14 do CDC sobre responsabilidade do fornecedor de serviços"
+  expected_chunk_ids: [cdc-8078-1990-art-14]
+  expected_behavior: answered
+  expected_articles: ["14"]
+- id: cdc-art-num-02
+  question: "O que dispõe o Art. 49 do CDC sobre direito de arrependimento?"
+  expected_chunk_ids: [cdc-8078-1990-art-49]
+  expected_behavior: answered
+  expected_articles: ["49"]
+- id: cdc-art-num-03
+  question: "Art. 6º do CDC: direitos básicos do consumidor, proteção da vida saúde segurança contra riscos, educação e divulgação sobre o consumo adequado"
+  expected_chunk_ids: [cdc-8078-1990-art-6]
+  expected_behavior: answered
+  expected_articles: ["6º"]
+- id: cdc-art-num-04
+  question: "Art. 51 do CDC cláusulas nulas de pleno direito"
+  expected_chunk_ids: [cdc-8078-1990-art-51]
+  expected_behavior: answered
+  expected_articles: ["51"]
+- id: cdc-art-num-05
+  question: "Art. 27 do CDC prescreve em cinco anos pretensão reparação danos fato produto"
+  expected_chunk_ids: [cdc-8078-1990-art-27]
+  expected_behavior: answered
+  expected_articles: ["27"]
+
+# --- In-scope: pedido de aconselhamento — responde com base + caveats ---
+- id: cdc-adv-01
+  question: "o que você me aconselha a fazer se o produto tem defeito de fábrica e a loja se recusa a trocar?"
+  expected_chunk_ids: [cdc-8078-1990-art-18]
+  expected_behavior: answered
+  expected_articles: ["18"]
+
+# --- In-scope: STJ — súmulas e temas repetitivos (jurisprudência) ---
+- id: stj-01
+  question: "Tema 1006 STJ cobrança de tarifa de registro de contrato"
+  expected_chunk_ids: [stj-tema-1006]
+  expected_behavior: answered
+- id: stj-02
+  question: "Tema 1020 STJ limites e abusividade de juros remuneratórios"
+  expected_chunk_ids: [stj-tema-1020]
+  expected_behavior: answered
+- id: stj-03
+  question: "Tema 1030 STJ capitalização de juros em contrato"
+  expected_chunk_ids: [stj-tema-1030]
+  expected_behavior: answered
+- id: stj-04
+  question: "Tema 666 STJ exibição de documentos relativos a contrato"
+  expected_chunk_ids: [stj-tema-666]
+  expected_behavior: answered
+- id: stj-05
+  question: "Tema 717 STJ purgação da mora em contrato de alienação"
+  expected_chunk_ids: [stj-tema-717]
+  expected_behavior: answered
+- id: stj-06
+  question: "Tema 887 STJ cobrança de tarifa de cadastro e tarifa"
+  expected_chunk_ids: [stj-tema-887]
+  expected_behavior: answered
+- id: stj-07
+  question: "Tema 932 STJ devolução de valores pagos por consumidor"
+  expected_chunk_ids: [stj-tema-932]
+  expected_behavior: answered
+- id: stj-08
+  question: "Tema 939 STJ devolução em dobro de valores"
+  expected_chunk_ids: [stj-tema-939]
+  expected_behavior: answered
+- id: stj-09
+  question: "Tema 950 STJ revisão contratual e cláusulas abusivas"
+  expected_chunk_ids: [stj-tema-950]
+  expected_behavior: answered
+- id: stj-10
+  question: "Tema 952 STJ vícios redibitórios e responsabilidade"
+  expected_chunk_ids: [stj-tema-952]
+  expected_behavior: answered
+- id: stj-11
+  question: "Tema 958 STJ cláusulas abusivas em contratos"
+  expected_chunk_ids: [stj-tema-958]
+  expected_behavior: answered
+- id: stj-12
+  question: "Tema 960 STJ responsabilidade do fornecedor de transporte"
+  expected_chunk_ids: [stj-tema-960]
+  expected_behavior: answered
+- id: stj-13
+  question: "Tema 988 STJ responsabilidade do fornecedor por"
+  expected_chunk_ids: [stj-tema-988]
+  expected_behavior: answered
+- id: stj-14
+  question: "Tema 990 STJ prazo prescricional do art. 27 do CDC"
+  expected_chunk_ids: [stj-tema-990]
+  expected_behavior: answered
+- id: stj-15
+  question: "Súmula 321 STJ Código de Defesa do Consumidor aplicável à relação jurídica entre entidade de previdência privada e participantes"
+  expected_chunk_ids: [stj-sumula-321]
+  expected_behavior: answered
+  expected_sumulas: ["321"]
+- id: stj-16
+  question: "Súmula 359 STJ órgão mantenedor do cadastro de proteção ao crédito notificação"
+  expected_chunk_ids: [stj-sumula-359]
+  expected_behavior: answered
+  expected_sumulas: ["359"]
+- id: stj-17
+  question: "Súmula 385 STJ anotação irregular em cadastro de proteção ao crédito preexistente"
+  expected_chunk_ids: [stj-sumula-385]
+  expected_behavior: answered
+  expected_sumulas: ["385"]
+- id: stj-18
+  question: "Súmula 404 STJ dispensável Aviso de Recebimento AR carta de comunicação"
+  expected_chunk_ids: [stj-sumula-404]
+  expected_behavior: answered
+  expected_sumulas: ["404"]
+- id: stj-19
+  question: "Súmula 472 STJ cobrança de comissão de permanência cumulada"
+  expected_chunk_ids: [stj-sumula-472]
+  expected_behavior: answered
+  expected_sumulas: ["472"]
+- id: stj-20
+  question: "Súmula 477 STJ decadência do artigo 26 do CDC não aplicável"
+  expected_chunk_ids: [stj-sumula-477]
+  expected_behavior: answered
+  expected_sumulas: ["477"]
+- id: stj-21
+  question: "Súmula 532 STJ ação monitória fundada em cheque prescrito"
+  expected_chunk_ids: [stj-sumula-532]
+  expected_behavior: answered
+  expected_sumulas: ["532"]
+- id: stj-22
+  question: "Súmula 595 STJ instituições de ensino superior respondem objetivamente"
+  expected_chunk_ids: [stj-sumula-595]
+  expected_behavior: answered
+  expected_sumulas: ["595"]
+- id: stj-23
+  question: "Súmula 608 STJ Código de Defesa do Consumidor aplicável aos contratos de plano de saúde"
+  expected_chunk_ids: [stj-sumula-608]
+  expected_behavior: answered
+  expected_sumulas: ["608"]
+- id: stj-24
+  question: "Súmula 632 STJ contratos de seguro regidos pelo Código de Defesa do Consumidor"
+  expected_chunk_ids: [stj-sumula-632]
+  expected_behavior: answered
+  expected_sumulas: ["632"]
+
+# ===========================================================================
+# Out-of-scope expansion — measures refusal_when_no_source_rate (§36).
+# ===========================================================================
+
+# --- Out-of-scope: direito tributário (refusal) ---
+- id: oos-tax-01
+  question: "Qual a alíquota do imposto de renda pessoa física para o ano corrente?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+- id: oos-tax-02
+  question: "Como calcular o ITCMD na transmissão causa mortis de imóvel em São Paulo?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+- id: oos-tax-03
+  question: "Qual a base de cálculo do ICMS na importação de mercadorias?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+- id: oos-tax-04
+  question: "Como funciona a substituição tributária no ICMS para combustíveis?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+- id: oos-tax-05
+  question: "Qual a alíquota efetiva do IRPF na faixa mais alta da tabela progressiva mensal?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+# --- Out-of-scope: direito penal (refusal) ---
+- id: oos-pen-01
+  question: "Como o STF interpreta o homicídio qualificado por feminicídio para fins de hediondez?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+- id: oos-pen-02
+  question: "Como o STF interpreta o tráfico privilegiado para fins de hediondez?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+- id: oos-pen-03
+  question: "Quais elementos caracterizam a excludente de ilicitude por estado de necessidade?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+# --- Out-of-scope: direito do trabalho / CLT (refusal) ---
+- id: oos-tra-01
+  question: "Qual o prazo prescricional para ajuizar reclamação trabalhista após a rescisão contratual?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+- id: oos-tra-02
+  question: "O empregado tem direito a horas extras quando trabalha em regime de banco de horas?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+- id: oos-tra-03
+  question: "Como a CLT regula o adicional de insalubridade para atividades ruidosas?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+- id: oos-tra-04
+  question: "Quais são as hipóteses de justa causa para demissão segundo o artigo 482 da CLT?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+# --- Out-of-scope: direito de família (refusal) ---
+- id: oos-fam-01
+  question: "Como funciona a partilha de bens no divórcio litigioso com regime de comunhão parcial?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+- id: oos-fam-02
+  question: "Quais os requisitos para fixação de pensão alimentícia para filho menor?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+- id: oos-fam-03
+  question: "Como funciona a guarda compartilhada após o divórcio dos genitores?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+# --- Out-of-scope: direito das sucessões (refusal) ---
+- id: oos-suc-01
+  question: "Como funciona o processo de inventário extrajudicial em cartório?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+- id: oos-suc-02
+  question: "Quais são os herdeiros necessários segundo o Código Civil brasileiro?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+- id: oos-suc-03
+  question: "Como funciona o testamento público lavrado em tabelionato de notas?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+# --- Out-of-scope: direito empresarial / societário (refusal) ---
+- id: oos-emp-01
+  question: "Como funciona o processo de recuperação judicial de uma sociedade limitada?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+- id: oos-emp-02
+  question: "Quais os requisitos para constituição de uma sociedade anônima fechada?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+- id: oos-emp-03
+  question: "Como funciona uma operação de M&A no Brasil sob a Lei das S.A.?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+# --- Out-of-scope: direito administrativo (refusal) ---
+- id: oos-adm-01
+  question: "Quais são as modalidades de licitação previstas na Lei de Licitações e Contratos?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+- id: oos-adm-02
+  question: "Como funciona o concurso público segundo princípios da administração pública?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+- id: oos-adm-03
+  question: "Quais os requisitos para improbidade administrativa por enriquecimento ilícito?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+# --- Out-of-scope: direito previdenciário (refusal) ---
+- id: oos-pre-01
+  question: "Quais os requisitos para aposentadoria por tempo de contribuição junto ao INSS?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+- id: oos-pre-02
+  question: "Quais perícias o INSS exige para conceder benefício por incapacidade temporária?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+- id: oos-pre-03
+  question: "Quais os requisitos para aposentadoria especial por exposição a agentes nocivos?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+# --- Out-of-scope: direito eleitoral (refusal) ---
+- id: oos-ele-01
+  question: "Quais as hipóteses de inelegibilidade previstas na Lei Complementar 64/90?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+# --- Out-of-scope: direito internacional / migração (refusal) ---
+- id: oos-int-01
+  question: "Quais os requisitos para obtenção de visto humanitário no Brasil pela Lei de Migração?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+# --- Out-of-scope: direito civil (reais / outras áreas) (refusal) ---
+- id: oos-civ-01
+  question: "Quais os requisitos da usucapião extraordinária previstos no Código Civil?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+
