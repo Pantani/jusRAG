@@ -411,3 +411,44 @@ Agentes: ingestion (C.1), qa (C.2, C.3), retrieval (C.4).
 - [ ] `OllamaLLMProvider.timeout` parametrizável + `--sample-llm N` em run_all (para local LLM full eval).
 - [ ] Investigar 3 OOS leaked openai (oos-emp-01, oos-adm-02, oos-pre-02) — margem fina sobre gate 0.90.
 - [ ] Investigar 3 retrieval misses openai (cdc-pre-02, cdc-ab-04, cdc-ab-08).
+
+## Fase 13.E — pendências v1.3 (2026-06-18, sessão 12)
+
+Worktree: `hungry-tharp-5ae93f` (criado do main pós-merge do PR #1). Baseline ao chegar:
+6 falhas de eval eram **puramente ambientais** (corpus `data/generated/*.jsonl` obsoleto +
+`.env` ausente no worktree fresh — ambos gitignored). Após copiar `.env` da raiz +
+`ingest_cdc`/`ingest_case_law` (160 chunks): `make test` → **203 passed**; `make lint` →
+ruff + mypy strict 94 files. Sem defeito de código (CI verde do PR #1 confirma).
+
+### E.2 — cdc-inf-01 (retrieval) — CONCLUÍDA (commit b5dd70c)
+
+Decisão: **known-limitation**. Gap de sinônimo ("defeito de fábrica"↔"vício de qualidade");
+hybrid NÃO mitiga (rank 6 inerte a 0.7/0.3; refutado empiricamente). Fix real = query
+expansion no QueryAnalyzer (outra fase) → art-18 rank 2. Gate §36 PASSED com folga
+(recall@5=0.9918). Sem mudança em golden/thresholds/ranking. Doc: `13_E2_cdc-inf-01_decision.md`.
+
+### E.3 — markdown lint (ui-docs) — CONCLUÍDA (commit 9280e9a)
+
+MD022 + MD040: **335 → 0** em 31 arquivos (_workspace, docs, README). Nenhuma outra regra
+habilitada/alterada; sem tocar código. Doc: `13_E3_markdown_lint.md`.
+Pendente (não-git): resolver 3 threads CodeRabbit no PR #1 (3435741360/367/385) via gh api.
+
+### E.1 — 6 súmulas STJ Cloudflare (ingestion) — BLOQUEADA (aguarda MCP Bridge)
+
+Confirmado o bloqueio (consistente com D.5). Tentativas exauridas neste ambiente:
+
+- SCON (`scon.stj.jus.br`): challenge gerenciado CSID/STJ; Chromium headless **e** headful
+  não passam (Turnstile/captcha exige humano).
+- Revista de Súmulas PDF (`docs_internet`): as 6 (pós-2012) **não existem** nesse padrão
+  (soft-404 253 bytes); só súmulas ≤~404.
+- Portal de súmulas (source_url atual do seed): **404** (link morto).
+- BDJur (`bdjur.stj.jus.br`): 403 Cloudflare.
+
+Decisão do usuário: **conectar Playwright MCP Bridge** ao Chrome real (sessão aquecida passa
+o Cloudflare) e dirigir o SCON para extrair enunciado+data+URL, persistir HTML+SHA256 no
+MANIFEST e promover a verified. §2/§40.4: NÃO promovidas sem snapshot auditável.
+
+### E.4 — release — DECISÃO DO USUÁRIO: só commitar, sem PR/tag
+
+Sem abrir PR nem taguear. pyproject permanece 0.1.0. As 6 needs_review seguem como
+known-limitation não-bloqueante.
