@@ -1,0 +1,76 @@
+# Golden dataset — Direito Tributário (CTN, Lei 5.172/1966).
+#
+# Phase E multi-area golden (§24, §35-37). Anchored on REAL CTN articles in the
+# ingested corpus (data/generated/statutes_chunks.jsonl) — no invented article (rule #1).
+# Lexically calibrated for recall@5 >= 0.80 under the deterministic FakeEmbeddingProvider.
+# chunk_id scheme: ctn-5172-1966-art-N.
+
+- id: tax-ctn-art3-conceito-tributo
+  area: tax
+  question: Tributo é toda prestação pecuniária compulsória em moeda que não constitua sanção de ato ilícito instituída em lei?
+  expected_chunk_ids: [ctn-5172-1966-art-3]
+  expected_behavior: answered
+  expected_articles: ["3º"]
+
+- id: tax-ctn-art113-obrigacao-tributaria
+  area: tax
+  question: A obrigação tributária é principal ou acessória a principal surge com a ocorrência do fato gerador?
+  expected_chunk_ids: [ctn-5172-1966-art-113]
+  expected_behavior: answered
+  expected_articles: ["113"]
+
+- id: tax-ctn-art142-lancamento
+  area: tax
+  question: Compete privativamente à autoridade administrativa constituir o crédito tributário pelo lançamento?
+  expected_chunk_ids: [ctn-5172-1966-art-142]
+  expected_behavior: answered
+  expected_articles: ["142"]
+
+- id: tax-ctn-art150-lancamento-homologacao
+  area: tax
+  question: O lançamento por homologação ocorre quanto aos tributos cuja legislação atribua ao sujeito passivo o dever de antecipar o pagamento sem prévio exame?
+  expected_chunk_ids: [ctn-5172-1966-art-150]
+  expected_behavior: answered
+  expected_articles: ["150"]
+
+- id: tax-ctn-art156-extincao-credito
+  area: tax
+  question: Extinguem o crédito tributário o pagamento a compensação a transação a remissão a prescrição e a decadência?
+  expected_chunk_ids: [ctn-5172-1966-art-156]
+  expected_behavior: answered
+  expected_articles: ["156"]
+
+- id: tax-ctn-art9-imunidade
+  area: tax
+  question: Os impostos sobre o patrimônio renda e serviços não incidem sobre templos de qualquer culto imunidade tributária?
+  expected_chunk_ids: [ctn-5172-1966-art-9]
+  expected_behavior: answered
+  expected_articles: ["9º"]
+
+- id: tax-ctn-art124-solidariedade
+  area: tax
+  question: São solidariamente obrigadas as pessoas que tenham interesse comum na situação que constitua o fato gerador da obrigação principal solidariedade tributária?
+  expected_chunk_ids: [ctn-5172-1966-art-124]
+  expected_behavior: answered
+  expected_articles: ["124"]
+
+- id: tax-ctn-art105-vigencia-fatos
+  area: tax
+  question: A legislação tributária aplica-se imediatamente aos fatos geradores futuros e aos pendentes vigência no tempo?
+  expected_chunk_ids: [ctn-5172-1966-art-105]
+  expected_behavior: answered
+  expected_articles: ["105"]
+
+- id: tax-ctn-art121-sujeito-passivo
+  area: tax
+  question: Sujeito passivo da obrigação principal é a pessoa obrigada ao pagamento de tributo ou penalidade pecuniária contribuinte ou responsável?
+  expected_chunk_ids: [ctn-5172-1966-art-121]
+  expected_behavior: answered
+  expected_articles: ["121"]
+
+- id: tax-ctn-art126-capacidade-passiva
+  area: tax
+  question: A capacidade tributária passiva independe da capacidade civil das pessoas naturais?
+  expected_chunk_ids: [ctn-5172-1966-art-126]
+  expected_behavior: answered
+  expected_articles: ["126"]

@@ -1,4 +1,4 @@
-.PHONY: up down test lint format ingest-cdc ingest-case-law index-cdc search-demo ask-demo eval eval-real pull-models bootstrap-local up-local down-local restart-local wait-ollama pull-chat-model seed-local logs-local ui
+.PHONY: up down test lint format ingest-cdc ingest-codes ingest-case-law index-cdc index-corpus search-demo ask-demo eval eval-real pull-models bootstrap-local up-local down-local restart-local wait-ollama pull-chat-model seed-local logs-local ui
 
 up:
 	docker compose up --build
@@ -19,11 +19,17 @@ format:
 ingest-cdc:
 	$(COMPOSE_LOCAL) exec -T api python -m apps.worker.jobs.ingest_cdc
 
+ingest-codes:
+	$(COMPOSE_LOCAL) exec -T api python -m apps.worker.jobs.ingest_codes
+
 ingest-case-law:
 	$(COMPOSE_LOCAL) exec -T api python -m apps.worker.jobs.ingest_case_law
 
 index-cdc:
 	$(COMPOSE_LOCAL) exec -T api python -m apps.worker.jobs.index_cdc
+
+index-corpus:
+	$(COMPOSE_LOCAL) exec -T api python -m apps.worker.jobs.index_corpus
 
 search-demo:
 	$(COMPOSE_LOCAL) exec -T api python -m apps.worker.jobs.search_demo

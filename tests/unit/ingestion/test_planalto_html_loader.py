@@ -100,3 +100,42 @@ def test_generated_markdown_chunks_through_existing_loader(tmp_path: Path) -> No
 def test_build_seed_markdown_requires_existing_file(tmp_path: Path, which: str) -> None:
     with pytest.raises(FileNotFoundError):
         build_seed_markdown(tmp_path / "does_not_exist.html")
+
+
+# --- Regression: thousands-separator article numbers (CC art. 1.000+) ---------
+# Planalto writes 4-digit articles with a thousands dot ("Art. 1.000.",
+# "Art. 1.711.") and, inconsistently, sometimes without ("Art. 1337."). The
+# original `\d+` capture truncated "Art. 1.000" to article "1", so the whole
+# CC Família/Sucessões range (arts. 1.000–2.046) was lost. These tests pin the
+# fix: dotted numbers parse fully, ids are dotless, display keeps the dot.
+
+_THOUSANDS_HTML = """\
+<html><body>
+<p style="text-align: justify"><font>&nbsp;&nbsp;Art. 999. Texto novecentos.</font></p>
+<p style="text-align: justify"><font>&nbsp;&nbsp;Art. 1.000. Texto mil.</font></p>
+<p style="text-align: justify"><font>&nbsp;&nbsp;Art. 1.711. Texto bem de familia.</font></p>
+<p style="text-align: justify"><font>&nbsp;&nbsp;Art. 1337. Texto sem ponto.</font></p>
+<p style="text-align: justify"><font>&nbsp;&nbsp;Art. 2.046. Texto final.</font></p>
+</body></html>
+""".encode("iso-8859-1")
+
+
+def test_thousands_separator_articles_are_captured(tmp_path: Path) -> None:
+    html_path = tmp_path / "cc.html"
+    html_path.write_bytes(_THOUSANDS_HTML)
+    seed_path = tmp_path / "cc.md"
+    seed_path.write_text(build_seed_markdown(html_path), encoding="utf-8")
+
+    raw = LocalMarkdownLoader(seed_path).load()
+    chunks = chunk_document(raw)
+
+    display = {c.article for c in chunks}
+    ids = {c.chunk_id for c in chunks}
+    # Display keeps the canonical thousands dot; ids are dotless.
+    assert {"999", "1.000", "1.711", "1.337", "2.046"} <= display
+    assert any(cid.endswith("art-1000") for cid in ids)
+    assert any(cid.endswith("art-2046") for cid in ids)
+    # No article was truncated to its leading digit (the bug): "1" must not
+    # appear as an article when the source had no plain "Art. 1".
+    assert "1" not in display
+    assert "1º" not in display

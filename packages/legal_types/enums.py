@@ -81,5 +81,8 @@ class NormType(StrEnum):
     LEI = "lei"
     LEI_COMPLEMENTAR = "lei_complementar"
     DECRETO = "decreto"
+    # Decreto-lei recepcionado com força de lei federal (CP DL 2.848/1940,
+    # CPP DL 3.689/1941, CLT DL 5.452/1943). NÃO é decreto regulamentar.
+    DECRETO_LEI = "decreto_lei"
     MEDIDA_PROVISORIA = "medida_provisoria"
     UNKNOWN = "unknown"

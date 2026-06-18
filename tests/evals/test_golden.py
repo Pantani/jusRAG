@@ -6,10 +6,14 @@ import pytest
 
 from apps.worker.jobs.chunk_jsonl import load_indexable_chunks
 from packages.evals.golden import (
+    golden_stats,
     in_scope_questions,
     load_golden,
     out_of_scope_questions,
 )
+
+# Areas the multi-area golden must cover in-scope (Phase E user decision).
+_REQUIRED_AREAS = {"consumer", "civil", "criminal", "labor", "tax", "constitutional"}
 
 # chunk_ids actually present in the seed corpus (CDC + STJ jurisprudence).
 # Derived from the indexed corpus so the test scales with §22 corpus expansions
@@ -53,3 +57,32 @@ def test_load_golden_rejects_missing_file() -> None:
 
     with pytest.raises(FileNotFoundError):
         load_golden(Path("/nonexistent/golden.yaml"))
+
+
+def test_every_question_has_an_area() -> None:
+    """Phase E: each question carries a legal area (explicit or file-inferred)."""
+
+    for q in load_golden():
+        assert q.area, f"{q.id} has no area"
+
+
+def test_multiarea_in_scope_coverage() -> None:
+    """Each new area carries >= 10 in-scope golden questions (Phase E gate)."""
+
+    per_area = golden_stats(in_scope_questions(load_golden())).per_area
+    for area in _REQUIRED_AREAS:
+        assert per_area.get(area, 0) >= 10, f"area {area} has < 10 in-scope questions"
+
+
+def test_refused_questions_group_under_out_of_scope() -> None:
+    """A refused question reports under the out_of_scope metric area regardless of file."""
+
+    for q in out_of_scope_questions(load_golden()):
+        assert q.metric_area == "out_of_scope"
+
+
+def test_single_file_load_infers_area_from_name() -> None:
+    from packages.evals.golden import GOLDEN_DIR
+
+    civil = load_golden(GOLDEN_DIR / "civil_golden.yaml")
+    assert civil and all(q.area == "civil" for q in civil)

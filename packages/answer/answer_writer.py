@@ -15,9 +15,8 @@ Protocol, so fakes drive it offline.
 
 from __future__ import annotations
 
-import re
-
 from packages.agents.citation_auditor import audit_answer
+from packages.agents.classify_area import classify_area, is_in_scope
 from packages.answer.citation_auditor import CitationAuditResult
 from packages.answer.formatter import build_answer, build_refusal
 from packages.answer.prompts import build_answer_messages
@@ -32,78 +31,33 @@ from packages.rag.context_builder import BuiltContext, build_context
 from packages.rag.search_service import SearchService
 from packages.rag.types import RetrievedChunk
 
-# Strong out-of-scope signals (§2.2, §15.2 MVP). When a question carries one of
-# these terms, it lies outside Direito do Consumidor regardless of how high the
-# semantic similarity against the CDC corpus is — e.g. "recuperação judicial de
-# sociedade limitada" lexically overlaps with CDC art. 104-A (superendividamento)
-# at sem≈0.55, but the legal regime is Lei 11.101/2005, not the CDC. Refusing on
-# this evidence is safer than letting the LLM stitch CDC articles into an
-# off-domain answer. Audited against the golden set (Phase 13.D.4): zero false
-# positives over the 122 in-scope questions, captures all 3 leaked OOS cases
-# (oos-emp-01, oos-adm-02, oos-pre-02) plus the rest of the OOS block.
-# Word-boundary matched to avoid "licitação" colliding with "solicitação".
-_OOS_KEYWORDS: tuple[str, ...] = (
-    # Empresarial / societário (Lei 11.101/2005, Lei das S.A.)
-    "recuperação judicial",
-    "recuperacao judicial",
-    "sociedade limitada",
-    "sociedade anônima",
-    "sociedade anonima",
-    "sociedade empresária",
-    "m&a",
-    # Administrativo (Lei 14.133/2021, regime de servidores)
-    "licitação",
-    "licitacao",
-    "concurso público",
-    "concurso publico",
-    "servidor público",
-    "servidor publico",
-    "improbidade",
-    # Previdenciário (Lei 8.213/1991, INSS)
-    "inss",
-    "aposentadoria",
-    "benefício por incapacidade",
-    "beneficio por incapacidade",
-    "tempo de contribuição",
-    "tempo de contribuicao",
-    "agentes nocivos",
-    "previdenciário",
-    "previdenciario",
-    # Sucessões / notarial
-    "testamento",
-    "tabelionato",
-    # Eleitoral / migração
-    "inelegibilidade",
-    "visto humanitário",
-    "visto humanitario",
-    "migração",
-    "migracao",
-    # Penal / processual penal
-    "latrocínio",
-    "latrocinio",
-    "pena de reclusão",
-    "pena de reclusao",
-    # Civil / sucessões / reais
-    "usucapião",
-    "usucapiao",
-    "herdeiros necessários",
-    "herdeiros necessarios",
-    # Tributário (consumer-banking terms like "cartão" stay in CONSUMER)
-    "imposto de renda",
-    # Trabalhista
-    "clt",
-    "insalubridade",
-)
-_OOS_REGEX = re.compile(
-    r"\b(?:" + "|".join(re.escape(k) for k in _OOS_KEYWORDS) + r")\b",
-    re.IGNORECASE,
-)
 
-
+# Scope gate (§2.2, §15.2). A prior phase used a closed list of out-of-scope keyword
+# strings here; QA (_workspace/14_qa_multiarea_report.md) proved it overfit the golden
+# and broke both ways — it refused in-scope questions that merely contained an ambiguous
+# token (`clt`, `usucapião`, `icms`, "pena de reclusão" — including two criminal golden
+# questions that have real corpus) and let unseen OOS regimes (marca/INPI, ambiental,
+# LGPD) answer with spurious sources. A string list cannot generalize: it only refuses
+# what it already enumerates, and any enumerated stem collides with the in-scope areas.
+#
+# The principled signal is area classification + absence of corpus, reusing the agentic
+# area classifier (packages/agents/classify_area.py — a pure, deterministic, importable
+# function with a general taxonomy, not tuned to the golden). If the classified area is
+# NOT in scope (administrative/unknown), the legal regime is outside the corpus's
+# competence → safe refusal (§2.2). For in-scope areas we do NOT refuse on keywords;
+# grounding is left to retrieval/_grounded below — if retrieval brings no sufficient
+# basis, the answer is refused for absence of basis, not for a matched string. This
+# eliminates the in-scope false negatives and refuses unseen OOS by area class, which
+# generalizes to OOS regimes never seen before.
+#
+# Contract dependency documented in CONTRACTS.md: answer imports the area classifier and
+# IN_SCOPE_AREAS from agentic. classify_area is pure/importable, so importing it is not
+# editing the agentic module. We do NOT duplicate the classifier's keyword list here
+# (that would re-introduce the same overfit).
 def _is_out_of_scope(question: str) -> bool:
-    """True if the question carries a strong non-consumer scope signal (§2.2)."""
+    """True when the classified legal area has no corpus in scope (§2.2)."""
 
-    return bool(_OOS_REGEX.search(question))
+    return not is_in_scope(classify_area(question))
 
 # Minimum raw semantic similarity for a retrieved chunk to count as grounding.
 # Below this, the recovered text is lexically/conceptually off-topic (e.g. an
@@ -111,13 +65,18 @@ def _is_out_of_scope(question: str) -> bool:
 # refuses safely instead of answering on unsupported sources (§2.2, §2.3, §40).
 #
 # Since Phase 5 this is a *first-pass* heuristic, no longer the sole scope gate: the
-# CitationAuditor (below) is the robust, claim-level check. Kept injectable so a real
-# embedding model can recalibrate it. Tuned to 0.29 after the IDF-weighted
-# FakeEmbeddingProvider (Phase 13 recall fix) compressed the score band: 0.29 keeps
-# all 7/7 OOS golden queries below the gate while staying above the 4-chunk unit
-# fixture's "defeito do produto" semantic (~0.299). Above 0.30 the small fixture
-# drops below the gate; below 0.28 OOS leaks ("imposto territorial" hits 0.357 on
-# CDC art. 70).
+# area-scope classifier (above) is the regime-level check and the CitationAuditor (below)
+# is the robust claim-level check. Kept injectable so a real embedding model can
+# recalibrate it. Held at 0.29 in the multi-area corpus: it keeps all in-scope questions
+# grounded while staying above the 4-chunk unit fixture's "defeito do produto" semantic
+# (~0.299). OOS separation is done by area class, not by this absolute threshold — a grid
+# sweep over the golden showed in-scope (min 0.310) and OOS (max 0.425) top1 scores
+# overlap, so no global threshold separates them without a recall regression.
+#
+# Eval-real debt: with real (dense) embeddings the in-scope/OOS bands separate, so the
+# optimal grounding point is *not* 0.29 and the keyword classifier becomes a backstop
+# rather than the primary gate. Recalibrate against `make eval-real` once credentials
+# exist; the threshold stays injectable precisely for that.
 _MIN_SEMANTIC_SCORE = 0.29
 
 # After conservatively dropping unsupported claims, the answer must keep at least one
@@ -145,10 +104,10 @@ class AnswerWriter:
         top_k: int = 8,
         filters: dict[str, object] | None = None,
     ) -> AnswerResponse:
-        # Strong-OOS gate (§2.2): refuse adversarial out-of-scope queries before
-        # spending an LLM call. The semantic threshold alone is insufficient when
-        # OOS questions hit CDC chunks at sem≈0.4–0.55 (e.g. "recuperação
-        # judicial" → CDC art. 104-A superendividamento). See _OOS_KEYWORDS.
+        # Area-scope gate (§2.2): refuse before spending an LLM call when the
+        # question classifies to an area with no ingested corpus
+        # (administrative/unknown). For in-scope areas, grounding is decided by
+        # retrieval (_grounded) and the auditor, not by any keyword. See above.
         if _is_out_of_scope(question):
             return build_refusal(BuiltContext(text="", citations=[], chunks=[]))
 

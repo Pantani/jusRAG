@@ -11,7 +11,13 @@ Toda mudança de shape passa pelo `legal-domain` agent e reflete aqui.
 - `Jurisdiction`: federal, state, municipal, unknown
 - `PrecedentType`: binding_precedent, repetitive_appeal, general_repercussion, binding_summary, summary, ordinary_case_law, unknown
 - `SupportLevel`: direct, supporting, related, unsupported
-- `NormType`: constituicao, lei, lei_complementar, decreto, medida_provisoria, unknown
+- `NormType`: constituicao, lei, lei_complementar, decreto, **decreto_lei**, medida_provisoria, unknown
+  - `decreto_lei` (Fase A): decreto-lei recepcionado com FORÇA DE LEI FEDERAL — CP (DL 2.848/1940),
+    CPP (DL 3.689/1941), CLT (DL 5.452/1943). Distinto de `decreto` (regulamentar/infralegal).
+- `LegalArea` cobre o núcleo multi-área. Mapeamento código→area (Fase A): CF/88→`constitutional`,
+  CC (Lei 10.406/2002)→`civil`, CP (DL 2.848/1940)→`criminal`, CLT (DL 5.452/1943)→`labor`,
+  CTN (Lei 5.172/1966)→`tax`, CPC (Lei 13.105/2015)→`civil` (processo civil), CPP (DL 3.689/1941)→`criminal`
+  (processo penal). Enum NÃO foi estendido — os valores existentes cobrem o núcleo.
 
 ## Schemas — `packages/legal_types/schemas.py` (Pydantic v2)
 
@@ -56,6 +62,11 @@ content_hash, metadata: dict`
 `AuthorityTier` + `AUTHORITY_WEIGHTS`: constitution 1.00, federal_law 0.95 (lei federal/súmula
 vinculante/STF RG), stj_repetitive 0.90, stj_summary 0.88, stj_case_law 0.75, tj 0.60,
 doctrine 0.40, blog 0.20, unknown 0.10.
+`tier_for_statute` mapeia `norm_type`→tier: `constituicao`→CONSTITUTION (1.00);
+`_FEDERAL_LAW_NORMS = {lei, lei_complementar, decreto_lei, medida_provisoria}`→FEDERAL_LAW (0.95).
+**decreto_lei (CP/CPP/CLT) cai em FEDERAL_LAW, não em tier infralegal** (Fase A). Demais norm não-vazios
+→FEDERAL_LAW; vazio→UNKNOWN. `legal_ranker.authority_for_payload` (dono: retrieval) já espelha:
+norm não-vazio≠constituição → FEDERAL_LAW, logo decreto_lei já resolve 0.95 sem alteração lá.
 Helpers: `weight_for(tier)`, `tier_for_statute(chunk)`, `tier_for_case_law(doc)`,
 `authority_weight_for_chunk(chunk)`, `authority_weight_for_doc_type(doc_type)`.
 
@@ -427,3 +438,32 @@ via `make_embedding_provider`/`make_llm_provider` (selectors).
 - packages/rag/hybrid_retriever.py — concreto. Quando `enable_hybrid=False`, delega 100% ao semantic (no-op contractual). Quando True: paralelo semantic+BM25, normalização min-max, dedup por chunk_id, combinação ponderada.
 - packages/storage/opensearch.py — FakeOpenSearchAdapter determinístico para testes offline. Real adapter requer OpenSearch container up.
 - packages/rag/legal_ranker.py — quando hybrid ativo, substitui `semantic_similarity` por `hybrid_score` no composto §38 (pesos 0.70/0.20/0.10 inalterados).
+
+## answer → agentic (scope classification) — Fase 14
+
+`packages/answer/answer_writer.py` importa o classificador de área PURO e determinístico de
+`packages/agents/classify_area.py`:
+- `classify_area(question: str) -> LegalArea`
+- `is_in_scope(area: LegalArea) -> bool` (pertinência em `IN_SCOPE_AREAS`)
+
+Gate de escopo do `AnswerWriter` (`_is_out_of_scope`) = `not is_in_scope(classify_area(q))`.
+Racional (rework Fase 14): a lista fechada `_OOS_KEYWORDS` fazia overfit do golden e quebrava
+nos dois sentidos. Sinal principled = classe-de-área + ausência de corpus: área fora de
+`IN_SCOPE_AREAS` (administrative/unknown) não tem corpus → recusa segura §2.2. Áreas in-scope
+delegam o grounding ao retrieval + CitationAuditor, nunca a keywords. O lado answer NÃO deve
+duplicar a lista de keywords do classificador (reintroduziria o overfit). Mudança na assinatura
+ou em `IN_SCOPE_AREAS` exige coordenação com o answer.
+
+### Limitação conhecida (dono: agentic / auditor)
+Sub-tópico genuinamente fora do corpus DENTRO de uma área in-scope (ex.: alíquota de IRPF,
+ITCMD estadual, ICMS específico — área `tax`, mas o CTN é norma geral e não traz alíquotas)
+vaza o gate de escopo por design (área in-scope defere ao grounding). Medição Fase 14.D com
+embeddings densos reais (MPNet): top-1 score 0.48–0.66 ≫ 0.29 → o grounding NÃO recusa. O guard
+correto é o CitationAuditor a nível de claim sobre um LLM real. NÃO endurecer o classify_area com
+keywords de sub-tópico (overfit). Pendência de validação: eval-real com LLM real.
+
+## AnswerWriter output (§30)
+`{short_answer, legal_basis[], case_law[], caveats[], sources[], not_legal_advice: true, audit}`
+
+## CitationAuditor output (§31)
+`{citation_coverage, unsupported_legal_claim_rate, unsupported_claims[], passed}`

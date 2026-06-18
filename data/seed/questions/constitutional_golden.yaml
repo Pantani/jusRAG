@@ -1,0 +1,76 @@
+# Golden dataset — Direito Constitucional (CF/88, Constituição da República de 1988).
+#
+# Phase E multi-area golden (§24, §35-37). Anchored on REAL CF/88 articles in the
+# ingested corpus (data/generated/statutes_chunks.jsonl) — no invented article (rule #1).
+# Lexically calibrated for recall@5 >= 0.80 under the deterministic FakeEmbeddingProvider.
+# chunk_id scheme: cf88-1988-1988-art-N (corpus uses norm_number=1988, norm_year=1988).
+
+- id: const-cf-art1-estado-democratico
+  area: constitutional
+  question: A República Federativa do Brasil formada pela união indissolúvel dos Estados e Municípios constitui-se em Estado Democrático de Direito?
+  expected_chunk_ids: [cf88-1988-1988-art-1]
+  expected_behavior: answered
+  expected_articles: ["1º"]
+
+- id: const-cf-art2-poderes
+  area: constitutional
+  question: São Poderes da União independentes e harmônicos entre si o Legislativo o Executivo e o Judiciário?
+  expected_chunk_ids: [cf88-1988-1988-art-2]
+  expected_behavior: answered
+  expected_articles: ["2º"]
+
+- id: const-cf-art3-objetivos-fundamentais
+  area: constitutional
+  question: Constituem objetivos fundamentais da República construir uma sociedade livre justa e solidária e erradicar a pobreza?
+  expected_chunk_ids: [cf88-1988-1988-art-3]
+  expected_behavior: answered
+  expected_articles: ["3º"]
+
+- id: const-cf-art5-igualdade-inviolabilidade
+  area: constitutional
+  question: Todos são iguais perante a lei garantindo-se a inviolabilidade do direito à vida liberdade igualdade segurança e propriedade?
+  expected_chunk_ids: [cf88-1988-1988-art-5]
+  expected_behavior: answered
+  expected_articles: ["5º"]
+
+- id: const-cf-art6-direitos-sociais
+  area: constitutional
+  question: São direitos sociais a educação a saúde a alimentação o trabalho a moradia o transporte o lazer e a segurança?
+  expected_chunk_ids: [cf88-1988-1988-art-6]
+  expected_behavior: answered
+  expected_articles: ["6º"]
+
+- id: const-cf-art7-direitos-trabalhadores
+  area: constitutional
+  question: São direitos dos trabalhadores urbanos e rurais a relação de emprego protegida contra despedida arbitrária e o fundo de garantia?
+  expected_chunk_ids: [cf88-1988-1988-art-7]
+  expected_behavior: answered
+  expected_articles: ["7º"]
+
+- id: const-cf-art37-administracao-publica
+  area: constitutional
+  question: A administração pública direta e indireta obedecerá aos princípios de legalidade impessoalidade moralidade publicidade e eficiência?
+  expected_chunk_ids: [cf88-1988-1988-art-37]
+  expected_behavior: answered
+  expected_articles: ["37"]
+
+- id: const-cf-art127-ministerio-publico
+  area: constitutional
+  question: O Ministério Público é instituição permanente essencial à função jurisdicional do Estado incumbindo-lhe a defesa da ordem jurídica?
+  expected_chunk_ids: [cf88-1988-1988-art-127]
+  expected_behavior: answered
+  expected_articles: ["127"]
+
+- id: const-cf-art145-tributos
+  area: constitutional
+  question: A União os Estados o Distrito Federal e os Municípios poderão instituir impostos taxas em razão do poder de polícia e contribuição de melhoria?
+  expected_chunk_ids: [cf88-1988-1988-art-145]
+  expected_behavior: answered
+  expected_articles: ["145"]
+
+- id: const-cf-art5-asilo-inviolavel
+  area: constitutional
+  question: A casa é asilo inviolável do indivíduo ninguém nela podendo penetrar sem consentimento do morador inviolabilidade do domicílio?
+  expected_chunk_ids: [cf88-1988-1988-art-5]
+  expected_behavior: answered
+  expected_articles: ["5º"]

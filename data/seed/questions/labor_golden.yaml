@@ -1,0 +1,93 @@
+# Golden dataset — Direito do Trabalho (CLT, Decreto-Lei 5.452/1943).
+#
+# Phase E multi-area golden (§24, §35-37). Anchored on REAL CLT articles in the
+# ingested corpus (data/generated/statutes_chunks.jsonl) — no invented article (rule #1).
+# Lexically calibrated for recall@5 >= 0.80 under the deterministic FakeEmbeddingProvider.
+# chunk_id scheme: clt-5452-1943-art-N.
+
+- id: labor-clt-art3-empregado
+  area: labor
+  question: Considera-se empregado toda pessoa física que prestar serviços de natureza não eventual a empregador sob a dependência deste e mediante salário?
+  expected_chunk_ids: [clt-5452-1943-art-3]
+  expected_behavior: answered
+  expected_articles: ["3º"]
+
+- id: labor-clt-art442-contrato-individual
+  area: labor
+  question: Contrato individual de trabalho é o acordo tácito ou expresso correspondente à relação de emprego?
+  expected_chunk_ids: [clt-5452-1943-art-442]
+  expected_behavior: answered
+  expected_articles: ["442"]
+
+- id: labor-clt-art58-jornada
+  area: labor
+  question: A duração normal do trabalho para os empregados em qualquer atividade privada não excederá de oito horas diárias jornada?
+  expected_chunk_ids: [clt-5452-1943-art-58]
+  expected_behavior: answered
+  expected_articles: ["58"]
+
+- id: labor-clt-art71-intervalo
+  area: labor
+  question: Em qualquer trabalho contínuo cuja duração exceda de seis horas é obrigatória a concessão de um intervalo para repouso ou alimentação?
+  expected_chunk_ids: [clt-5452-1943-art-71]
+  expected_behavior: answered
+  expected_articles: ["71"]
+
+- id: labor-clt-art477-rescisao-verbas
+  area: labor
+  question: Na extinção do contrato de trabalho o empregador deverá realizar o pagamento das verbas rescisórias e a anotação na Carteira de Trabalho?
+  expected_chunk_ids: [clt-5452-1943-art-477]
+  expected_behavior: answered
+  expected_articles: ["477"]
+
+- id: labor-clt-art483-rescisao-indireta
+  area: labor
+  question: O empregado poderá considerar rescindido o contrato e pleitear a devida indenização quando forem exigidos serviços superiores às suas forças rescisão indireta?
+  expected_chunk_ids: [clt-5452-1943-art-483]
+  expected_behavior: answered
+  expected_articles: ["483"]
+
+- id: labor-clt-art818-onus-prova
+  area: labor
+  question: O ônus da prova incumbe ao reclamante quanto ao fato constitutivo de seu direito e ao reclamado quanto a fato impeditivo modificativo extintivo?
+  expected_chunk_ids: [clt-5452-1943-art-818]
+  expected_behavior: answered
+  expected_articles: ["818"]
+
+- id: labor-clt-art4-tempo-disposicao
+  area: labor
+  question: Será computado como período de trabalho efetivo o tempo em que o empregado esteja à disposição do empregador aguardando ordens?
+  expected_chunk_ids: [clt-5452-1943-art-4]
+  expected_behavior: answered
+  expected_articles: ["4º"]
+
+- id: labor-clt-art457-remuneracao
+  area: labor
+  question: Compreendem-se na remuneração do empregado além do salário as gorjetas que receber salário e adicionais?
+  expected_chunk_ids: [clt-5452-1943-art-457]
+  expected_behavior: answered
+  expected_articles: ["457"]
+
+- id: labor-clt-art130-ferias
+  area: labor
+  question: Após cada período de doze meses de vigência do contrato de trabalho o empregado terá direito a férias na proporção de trinta dias?
+  expected_chunk_ids: [clt-5452-1943-art-130]
+  expected_behavior: answered
+  expected_articles: ["130"]
+
+# Migrated from consumer_golden.yaml oos-* in Phase 14 (recurate): the CLT is in-scope
+# corpus, so these are answerable, not refusals. Ids preserved; reworded to anchor on
+# the real article text validated top-5 on the offline harness (system rule #1).
+- id: oos-tra-03
+  area: labor
+  question: O exercício de trabalho em condições insalubres acima dos limites de tolerância estabelecidos assegura a percepção de adicional de insalubridade?
+  expected_chunk_ids: [clt-5452-1943-art-192]
+  expected_behavior: answered
+  expected_articles: ["192"]
+
+- id: oos-tra-04
+  area: labor
+  question: Constituem justa causa para rescisão do contrato de trabalho pelo empregador a desídia no desempenho das funções e o abandono de emprego?
+  expected_chunk_ids: [clt-5452-1943-art-482]
+  expected_behavior: answered
+  expected_articles: ["482"]

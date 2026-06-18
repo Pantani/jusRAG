@@ -31,28 +31,42 @@ from packages.legal_types.enums import DocType
 from packages.legal_types.schemas import CaseLawDocument, LegalChunk
 
 # Matches an article heading line: "## Art. 6º", "## Art. 12", "## Art. 14-A".
+# The number may carry a thousands separator ("Art. 1.000") if a heading reaches
+# the chunker undotted-normalization; dots are stripped in _id_article/_render.
 _ARTICLE_HEADING_RE = re.compile(
-    r"^\s{0,3}#{1,6}\s*Art\.?\s*(?P<num>\d+(?:-[A-Z])?)\s*(?P<ord>[ºo°]?)\s*$",
+    r"^\s{0,3}#{1,6}\s*Art\.?\s*(?P<num>\d[\d.]*(?:-[A-Z])?)\s*(?P<ord>[ºo°]?)\s*$",
     re.IGNORECASE | re.MULTILINE,
 )
 
 # Ordinal articles (1-9) render as "6º"; from 10 on, "12".
 _ORDINAL_LIMIT = 10
+# Below this, no thousands separator ("999"); at/above, group it ("1.784").
+_THOUSANDS_LIMIT = 1000
 
 
 def _render_article(num: str) -> str:
-    """Render the display form of an article number ("6" -> "6º", "12" -> "12")."""
+    """Render the display form of an article number.
 
-    base = num.split("-")[0]
+    Drops any thousands separator from the input, then re-applies the canonical
+    Brazilian legal form: ordinal mark for 1-9 ("6" -> "6º"), thousands grouping
+    for >=1000 ("1784" -> "1.784", "1240-A" -> "1.240-A"). The dotted form is the
+    citation surface; ids stay dotless (`_id_article`).
+    """
+
+    num = num.replace(".", "")
+    base, sep, suffix = num.partition("-")
     if base.isdigit() and int(base) < _ORDINAL_LIMIT:
         return f"{num}º"
+    if base.isdigit() and int(base) >= _THOUSANDS_LIMIT:
+        grouped = f"{int(base):,}".replace(",", ".")
+        return f"{grouped}{sep}{suffix}"
     return num
 
 
 def _id_article(num: str) -> str:
     """Id-safe article token (lowercase, no ordinal mark): "6º" -> "6"."""
 
-    return num.lower()
+    return num.replace(".", "").lower()
 
 
 def iter_article_sections(body: str) -> Iterator[tuple[str, str]]:
@@ -91,14 +105,26 @@ def chunk_document(
     ts = created_at or datetime.now(UTC)
 
     chunks: list[LegalChunk] = []
+    # Some codes restart article numbering across structural divisions (e.g.
+    # CF/88's permanent body vs. ADCT, or a code's transitional provisions), so
+    # the same "Art. N" can recur with *different* text. The chunk_id is the
+    # vector-store point key (uuid5(chunk_id)); a collision would silently
+    # overwrite a distinct article. We disambiguate by document-order occurrence:
+    # the first "Art. N" keeps the canonical id, repeats get a stable "-occ-K"
+    # suffix. Deterministic (document order is stable); display ``article`` is
+    # unchanged so the citation still reads "Art. N".
+    occurrences: dict[str, int] = {}
     for num, section in iter_article_sections(raw.text):
         normalized = normalize_text(section)
-        chunk_id = build_chunk_id(
+        base_id = build_chunk_id(
             short_name=short_name,
             norm_number=raw.norm_number,
             norm_year=raw.norm_year,
             article=_id_article(num),
         )
+        seen = occurrences.get(base_id, 0)
+        occurrences[base_id] = seen + 1
+        chunk_id = base_id if seen == 0 else f"{base_id}-occ-{seen + 1}"
         chunks.append(
             LegalChunk(
                 chunk_id=chunk_id,

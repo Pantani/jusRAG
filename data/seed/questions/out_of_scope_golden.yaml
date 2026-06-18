@@ -1,0 +1,109 @@
+# Golden dataset — Out-of-scope (refusal) for the multi-area corpus (§36, §2.2).
+#
+# These areas have NO statute ingested into the corpus (no Lei de Licitações, no
+# legislação previdenciária/INSS, no Lei de Migração, no Lei Eleitoral). The classifier
+# scope covers consumer/civil/criminal/labor/tax/constitutional only; everything here
+# must resolve to status=refused so refusal_when_no_source_rate (>= 0.90) stays honestly
+# measured as the corpus grows. No expected_chunk_ids (nothing legitimate to retrieve).
+#
+# Deliberately adversarial: several queries share surface tokens with in-scope codes
+# (CF art. 37 "administração pública", CLT for "servidor") to confirm the writer refuses
+# on insufficient grounding rather than answering from a tangentially-overlapping chunk.
+
+- id: oosx-adm-licitacao-modalidades
+  area: out_of_scope
+  question: Quais são as modalidades de licitação previstas na Lei 14.133/2021 de Licitações e Contratos Administrativos?
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+- id: oosx-adm-servidor-estabilidade
+  area: out_of_scope
+  question: Quais os requisitos de estabilidade do servidor público estatutário após o estágio probatório na Lei 8.112/1990?
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+- id: oosx-adm-improbidade
+  area: out_of_scope
+  question: Quais os atos de improbidade administrativa que importam enriquecimento ilícito na Lei 8.429/1992?
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+- id: oosx-prev-aposentadoria-tempo
+  area: out_of_scope
+  question: Quais os requisitos para aposentadoria por tempo de contribuição junto ao INSS após a reforma da previdência?
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+- id: oosx-prev-incapacidade
+  area: out_of_scope
+  question: Quais perícias o INSS exige para conceder o benefício por incapacidade temporária ao segurado?
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+- id: oosx-ele-inelegibilidade
+  area: out_of_scope
+  question: Quais as hipóteses de inelegibilidade previstas na Lei Complementar 64 de 1990 ficha limpa?
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+- id: oosx-mig-visto-humanitario
+  area: out_of_scope
+  question: Quais os requisitos para obtenção de visto humanitário no Brasil pela Lei de Migração 13.445?
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+# ---------------------------------------------------------------------------
+# Anti-overfit / generalisation cohort (Phase 14 recurate, demanded by QA).
+# These are regimes the agentic `classify_area` was NOT explicitly hardened on in
+# _workspace/14_agentic_classifier_hardening_summary.md — they exercise GENERALISATION
+# (route to an OOS area by absence of in-scope vocabulary), not memorisation of the
+# specific OOS terms the classifier already knows. If any of these starts leaking, it
+# means the OOS detection regressed to a closed list rather than a principled signal.
+# ---------------------------------------------------------------------------
+- id: oosx-amb-licenciamento
+  area: out_of_scope
+  question: Quais as licenças exigidas no licenciamento ambiental de uma usina hidrelétrica?
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+- id: oosx-amb-eia-rima
+  area: out_of_scope
+  question: Como funciona o estudo prévio de impacto ambiental EIA RIMA para obras potencialmente poluidoras?
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+- id: oosx-pi-marca-inpi
+  area: out_of_scope
+  question: Quais os requisitos para registro de marca no INPI segundo a Lei da Propriedade Industrial?
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+- id: oosx-pi-patente-prazo
+  area: out_of_scope
+  question: Qual o prazo de vigência de uma patente de invenção concedida pelo INPI?
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+- id: oosx-mar-transporte
+  area: out_of_scope
+  question: Como funciona o transporte marítimo de cargas e o conhecimento de embarque na navegação?
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+- id: oosx-conc-cade
+  area: out_of_scope
+  question: Como o CADE analisa atos de concentração econômica na defesa da concorrência?
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+- id: oosx-aut-direitos-autorais
+  area: out_of_scope
+  question: Como funciona a proteção de direitos autorais sobre uma obra musical na Lei de Direitos Autorais?
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+- id: oosx-reg-civil-nascimento
+  area: out_of_scope
+  question: Quais os requisitos para o registro civil de nascimento de uma criança em cartório?
+  expected_chunk_ids: []
+  expected_behavior: refused

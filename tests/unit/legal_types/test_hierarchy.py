@@ -48,6 +48,15 @@ def test_statute_tiers() -> None:
     assert tier_for_statute(_chunk(None)) is AuthorityTier.UNKNOWN
 
 
+def test_decreto_lei_maps_to_federal_law() -> None:
+    # CP/CPP/CLT são decretos-lei recepcionados com força de lei federal (§39):
+    # devem pesar 0.95, como lei federal vigente — não tier infralegal.
+    assert tier_for_statute(_chunk("decreto_lei")) is AuthorityTier.FEDERAL_LAW
+    assert authority_weight_for_chunk(_chunk("decreto_lei")) == 0.95
+    assert tier_for_statute(_chunk("lei_complementar")) is AuthorityTier.FEDERAL_LAW
+    assert tier_for_statute(_chunk("medida_provisoria")) is AuthorityTier.FEDERAL_LAW
+
+
 def test_statute_weight_for_federal_law() -> None:
     assert authority_weight_for_chunk(_chunk("lei")) == 0.95
 

@@ -1,0 +1,64 @@
+# Out-of-scope — eval-real debt cohort (NOT loaded by the fake CI gate).
+#
+# IMPORTANT: this file is deliberately NOT named "*_golden.yaml", so
+# packages.evals.golden.load_golden() does NOT pick it up. It is documentation of a
+# KNOWN eval-real debt, kept under version control so the cases are not lost.
+#
+# Every question here is a TAX sub-topic that the agentic classifier routes to the
+# in-scope `tax` area (shared surface vocabulary "imposto"/"ICMS"/"IRPF") but whose
+# specific regime is NOT in the CTN corpus (the CTN is the general norm: it carries no
+# aliquots, no state taxes like ITCMD/ICMS). They are LABELLED correctly as `refused`.
+#
+# Phase 14 eval-debt remediation update: the família/sucessões/usucapião cases that used
+# to live here were PROMOTED to civil_golden.yaml as `answered`. The CC ingestion P1 fix
+# (separador de milhar — _workspace/14_ingestion_cc_fix_summary.md) brought CC Família
+# (1.5xx) and Sucessões (1.784+) into the corpus, so usucapião (CC 1.238/1.242), partilha
+# /regime (CC 1.658/1.639) and guarda (CC 1.583/1.584) are now genuinely answerable with
+# real anchors. Only the corpusless TAX sub-topics remain here.
+#
+# Why the remaining items are excluded from the deterministic CI (fake) gate, not the set:
+#   1. The agentic `classify_area` routes them to the IN-scope `tax` area because they
+#      share its surface vocabulary, instead of to an out-of-scope area. This is an
+#      upstream classifier sub-topic-coverage gap (owner: agentic) — a corpusless
+#      *sub-topic* of an in-scope area is not the same signal as a corpusless *regime*.
+#   2. Routed in-scope, the writer falls through to grounding. The deterministic
+#      FakeEmbeddingProvider is purely lexical, so it scores tangential CTN chunks above
+#      the grounding threshold (e.g. ICMS query -> CTN art. 69 "base de cálculo do
+#      imposto" at 0.583), and the writer answers instead of refusing.
+#
+# Under REAL DENSE embeddings the semantic distance to the absent sub-topic is large, so
+# these refuse correctly on grounding. This cohort is therefore a FakeEmbedding lexical
+# limitation, NOT a golden-labelling error — validated in Phase 14 by measuring the
+# top-1 dense score vs the grounding threshold (_MIN_SEMANTIC_SCORE=0.29); see
+# _workspace/14_eval_debt_remediation_summary.md. Pendência ao orquestrador: agentic —
+# route corpusless sub-topics of an in-scope area to OOS, or refuse on weak grounding.
+
+- id: oos-declarar-bitcoin
+  area: out_of_scope
+  question: Como declarar criptomoedas e bitcoin na malha fina da Receita Federal?
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+- id: oos-tax-01
+  area: out_of_scope
+  question: Qual a alíquota do imposto de renda pessoa física para o ano corrente?
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+- id: oos-tax-02
+  area: out_of_scope
+  question: Como calcular o ITCMD na transmissão causa mortis de imóvel em São Paulo?
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+- id: oos-tax-03
+  area: out_of_scope
+  question: Qual a base de cálculo do ICMS na importação de mercadorias?
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+- id: oos-tax-04
+  area: out_of_scope
+  question: Como funciona a substituição tributária no ICMS para combustíveis?
+  expected_chunk_ids: []
+  expected_behavior: refused

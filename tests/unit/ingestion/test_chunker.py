@@ -87,3 +87,42 @@ def test_chunking_is_idempotent() -> None:
     b = chunk_document(_raw(), created_at=_TS)
     assert [c.model_dump() for c in a] == [c.model_dump() for c in b]
     assert [c.content_hash for c in a] == [c.content_hash for c in b]
+
+
+# Numbering that restarts across structural divisions (e.g. CF/88 body vs. ADCT)
+# yields the same "Art. N" twice with different text — the chunk_id must not
+# collide (it keys the vector-store point).
+_RESTART_BODY = """## Art. 1º
+
+Corpo permanente — primeiro artigo.
+
+## Art. 2º
+
+Corpo permanente — segundo artigo.
+
+## Art. 1º
+
+Disposições transitórias — primeiro artigo.
+"""
+
+
+def test_repeated_article_number_gets_stable_disambiguated_id() -> None:
+    chunks = chunk_document(_raw(_RESTART_BODY), created_at=_TS)
+    ids = [c.chunk_id for c in chunks]
+    # No collision; first occurrence keeps the canonical id, the repeat is suffixed.
+    assert len(ids) == len(set(ids))
+    assert ids == [
+        "cdc-8078-1990-art-1",
+        "cdc-8078-1990-art-2",
+        "cdc-8078-1990-art-1-occ-2",
+    ]
+    # Display article is unchanged for the disambiguated chunk.
+    repeated = next(c for c in chunks if c.chunk_id.endswith("-occ-2"))
+    assert repeated.article == "1º"
+    assert "transitórias" in repeated.text
+
+
+def test_disambiguation_is_idempotent() -> None:
+    a = chunk_document(_raw(_RESTART_BODY), created_at=_TS)
+    b = chunk_document(_raw(_RESTART_BODY), created_at=_TS)
+    assert [c.chunk_id for c in a] == [c.chunk_id for c in b]

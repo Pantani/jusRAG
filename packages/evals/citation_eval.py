@@ -21,6 +21,7 @@ report. Pure and offline — no LLM, no network — so it runs in CI with fake p
 
 from __future__ import annotations
 
+from collections import defaultdict
 from collections.abc import Iterable
 from dataclasses import dataclass, field
 
@@ -47,6 +48,7 @@ class AnswerCase:
     short_answer: str
     legal_basis: tuple[LegalClaim, ...]
     chunks: tuple[AuditChunk, ...]
+    area: str = "consumer"
 
 
 @dataclass(frozen=True)
@@ -54,6 +56,7 @@ class CaseAudit:
     """Per-case audit result kept for drill-down in the report."""
 
     case_id: str
+    area: str
     citation_coverage: float
     unsupported_legal_claim_rate: float
     unsupported_claims: list[str]
@@ -73,6 +76,7 @@ class CitationEvalReport:
     coverage_passed: bool = True
     unsupported_passed: bool = True
     failing_case_ids: list[str] = field(default_factory=list)
+    per_area: dict[str, dict[str, float]] = field(default_factory=dict)
 
     @property
     def passed(self) -> bool:
@@ -95,6 +99,7 @@ class CitationEvalReport:
             "total_claims": self.total_claims,
             "total_unsupported": self.total_unsupported,
             "passed": self.passed,
+            "per_area": self.per_area,
             "failing_case_ids": list(self.failing_case_ids),
             "cases": [
                 {
@@ -126,12 +131,34 @@ def audit_case(
     total_claims = _count_claims(case)
     return CaseAudit(
         case_id=case.case_id,
+        area=case.area,
         citation_coverage=result.citation_coverage,
         unsupported_legal_claim_rate=result.unsupported_legal_claim_rate,
         unsupported_claims=list(result.unsupported_claims),
         total_claims=total_claims,
         passed=result.passed,
     )
+
+
+def _per_area_citation(audits: list[CaseAudit]) -> dict[str, dict[str, float]]:
+    """Micro-averaged coverage + unsupported rate per legal area."""
+
+    claims: dict[str, int] = defaultdict(int)
+    unsupported: dict[str, int] = defaultdict(int)
+    for a in audits:
+        claims[a.area] += a.total_claims
+        unsupported[a.area] += len(a.unsupported_claims)
+    out: dict[str, dict[str, float]] = {}
+    for area in sorted(claims):
+        total = claims[area]
+        unsup = unsupported[area]
+        rate = unsup / total if total else 0.0
+        out[area] = {
+            "citation_coverage": 1.0 - rate if total else 1.0,
+            "unsupported_legal_claim_rate": rate,
+            "total_claims": float(total),
+        }
+    return out
 
 
 def _count_claims(case: AnswerCase) -> int:
@@ -172,6 +199,7 @@ def evaluate_citations(
     failing = [a.case_id for a in audits if not a.passed]
 
     return CitationEvalReport(
+        per_area=_per_area_citation(audits),
         citation_coverage=coverage,
         unsupported_legal_claim_rate=unsupported_rate,
         total_claims=total_claims,
