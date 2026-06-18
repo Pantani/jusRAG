@@ -1,4 +1,4 @@
-# Fase 13.C.3 — Eval real com OpenAI (full 158q)
+# Fase 13.C.3 — Eval real com OpenAI (full 159q)
 
 ## Setup
 
@@ -16,7 +16,7 @@
 
 ## Tabela comparativa: fake (13.B.1) vs local (13.C.2) vs openai (13.C.3)
 
-| Metric §36 | Threshold | Fake (158q) | Local (158q) | **OpenAI (159q)** | Δ openai vs fake |
+| Metric §36 | Threshold | Fake (159q) | Local (159q) | **OpenAI (159q)** | Δ openai vs fake |
 |---|---|---|---|---|---|
 | retrieval_recall_at_5 | ≥ 0.80 | 0.9669 | 0.8843 | **0.9754** | +0.009 |
 | retrieval_precision_at_5 | — | 0.1934 | 0.1769 | 0.1951 | +0.002 |

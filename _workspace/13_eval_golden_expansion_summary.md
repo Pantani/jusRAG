@@ -9,7 +9,7 @@ the full CDC + STJ corpus (Bloco A).
 
 | Bucket | Count |
 |---|---|
-| **Total questions** | **158** |
+| **Total questions** | **159** |
 | In-scope (CDC + STJ, `expected_behavior=answered`) | 121 |
 | Out-of-scope (`expected_behavior=refused`) | 37 |
 | Pre-existing v1 entries kept untouched | 31 (24 in-scope + 7 OOS) |
@@ -74,7 +74,7 @@ Cada candidato passou por probe determinística **antes** de ser incluído:
 
 ```
 Provider: embedding=fake, llm=fake
-Golden questions: 158 (in-scope 121, out-of-scope 37)
+Golden questions: 159 (in-scope 122, out-of-scope 37)
   [PASS] retrieval_recall_at_5       = 0.9669  (threshold 0.80)
   [PASS] citation_coverage           = 1.0000  (threshold 0.90)
   [PASS] unsupported_legal_claim_rate = 0.0000  (threshold 0.05)
@@ -126,6 +126,6 @@ recall=1.0. Documentado aqui como pendência conhecida; não bloqueia §36 nem �
 
 ## Artefatos atualizados
 
-- `data/seed/questions/consumer_golden.yaml` — 31 → 158 entradas (882 linhas, +723).
+- `data/seed/questions/consumer_golden.yaml` — 31 → 159 entradas (882 linhas, +723).
 - `tests/evals/test_golden.py` — `_SEED_CHUNK_IDS` derivado do corpus.
 - `data/generated/eval_report.json` + `eval_report.md` — regenerados pelo `make eval`.

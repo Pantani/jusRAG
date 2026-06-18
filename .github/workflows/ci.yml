@@ -25,6 +25,8 @@ jobs:
           cache: pip
       - name: Install project
         run: pip install -e ".[dev]"
+      - name: Provision .env from example (Settings has required fields without defaults)
+        run: cp .env.example .env
       - name: Lint (ruff + mypy)
         run: make lint
       - name: Generate seed corpus (offline, direct python — Makefile targets assume docker)
@@ -46,6 +48,8 @@ jobs:
           cache: pip
       - name: Install project
         run: pip install -e ".[dev]"
+      - name: Provision .env from example (Settings has required fields without defaults)
+        run: cp .env.example .env
       - name: Generate seed corpus (offline, direct python — Makefile targets assume docker)
         run: |
           python -m apps.worker.jobs.ingest_cdc
