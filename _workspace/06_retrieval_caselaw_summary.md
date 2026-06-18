@@ -77,7 +77,7 @@ refletindo a autoridade 0.88.
 - `tests/unit/conftest.py`: fixture `case_law_chunks` (Súmulas 297/479, payload §9 em
   `metadata`).
 
-```bash
+```text
 make test  -> 125 passed
 make lint  -> ruff: All checks passed ; mypy: Success, 69 files
 ```
