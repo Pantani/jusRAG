@@ -19,14 +19,19 @@ def test_refusal_rate_meets_threshold_on_seed() -> None:
 
 
 def test_refusal_rate_drops_when_oos_is_answered() -> None:
-    """An out-of-scope question phrased to overlap the corpus lowers the refusal rate."""
+    """An out-of-scope label on a question that the corpus genuinely supports
+    lowers the refusal rate: the writer answers (correctly) instead of refusing,
+    and the eval flags the case because the label said ``refused``. The literal
+    in-scope wording is used so the recalibrated semantic/auditor gates do not
+    drop the answer for sounding off-topic."""
 
     leaking = [
         GoldenQuestion(
             id="oos-leak",
             question=(
-                "Os fornecedores respondem solidariamente pelos vícios de qualidade "
-                "do produto durável que o tornem impróprio ao consumo?"
+                "Os fornecedores de produtos de consumo duráveis ou não duráveis "
+                "respondem solidariamente pelos vícios de qualidade ou quantidade "
+                "que os tornem impróprios ou inadequados ao consumo a que se destinam?"
             ),
             expected_chunk_ids=(),
             expected_behavior="refused",

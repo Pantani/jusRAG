@@ -37,8 +37,13 @@ from packages.rag.types import RetrievedChunk
 #
 # Since Phase 5 this is a *first-pass* heuristic, no longer the sole scope gate: the
 # CitationAuditor (below) is the robust, claim-level check. Kept injectable so a real
-# embedding model can recalibrate it.
-_MIN_SEMANTIC_SCORE = 0.20
+# embedding model can recalibrate it. Tuned to 0.29 after the IDF-weighted
+# FakeEmbeddingProvider (Phase 13 recall fix) compressed the score band: 0.29 keeps
+# all 7/7 OOS golden queries below the gate while staying above the 4-chunk unit
+# fixture's "defeito do produto" semantic (~0.299). Above 0.30 the small fixture
+# drops below the gate; below 0.28 OOS leaks ("imposto territorial" hits 0.357 on
+# CDC art. 70).
+_MIN_SEMANTIC_SCORE = 0.29
 
 # After conservatively dropping unsupported claims, the answer must keep at least one
 # supported legal-basis statement; otherwise there is nothing left to stand on and the

@@ -26,12 +26,19 @@ _HEADING = re.compile(r"^##\s*Art\.?\s*\S+\s*", re.IGNORECASE)
 
 
 def _first_sentence(text: str) -> str:
-    """First meaningful sentence of a chunk, stripping the ``## Art. N`` heading."""
+    """First meaningful sentence of a chunk, stripping the ``## Art. N`` heading.
+
+    The Planalto-sourced CDC markdown contains stray leading ``. `` tokens (legacy
+    bullets), which would otherwise yield an empty first sentence and silently break
+    the audit (a basis line "art. 18: ." carries no overlap). Skip sentences that
+    have no alphabetic content so the basis always echoes real article text.
+    """
 
     body = _HEADING.sub("", text.strip()).strip()
     body = body.replace("\n", " ").strip()
-    parts = [p.strip() for p in _SENTENCE_SPLIT.split(body) if p.strip()]
-    return parts[0] if parts else body
+    parts = [p.strip(" .") for p in _SENTENCE_SPLIT.split(body)]
+    meaningful = [p for p in parts if any(ch.isalpha() for ch in p)]
+    return meaningful[0] if meaningful else body
 
 
 class FakeLLMProvider(LLMProvider):
