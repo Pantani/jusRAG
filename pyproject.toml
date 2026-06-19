@@ -72,7 +72,7 @@ max-complexity = 10
 # Cognitive complexity (nesting-weighted), complementary to mccabe's cyclomatic
 # count. Same ceiling of 10 — enforced by `make lint` via `complexipy`.
 [tool.complexipy]
-max_complexity_allowed = 10
+max-complexity-allowed = 10
 
 [tool.mypy]
 python_version = "3.12"
