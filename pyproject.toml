@@ -32,6 +32,10 @@ dev = [
     "httpx>=0.27",  # FastAPI TestClient (offline)
     "ruff>=0.7",
     "mypy>=1.13",
+    # Cognitive complexity gate. ruff's mccabe covers cyclomatic (C901 ≤ 10);
+    # complexipy adds the cognitive dimension (nesting-weighted), also capped at
+    # 10 via `make lint`. Offline, deterministic, no network.
+    "complexipy>=3",
 ]
 # Optional Streamlit demo UI (Phase 9). Kept out of core deps so the base
 # install / test path stays light; the API + RAG pipeline never imports it.
@@ -64,6 +68,11 @@ select = ["E", "F", "I", "C90", "UP", "B"]
 
 [tool.ruff.lint.mccabe]
 max-complexity = 10
+
+# Cognitive complexity (nesting-weighted), complementary to mccabe's cyclomatic
+# count. Same ceiling of 10 — enforced by `make lint` via `complexipy`.
+[tool.complexipy]
+max-complexity-allowed = 10
 
 [tool.mypy]
 python_version = "3.12"
