@@ -729,7 +729,7 @@ de 11.7.1984)
 
 Penas restritivas de direitos
 
-## Art. 43.
+## Art. 43
 
 As penas restritivas de direitos são: (Redação dada pela Lei nº 9.714, de 1998)
 
@@ -751,7 +751,7 @@ V - interdição temporária de direitos; (Incluído pela Lei nº 9.714, de 25.1
 
 VI - limitação de fim de semana. (Incluído pela Lei nº 9.714, de 25.11.1998)
 
-## Art. 44.
+## Art. 44
 
 As penas restritivas de direitos
 
@@ -795,7 +795,7 @@ aplicá-la se for possível ao condenado cumprir a pena substitutiva anterior.
 
 Conversão das penas restritivas de direitos
 
-## Art. 45.
+## Art. 45
 
 Na aplicação da substituição
 
@@ -819,7 +819,7 @@ provento obtido pelo agente ou por terceiro, em conseqüência da prática do cr
 
 Prestação de serviços à comunidade ou a entidades públicas
 
-## Art. 46.
+## Art. 46
 
 A prestação de
 
@@ -931,7 +931,7 @@ pela Lei nº 7.209, de 11.7.1984)
 Conversão da Multa e revogação (Redação
 dada pela Lei nº 7.209, de 11.7.1984)
 
-## Art. 51.
+## Art. 51
 
 Transitada em julgado a sentença condenatória, a multa será executada
 
@@ -977,7 +977,7 @@ Penas restritivas de direitos
 independentemente de cominação na parte especial, em substituição à pena privativa de
 liberdade, fixada em quantidade inferior a 1 (um) ano, ou nos crimes culposos. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-## Art. 55.
+## Art. 55
 
 As penas restritivas de direitos referidas nos incisos
 
@@ -1297,7 +1297,9 @@ aplica-se a regra do art. 70 deste Código. (Redação dada pela Lei nº 7.209, 
 
 Limite das penas
 
-## Art. 75.
+## Art. 75
+
+O
 
 tempo de cumprimento das penas privativas de liberdade não pode ser
 superior a 40 (quarenta) anos.
@@ -1592,7 +1594,7 @@ investigado ou acusado para posterior decretação de perda.
 
 ## Art. 91-A
 
-. Na
+Na
 
 hipótese de condenação por infrações às quais a lei comine pena máxima
 superior a 6 (seis) anos de reclusão, poderá ser decretada a perda, como
@@ -1786,7 +1788,7 @@ definitiva, a pena que não seja de multa. (Redação dada pela Lei nº 7.209, d
 
 Espécies de medidas de segurança
 
-## Art. 96.
+## Art. 96
 
 As medidas de segurança são: (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
@@ -2004,7 +2006,7 @@ agravação da pena resultante da conexão. (Redação dada pela Lei nº 7.209, 
 
 Prescrição antes de transitar em julgado a sentença
 
-## Art. 109.
+## Art. 109
 
 A
 
@@ -2132,7 +2134,7 @@ a multa for alternativa ou cumulativamente cominada ou cumulativamente aplicada.
 
 Redução dos prazos de prescrição
 
-## Art. 115.
+## Art. 115
 
 São reduzidos de metade os prazos de prescrição quando o criminoso era, ao
 
@@ -2240,7 +2242,7 @@ considerada para efeitos de reincidência. (Redação dada pela Lei nº 7.209, d
 
 Homicídio simples
 
-## Art. 121.
+## Art. 121
 
 Matar alguem:
 
@@ -2438,7 +2440,7 @@ Lei nº 14.994, de 2024)
 
 ## Art. 121-A
 
-. Matar mulher por razões da condição do sexo feminino:
+Matar mulher por razões da condição do sexo feminino:
 
 (Incluído pela
 Lei nº 14.994, de 2024)
@@ -2514,7 +2516,7 @@ Vicaricídio
 
 ## Art. 121-B
 
-. Matar
+Matar
 
 descendente, ascendente, dependente, enteado ou pessoa sob guarda ou
 responsabilidade direta da mulher, com o fim específico de causar-lhe
@@ -2551,7 +2553,7 @@ Induzimento, instigação ou auxílio a suicídio ou a automutilação
 (Redação dada
 pela Lei nº 13.968, de 2019)
 
-## Art. 122.
+## Art. 122
 
 Induzir ou instigar alguém a suicidar-se ou a
 
@@ -2692,9 +2694,9 @@ quando incapaz, de seu representante legal.
 
 Lesão corporal
 
-## Art. 129.
+## Art. 129
 
-fender a integridade corporal ou a saúde de outrem:
+Ofender a integridade corporal ou a saúde de outrem:
 
 Pena - detenção, de três meses a um ano.
 
@@ -3022,7 +3024,7 @@ pela Lei nº 12.653, de 2012).
 
 ## Art. 135-A
 
-. Exigir cheque-caução, nota
+Exigir cheque-caução, nota
 
 promissória ou qualquer garantia, bem como o preenchimento prévio de
 formulários administrativos, como condição para o atendimento
@@ -3310,7 +3312,7 @@ Intimidação sistemática (bullying)
 
 ## Art. 146-A
 
-. Intimidar sistematicamente, individualmente ou em grupo,
+Intimidar sistematicamente, individualmente ou em grupo,
 
 mediante violência física ou psicológica, uma ou mais pessoas, de
 modo intencional e repetitivo, sem motivação evidente, por meio de
@@ -3365,7 +3367,7 @@ Perseguição
 
 ## Art. 147-A
 
-. Perseguir alguém, reiteradamente e por qualquer meio,
+Perseguir alguém, reiteradamente e por qualquer meio,
 
 ameaçando-lhe a integridade física ou psicológica, restringindo-lhe
 a capacidade de locomoção ou, de qualquer forma, invadindo ou
@@ -3407,7 +3409,7 @@ Lei nº 14.132, de 2021)
 
 ## Art. 147-C
 
-. Ameaçar alguém, por palavra, escrito ou gesto, ou qualquer
+Ameaçar alguém, por palavra, escrito ou gesto, ou qualquer
 
 outro meio simbólico, de causar-lhe mal injusto e grave, no contexto da
 atuação ou para a consecução das condutas previstas no art. 2º da lei que
@@ -3472,7 +3474,7 @@ Pena
 
 Redução a condição análoga à de escravo
 
-## Art. 149.
+## Art. 149
 
 Reduzir alguém a condição análoga à de escravo, quer submetendo-o a trabalhos
 forçados ou a jornada exaustiva, quer sujeitando-o a condições degradantes de trabalho,
@@ -3506,7 +3508,7 @@ Tráfico de Pessoas
 
 ## Art. 149-A
 
-. Agenciar, aliciar, recrutar,
+Agenciar, aliciar, recrutar,
 
 transportar, transferir, comprar, alojar ou acolher pessoa, mediante grave
 ameaça, violência, coação, fraude ou abuso, com a finalidade de:
@@ -3742,7 +3744,7 @@ Vigência
 
 ## Art. 154-A
 
-. Invadir dispositivo informático de uso alheio, conectado
+Invadir dispositivo informático de uso alheio, conectado
 
 ou não à rede de computadores, com o fim de obter, adulterar ou
 destruir dados ou informações sem autorização expressa ou tácita do
@@ -3827,7 +3829,7 @@ Vigência
 
 ## Art. 154-B
 
-. Nos crimes definidos no art. 154-A, somente se procede
+Nos crimes definidos no art. 154-A, somente se procede
 
 mediante representação, salvo se o crime é cometido contra a
 administração pública direta ou indireta de qualquer dos Poderes da
@@ -4385,7 +4387,7 @@ Apropriação indébita previdenciária (Incluído pela Lei nº 9.983, de 2000)
 
 ## Art. 168-A
 
-. Deixar de repassar à previdência social as
+Deixar de repassar à previdência social as
 
 contribuições recolhidas dos contribuintes, no prazo e forma legal ou convencional:
 (Incluído pela Lei nº 9.983, de 2000)
@@ -4611,7 +4613,7 @@ pela Lei nº 15.397, de 2026)
 
 ## Art. 171-A
 
-. Organizar, gerir, ofertar ou
+Organizar, gerir, ofertar ou
 
 distribuir carteiras ou intermediar operações que envolvam ativos
 virtuais, valores mobiliários ou quaisquer ativos financeiros com o
@@ -4872,7 +4874,7 @@ Receptação de animal
 
 ## Art. 180-A
 
-. Adquirir,
+Adquirir,
 
 receber, transportar, conduzir, ocultar, ter em depósito ou vender, com a
 finalidade de produção ou de comercialização, semovente domesticável de
@@ -4932,7 +4934,7 @@ pela Lei nº 10.741, de 2003)
 
 ## Art. 183-A
 
-. Nos crimes de que trata este Título, quando cometidos contra as
+Nos crimes de que trata este Título, quando cometidos contra as
 
 instituições financeiras e os prestadores de serviço de segurança privada, de
 que trata o Estatuto da Segurança Privada e da Segurança das Instituições
@@ -4946,7 +4948,7 @@ Financeiras, as penas serão aumentadas de 1/3 (um terço) até o dobro.
 
 Violação de direito autoral
 
-## Art. 184.
+## Art. 184
 
 Violar direitos de autor
 
@@ -4999,7 +5001,7 @@ Usurpação de nome ou pseudônimo alheio
 (Revogado pela
 Lei nº 10.695, de 1º.7.2003)
 
-## Art. 186.
+## Art. 186
 
 Procede-se mediante: (Redação dada pela
 Lei nº 10.695, de 1º.7.2003)
@@ -5311,7 +5313,7 @@ três anos, e multa.
 
 Estupro
 
-## Art. 213.
+## Art. 213
 
 Constranger alguém, mediante
 
@@ -5349,7 +5351,7 @@ nº 12.015, de 2009)
 Violação sexual mediante fraude (Redação
 dada pela Lei nº 12.015, de 2009)
 
-## Art. 215.
+## Art. 215
 
 Ter conjunção carnal ou praticar
 
@@ -5371,7 +5373,7 @@ nº 13.718, de 2018)
 
 ## Art. 215-A
 
-. Praticar contra alguém e sem a sua
+Praticar contra alguém e sem a sua
 
 anuência ato libidinoso com o objetivo de satisfazer a própria lascívia ou a
 de terceiro:
@@ -5382,7 +5384,7 @@ ato não constitui crime mais grave.
 (Incluído pela Lei
 nº 13.718, de 2018)
 
-## Art. 216.
+## Art. 216
 
 (Revogado pela Lei
 
@@ -5394,7 +5396,7 @@ Assédio sexual
 
 ## Art. 216-A
 
-. Constranger alguém com o intuito de obter vantagem ou favorecimento
+Constranger alguém com o intuito de obter vantagem ou favorecimento
 
 sexual, prevalecendo-se o agente da sua condição de superior hierárquico ou
 ascendência inerentes ao exercício de emprego, cargo ou função. (Incluído pela Lei nº 10.224, de 15 de 2001)
@@ -5413,8 +5415,6 @@ A pena é aumentada em até um terço se a vítima é menor de 18 (dezoito) anos
 # CAPÍTULO I-A — (Incluído pela Lei nº 13.772, de 2018)
 
 ## Art. 216-B
-
-.
 
 Produzir, fotografar, filmar ou registrar, por qualquer meio, conteúdo com
 cena de nudez ou ato sexual ou libidinoso de caráter íntimo e privado sem
@@ -5447,7 +5447,7 @@ pela Lei nº 12.015, de 2009)
 
 ## Art. 217-A
 
-. Ter conjunção carnal ou praticar
+Ter conjunção carnal ou praticar
 
 outro ato libidinoso com menor de 14 (catorze) anos: (Incluído
 pela Lei nº 12.015, de 2009)
@@ -5499,7 +5499,7 @@ Lei nº 15.353, de 2026)
 
 Corrupção de menores
 
-## Art. 218.
+## Art. 218
 
 Induzir alguém menor de 14
 
@@ -5521,7 +5521,7 @@ pela Lei nº 12.015, de 2009)
 
 ## Art. 218-A
 
-. Praticar, na presença de alguém
+Praticar, na presença de alguém
 
 menor de 14 (catorze) anos, ou induzi-lo a presenciar, conjunção carnal
 ou outro ato libidinoso, a fim de satisfazer lascívia própria ou de
@@ -5539,7 +5539,7 @@ dada pela Lei nº 12.978, de 2014)
 
 ## Art. 218-B
 
-. Submeter, induzir ou atrair à
+Submeter, induzir ou atrair à
 
 prostituição ou outra forma de exploração sexual alguém menor de 18
 (dezoito) anos ou que, por enfermidade ou deficiência mental, não tem o
@@ -5582,8 +5582,6 @@ estupro de vulnerável, de cena de sexo ou de pornografia
 nº 13.718, de 2018)
 
 ## Art. 218-C
-
-.
 
 Oferecer, trocar,
 disponibilizar, transmitir, vender ou expor à venda, distribuir, publicar ou
@@ -5675,7 +5673,7 @@ de 2005)
 
 Ação penal
 
-## Art. 225.
+## Art. 225
 
 Nos crimes definidos nos Capítulos I
 e II deste Título, procede-se mediante ação penal pública incondicionada.
@@ -5689,7 +5687,7 @@ Lei nº 13.718, de 2018)
 
 Aumento de pena
 
-## Art. 226.
+## Art. 226
 
 A pena é aumentada: (Redação
 
@@ -5769,7 +5767,7 @@ forma de exploração sexual
 (Redação dada pela
 Lei nº 12.015, de 2009)
 
-## Art. 228.
+## Art. 228
 
 Induzir ou atrair alguém à
 
@@ -5802,7 +5800,7 @@ cometido com o fim de lucro, aplica-se também multa.
 
 Casa de prostituição
 
-## Art. 229.
+## Art. 229
 
 Manter, por conta própria ou
 
@@ -5851,14 +5849,12 @@ Tráfico internacional de pessoa para fim
 de exploração sexual (Redação
 dada pela Lei nº 12.015, de 2009)
 
-## Art. 231.
+## Art. 231
 
 (Revogado pela Lei nº 13.344, de 2016)
 (Vigência)
 
 ## Art. 231-A
-
-.
 
 (Revogado pela Lei nº 13.344, de 2016)
 (Vigência)
@@ -5874,8 +5870,6 @@ Promoção
 de migração ilegal
 
 ## Art. 232-A
-
-.
 
 Promover, por qualquer meio, com o fim de
 obter vantagem econômica, a entrada ilegal de estrangeiro em território
@@ -5968,7 +5962,7 @@ pela Lei nº 12.015, de 2009)
 
 ## Art. 234-A
 
-. Nos crimes previstos neste Título
+Nos crimes previstos neste Título
 
 a pena é aumentada: (Incluído
 pela Lei nº 12.015, de 2009)
@@ -5994,7 +5988,7 @@ deficiência.
 
 ## Art. 234-B
 
-. Os processos em que se apuram
+Os processos em que se apuram
 
 crimes definidos neste Título correrão em segredo de justiça. (Incluído
 pela Lei nº 12.015, de 2009)
@@ -6018,8 +6012,6 @@ sobre as informações a que se refere o § 1º deste artigo.
 15.035, de 2024)
 
 ## Art. 234-C
-
-.
 
 (VETADO).
 (Incluído pela Lei nº
@@ -6156,7 +6148,7 @@ cinco anos, e multa.
 
 Abandono material
 
-## Art. 244.
+## Art. 244
 
 Deixar, sem justa causa, de prover a subsistência do cônjuge, ou de filho menor de
 
@@ -6934,7 +6926,7 @@ DE ENTORPECENTE OU SUBSTÂNCIA QUE DETERMINE DEPENDÊNCIA FÍSICA OU PSÍQUICA. 
 (Revogado pela Lei nº 6.368,
 1976)
 
-## Art. 281.
+## Art. 281
 
 (Revogado pela Lei nº 6.368, 1976)
 
@@ -6943,7 +6935,7 @@ ilegal da medicina, medicina veterinária, arte dentária ou farmacêutica
 (Redação dada pela Lei
 nº 15.425, de 2026)
 
-## Art. 282.
+## Art. 282
 
 Exercer, ainda que a título gratuito, a profissão de médico, médico
 
@@ -7062,7 +7054,7 @@ a seis meses, ou multa.
 Associação
 Criminosa
 
-## Art. 288.
+## Art. 288
 
 Associarem-se 3 (três) ou mais pessoas, para o fim específico de
 
@@ -7096,7 +7088,7 @@ Constituição de milícia privada
 
 ## Art. 288-A
 
-. Constituir,
+Constituir,
 
 organizar, integrar, manter ou custear organização paramilitar, milícia
 particular, grupo ou esquadrão com a finalidade de praticar qualquer dos crimes
@@ -7617,7 +7609,7 @@ sinal identificador de veículo
 (Redação dada pela Lei nº
 14.562, de 2023)
 
-## Art. 311.
+## Art. 311
 
 Adulterar, remarcar ou suprimir número de chassi, monobloco, motor, placa
 
@@ -7698,8 +7690,6 @@ interesse público
 12.550. de 2011)
 
 ## Art. 311-A
-
-.
 
 Utilizar ou divulgar, indevidamente, com o fim de beneficiar a si ou a
 outrem, ou de comprometer a credibilidade do certame, conteúdo sigiloso
@@ -7804,7 +7794,7 @@ falsos em sistema de informações (Incluído pela Lei nº 9.983, de 2000)
 
 ## Art. 313-A
 
-. Inserir ou facilitar, o funcionário autorizado, a
+Inserir ou facilitar, o funcionário autorizado, a
 
 inserção de dados falsos, alterar ou excluir indevidamente dados corretos nos sistemas
 informatizados ou bancos de dados da Administração Pública com o fim de obter vantagem
@@ -7819,7 +7809,7 @@ Modificação ou alteração não autorizada de sistema de informações
 
 ## Art. 313-B
 
-. Modificar ou alterar, o funcionário, sistema de
+Modificar ou alterar, o funcionário, sistema de
 
 informações ou programa de informática sem autorização ou solicitação de autoridade
 competente: (Incluído pela Lei nº 9.983, de 2000)
@@ -7937,7 +7927,7 @@ meses a um ano, e multa.
 
 ## Art. 319-A
 
-. Deixar o Diretor de Penitenciária e/ou agente público, de cumprir
+Deixar o Diretor de Penitenciária e/ou agente público, de cumprir
 
 seu dever de vedar ao preso o acesso a aparelho telefônico, de rádio ou similar,
 que permita a comunicação com outros presos ou com o ambiente externo:
@@ -8191,7 +8181,7 @@ ou omite ato de ofício, ou o pratica infringindo dever funcional.
 
 Descaminho
 
-## Art. 334.
+## Art. 334
 
 Iludir, no todo ou em parte, o
 
@@ -8252,7 +8242,7 @@ Contrabando
 
 ## Art. 334-A
 
-. Importar ou exportar mercadoria
+Importar ou exportar mercadoria
 
 proibida:
 (Incluído pela Lei nº
@@ -8355,7 +8345,7 @@ contribuição previdenciária (Incluído pela Lei nº 9.983, de 2000)
 
 ## Art. 337-A
 
-. Suprimir ou reduzir contribuição social
+Suprimir ou reduzir contribuição social
 
 previdenciária e qualquer acessório, mediante as seguintes condutas:
 (Incluído pela Lei nº 9.983, de 2000)
@@ -8424,7 +8414,7 @@ Corrupção ativa em transação comercial internacional
 
 ## Art. 337-B
 
-. Prometer, oferecer ou dar, direta ou indiretamente, vantagem indevida a
+Prometer, oferecer ou dar, direta ou indiretamente, vantagem indevida a
 
 funcionário público estrangeiro, ou a terceira pessoa, para determiná-lo a praticar,
 omitir ou retardar ato de ofício relacionado à transação comercial
@@ -8444,7 +8434,7 @@ Tráfico de influência em transação comercial internacional (Incluído pela L
 
 ## Art. 337-C
 
-. Solicitar, exigir, cobrar ou obter, para si ou para outrem,
+Solicitar, exigir, cobrar ou obter, para si ou para outrem,
 
 direta ou indiretamente, vantagem ou promessa de vantagem a pretexto de influir em ato
 praticado por funcionário público estrangeiro no exercício de suas funções,
@@ -8463,7 +8453,7 @@ pela Lei nº 10.467, de 11.6.2002)
 
 ## Art. 337-D
 
-. Considera-se funcionário público estrangeiro, para os
+Considera-se funcionário público estrangeiro, para os
 
 efeitos penais, quem, ainda que transitoriamente ou sem remuneração, exerce cargo,
 emprego ou função pública em entidades estatais ou em representações diplomáticas de
@@ -8482,7 +8472,7 @@ nº 14.133, de 2021)
 
 ## Art. 337-E
 
-. Admitir, possibilitar ou dar causa à contratação direta fora das
+Admitir, possibilitar ou dar causa à contratação direta fora das
 
 hipóteses previstas em lei:
 (Incluído pela Lei
@@ -8499,7 +8489,7 @@ nº 14.133, de 2021)
 
 ## Art. 337-F
 
-. Frustrar ou fraudar, com o intuito de obter para si ou para outrem
+Frustrar ou fraudar, com o intuito de obter para si ou para outrem
 
 vantagem decorrente da adjudicação do objeto da licitação, o caráter competitivo
 do processo licitatório:
@@ -8517,7 +8507,7 @@ nº 14.133, de 2021)
 
 ## Art. 337-G
 
-. Patrocinar, direta ou indiretamente, interesse privado perante a
+Patrocinar, direta ou indiretamente, interesse privado perante a
 
 Administração Pública, dando causa à instauração de licitação ou à celebração de
 contrato cuja invalidação vier a ser decretada pelo Poder Judiciário:
@@ -8536,7 +8526,7 @@ nº 14.133, de 2021)
 
 ## Art. 337-H
 
-. Admitir, possibilitar ou dar causa a qualquer modificação ou vantagem,
+Admitir, possibilitar ou dar causa a qualquer modificação ou vantagem,
 
 inclusive prorrogação contratual, em favor do contratado, durante a execução dos
 contratos celebrados com a Administração Pública, sem autorização em lei, no
@@ -8556,7 +8546,7 @@ nº 14.133, de 2021)
 
 ## Art. 337-I
 
-. Impedir, perturbar ou fraudar a realização de qualquer ato de processo
+Impedir, perturbar ou fraudar a realização de qualquer ato de processo
 
 licitatório:
 (Incluído pela Lei
@@ -8573,7 +8563,7 @@ nº 14.133, de 2021)
 
 ## Art. 337-J
 
-. Devassar o sigilo de proposta apresentada em processo licitatório ou
+Devassar o sigilo de proposta apresentada em processo licitatório ou
 
 proporcionar a terceiro o ensejo de devassá-lo:
 (Incluído pela Lei
@@ -8590,7 +8580,7 @@ nº 14.133, de 2021)
 
 ## Art. 337-K
 
-. Afastar ou tentar afastar licitante por meio de violência, grave ameaça,
+Afastar ou tentar afastar licitante por meio de violência, grave ameaça,
 
 fraude ou oferecimento de vantagem de qualquer tipo:
 (Incluído pela Lei
@@ -8613,7 +8603,7 @@ nº 14.133, de 2021)
 
 ## Art. 337-L
 
-. Fraudar, em prejuízo da Administração Pública, licitação ou contrato dela
+Fraudar, em prejuízo da Administração Pública, licitação ou contrato dela
 
 decorrente, mediante:
 (Incluído pela Lei
@@ -8659,7 +8649,7 @@ nº 14.133, de 2021)
 
 ## Art. 337-M
 
-. Admitir à licitação empresa ou profissional declarado inidôneo:
+Admitir à licitação empresa ou profissional declarado inidôneo:
 
 (Incluído pela Lei
 nº 14.133, de 2021)
@@ -8692,7 +8682,7 @@ nº 14.133, de 2021)
 
 ## Art. 337-N
 
-. Obstar, impedir ou dificultar injustamente a inscrição de qualquer
+Obstar, impedir ou dificultar injustamente a inscrição de qualquer
 
 interessado nos registros cadastrais ou promover indevidamente a alteração, a
 suspensão ou o cancelamento de registro do inscrito:
@@ -8711,7 +8701,7 @@ nº 14.133, de 2021)
 
 ## Art. 337-O
 
-. Omitir, modificar ou entregar à Administração Pública levantamento
+Omitir, modificar ou entregar à Administração Pública levantamento
 
 cadastral ou condição de contorno em relevante dissonância com a realidade, em
 frustração ao caráter competitivo da licitação ou em detrimento da seleção da
@@ -8744,7 +8734,7 @@ nº 14.133, de 2021)
 
 ## Art. 337-P
 
-. A pena de multa cominada aos crimes previstos neste Capítulo seguirá a
+A pena de multa cominada aos crimes previstos neste Capítulo seguirá a
 
 metodologia de cálculo prevista neste Código e não poderá ser inferior a 2%
 (dois por cento) do valor do contrato licitado ou celebrado com contratação
@@ -8772,7 +8762,7 @@ Descumprimento de medidas protetivas de urgência
 
 ## Art. 338-A
 
-. Descumprir decisão judicial que defere medidas protetivas de
+Descumprir decisão judicial que defere medidas protetivas de
 
 urgência:
 (Incluído pela Lei nº
@@ -8802,7 +8792,7 @@ O disposto neste artigo não exclui a aplicação de outras sanções cabíveis.
 
 Denunciação caluniosa
 
-## Art. 339.
+## Art. 339
 
 Dar causa à instauração de inquérito policial, de
 
@@ -8849,7 +8839,7 @@ meses a dois anos, ou multa.
 Falso testemunho ou
 falsa perícia
 
-## Art. 342.
+## Art. 342
 
 Fazer afirmação falsa, ou negar ou calar a verdade como testemunha, perito,
 
@@ -8873,7 +8863,7 @@ processo civil em que for parte entidade da administração pública direta ou i
 que ocorreu o ilícito, o agente se retrata ou declara a verdade.(Redação dada pela Lei nº 10.268, de
 28.8.2001)
 
-## Art. 343.
+## Art. 343
 
 Dar, oferecer ou prometer dinheiro ou qualquer outra vantagem a testemunha, perito,
 
@@ -8984,7 +8974,7 @@ seis meses, e multa.
 
 ## Art. 349-A
 
-. Ingressar,
+Ingressar,
 
 promover, intermediar, auxiliar ou facilitar a entrada de aparelho telefônico de
 comunicação móvel, de rádio ou similar, sem autorização legal, em
@@ -9149,7 +9139,7 @@ Contratação de operação de crédito
 
 ## Art. 359-A
 
-. Ordenar, autorizar ou realizar operação de crédito,
+Ordenar, autorizar ou realizar operação de crédito,
 
 interno ou externo, sem prévia autorização legislativa:
 (Incluído pela Lei nº 10.028, de 2000)
@@ -9173,7 +9163,7 @@ Inscrição de despesas não empenhadas em restos a pagar
 
 ## Art. 359-B
 
-. Ordenar ou autorizar a inscrição em restos a pagar, de
+Ordenar ou autorizar a inscrição em restos a pagar, de
 
 despesa que não tenha sido previamente empenhada ou que exceda limite estabelecido em
 lei: (Incluído pela Lei nº 10.028, de 2000)
@@ -9186,7 +9176,7 @@ Assunção de obrigação no último ano do mandato ou legislatura
 
 ## Art. 359-C
 
-. Ordenar ou autorizar a assunção de obrigação, nos dois
+Ordenar ou autorizar a assunção de obrigação, nos dois
 
 últimos quadrimestres do último ano do mandato ou legislatura, cuja despesa não possa
 ser paga no mesmo exercício financeiro ou, caso reste parcela a ser paga no exercício
@@ -9200,7 +9190,7 @@ Ordenação de despesa não autorizada
 
 ## Art. 359-D
 
-. Ordenar despesa não autorizada por lei:
+Ordenar despesa não autorizada por lei:
 
 (Incluído pela Lei nº 10.028, de 2000)
 
@@ -9212,7 +9202,7 @@ Prestação de garantia graciosa
 
 ## Art. 359-E
 
-. Prestar garantia em operação de crédito sem que tenha
+Prestar garantia em operação de crédito sem que tenha
 
 sido constituída contragarantia em valor igual ou superior ao valor da garantia prestada,
 na forma da lei:
@@ -9226,7 +9216,7 @@ Não cancelamento de restos a pagar
 
 ## Art. 359-F
 
-. Deixar de ordenar, de autorizar ou de promover o
+Deixar de ordenar, de autorizar ou de promover o
 
 cancelamento do montante de restos a pagar inscrito em valor superior ao permitido em lei:
 (Incluído pela Lei nº 10.028, de 2000)
@@ -9239,7 +9229,7 @@ Aumento de despesa total com pessoal no último ano do mandato ou legislatura
 
 ## Art. 359-G
 
-. Ordenar, autorizar ou executar ato que acarrete aumento de
+Ordenar, autorizar ou executar ato que acarrete aumento de
 
 despesa total com pessoal, nos cento e oitenta dias anteriores ao final do mandato ou da
 legislatura:
@@ -9253,7 +9243,7 @@ Oferta pública ou colocação de títulos no mercado
 
 ## Art. 359-H
 
-. Ordenar, autorizar ou promover a oferta pública ou a
+Ordenar, autorizar ou promover a oferta pública ou a
 
 colocação no mercado financeiro de títulos da dívida pública sem que tenham sido
 criados por lei ou sem que estejam registrados em sistema centralizado de liquidação e
@@ -9275,7 +9265,7 @@ pela Lei nº
 
 ## Art. 359-I
 
-. Negociar com governo ou grupo estrangeiro, ou seus
+Negociar com governo ou grupo estrangeiro, ou seus
 
 agentes, com o fim de provocar atos típicos de guerra contra o País
 ou invadi-lo:
@@ -9321,7 +9311,7 @@ pela Lei nº
 
 ## Art. 359-J
 
-. Praticar violência ou grave ameaça com a finalidade de
+Praticar violência ou grave ameaça com a finalidade de
 
 desmembrar parte do território nacional para constituir país
 independente:
@@ -9345,7 +9335,7 @@ pela Lei nº
 
 ## Art. 359-K
 
-. Entregar a governo estrangeiro, a seus agentes, ou a
+Entregar a governo estrangeiro, a seus agentes, ou a
 
 organização criminosa estrangeira, em desacordo com determinação
 legal ou regulamentar, documento ou informação classificados como
@@ -9416,7 +9406,7 @@ pela Lei nº
 
 ## Art. 359-L
 
-. Tentar, com emprego de violência ou grave ameaça, abolir
+Tentar, com emprego de violência ou grave ameaça, abolir
 
 o Estado Democrático de Direito, impedindo ou restringindo o
 exercício dos poderes constitucionais:
@@ -9441,7 +9431,7 @@ pela Lei nº
 
 ## Art. 359-M
 
-. Tentar depor, por meio de violência ou grave ameaça, o
+Tentar depor, por meio de violência ou grave ameaça, o
 
 governo legitimamente constituído:
 (Incluído
@@ -9488,7 +9478,7 @@ pela Lei nº
 
 ## Art. 359-N
 
-. Impedir ou perturbar a eleição ou a aferição de seu
+Impedir ou perturbar a eleição ou a aferição de seu
 
 resultado, mediante violação indevida de mecanismos de segurança do
 sistema eletrônico de votação estabelecido pela Justiça Eleitoral:
@@ -9511,7 +9501,7 @@ pela Lei nº
 
 ## Art. 359-O
 
-. (VETADO).
+(VETADO).
 
 (Incluído
 pela Lei nº
@@ -9526,7 +9516,7 @@ pela Lei nº
 
 ## Art. 359-P
 
-. Restringir, impedir ou dificultar, com emprego de
+Restringir, impedir ou dificultar, com emprego de
 
 violência física, sexual ou psicológica, o exercício de direitos
 políticos a qualquer pessoa em razão de seu sexo, raça, cor, etnia,
@@ -9551,7 +9541,7 @@ pela Lei nº
 
 ## Art. 359-Q
 
-. (VETADO).
+(VETADO).
 
 (Incluído
 pela Lei nº
@@ -9568,7 +9558,7 @@ pela Lei nº
 
 ## Art. 359-R
 
-. Destruir ou inutilizar meios de comunicação ao público,
+Destruir ou inutilizar meios de comunicação ao público,
 
 estabelecimentos, instalações ou serviços destinados à defesa
 nacional, com o fim de abolir o Estado Democrático de Direito:
@@ -9595,7 +9585,7 @@ pela Lei nº
 
 ## Art. 359-T
 
-. Não constitui crime previsto neste Título a manifestação
+Não constitui crime previsto neste Título a manifestação
 
 crítica aos poderes constitucionais nem a atividade jornalística ou
 a reivindicação de direitos e garantias constitucionais por meio de
@@ -9614,7 +9604,7 @@ pela Lei nº
 
 ## Art. 359-U
 
-. (VETADO).
+(VETADO).
 
 (Incluído
 pela Lei nº

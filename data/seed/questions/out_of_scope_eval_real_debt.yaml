@@ -4,35 +4,43 @@
 # packages.evals.golden.load_golden() does NOT pick it up. It is documentation of a
 # KNOWN eval-real debt, kept under version control so the cases are not lost.
 #
-# Every question here is a TAX sub-topic that the agentic classifier routes to the
-# in-scope `tax` area (shared surface vocabulary "imposto"/"ICMS"/"IRPF") but whose
-# specific regime is NOT in the CTN corpus (the CTN is the general norm: it carries no
-# aliquots, no state taxes like ITCMD/ICMS). They are LABELLED correctly as `refused`.
+# SCOPE OF THIS DEBT (Phase-14 explicit-OOS-signal restore — see
+# _workspace/14_eval_oos_restore_summary.md):
+# After the answer wired the deterministic `matched_out_of_scope_regime` signal
+# (_workspace/14_answer_oos_signal_consume_summary.md), every question that MATCHES a
+# corpusless regime term pre-refuses DETERMINISTICALLY (fake AND real), independent of the
+# embedding. Those were RESTORED to out_of_scope_golden.yaml. This file now holds ONLY the
+# genuinely grounding-dependent residue: questions that match NO regime term, reach
+# retrieval, and refuse correctly ONLY under real dense embeddings (large semantic distance
+# to an absent regime), while leaking under the purely-lexical FakeEmbeddingProvider.
+# Each is verified `matched_out_of_scope_regime(question) is False`.
 #
-# Phase 14 eval-debt remediation update: the família/sucessões/usucapião cases that used
-# to live here were PROMOTED to civil_golden.yaml as `answered`. The CC ingestion P1 fix
-# (separador de milhar — _workspace/14_ingestion_cc_fix_summary.md) brought CC Família
-# (1.5xx) and Sucessões (1.784+) into the corpus, so usucapião (CC 1.238/1.242), partilha
-# /regime (CC 1.658/1.639) and guarda (CC 1.583/1.584) are now genuinely answerable with
-# real anchors. Only the corpusless TAX sub-topics remain here.
+# Two sub-classes remain:
 #
-# Why the remaining items are excluded from the deterministic CI (fake) gate, not the set:
-#   1. The agentic `classify_area` routes them to the IN-scope `tax` area because they
-#      share its surface vocabulary, instead of to an out-of-scope area. This is an
-#      upstream classifier sub-topic-coverage gap (owner: agentic) — a corpusless
-#      *sub-topic* of an in-scope area is not the same signal as a corpusless *regime*.
-#   2. Routed in-scope, the writer falls through to grounding. The deterministic
-#      FakeEmbeddingProvider is purely lexical, so it scores tangential CTN chunks above
-#      the grounding threshold (e.g. ICMS query -> CTN art. 69 "base de cálculo do
-#      imposto" at 0.583), and the writer answers instead of refusing.
+# Cohort A — TAX sub-topics routed to the in-scope `tax` area (or UNKNOWN) sharing the
+# surface vocabulary "imposto"/"ICMS"/"IRPF"/"ITCMD" but whose specific regime is NOT in
+# the CTN corpus (CTN is the general norm: no aliquots, no state taxes). The fake lexical
+# store scores tangential CTN chunks above the grounding threshold (_MIN_SEMANTIC_SCORE
+# 0.29; e.g. ICMS -> CTN art. 69 at 0.583) and the writer answers instead of refusing.
 #
-# Under REAL DENSE embeddings the semantic distance to the absent sub-topic is large, so
-# these refuse correctly on grounding. This cohort is therefore a FakeEmbedding lexical
-# limitation, NOT a golden-labelling error — validated in Phase 14 by measuring the
-# top-1 dense score vs the grounding threshold (_MIN_SEMANTIC_SCORE=0.29); see
-# _workspace/14_eval_debt_remediation_summary.md. Pendência ao orquestrador: agentic —
-# route corpusless sub-topics of an in-scope area to OOS, or refuse on weak grounding.
+# Cohort B — corpusless REGIMES whose specific surface vocabulary is NOT (yet) a term in
+# the agentic `_OUT_OF_SCOPE_TERMS` set: eleitoral/inelegibilidade, migração/visto,
+# família/sucessões substantivas (pensão/herdeiros/testamento), concorrência/CADE, direitos
+# autorais, M&A, tese penal STF, registro civil. They classify UNKNOWN with NO regime match,
+# so they proceed to retrieval and refuse only on dense grounding distance.
+#
+# Validated as fake artifacts (status flips fake->answered, real->refused), NOT regressions:
+# the product behaviour under real providers is the correct refusal.
+#
+# Pendência ao orquestrador:
+#   - agentic: broaden `_OUT_OF_SCOPE_TERMS` to cover Cohort B regimes (eleitoral, migração,
+#     concorrência, autoral, sucessões substantivas) so they pre-refuse deterministically and
+#     can return to out_of_scope_golden.yaml; and/or route corpusless sub-topics of an
+#     in-scope area (Cohort A tax) to OOS.
+#   - retrieval/answer: tighten the grounding signal so an UNKNOWN question with no
+#     semantically-close source refuses rather than grounding on a tangential chunk.
 
+# --- Cohort A: TAX sub-topics (in-scope `tax` area / UNKNOWN, corpusless sub-topic) ---
 - id: oos-declarar-bitcoin
   area: out_of_scope
   question: Como declarar criptomoedas e bitcoin na malha fina da Receita Federal?
@@ -60,5 +68,87 @@
 - id: oos-tax-04
   area: out_of_scope
   question: Como funciona a substituição tributária no ICMS para combustíveis?
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+- id: oos-tax-05
+  area: out_of_scope
+  question: "Qual a alíquota efetiva do IRPF na faixa mais alta da tabela progressiva mensal?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+- id: oos-imposto-territorial
+  area: out_of_scope
+  question: Qual a alíquota do imposto territorial rural cobrado pela Receita Federal?
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+# --- Cohort B: corpusless regimes with no regime-term match (grounding-dependent) ---
+# eleitoral
+- id: oos-ele-01
+  area: out_of_scope
+  question: "Quais as hipóteses de inelegibilidade previstas na Lei Complementar 64/90?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+- id: oosx-ele-inelegibilidade
+  area: out_of_scope
+  question: Quais as hipóteses de inelegibilidade previstas na Lei Complementar 64 de 1990 ficha limpa?
+  expected_chunk_ids: []
+  expected_behavior: refused
+# migração / internacional
+- id: oos-int-01
+  area: out_of_scope
+  question: "Quais os requisitos para obtenção de visto humanitário no Brasil pela Lei de Migração?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+- id: oosx-mig-visto-humanitario
+  area: out_of_scope
+  question: Quais os requisitos para obtenção de visto humanitário no Brasil pela Lei de Migração 13.445?
+  expected_chunk_ids: []
+  expected_behavior: refused
+# família / sucessões substantivas
+- id: oos-fam-02
+  area: out_of_scope
+  question: "Quais os requisitos para fixação de pensão alimentícia para filho menor?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+- id: oos-suc-02
+  area: out_of_scope
+  question: "Quais são os herdeiros necessários segundo o Código Civil brasileiro?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+- id: oos-suc-03
+  area: out_of_scope
+  question: "Como funciona o testamento público lavrado em tabelionato de notas?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+# empresarial — M&A (no regime-term match: "sociedade limitada/anônima" absent)
+- id: oos-emp-03
+  area: out_of_scope
+  question: "Como funciona uma operação de M&A no Brasil sob a Lei das S.A.?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+# penal — tese STF (interpretação, sem artigo de corpus)
+- id: oos-pen-02
+  area: out_of_scope
+  question: "Como o STF interpreta o tráfico privilegiado para fins de hediondez?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+# concorrência / CADE
+- id: oosx-conc-cade
+  area: out_of_scope
+  question: Como o CADE analisa atos de concentração econômica na defesa da concorrência?
+  expected_chunk_ids: []
+  expected_behavior: refused
+# autoral
+- id: oosx-aut-direitos-autorais
+  area: out_of_scope
+  question: Como funciona a proteção de direitos autorais sobre uma obra musical na Lei de Direitos Autorais?
+  expected_chunk_ids: []
+  expected_behavior: refused
+# registro civil — classify UNKNOWN, no regime term
+- id: oosx-reg-civil-nascimento
+  area: out_of_scope
+  question: Quais os requisitos para o registro civil de nascimento de uma criança em cartório?
   expected_chunk_ids: []
   expected_behavior: refused

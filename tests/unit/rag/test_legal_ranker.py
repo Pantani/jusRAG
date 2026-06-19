@@ -52,6 +52,15 @@ def test_constituicao_statute_resolves_constitution_tier() -> None:
     assert authority_for_payload(_hit(0.5, norm_type="constituicao").payload) == 1.00
 
 
+def test_unknown_norm_type_not_federal_law() -> None:
+    # Parity with hierarchy.tier_for_statute: an unrecognised norm_type (typo or
+    # infralegal, e.g. "portaria") must NOT get the permissive federal-law 0.95;
+    # it falls back to the UNKNOWN tier (0.10).
+    weight = authority_for_payload(_hit(0.5, norm_type="portaria").payload)
+    assert weight != 0.95
+    assert weight == 0.10
+
+
 def test_exact_citation_match() -> None:
     assert exact_citation_match({"article": "12"}, "12") == 1.0
     assert exact_citation_match({"article": "12"}, "49") == 0.0

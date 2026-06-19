@@ -32,6 +32,7 @@ jobs:
       - name: Generate seed corpus (offline, direct python — Makefile targets assume docker)
         run: |
           python -m apps.worker.jobs.ingest_cdc
+          python -m apps.worker.jobs.ingest_codes
           python -m apps.worker.jobs.ingest_case_law
       - name: Test (pytest, offline)
         run: make test
@@ -53,6 +54,7 @@ jobs:
       - name: Generate seed corpus (offline, direct python — Makefile targets assume docker)
         run: |
           python -m apps.worker.jobs.ingest_cdc
+          python -m apps.worker.jobs.ingest_codes
           python -m apps.worker.jobs.ingest_case_law
       - name: Eval suite (fake providers, gate §36)
         run: python -m packages.evals.run_all

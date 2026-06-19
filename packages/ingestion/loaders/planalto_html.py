@@ -87,8 +87,15 @@ _HEADER_PREFIXES = ("TÍTULO ", "CAPÍTULO ", "SEÇÃO ", "SUBSEÇÃO ", "LIVRO 
 # full numeric run *with* its dots and strip them in _format_article_line, so a
 # 4-digit article is never truncated to its leading digit (root cause of the CC
 # parser stopping at ~art. 999 and losing Família/Sucessões).
+# The optional ordinal suffix must NOT swallow the capital "O" that opens many
+# capute bodies ("Art. 10. O fornecedor..."). With ``re.IGNORECASE`` a bare
+# ``[º°o]?`` matched that "O" and silently dropped it. We accept only the real
+# ordinal glyphs ``º``/``°`` plus a *case-sensitive* lowercase ``o`` (the "1o"
+# ASCII ordinal) via ``(?-i:o)`` — never the uppercase "O" of a sentence start.
+# A single trailing ``.`` after the number/ordinal ("Art. 10.") is consumed too.
 _ARTICLE_RE = re.compile(
-    r"^\s*Art\.?\s*(\d[\d.]*(?:-[A-Z])?)\s*[º°o]?\s*(.*)", re.IGNORECASE
+    r"^\s*Art\.?\s*(\d(?:[\d.]*\d)?(?:-[A-Z])?)(?:[º°]|(?-i:o))?\.?\s*(.*)",
+    re.IGNORECASE,
 )
 # Some Planalto pages (e.g. CTN) split the article marker and its number across
 # a <br>: "Art.\n1º Esta Lei...". Join "Art." + newline + digit back so the
@@ -172,8 +179,13 @@ def _format_article_line(num: str, rest: str) -> tuple[str, str]:
     # Preserve the source's thousands separator in the heading ("Art. 1.000")
     # for citation fidelity; the chunker strips it only for the id, never for
     # display or body text.
-    base = num.split("-")[0].replace(".", "")
-    token = f"{num}º" if base.isdigit() and int(base) < 10 else num
+    stem, sep, suffix = num.partition("-")
+    base = stem.replace(".", "")
+    if base.isdigit() and int(base) < 10:
+        # Ordinal mark before the letter suffix: "1-A" -> "1º-A", never "1-Aº".
+        token = f"{stem}º-{suffix}" if sep else f"{stem}º"
+    else:
+        token = num
     return token, rest.strip()
 
 

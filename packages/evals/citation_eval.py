@@ -104,6 +104,7 @@ class CitationEvalReport:
             "cases": [
                 {
                     "case_id": c.case_id,
+                    "area": c.area,
                     "citation_coverage": c.citation_coverage,
                     "unsupported_legal_claim_rate": c.unsupported_legal_claim_rate,
                     "total_claims": c.total_claims,

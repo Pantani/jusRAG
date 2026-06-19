@@ -90,23 +90,23 @@ art. 311, incisos II e III;
 III - à decisão prevista no
 art. 701.
 
-## Art. 10.
+## Art. 10
 
-juiz não pode decidir, em grau algum de jurisdição, com base em fundamento a respeito do qual não se tenha dado às partes oportunidade de se manifestar, ainda que se trate de matéria sobre a qual deva decidir de ofício.
+O juiz não pode decidir, em grau algum de jurisdição, com base em fundamento a respeito do qual não se tenha dado às partes oportunidade de se manifestar, ainda que se trate de matéria sobre a qual deva decidir de ofício.
 
-## Art. 11.
+## Art. 11
 
 Todos os julgamentos dos órgãos do Poder Judiciário serão públicos, e fundamentadas todas as decisões, sob pena de nulidade.
 
 Parágrafo único. Nos casos de segredo de justiça, pode ser autorizada a presença somente das partes, de seus advogados, de defensores públicos ou do Ministério Público.
 
-## Art. 12.
+## Art. 12
 
-s juízes e os tribunais deverão obedecer à ordem cronológica de conclusão para proferir sentença ou acórdão.
+Os juízes e os tribunais deverão obedecer à ordem cronológica de conclusão para proferir sentença ou acórdão.
 
-## Art. 12.
+## Art. 12
 
-s juízes e os tribunais atenderão, preferencialmente, à ordem cronológica de conclusão para proferir sentença ou acórdão.
+Os juízes e os tribunais atenderão, preferencialmente, à ordem cronológica de conclusão para proferir sentença ou acórdão.
 
 (Redação dada pela Lei nº 13.256, de 2016)
 (Vigência)
@@ -153,15 +153,15 @@ art. 1.040, inciso II.
 
 # CAPÍTULO II
 
-## Art. 13.
+## Art. 13
 
 A jurisdição civil será regida pelas normas processuais brasileiras, ressalvadas as disposições específicas previstas em tratados, convenções ou acordos internacionais de que o Brasil seja parte.
 
-## Art. 14.
+## Art. 14
 
 A norma processual não retroagirá e será aplicável imediatamente aos processos em curso, respeitados os atos processuais praticados e as situações jurídicas consolidadas sob a vigência da norma revogada.
 
-## Art. 15.
+## Art. 15
 
 Na ausência de normas que regulem processos eleitorais, trabalhistas ou administrativos, as disposições deste Código lhes serão aplicadas supletiva e subsidiariamente.
 
@@ -169,29 +169,29 @@ Na ausência de normas que regulem processos eleitorais, trabalhistas ou adminis
 
 # TÍTULO I
 
-## Art. 16.
+## Art. 16
 
 A jurisdição civil é exercida pelos juízes e pelos tribunais em todo o território nacional, conforme as disposições deste Código.
 
-## Art. 17.
+## Art. 17
 
 Para postular em juízo é necessário ter interesse e legitimidade.
 
-## Art. 18.
+## Art. 18
 
 Ninguém poderá pleitear direito alheio em nome próprio, salvo quando autorizado pelo ordenamento jurídico.
 
 Parágrafo único. Havendo substituição processual, o substituído poderá intervir como assistente litisconsorcial.
 
-## Art. 19.
+## Art. 19
 
-interesse do autor pode limitar-se à declaração:
+O interesse do autor pode limitar-se à declaração:
 
 I - da existência, da inexistência ou do modo de ser de uma relação jurídica;
 
 II - da autenticidade ou da falsidade de documento.
 
-## Art. 20.
+## Art. 20
 
 É admissível a ação meramente declaratória, ainda que tenha ocorrido a violação do direito.
 
@@ -199,7 +199,7 @@ II - da autenticidade ou da falsidade de documento.
 
 # CAPÍTULO I
 
-## Art. 21.
+## Art. 21
 
 Compete à autoridade judiciária brasileira processar e julgar as ações em que:
 
@@ -211,7 +211,7 @@ III - o fundamento seja fato ocorrido ou ato praticado no Brasil.
 
 Parágrafo único. Para o fim do disposto no inciso I, considera-se domiciliada no Brasil a pessoa jurídica estrangeira que nele tiver agência, filial ou sucursal.
 
-## Art. 22.
+## Art. 22
 
 Compete, ainda, à autoridade judiciária brasileira processar e julgar as ações:
 
@@ -225,7 +225,7 @@ II - decorrentes de relações de consumo, quando o consumidor tiver domicílio 
 
 III - em que as partes, expressa ou tacitamente, se submeterem à jurisdição nacional.
 
-## Art. 23.
+## Art. 23
 
 Compete à autoridade judiciária brasileira, com exclusão de qualquer outra:
 
@@ -235,13 +235,13 @@ II - em matéria de sucessão hereditária, proceder à confirmação de testame
 
 III - em divórcio, separação judicial ou dissolução de união estável, proceder à partilha de bens situados no Brasil, ainda que o titular seja de nacionalidade estrangeira ou tenha domicílio fora do território nacional.
 
-## Art. 24.
+## Art. 24
 
 A ação proposta perante tribunal estrangeiro não induz litispendência e não obsta a que a autoridade judiciária brasileira conheça da mesma causa e das que lhe são conexas, ressalvadas as disposições em contrário de tratados internacionais e acordos bilaterais em vigor no Brasil.
 
 Parágrafo único. A pendência de causa perante a jurisdição brasileira não impede a homologação de sentença judicial estrangeira quando exigida para produzir efeitos no Brasil.
 
-## Art. 25.
+## Art. 25
 
 Não compete à autoridade judiciária brasileira o processamento e o julgamento da ação quando houver cláusula de eleição de foro exclusivo estrangeiro em contrato internacional, arguida pelo réu na contestação.
 
@@ -258,7 +258,7 @@ art. 63, §§ 1º a 4º.
 
 ### Seção I
 
-## Art. 26.
+## Art. 26
 
 A cooperação jurídica internacional será regida por tratado de que o Brasil faz parte e observará:
 
@@ -280,7 +280,7 @@ V - a espontaneidade na transmissão de informações a autoridades estrangeiras
 
 § 4º O Ministério da Justiça exercerá as funções de autoridade central na ausência de designação específica.
 
-## Art. 27.
+## Art. 27
 
 A cooperação jurídica internacional terá por objeto:
 
@@ -298,15 +298,15 @@ VI - qualquer outra medida judicial ou extrajudicial não proibida pela lei bras
 
 ### Seção II
 
-## Art. 28.
+## Art. 28
 
 Cabe auxílio direto quando a medida não decorrer diretamente de decisão de autoridade jurisdicional estrangeira a ser submetida a juízo de delibação no Brasil.
 
-## Art. 29.
+## Art. 29
 
 A solicitação de auxílio direto será encaminhada pelo órgão estrangeiro interessado à autoridade central, cabendo ao Estado requerente assegurar a autenticidade e a clareza do pedido.
 
-## Art. 30.
+## Art. 30
 
 Além dos casos previstos em tratados de que o Brasil faz parte, o auxílio direto terá os seguintes objetos:
 
@@ -316,33 +316,33 @@ II - colheita de provas, salvo se a medida for adotada em processo, em curso no 
 
 III - qualquer outra medida judicial ou extrajudicial não proibida pela lei brasileira.
 
-## Art. 31.
+## Art. 31
 
 A autoridade central brasileira comunicar-se-á diretamente com suas congêneres e, se necessário, com outros órgãos estrangeiros responsáveis pela tramitação e pela execução de pedidos de cooperação enviados e recebidos pelo Estado brasileiro, respeitadas disposições específicas constantes de tratado.
 
-## Art. 32.
+## Art. 32
 
 No caso de auxílio direto para a prática de atos que, segundo a lei brasileira, não necessitem de prestação jurisdicional, a autoridade central adotará as providências necessárias para seu cumprimento.
 
-## Art. 33.
+## Art. 33
 
 Recebido o pedido de auxílio direto passivo, a autoridade central o encaminhará à Advocacia-Geral da União, que requererá em juízo a medida solicitada.
 
 Parágrafo único. O Ministério Público requererá em juízo a medida solicitada quando for autoridade central.
 
-## Art. 34.
+## Art. 34
 
 Compete ao juízo federal do lugar em que deva ser executada a medida apreciar pedido de auxílio direto passivo que demande prestação de atividade jurisdicional.
 
 ### Seção III
 
-## Art. 35.
+## Art. 35
 
 (VETADO).
 
-## Art. 36.
+## Art. 36
 
-procedimento da carta rogatória perante o Superior Tribunal de Justiça é de jurisdição contenciosa e deve assegurar às partes as garantias do devido processo legal.
+O procedimento da carta rogatória perante o Superior Tribunal de Justiça é de jurisdição contenciosa e deve assegurar às partes as garantias do devido processo legal.
 
 § 1º A defesa restringir-se-á à discussão quanto ao atendimento dos requisitos para que o pronunciamento judicial estrangeiro produza efeitos no Brasil.
 
@@ -350,25 +350,25 @@ procedimento da carta rogatória perante o Superior Tribunal de Justiça é de j
 
 ### Seção IV
 
-## Art. 37.
+## Art. 37
 
-pedido de cooperação jurídica internacional oriundo de autoridade brasileira competente será encaminhado à autoridade central para posterior envio ao Estado requerido para lhe dar andamento.
+O pedido de cooperação jurídica internacional oriundo de autoridade brasileira competente será encaminhado à autoridade central para posterior envio ao Estado requerido para lhe dar andamento.
 
-## Art. 38.
+## Art. 38
 
-pedido de cooperação oriundo de autoridade brasileira competente e os documentos anexos que o instruem serão encaminhados à autoridade central, acompanhados de tradução para a língua oficial do Estado requerido.
+O pedido de cooperação oriundo de autoridade brasileira competente e os documentos anexos que o instruem serão encaminhados à autoridade central, acompanhados de tradução para a língua oficial do Estado requerido.
 
-## Art. 39.
+## Art. 39
 
-pedido passivo de cooperação jurídica internacional será recusado se configurar manifesta ofensa à ordem pública.
+O pedido passivo de cooperação jurídica internacional será recusado se configurar manifesta ofensa à ordem pública.
 
-## Art. 40.
+## Art. 40
 
 A cooperação jurídica internacional para execução de decisão estrangeira dar-se-á por meio de carta rogatória ou de ação de homologação de sentença estrangeira, de acordo com o
 
 art. 960.
 
-## Art. 41.
+## Art. 41
 
 Considera-se autêntico o documento que instruir pedido de cooperação jurídica internacional, inclusive tradução para a língua portuguesa, quando encaminhado ao Estado brasileiro por meio de autoridade central ou por via diplomática, dispensando-se ajuramentação, autenticação ou qualquer procedimento de legalização.
 
@@ -382,21 +382,21 @@ não impede, quando necessária, a aplicação pelo Estado brasileiro do princí
 
 ### Seção I
 
-## Art. 42.
+## Art. 42
 
 As causas cíveis serão processadas e decididas pelo juiz nos limites de sua competência, ressalvado às partes o direito de instituir juízo arbitral, na forma da lei.
 
-## Art. 43.
+## Art. 43
 
 Determina-se a competência no momento do registro ou da distribuição da petição inicial, sendo irrelevantes as modificações do estado de fato ou de direito ocorridas posteriormente, salvo quando suprimirem órgão judiciário ou alterarem a competência absoluta.
 
-## Art. 44.
+## Art. 44
 
-bedecidos os limites estabelecidos pela
+Obedecidos os limites estabelecidos pela
 
 Constituição Federal, a competência é determinada pelas normas previstas neste Código ou em legislação especial, pelas normas de organização judiciária e, ainda, no que couber, pelas constituições dos Estados.
 
-## Art. 45.
+## Art. 45
 
 Tramitando o processo perante outro juízo, os autos serão remetidos ao juízo federal competente se nele intervier a União, suas empresas públicas, entidades autárquicas e fundações, ou conselho de fiscalização de atividade profissional, na qualidade de parte ou de terceiro interveniente, exceto as ações:
 
@@ -410,7 +410,7 @@ II - sujeitas à justiça eleitoral e à justiça do trabalho.
 
 § 3º O juízo federal restituirá os autos ao juízo estadual sem suscitar conflito se o ente federal cuja presença ensejou a remessa for excluído do processo.
 
-## Art. 46.
+## Art. 46
 
 A ação fundada em direito pessoal ou em direito real sobre bens móveis será proposta, em regra, no foro de domicílio do réu.
 
@@ -426,7 +426,7 @@ A ação fundada em direito pessoal ou em direito real sobre bens móveis será 
 (Vide ADI nº 5737)
 (Vide ADI nº 5492)
 
-## Art. 47.
+## Art. 47
 
 Para as ações fundadas em direito real sobre imóveis é competente o foro de situação da coisa.
 
@@ -434,9 +434,9 @@ Para as ações fundadas em direito real sobre imóveis é competente o foro de 
 
 § 2º A ação possessória imobiliária será proposta no foro de situação da coisa, cujo juízo tem competência absoluta.
 
-## Art. 48.
+## Art. 48
 
-foro de domicílio do autor da herança, no Brasil, é o competente para o inventário, a partilha, a arrecadação, o cumprimento de disposições de última vontade, a impugnação ou anulação de partilha extrajudicial e para todas as ações em que o espólio for réu, ainda que o óbito tenha ocorrido no estrangeiro.
+O foro de domicílio do autor da herança, no Brasil, é o competente para o inventário, a partilha, a arrecadação, o cumprimento de disposições de última vontade, a impugnação ou anulação de partilha extrajudicial e para todas as ações em que o espólio for réu, ainda que o óbito tenha ocorrido no estrangeiro.
 
 Parágrafo único. Se o autor da herança não possuía domicílio certo, é competente:
 
@@ -446,21 +446,21 @@ II - havendo bens imóveis em foros diferentes, qualquer destes;
 
 III - não havendo bens imóveis, o foro do local de qualquer dos bens do espólio.
 
-## Art. 49.
+## Art. 49
 
 A ação em que o ausente for réu será proposta no foro de seu último domicílio, também competente para a arrecadação, o inventário, a partilha e o cumprimento de disposições testamentárias.
 
-## Art. 50.
+## Art. 50
 
 A ação em que o incapaz for réu será proposta no foro de domicílio de seu representante ou assistente.
 
-## Art. 51.
+## Art. 51
 
 É competente o foro de domicílio do réu para as causas em que seja autora a União.
 
 Parágrafo único. Se a União for a demandada, a ação poderá ser proposta no foro de domicílio do autor, no de ocorrência do ato ou fato que originou a demanda, no de situação da coisa ou no Distrito Federal.
 
-## Art. 52.
+## Art. 52
 
 É competente o foro de domicílio do réu para as causas em que seja autor Estado ou o Distrito Federal.
 
@@ -468,7 +468,7 @@ Parágrafo único. Se Estado ou o Distrito Federal for o demandado, a ação pod
 (Vide ADI nº 5737)
 (Vide ADI nº 5492)
 
-## Art. 53.
+## Art. 53
 
 É competente o foro:
 
@@ -518,11 +518,11 @@ V - de domicílio do autor ou do local do fato, para a ação de reparação de 
 
 ### Seção II
 
-## Art. 54.
+## Art. 54
 
 A competência relativa poderá modificar-se pela conexão ou pela continência, observado o disposto nesta Seção.
 
-## Art. 55.
+## Art. 55
 
 Reputam-se conexas 2 (duas) ou mais ações quando lhes for comum o pedido ou a causa de pedir.
 
@@ -538,35 +538,35 @@ II - às execuções fundadas no mesmo título executivo.
 
 § 3º Serão reunidos para julgamento conjunto os processos que possam gerar risco de prolação de decisões conflitantes ou contraditórias caso decididos separadamente, mesmo sem conexão entre eles.
 
-## Art. 56.
+## Art. 56
 
 Dá-se a continência entre 2 (duas) ou mais ações quando houver identidade quanto às partes e à causa de pedir, mas o pedido de uma, por ser mais amplo, abrange o das demais.
 
-## Art. 57.
+## Art. 57
 
 Quando houver continência e a ação continente tiver sido proposta anteriormente, no processo relativo à ação contida será proferida sentença sem resolução de mérito, caso contrário, as ações serão necessariamente reunidas.
 
-## Art. 58.
+## Art. 58
 
 A reunião das ações propostas em separado far-se-á no juízo prevento, onde serão decididas simultaneamente.
 
-## Art. 59.
+## Art. 59
 
-registro ou a distribuição da petição inicial torna prevento o juízo.
+O registro ou a distribuição da petição inicial torna prevento o juízo.
 
-## Art. 60.
+## Art. 60
 
 Se o imóvel se achar situado em mais de um Estado, comarca, seção ou subseção judiciária, a competência territorial do juízo prevento estender-se-á sobre a totalidade do imóvel.
 
-## Art. 61.
+## Art. 61
 
 A ação acessória será proposta no juízo competente para a ação principal.
 
-## Art. 62.
+## Art. 62
 
 A competência determinada em razão da matéria, da pessoa ou da função é inderrogável por convenção das partes.
 
-## Art. 63.
+## Art. 63
 
 As partes podem modificar a competência em razão do valor e do território, elegendo foro onde será proposta ação oriunda de direitos e obrigações.
 
@@ -596,7 +596,7 @@ nº 14.879, de 4 de junho de 2024)
 
 ### Seção III
 
-## Art. 64.
+## Art. 64
 
 A incompetência, absoluta ou relativa, será alegada como questão preliminar de contestação.
 
@@ -608,13 +608,13 @@ A incompetência, absoluta ou relativa, será alegada como questão preliminar d
 
 § 4º Salvo decisão judicial em sentido contrário, conservar-se-ão os efeitos de decisão proferida pelo juízo incompetente até que outra seja proferida, se for o caso, pelo juízo competente.
 
-## Art. 65.
+## Art. 65
 
 Prorrogar-se-á a competência relativa se o réu não alegar a incompetência em preliminar de contestação.
 
 Parágrafo único. A incompetência relativa pode ser alegada pelo Ministério Público nas causas em que atuar.
 
-## Art. 66.
+## Art. 66
 
 Há conflito de competência quando:
 
@@ -628,17 +628,17 @@ Parágrafo único. O juiz que não acolher a competência declinada deverá susc
 
 # CAPÍTULO II
 
-## Art. 67.
+## Art. 67
 
 Aos órgãos do Poder Judiciário, estadual ou federal, especializado ou comum, em todas as instâncias e graus de jurisdição, inclusive aos tribunais superiores, incumbe o dever de recíproca cooperação, por meio de seus magistrados e servidores.
 
-## Art. 68.
+## Art. 68
 
-s juízos poderão formular entre si pedido de cooperação para prática de qualquer ato processual.
+Os juízos poderão formular entre si pedido de cooperação para prática de qualquer ato processual.
 
-## Art. 69.
+## Art. 69
 
-pedido de cooperação jurisdicional deve ser prontamente atendido, prescinde de forma específica e pode ser executado como:
+O pedido de cooperação jurisdicional deve ser prontamente atendido, prescinde de forma específica e pode ser executado como:
 
 I - auxílio direto;
 
@@ -674,17 +674,17 @@ VII - a execução de decisão jurisdicional.
 
 # CAPÍTULO I
 
-## Art. 70.
+## Art. 70
 
 Toda pessoa que se encontre no exercício de seus direitos tem capacidade para estar em juízo.
 
-## Art. 71.
+## Art. 71
 
-incapaz será representado ou assistido por seus pais, por tutor ou por curador, na forma da lei.
+O incapaz será representado ou assistido por seus pais, por tutor ou por curador, na forma da lei.
 
-## Art. 72.
+## Art. 72
 
-juiz nomeará curador especial ao:
+O juiz nomeará curador especial ao:
 
 I - incapaz, se não tiver representante legal ou se os interesses deste colidirem com os daquele, enquanto durar a incapacidade;
 
@@ -692,9 +692,9 @@ II - réu preso revel, bem como ao réu revel citado por edital ou com hora cert
 
 Parágrafo único. A curatela especial será exercida pela Defensoria Pública, nos termos da lei.
 
-## Art. 73.
+## Art. 73
 
-cônjuge necessitará do consentimento do outro para propor ação que verse sobre direito real imobiliário, salvo quando casados sob o regime de separação absoluta de bens.
+O cônjuge necessitará do consentimento do outro para propor ação que verse sobre direito real imobiliário, salvo quando casados sob o regime de separação absoluta de bens.
 
 § 1º Ambos os cônjuges serão necessariamente citados para a ação:
 
@@ -710,16 +710,16 @@ IV - que tenha por objeto o reconhecimento, a constituição ou a extinção de 
 
 § 3º Aplica-se o disposto neste artigo à união estável comprovada nos autos.
 
-## Art. 74.
+## Art. 74
 
-consentimento previsto no
+O consentimento previsto no
 
 art. 73
 pode ser suprido judicialmente quando for negado por um dos cônjuges sem justo motivo, ou quando lhe seja impossível concedê-lo.
 
 Parágrafo único. A falta de consentimento, quando necessário e não suprido pelo juiz, invalida o processo.
 
-## Art. 75.
+## Art. 75
 
 Serão representados em juízo, ativa e passivamente:
 
@@ -767,7 +767,7 @@ da obrigação a ser objeto das medidas judiciais.
 (Incluído pela
 Lei nº 14.341, de 2022)
 
-## Art. 76.
+## Art. 76
 
 Verificada a incapacidade processual ou a irregularidade da representação da parte, o juiz suspenderá o processo e designará prazo razoável para que seja sanado o vício.
 
@@ -789,7 +789,7 @@ II - determinará o desentranhamento das contrarrazões, se a providência coube
 
 ### Seção I
 
-## Art. 77.
+## Art. 77
 
 Além de outros previstos neste Código, são deveres das partes, de seus procuradores e de todos aqueles que de qualquer forma participem do processo:
 
@@ -836,7 +836,7 @@ arts. 523, § 1º, e
 
 § 8º O representante judicial da parte não pode ser compelido a cumprir decisão em seu lugar.
 
-## Art. 78.
+## Art. 78
 
 É vedado às partes, a seus procuradores, aos juízes, aos membros do Ministério Público e da Defensoria Pública e a qualquer pessoa que participe do processo empregar expressões ofensivas nos escritos apresentados.
 
@@ -846,11 +846,11 @@ arts. 523, § 1º, e
 
 ### Seção II
 
-## Art. 79.
+## Art. 79
 
 Responde por perdas e danos aquele que litigar de má-fé como autor, réu ou interveniente.
 
-## Art. 80.
+## Art. 80
 
 Considera-se litigante de má-fé aquele que:
 
@@ -868,7 +868,7 @@ VI - provocar incidente manifestamente infundado;
 
 VII - interpuser recurso com intuito manifestamente protelatório.
 
-## Art. 81.
+## Art. 81
 
 De ofício ou a requerimento, o juiz condenará o litigante de má-fé a pagar multa, que deverá ser superior a um por cento e inferior a dez por cento do valor corrigido da causa, a indenizar a parte contrária pelos prejuízos que esta sofreu e a arcar com os honorários advocatícios e com todas as despesas que efetuou.
 
@@ -880,7 +880,7 @@ De ofício ou a requerimento, o juiz condenará o litigante de má-fé a pagar m
 
 ### Seção III
 
-## Art. 82.
+## Art. 82
 
 Salvo as disposições concernentes à gratuidade da justiça, incumbe às partes prover as despesas dos atos que realizarem ou requererem no processo, antecipando-lhes o pagamento, desde o início até a sentença final ou, na execução, até a plena satisfação do direito reconhecido no título.
 
@@ -896,9 +896,9 @@ final do processo, o seu pagamento, se tiver dado causa ao processo.
 (Incluído pela Lei
 nº 15.109, de 2025)
 
-## Art. 83.
+## Art. 83
 
-autor, brasileiro ou estrangeiro, que residir fora do Brasil ou deixar de residir no país ao longo da tramitação de processo prestará caução suficiente ao pagamento das custas e dos honorários de advogado da parte contrária nas ações que propuser, se não tiver no Brasil bens imóveis que lhes assegurem o pagamento.
+O autor, brasileiro ou estrangeiro, que residir fora do Brasil ou deixar de residir no país ao longo da tramitação de processo prestará caução suficiente ao pagamento das custas e dos honorários de advogado da parte contrária nas ações que propuser, se não tiver no Brasil bens imóveis que lhes assegurem o pagamento.
 
 § 1º Não se exigirá a caução de que trata o
 caput
@@ -912,11 +912,11 @@ III - na reconvenção.
 
 § 2º Verificando-se no trâmite do processo que se desfalcou a garantia, poderá o interessado exigir reforço da caução, justificando seu pedido com a indicação da depreciação do bem dado em garantia e a importância do reforço que pretende obter.
 
-## Art. 84.
+## Art. 84
 
 As despesas abrangem as custas dos atos do processo, a indenização de viagem, a remuneração do assistente técnico e a diária de testemunha.
 
-## Art. 85.
+## Art. 85
 
 A sentença condenará o vencido a pagar honorários ao advogado do vencedor.
 
@@ -1007,13 +1007,13 @@ judicial.
 (Incluído pela Lei
 nº 14.365, de 2022)
 
-## Art. 86.
+## Art. 86
 
 Se cada litigante for, em parte, vencedor e vencido, serão proporcionalmente distribuídas entre eles as despesas.
 
 Parágrafo único. Se um litigante sucumbir em parte mínima do pedido, o outro responderá, por inteiro, pelas despesas e pelos honorários.
 
-## Art. 87.
+## Art. 87
 
 Concorrendo diversos autores ou diversos réus, os vencidos respondem proporcionalmente pelas despesas e pelos honorários.
 
@@ -1025,15 +1025,15 @@ caput
 o
 Se a distribuição de que trata o § 1º não for feita, os vencidos responderão solidariamente pelas despesas e pelos honorários.
 
-## Art. 88.
+## Art. 88
 
 Nos procedimentos de jurisdição voluntária, as despesas serão adiantadas pelo requerente e rateadas entre os interessados.
 
-## Art. 89.
+## Art. 89
 
 Nos juízos divisórios, não havendo litígio, os interessados pagarão as despesas proporcionalmente a seus quinhões.
 
-## Art. 90.
+## Art. 90
 
 Proferida sentença com fundamento em desistência, em renúncia ou em reconhecimento do pedido, as despesas e os honorários serão pagos pela parte que desistiu, renunciou ou reconheceu.
 
@@ -1045,7 +1045,7 @@ Proferida sentença com fundamento em desistência, em renúncia ou em reconheci
 
 § 4º Se o réu reconhecer a procedência do pedido e, simultaneamente, cumprir integralmente a prestação reconhecida, os honorários serão reduzidos pela metade.
 
-## Art. 91.
+## Art. 91
 
 As despesas dos atos processuais praticados a requerimento da Fazenda Pública, do Ministério Público ou da Defensoria Pública serão pagas ao final pelo vencido.
 
@@ -1053,19 +1053,19 @@ As despesas dos atos processuais praticados a requerimento da Fazenda Pública, 
 
 § 2º Não havendo previsão orçamentária no exercício financeiro para adiantamento dos honorários periciais, eles serão pagos no exercício seguinte ou ao final, pelo vencido, caso o processo se encerre antes do adiantamento a ser feito pelo ente público.
 
-## Art. 92.
+## Art. 92
 
 Quando, a requerimento do réu, o juiz proferir sentença sem resolver o mérito, o autor não poderá propor novamente a ação sem pagar ou depositar em cartório as despesas e os honorários a que foi condenado.
 
-## Art. 93.
+## Art. 93
 
 As despesas de atos adiados ou cuja repetição for necessária ficarão a cargo da parte, do auxiliar da justiça, do órgão do Ministério Público ou da Defensoria Pública ou do juiz que, sem justo motivo, houver dado causa ao adiamento ou à repetição.
 
-## Art. 94.
+## Art. 94
 
 Se o assistido for vencido, o assistente será condenado ao pagamento das custas em proporção à atividade que houver exercido no processo.
 
-## Art. 95.
+## Art. 95
 
 Cada parte adiantará a remuneração do assistente técnico que houver indicado, sendo a do perito adiantada pela parte que houver requerido a perícia ou rateada quando a perícia for determinada de ofício ou requerida por ambas as partes.
 
@@ -1085,17 +1085,17 @@ art. 98, § 2º.
 
 § 5º Para fins de aplicação do § 3º, é vedada a utilização de recursos do fundo de custeio da Defensoria Pública.
 
-## Art. 96.
+## Art. 96
 
-valor das sanções impostas ao litigante de má-fé reverterá em benefício da parte contrária, e o valor das sanções impostas aos serventuários pertencerá ao Estado ou à União.
+O valor das sanções impostas ao litigante de má-fé reverterá em benefício da parte contrária, e o valor das sanções impostas aos serventuários pertencerá ao Estado ou à União.
 
-## Art. 97.
+## Art. 97
 
 A União e os Estados podem criar fundos de modernização do Poder Judiciário, aos quais serão revertidos os valores das sanções pecuniárias processuais destinadas à União e aos Estados, e outras verbas previstas em lei.
 
 ### Seção IV
 
-## Art. 98.
+## Art. 98
 
 A pessoa natural ou jurídica, brasileira ou estrangeira, com insuficiência de recursos para pagar as custas, as despesas processuais e os honorários advocatícios tem direito à gratuidade da justiça, na forma da lei.
 
@@ -1134,9 +1134,9 @@ art. 95, §§ 3º a 5º, ao custeio dos emolumentos previstos no § 1º, inciso 
 
 § 8º Na hipótese do § 1º, inciso IX, havendo dúvida fundada quanto ao preenchimento atual dos pressupostos para a concessão de gratuidade, o notário ou registrador, após praticar o ato, pode requerer, ao juízo competente para decidir questões notariais ou registrais, a revogação total ou parcial do benefício ou a sua substituição pelo parcelamento de que trata o § 6º deste artigo, caso em que o beneficiário será citado para, em 15 (quinze) dias, manifestar-se sobre esse requerimento.
 
-## Art. 99.
+## Art. 99
 
-pedido de gratuidade da justiça pode ser formulado na petição inicial, na contestação, na petição para ingresso de terceiro no processo ou em recurso.
+O pedido de gratuidade da justiça pode ser formulado na petição inicial, na contestação, na petição para ingresso de terceiro no processo ou em recurso.
 
 § 1º Se superveniente à primeira manifestação da parte na instância, o pedido poderá ser formulado por petição simples, nos autos do próprio processo, e não suspenderá seu curso.
 
@@ -1152,13 +1152,13 @@ pedido de gratuidade da justiça pode ser formulado na petição inicial, na con
 
 § 7º Requerida a concessão de gratuidade da justiça em recurso, o recorrente estará dispensado de comprovar o recolhimento do preparo, incumbindo ao relator, neste caso, apreciar o requerimento e, se indeferi-lo, fixar prazo para realização do recolhimento.
 
-## Art. 100.
+## Art. 100
 
 Deferido o pedido, a parte contrária poderá oferecer impugnação na contestação, na réplica, nas contrarrazões de recurso ou, nos casos de pedido superveniente ou formulado por terceiro, por meio de petição simples, a ser apresentada no prazo de 15 (quinze) dias, nos autos do próprio processo, sem suspensão de seu curso.
 
 Parágrafo único. Revogado o benefício, a parte arcará com as despesas processuais que tiver deixado de adiantar e pagará, em caso de má-fé, até o décuplo de seu valor a título de multa, que será revertida em benefício da Fazenda Pública estadual ou federal e poderá ser inscrita em dívida ativa.
 
-## Art. 101.
+## Art. 101
 
 Contra a decisão que indeferir a gratuidade ou a que acolher pedido de sua revogação caberá agravo de instrumento, exceto quando a questão for resolvida na sentença, contra a qual caberá apelação.
 
@@ -1166,7 +1166,7 @@ Contra a decisão que indeferir a gratuidade ou a que acolher pedido de sua revo
 
 § 2º Confirmada a denegação ou a revogação da gratuidade, o relator ou o órgão colegiado determinará ao recorrente o recolhimento das custas processuais, no prazo de 5 (cinco) dias, sob pena de não conhecimento do recurso.
 
-## Art. 102.
+## Art. 102
 
 Sobrevindo o trânsito em julgado de decisão que revoga a gratuidade, a parte deverá efetuar o recolhimento de todas as despesas de cujo adiantamento foi dispensada, inclusive as relativas ao recurso interposto, se houver, no prazo fixado pelo juiz, sem prejuízo de aplicação das sanções previstas em lei.
 
@@ -1174,15 +1174,15 @@ Parágrafo único. Não efetuado o recolhimento, o processo será extinto sem re
 
 # CAPÍTULO III
 
-## Art. 103.
+## Art. 103
 
 A parte será representada em juízo por advogado regularmente inscrito na Ordem dos Advogados do Brasil.
 
 Parágrafo único. É lícito à parte postular em causa própria quando tiver habilitação legal.
 
-## Art. 104.
+## Art. 104
 
-advogado não será admitido a postular em juízo sem procuração, salvo para evitar preclusão, decadência ou prescrição, ou para praticar ato considerado urgente.
+O advogado não será admitido a postular em juízo sem procuração, salvo para evitar preclusão, decadência ou prescrição, ou para praticar ato considerado urgente.
 
 § 1º Nas hipóteses previstas no
 caput
@@ -1190,7 +1190,7 @@ caput
 
 § 2º O ato não ratificado será considerado ineficaz relativamente àquele em cujo nome foi praticado, respondendo o advogado pelas despesas e por perdas e danos.
 
-## Art. 105.
+## Art. 105
 
 A procuração geral para o foro, outorgada por instrumento público ou particular assinado pela parte, habilita o advogado a praticar todos os atos do processo, exceto receber citação, confessar, reconhecer a procedência do pedido, transigir, desistir, renunciar ao direito sobre o qual se funda a ação, receber, dar quitação, firmar compromisso e assinar declaração de hipossuficiência econômica, que devem constar de cláusula específica.
 
@@ -1202,7 +1202,7 @@ A procuração geral para o foro, outorgada por instrumento público ou particul
 
 § 4º Salvo disposição expressa em sentido contrário constante do próprio instrumento, a procuração outorgada na fase de conhecimento é eficaz para todas as fases do processo, inclusive para o cumprimento de sentença.
 
-## Art. 106.
+## Art. 106
 
 Quando postular em causa própria, incumbe ao advogado:
 
@@ -1214,9 +1214,9 @@ II - comunicar ao juízo qualquer mudança de endereço.
 
 § 2º Se o advogado infringir o previsto no inciso II, serão consideradas válidas as intimações enviadas por carta registrada ou meio eletrônico ao endereço constante dos autos.
 
-## Art. 107.
+## Art. 107
 
-advogado tem direito a:
+O advogado tem direito a:
 
 I - examinar, em cartório de fórum e secretaria de tribunal, mesmo sem procuração, autos de qualquer processo, independentemente da fase de tramitação, assegurados a obtenção de cópias e o registro de anotações, salvo na hipótese de segredo de justiça, nas quais apenas o advogado constituído terá acesso aos autos;
 
@@ -1239,11 +1239,11 @@ deste artigo aplica-se integralmente a processos eletrônicos.
 
 # CAPÍTULO IV
 
-## Art. 108.
+## Art. 108
 
 No curso do processo, somente é lícita a sucessão voluntária das partes nos casos expressos em lei.
 
-## Art. 109.
+## Art. 109
 
 A alienação da coisa ou do direito litigioso por ato entre vivos, a título particular, não altera a legitimidade das partes.
 
@@ -1253,22 +1253,22 @@ A alienação da coisa ou do direito litigioso por ato entre vivos, a título pa
 
 § 3º Estendem-se os efeitos da sentença proferida entre as partes originárias ao adquirente ou cessionário.
 
-## Art. 110.
+## Art. 110
 
-correndo a morte de qualquer das partes, dar-se-á a sucessão pelo seu espólio ou pelos seus sucessores, observado o disposto no
+Ocorrendo a morte de qualquer das partes, dar-se-á a sucessão pelo seu espólio ou pelos seus sucessores, observado o disposto no
 
 art. 313, §§ 1º e 2º.
 
-## Art. 111.
+## Art. 111
 
 A parte que revogar o mandato outorgado a seu advogado constituirá, no mesmo ato, outro que assuma o patrocínio da causa.
 
 Parágrafo único. Não sendo constituído novo procurador no prazo de 15 (quinze) dias, observar-se-á o disposto no
 art. 76.
 
-## Art. 112.
+## Art. 112
 
-advogado poderá renunciar ao mandato a qualquer tempo, provando, na forma prevista neste Código, que comunicou a renúncia ao mandante, a fim de que este nomeie sucessor.
+O advogado poderá renunciar ao mandato a qualquer tempo, provando, na forma prevista neste Código, que comunicou a renúncia ao mandante, a fim de que este nomeie sucessor.
 
 § 1º Durante os 10 (dez) dias seguintes, o advogado continuará a representar o mandante, desde que necessário para lhe evitar prejuízo
 
@@ -1278,7 +1278,7 @@ quando a procuração tiver sido outorgada a vários advogados e a parte continu
 
 # TÍTULO II
 
-## Art. 113.
+## Art. 113
 
 Duas ou mais pessoas podem litigar, no mesmo processo, em conjunto, ativa ou passivamente, quando:
 
@@ -1292,11 +1292,11 @@ III - ocorrer afinidade de questões por ponto comum de fato ou de direito.
 
 § 2º O requerimento de limitação interrompe o prazo para manifestação ou resposta, que recomeçará da intimação da decisão que o solucionar.
 
-## Art. 114.
+## Art. 114
 
-litisconsórcio será necessário por disposição de lei ou quando, pela natureza da relação jurídica controvertida, a eficácia da sentença depender da citação de todos que devam ser litisconsortes.
+O litisconsórcio será necessário por disposição de lei ou quando, pela natureza da relação jurídica controvertida, a eficácia da sentença depender da citação de todos que devam ser litisconsortes.
 
-## Art. 115.
+## Art. 115
 
 A sentença de mérito, quando proferida sem a integração do contraditório, será:
 
@@ -1306,15 +1306,15 @@ II - ineficaz, nos outros casos, apenas para os que não foram citados.
 
 Parágrafo único. Nos casos de litisconsórcio passivo necessário, o juiz determinará ao autor que requeira a citação de todos que devam ser litisconsortes, dentro do prazo que assinar, sob pena de extinção do processo.
 
-## Art. 116.
+## Art. 116
 
-litisconsórcio será unitário quando, pela natureza da relação jurídica, o juiz tiver de decidir o mérito de modo uniforme para todos os litisconsortes.
+O litisconsórcio será unitário quando, pela natureza da relação jurídica, o juiz tiver de decidir o mérito de modo uniforme para todos os litisconsortes.
 
-## Art. 117.
+## Art. 117
 
-s litisconsortes serão considerados, em suas relações com a parte adversa, como litigantes distintos, exceto no litisconsórcio unitário, caso em que os atos e as omissões de um não prejudicarão os outros, mas os poderão beneficiar.
+Os litisconsortes serão considerados, em suas relações com a parte adversa, como litigantes distintos, exceto no litisconsórcio unitário, caso em que os atos e as omissões de um não prejudicarão os outros, mas os poderão beneficiar.
 
-## Art. 118.
+## Art. 118
 
 Cada litisconsorte tem o direito de promover o andamento do processo, e todos devem ser intimados dos respectivos atos.
 
@@ -1324,13 +1324,13 @@ Cada litisconsorte tem o direito de promover o andamento do processo, e todos de
 
 ### Seção I
 
-## Art. 119.
+## Art. 119
 
 Pendendo causa entre 2 (duas) ou mais pessoas, o terceiro juridicamente interessado em que a sentença seja favorável a uma delas poderá intervir no processo para assisti-la.
 
 Parágrafo único. A assistência será admitida em qualquer procedimento e em todos os graus de jurisdição, recebendo o assistente o processo no estado em que se encontre.
 
-## Art. 120.
+## Art. 120
 
 Não havendo impugnação no prazo de 15 (quinze) dias, o pedido do assistente será deferido, salvo se for caso de rejeição liminar.
 
@@ -1338,17 +1338,17 @@ Parágrafo único. Se qualquer parte alegar que falta ao requerente interesse ju
 
 ### Seção II
 
-## Art. 121.
+## Art. 121
 
-assistente simples atuará como auxiliar da parte principal, exercerá os mesmos poderes e sujeitar-se-á aos mesmos ônus processuais que o assistido.
+O assistente simples atuará como auxiliar da parte principal, exercerá os mesmos poderes e sujeitar-se-á aos mesmos ônus processuais que o assistido.
 
 Parágrafo único. Sendo revel ou, de qualquer outro modo, omisso o assistido, o assistente será considerado seu substituto processual.
 
-## Art. 122.
+## Art. 122
 
 A assistência simples não obsta a que a parte principal reconheça a procedência do pedido, desista da ação, renuncie ao direito sobre o que se funda a ação ou transija sobre direitos controvertidos.
 
-## Art. 123.
+## Art. 123
 
 Transitada em julgado a sentença no processo em que interveio o assistente, este não poderá, em processo posterior, discutir a justiça da decisão, salvo se alegar e provar que:
 
@@ -1358,13 +1358,13 @@ II - desconhecia a existência de alegações ou de provas das quais o assistido
 
 ### Seção III
 
-## Art. 124.
+## Art. 124
 
 Considera-se litisconsorte da parte principal o assistente sempre que a sentença influir na relação jurídica entre ele e o adversário do assistido.
 
 # CAPÍTULO II
 
-## Art. 125.
+## Art. 125
 
 É admissível a denunciação da lide, promovida por qualquer das partes:
 
@@ -1376,17 +1376,17 @@ II - àquele que estiver obrigado, por lei ou pelo contrato, a indenizar, em aç
 
 § 2º Admite-se uma única denunciação sucessiva, promovida pelo denunciado, contra seu antecessor imediato na cadeia dominial ou quem seja responsável por indenizá-lo, não podendo o denunciado sucessivo promover nova denunciação, hipótese em que eventual direito de regresso será exercido por ação autônoma.
 
-## Art. 126.
+## Art. 126
 
 A citação do denunciado será requerida na petição inicial, se o denunciante for autor, ou na contestação, se o denunciante for réu, devendo ser realizada na forma e nos prazos previstos no
 
 art. 131.
 
-## Art. 127.
+## Art. 127
 
 Feita a denunciação pelo autor, o denunciado poderá assumir a posição de litisconsorte do denunciante e acrescentar novos argumentos à petição inicial, procedendo-se em seguida à citação do réu.
 
-## Art. 128.
+## Art. 128
 
 Feita a denunciação pelo réu:
 
@@ -1398,7 +1398,7 @@ III - se o denunciado confessar os fatos alegados pelo autor na ação principal
 
 Parágrafo único. Procedente o pedido da ação principal, pode o autor, se for o caso, requerer o cumprimento da sentença também contra o denunciado, nos limites da condenação deste na ação regressiva.
 
-## Art. 129.
+## Art. 129
 
 Se o denunciante for vencido na ação principal, o juiz passará ao julgamento da denunciação da lide.
 
@@ -1406,7 +1406,7 @@ Parágrafo único. Se o denunciante for vencedor, a ação de denunciação não
 
 # CAPÍTULO III
 
-## Art. 130.
+## Art. 130
 
 É admissível o chamamento ao processo, requerido pelo réu:
 
@@ -1416,29 +1416,29 @@ II - dos demais fiadores, na ação proposta contra um ou alguns deles;
 
 III - dos demais devedores solidários, quando o credor exigir de um ou de alguns o pagamento da dívida comum.
 
-## Art. 131.
+## Art. 131
 
 A citação daqueles que devam figurar em litisconsórcio passivo será requerida pelo réu na contestação e deve ser promovida no prazo de 30 (trinta) dias, sob pena de ficar sem efeito o chamamento.
 
 Parágrafo único. Se o chamado residir em outra comarca, seção ou subseção judiciárias, ou em lugar incerto, o prazo será de 2 (dois) meses.
 
-## Art. 132.
+## Art. 132
 
 A sentença de procedência valerá como título executivo em favor do réu que satisfizer a dívida, a fim de que possa exigi-la, por inteiro, do devedor principal, ou, de cada um dos codevedores, a sua quota, na proporção que lhes tocar.
 
 # CAPÍTULO IV
 
-## Art. 133.
+## Art. 133
 
-incidente de desconsideração da personalidade jurídica será instaurado a pedido da parte ou do Ministério Público, quando lhe couber intervir no processo.
+O incidente de desconsideração da personalidade jurídica será instaurado a pedido da parte ou do Ministério Público, quando lhe couber intervir no processo.
 
 § 1º O pedido de desconsideração da personalidade jurídica observará os pressupostos previstos em lei.
 
 § 2º Aplica-se o disposto neste Capítulo à hipótese de desconsideração inversa da personalidade jurídica.
 
-## Art. 134.
+## Art. 134
 
-incidente de desconsideração é cabível em todas as fases do processo de conhecimento, no cumprimento de sentença e na execução fundada em título executivo extrajudicial.
+O incidente de desconsideração é cabível em todas as fases do processo de conhecimento, no cumprimento de sentença e na execução fundada em título executivo extrajudicial.
 
 § 1º A instauração do incidente será imediatamente comunicada ao distribuidor para as anotações devidas.
 
@@ -1448,25 +1448,25 @@ incidente de desconsideração é cabível em todas as fases do processo de conh
 
 § 4º O requerimento deve demonstrar o preenchimento dos pressupostos legais específicos para desconsideração da personalidade jurídica.
 
-## Art. 135.
+## Art. 135
 
 Instaurado o incidente, o sócio ou a pessoa jurídica será citado para manifestar-se e requerer as provas cabíveis no prazo de 15 (quinze) dias.
 
-## Art. 136.
+## Art. 136
 
 Concluída a instrução, se necessária, o incidente será resolvido por decisão interlocutória.
 
 Parágrafo único. Se a decisão for proferida pelo relator, cabe agravo interno.
 
-## Art. 137.
+## Art. 137
 
 Acolhido o pedido de desconsideração, a alienação ou a oneração de bens, havida em fraude de execução, será ineficaz em relação ao requerente.
 
 # CAPÍTULO V
 
-## Art. 138.
+## Art. 138
 
-juiz ou o relator, considerando a relevância da matéria, a especificidade do tema objeto da demanda ou a repercussão social da controvérsia, poderá, por decisão irrecorrível, de ofício ou a requerimento das partes ou de quem pretenda manifestar-se, solicitar ou admitir a participação de pessoa natural ou jurídica, órgão ou entidade especializada, com representatividade adequada, no prazo de 15 (quinze) dias de sua intimação.
+O juiz ou o relator, considerando a relevância da matéria, a especificidade do tema objeto da demanda ou a repercussão social da controvérsia, poderá, por decisão irrecorrível, de ofício ou a requerimento das partes ou de quem pretenda manifestar-se, solicitar ou admitir a participação de pessoa natural ou jurídica, órgão ou entidade especializada, com representatividade adequada, no prazo de 15 (quinze) dias de sua intimação.
 
 § 1º A intervenção de que trata o
 caput
@@ -1484,9 +1484,9 @@ pode recorrer da decisão que julgar o incidente de resolução de demandas repe
 
 # CAPÍTULO I
 
-## Art. 139.
+## Art. 139
 
-juiz dirigirá o processo conforme as disposições deste Código, incumbindo-lhe:
+O juiz dirigirá o processo conforme as disposições deste Código, incumbindo-lhe:
 
 I - assegurar às partes igualdade de tratamento;
 
@@ -1512,23 +1512,23 @@ art. 82 da Lei nº 8.078, de 11 de setembro de 1990, para, se for o caso, promov
 
 Parágrafo único. A dilação de prazos prevista no inciso VI somente pode ser determinada antes de encerrado o prazo regular.
 
-## Art. 140.
+## Art. 140
 
-juiz não se exime de decidir sob a alegação de lacuna ou obscuridade do ordenamento jurídico.
+O juiz não se exime de decidir sob a alegação de lacuna ou obscuridade do ordenamento jurídico.
 
 Parágrafo único. O juiz só decidirá por equidade nos casos previstos em lei.
 
-## Art. 141.
+## Art. 141
 
-juiz decidirá o mérito nos limites propostos pelas partes, sendo-lhe vedado conhecer de questões não suscitadas a cujo respeito a lei exige iniciativa da parte.
+O juiz decidirá o mérito nos limites propostos pelas partes, sendo-lhe vedado conhecer de questões não suscitadas a cujo respeito a lei exige iniciativa da parte.
 
-## Art. 142.
+## Art. 142
 
 Convencendo-se, pelas circunstâncias, de que autor e réu se serviram do processo para praticar ato simulado ou conseguir fim vedado por lei, o juiz proferirá decisão que impeça os objetivos das partes, aplicando, de ofício, as penalidades da litigância de má-fé.
 
-## Art. 143.
+## Art. 143
 
-juiz responderá, civil e regressivamente, por perdas e danos quando:
+O juiz responderá, civil e regressivamente, por perdas e danos quando:
 
 (Vide ADPF 774)
 
@@ -1540,7 +1540,7 @@ Parágrafo único. As hipóteses previstas no inciso II somente serão verificad
 
 # CAPÍTULO II
 
-## Art. 144.
+## Art. 144
 
 Há impedimento do juiz, sendo-lhe vedado exercer suas funções no processo:
 
@@ -1570,7 +1570,7 @@ IX - quando promover ação contra a parte ou seu advogado.
 
 § 3º O impedimento previsto no inciso III também se verifica no caso de mandato conferido a membro de escritório de advocacia que tenha em seus quadros advogado que individualmente ostente a condição nele prevista, mesmo que não intervenha diretamente no processo.
 
-## Art. 145.
+## Art. 145
 
 Há suspeição do juiz:
 
@@ -1590,7 +1590,7 @@ I - houver sido provocada por quem a alega;
 
 II - a parte que a alega houver praticado ato que signifique manifesta aceitação do arguido.
 
-## Art. 146.
+## Art. 146
 
 No prazo de 15 (quinze) dias, a contar do conhecimento do fato, a parte alegará o impedimento ou a suspeição, em petição específica dirigida ao juiz do processo, na qual indicará o fundamento da recusa, podendo instruí-la com documentos em que se fundar a alegação e com rol de testemunhas.
 
@@ -1612,11 +1612,11 @@ II - com efeito suspensivo, o processo permanecerá suspenso até o julgamento d
 
 § 7º O tribunal decretará a nulidade dos atos do juiz, se praticados quando já presente o motivo de impedimento ou de suspeição.
 
-## Art. 147.
+## Art. 147
 
 Quando 2 (dois) ou mais juízes forem parentes, consanguíneos ou afins, em linha reta ou colateral, até o terceiro grau, inclusive, o primeiro que conhecer do processo impede que o outro nele atue, caso em que o segundo se escusará, remetendo os autos ao seu substituto legal.
 
-## Art. 148.
+## Art. 148
 
 Aplicam-se os motivos de impedimento e de suspeição:
 
@@ -1636,21 +1636,21 @@ III - aos demais sujeitos imparciais do processo.
 
 # CAPÍTULO III
 
-## Art. 149.
+## Art. 149
 
 São auxiliares da Justiça, além de outros cujas atribuições sejam determinadas pelas normas de organização judiciária, o escrivão, o chefe de secretaria, o oficial de justiça, o perito, o depositário, o administrador, o intérprete, o tradutor, o mediador, o conciliador judicial, o partidor, o distribuidor, o contabilista e o regulador de avarias.
 
 ### Seção I
 
-## Art. 150.
+## Art. 150
 
 Em cada juízo haverá um ou mais ofícios de justiça, cujas atribuições serão determinadas pelas normas de organização judiciária.
 
-## Art. 151.
+## Art. 151
 
 Em cada comarca, seção ou subseção judiciária haverá, no mínimo, tantos oficiais de justiça quantos sejam os juízos.
 
-## Art. 152.
+## Art. 152
 
 Incumbe ao escrivão ou ao chefe de secretaria:
 
@@ -1678,13 +1678,13 @@ VI - praticar, de ofício, os atos meramente ordinatórios.
 
 § 2º No impedimento do escrivão ou chefe de secretaria, o juiz convocará substituto e, não o havendo, nomeará pessoa idônea para o ato.
 
-## Art. 153.
+## Art. 153
 
-escrivão ou chefe de secretaria deverá obedecer à ordem cronológica de recebimento para publicação e efetivação dos pronunciamentos judiciais.
+O escrivão ou chefe de secretaria deverá obedecer à ordem cronológica de recebimento para publicação e efetivação dos pronunciamentos judiciais.
 
-## Art. 153.
+## Art. 153
 
-escrivão ou o chefe de secretaria atenderá, preferencialmente, à ordem cronológica de recebimento para publicação e efetivação dos pronunciamentos judiciais.
+O escrivão ou o chefe de secretaria atenderá, preferencialmente, à ordem cronológica de recebimento para publicação e efetivação dos pronunciamentos judiciais.
 
 (Redação dada pela Lei nº 13.256, de 2016)
 (Vigência)
@@ -1705,7 +1705,7 @@ II - as preferências legais.
 
 § 5º Constatada a preterição, o juiz determinará o imediato cumprimento do ato e a instauração de processo administrativo disciplinar contra o servidor.
 
-## Art. 154.
+## Art. 154
 
 Incumbe ao oficial de justiça:
 
@@ -1723,9 +1723,9 @@ VI - certificar, em mandado, proposta de autocomposição apresentada por qualqu
 
 Parágrafo único. Certificada a proposta de autocomposição prevista no inciso VI, o juiz ordenará a intimação da parte contrária para manifestar-se, no prazo de 5 (cinco) dias, sem prejuízo do andamento regular do processo, entendendo-se o silêncio como recusa.
 
-## Art. 155.
+## Art. 155
 
-escrivão, o chefe de secretaria e o oficial de justiça são responsáveis, civil e regressivamente, quando:
+O escrivão, o chefe de secretaria e o oficial de justiça são responsáveis, civil e regressivamente, quando:
 
 I - sem justo motivo, se recusarem a cumprir no prazo os atos impostos pela lei ou pelo juiz a que estão subordinados;
 
@@ -1733,9 +1733,9 @@ II - praticarem ato nulo com dolo ou culpa.
 
 ### Seção II
 
-## Art. 156.
+## Art. 156
 
-juiz será assistido por perito quando a prova do fato depender de conhecimento técnico ou científico.
+O juiz será assistido por perito quando a prova do fato depender de conhecimento técnico ou científico.
 
 § 1º Os peritos serão nomeados entre os profissionais legalmente habilitados e os órgãos técnicos ou científicos devidamente inscritos em cadastro mantido pelo tribunal ao qual o juiz está vinculado.
 
@@ -1750,41 +1750,41 @@ e
 
 § 5º Na localidade onde não houver inscrito no cadastro disponibilizado pelo tribunal, a nomeação do perito é de livre escolha pelo juiz e deverá recair sobre profissional ou órgão técnico ou científico comprovadamente detentor do conhecimento necessário à realização da perícia.
 
-## Art. 157.
+## Art. 157
 
-perito tem o dever de cumprir o ofício no prazo que lhe designar o juiz, empregando toda sua diligência, podendo escusar-se do encargo alegando motivo legítimo.
+O perito tem o dever de cumprir o ofício no prazo que lhe designar o juiz, empregando toda sua diligência, podendo escusar-se do encargo alegando motivo legítimo.
 
 § 1º A escusa será apresentada no prazo de 15 (quinze) dias, contado da intimação, da suspeição ou do impedimento supervenientes, sob pena de renúncia ao direito a alegá-la.
 
 § 2º Será organizada lista de peritos na vara ou na secretaria, com disponibilização dos documentos exigidos para habilitação à consulta de interessados, para que a nomeação seja distribuída de modo equitativo, observadas a capacidade técnica e a área de conhecimento.
 
-## Art. 158.
+## Art. 158
 
-perito que, por dolo ou culpa, prestar informações inverídicas responderá pelos prejuízos que causar à parte e ficará inabilitado para atuar em outras perícias no prazo de 2 (dois) a 5 (cinco) anos, independentemente das demais sanções previstas em lei, devendo o juiz comunicar o fato ao respectivo órgão de classe para adoção das medidas que entender cabíveis.
+O perito que, por dolo ou culpa, prestar informações inverídicas responderá pelos prejuízos que causar à parte e ficará inabilitado para atuar em outras perícias no prazo de 2 (dois) a 5 (cinco) anos, independentemente das demais sanções previstas em lei, devendo o juiz comunicar o fato ao respectivo órgão de classe para adoção das medidas que entender cabíveis.
 
 ### Seção III
 
-## Art. 159.
+## Art. 159
 
 A guarda e a conservação de bens penhorados, arrestados, sequestrados ou arrecadados serão confiadas a depositário ou a administrador, não dispondo a lei de outro modo.
 
-## Art. 160.
+## Art. 160
 
 Por seu trabalho o depositário ou o administrador perceberá remuneração que o juiz fixará levando em conta a situação dos bens, ao tempo do serviço e às dificuldades de sua execução.
 
 Parágrafo único. O juiz poderá nomear um ou mais prepostos por indicação do depositário ou do administrador.
 
-## Art. 161.
+## Art. 161
 
-depositário ou o administrador responde pelos prejuízos que, por dolo ou culpa, causar à parte, perdendo a remuneração que lhe foi arbitrada, mas tem o direito a haver o que legitimamente despendeu no exercício do encargo.
+O depositário ou o administrador responde pelos prejuízos que, por dolo ou culpa, causar à parte, perdendo a remuneração que lhe foi arbitrada, mas tem o direito a haver o que legitimamente despendeu no exercício do encargo.
 
 Parágrafo único. O depositário infiel responde civilmente pelos prejuízos causados, sem prejuízo de sua responsabilidade penal e da imposição de sanção por ato atentatório à dignidade da justiça.
 
 ### Seção IV
 
-## Art. 162.
+## Art. 162
 
-juiz nomeará intérprete ou tradutor quando necessário para:
+O juiz nomeará intérprete ou tradutor quando necessário para:
 
 I - traduzir documento redigido em língua estrangeira;
 
@@ -1792,7 +1792,7 @@ II - verter para o português as declarações das partes e das testemunhas que 
 
 III - realizar a interpretação simultânea dos depoimentos das partes e testemunhas com deficiência auditiva que se comuniquem por meio da Língua Brasileira de Sinais, ou equivalente, quando assim for solicitado.
 
-## Art. 163.
+## Art. 163
 
 Não pode ser intérprete ou tradutor quem:
 
@@ -1802,17 +1802,17 @@ II - for arrolado como testemunha ou atuar como perito no processo;
 
 III - estiver inabilitado para o exercício da profissão por sentença penal condenatória, enquanto durarem seus efeitos.
 
-## Art. 164.
+## Art. 164
 
-intérprete ou tradutor, oficial ou não, é obrigado a desempenhar seu ofício, aplicando-se-lhe o disposto nos
+O intérprete ou tradutor, oficial ou não, é obrigado a desempenhar seu ofício, aplicando-se-lhe o disposto nos
 
 arts. 157 e 158.
 
 ### Seção V
 
-## Art. 165.
+## Art. 165
 
-s tribunais criarão centros judiciários de solução consensual de conflitos, responsáveis pela realização de sessões e audiências de conciliação e mediação e pelo desenvolvimento de programas destinados a auxiliar, orientar e estimular a autocomposição.
+Os tribunais criarão centros judiciários de solução consensual de conflitos, responsáveis pela realização de sessões e audiências de conciliação e mediação e pelo desenvolvimento de programas destinados a auxiliar, orientar e estimular a autocomposição.
 
 § 1º A composição e a organização dos centros serão definidas pelo respectivo tribunal, observadas as normas do Conselho Nacional de Justiça.
 
@@ -1820,7 +1820,7 @@ s tribunais criarão centros judiciários de solução consensual de conflitos, 
 
 § 3º O mediador, que atuará preferencialmente nos casos em que houver vínculo anterior entre as partes, auxiliará aos interessados a compreender as questões e os interesses em conflito, de modo que eles possam, pelo restabelecimento da comunicação, identificar, por si próprios, soluções consensuais que gerem benefícios mútuos.
 
-## Art. 166.
+## Art. 166
 
 A conciliação e a mediação são informadas pelos princípios da independência, da imparcialidade, da autonomia da vontade, da confidencialidade, da oralidade, da informalidade e da decisão informada.
 
@@ -1832,9 +1832,9 @@ A conciliação e a mediação são informadas pelos princípios da independênc
 
 § 4º A mediação e a conciliação serão regidas conforme a livre autonomia dos interessados, inclusive no que diz respeito à definição das regras procedimentais.
 
-## Art. 167.
+## Art. 167
 
-s conciliadores, os mediadores e as câmaras privadas de conciliação e mediação serão inscritos em cadastro nacional e em cadastro de tribunal de justiça ou de tribunal regional federal, que manterá registro de profissionais habilitados, com indicação de sua área profissional.
+Os conciliadores, os mediadores e as câmaras privadas de conciliação e mediação serão inscritos em cadastro nacional e em cadastro de tribunal de justiça ou de tribunal regional federal, que manterá registro de profissionais habilitados, com indicação de sua área profissional.
 
 § 1º Preenchendo o requisito da capacitação mínima, por meio de curso realizado por entidade credenciada, conforme parâmetro curricular definido pelo Conselho Nacional de Justiça em conjunto com o Ministério da Justiça, o conciliador ou o mediador, com o respectivo certificado, poderá requerer sua inscrição no cadastro nacional e no cadastro de tribunal de justiça ou de tribunal regional federal.
 
@@ -1850,7 +1850,7 @@ caput
 
 § 6º O tribunal poderá optar pela criação de quadro próprio de conciliadores e mediadores, a ser preenchido por concurso público de provas e títulos, observadas as disposições deste Capítulo.
 
-## Art. 168.
+## Art. 168
 
 As partes podem escolher, de comum acordo, o conciliador, o mediador ou a câmara privada de conciliação e de mediação.
 
@@ -1860,7 +1860,7 @@ As partes podem escolher, de comum acordo, o conciliador, o mediador ou a câmar
 
 § 3º Sempre que recomendável, haverá a designação de mais de um mediador ou conciliador.
 
-## Art. 169.
+## Art. 169
 
 Ressalvada a hipótese do
 
@@ -1870,21 +1870,21 @@ art. 167, § 6º, o conciliador e o mediador receberão pelo seu trabalho remune
 
 § 2º Os tribunais determinarão o percentual de audiências não remuneradas que deverão ser suportadas pelas câmaras privadas de conciliação e mediação, com o fim de atender aos processos em que deferida gratuidade da justiça, como contrapartida de seu credenciamento.
 
-## Art. 170.
+## Art. 170
 
 No caso de impedimento, o conciliador ou mediador o comunicará imediatamente, de preferência por meio eletrônico, e devolverá os autos ao juiz do processo ou ao coordenador do centro judiciário de solução de conflitos, devendo este realizar nova distribuição.
 
 Parágrafo único. Se a causa de impedimento for apurada quando já iniciado o procedimento, a atividade será interrompida, lavrando-se ata com relatório do ocorrido e solicitação de distribuição para novo conciliador ou mediador.
 
-## Art. 171.
+## Art. 171
 
 No caso de impossibilidade temporária do exercício da função, o conciliador ou mediador informará o fato ao centro, preferencialmente por meio eletrônico, para que, durante o período em que perdurar a impossibilidade, não haja novas distribuições
 
-## Art. 172.
+## Art. 172
 
-conciliador e o mediador ficam impedidos, pelo prazo de 1 (um) ano, contado do término da última audiência em que atuaram, de assessorar, representar ou patrocinar qualquer das partes.
+O conciliador e o mediador ficam impedidos, pelo prazo de 1 (um) ano, contado do término da última audiência em que atuaram, de assessorar, representar ou patrocinar qualquer das partes.
 
-## Art. 173.
+## Art. 173
 
 Será excluído do cadastro de conciliadores e mediadores aquele que:
 
@@ -1897,7 +1897,7 @@ II - atuar em procedimento de mediação ou conciliação, apesar de impedido ou
 
 § 2º O juiz do processo ou o juiz coordenador do centro de conciliação e mediação, se houver, verificando atuação inadequada do mediador ou conciliador, poderá afastá-lo de suas atividades por até 180 (cento e oitenta) dias, por decisão fundamentada, informando o fato imediatamente ao tribunal para instauração do respectivo processo administrativo.
 
-## Art. 174.
+## Art. 174
 
 A União, os Estados, o Distrito Federal e os Municípios criarão câmaras de mediação e conciliação, com atribuições relacionadas à solução consensual de conflitos no âmbito administrativo, tais como:
 
@@ -1907,7 +1907,7 @@ II - avaliar a admissibilidade dos pedidos de resolução de conflitos, por meio
 
 III - promover, quando couber, a celebração de termo de ajustamento de conduta.
 
-## Art. 175.
+## Art. 175
 
 As disposições desta Seção não excluem outras formas de conciliação e mediação extrajudiciais vinculadas a órgãos institucionais ou realizadas por intermédio de profissionais independentes, que poderão ser regulamentadas por lei específica.
 
@@ -1915,17 +1915,17 @@ Parágrafo único. Os dispositivos desta Seção aplicam-se, no que couber, às 
 
 # TÍTULO V
 
-## Art. 176.
+## Art. 176
 
-Ministério Público atuará na defesa da ordem jurídica, do regime democrático e dos interesses e direitos sociais e individuais indisponíveis.
+O Ministério Público atuará na defesa da ordem jurídica, do regime democrático e dos interesses e direitos sociais e individuais indisponíveis.
 
-## Art. 177.
+## Art. 177
 
-Ministério Público exercerá o direito de ação em conformidade com suas atribuições constitucionais.
+O Ministério Público exercerá o direito de ação em conformidade com suas atribuições constitucionais.
 
-## Art. 178.
+## Art. 178
 
-Ministério Público será intimado para, no prazo de 30 (trinta) dias, intervir como fiscal da ordem jurídica nas hipóteses previstas em lei ou na
+O Ministério Público será intimado para, no prazo de 30 (trinta) dias, intervir como fiscal da ordem jurídica nas hipóteses previstas em lei ou na
 
 Constituição Federal
 e nos processos que envolvam:
@@ -1938,7 +1938,7 @@ III - litígios coletivos pela posse de terra rural ou urbana.
 
 Parágrafo único. A participação da Fazenda Pública não configura, por si só, hipótese de intervenção do Ministério Público.
 
-## Art. 179.
+## Art. 179
 
 Nos casos de intervenção como fiscal da ordem jurídica, o Ministério Público:
 
@@ -1946,9 +1946,9 @@ I - terá vista dos autos depois das partes, sendo intimado de todos os atos do 
 
 II - poderá produzir provas, requerer as medidas processuais pertinentes e recorrer.
 
-## Art. 180.
+## Art. 180
 
-Ministério Público gozará de prazo em dobro para manifestar-se nos autos, que terá início a partir de sua intimação pessoal, nos termos do
+O Ministério Público gozará de prazo em dobro para manifestar-se nos autos, que terá início a partir de sua intimação pessoal, nos termos do
 
 art. 183, § 1º.
 
@@ -1956,17 +1956,17 @@ art. 183, § 1º.
 
 § 2º Não se aplica o benefício da contagem em dobro quando a lei estabelecer, de forma expressa, prazo próprio para o Ministério Público.
 
-## Art. 181.
+## Art. 181
 
-membro do Ministério Público será civil e regressivamente responsável quando agir com dolo ou fraude no exercício de suas funções.
+O membro do Ministério Público será civil e regressivamente responsável quando agir com dolo ou fraude no exercício de suas funções.
 
 # TÍTULO VI — DA ADVOCACIA PÚBLICA
 
-## Art. 182.
+## Art. 182
 
 Incumbe à Advocacia Pública, na forma da lei, defender e promover os interesses públicos da União, dos Estados, do Distrito Federal e dos Municípios, por meio da representação judicial, em todos os âmbitos federativos, das pessoas jurídicas de direito público que integram a administração direta e indireta.
 
-## Art. 183.
+## Art. 183
 
 A União, os Estados, o Distrito Federal, os Municípios e suas respectivas autarquias e fundações de direito público gozarão de prazo em dobro para todas as suas manifestações processuais, cuja contagem terá início a partir da intimação pessoal.
 
@@ -1974,17 +1974,17 @@ A União, os Estados, o Distrito Federal, os Municípios e suas respectivas auta
 
 § 2º Não se aplica o benefício da contagem em dobro quando a lei estabelecer, de forma expressa, prazo próprio para o ente público.
 
-## Art. 184.
+## Art. 184
 
-membro da Advocacia Pública será civil e regressivamente responsável quando agir com dolo ou fraude no exercício de suas funções
+O membro da Advocacia Pública será civil e regressivamente responsável quando agir com dolo ou fraude no exercício de suas funções
 
 # TÍTULO VII — DA DEFENSORIA PÚBLICA
 
-## Art. 185.
+## Art. 185
 
 A Defensoria Pública exercerá a orientação jurídica, a promoção dos direitos humanos e a defesa dos direitos individuais e coletivos dos necessitados, em todos os graus, de forma integral e gratuita.
 
-## Art. 186.
+## Art. 186
 
 A Defensoria Pública gozará de prazo em dobro para todas as suas manifestações processuais.
 
@@ -1999,9 +1999,9 @@ aplica-se aos escritórios de prática jurídica das faculdades de Direito recon
 
 § 4º Não se aplica o benefício da contagem em dobro quando a lei estabelecer, de forma expressa, prazo próprio para a Defensoria Pública.
 
-## Art. 187.
+## Art. 187
 
-membro da Defensoria Pública será civil e regressivamente responsável quando agir com dolo ou fraude no exercício de suas funções.
+O membro da Defensoria Pública será civil e regressivamente responsável quando agir com dolo ou fraude no exercício de suas funções.
 
 # LIVRO IV — DOS ATOS PROCESSUAIS
 
@@ -2011,13 +2011,13 @@ membro da Defensoria Pública será civil e regressivamente responsável quando 
 
 ### Seção I — Dos Atos em Geral
 
-## Art. 188.
+## Art. 188
 
-s atos e os termos processuais independem de forma determinada, salvo quando a lei expressamente a exigir, considerando-se válidos os que, realizados de outro modo, lhe preencham a finalidade essencial.
+Os atos e os termos processuais independem de forma determinada, salvo quando a lei expressamente a exigir, considerando-se válidos os que, realizados de outro modo, lhe preencham a finalidade essencial.
 
-## Art. 189.
+## Art. 189
 
-s atos processuais são públicos, todavia tramitam em segredo de justiça os processos:
+Os atos processuais são públicos, todavia tramitam em segredo de justiça os processos:
 
 I - em que o exija o interesse público ou social;
 
@@ -2031,13 +2031,13 @@ IV - que versem sobre arbitragem, inclusive sobre cumprimento de carta arbitral,
 
 § 2º O terceiro que demonstrar interesse jurídico pode requerer ao juiz certidão do dispositivo da sentença, bem como de inventário e de partilha resultantes de divórcio ou separação.
 
-## Art. 190.
+## Art. 190
 
 Versando o processo sobre direitos que admitam autocomposição, é lícito às partes plenamente capazes estipular mudanças no procedimento para ajustá-lo às especificidades da causa e convencionar sobre os seus ônus, poderes, faculdades e deveres processuais, antes ou durante o processo.
 
 Parágrafo único. De ofício ou a requerimento, o juiz controlará a validade das convenções previstas neste artigo, recusando-lhes aplicação somente nos casos de nulidade ou de inserção abusiva em contrato de adesão ou em que alguma parte se encontre em manifesta situação de vulnerabilidade.
 
-## Art. 191.
+## Art. 191
 
 De comum acordo, o juiz e as partes podem fixar calendário para a prática dos atos processuais, quando for o caso.
 
@@ -2045,7 +2045,7 @@ De comum acordo, o juiz e as partes podem fixar calendário para a prática dos 
 
 § 2º Dispensa-se a intimação das partes para a prática de ato processual ou a realização de audiência cujas datas tiverem sido designadas no calendário.
 
-## Art. 192.
+## Art. 192
 
 Em todos os atos e termos do processo é obrigatório o uso da língua portuguesa.
 
@@ -2053,34 +2053,34 @@ Parágrafo único. O documento redigido em língua estrangeira somente poderá s
 
 ### Seção II
 
-## Art. 193.
+## Art. 193
 
-s atos processuais podem ser total ou parcialmente digitais, de forma a permitir que sejam produzidos, comunicados, armazenados e validados por meio eletrônico, na forma da lei.
+Os atos processuais podem ser total ou parcialmente digitais, de forma a permitir que sejam produzidos, comunicados, armazenados e validados por meio eletrônico, na forma da lei.
 
 Parágrafo único. O disposto nesta Seção aplica-se, no que for cabível, à prática de atos notariais e de registro.
 
-## Art. 194.
+## Art. 194
 
-s sistemas de automação processual respeitarão a publicidade dos atos, o acesso e a participação das partes e de seus procuradores, inclusive nas audiências e sessões de julgamento, observadas as garantias da disponibilidade, independência da plataforma computacional, acessibilidade e interoperabilidade dos sistemas, serviços, dados e informações que o Poder Judiciário administre no exercício de suas funções.
+Os sistemas de automação processual respeitarão a publicidade dos atos, o acesso e a participação das partes e de seus procuradores, inclusive nas audiências e sessões de julgamento, observadas as garantias da disponibilidade, independência da plataforma computacional, acessibilidade e interoperabilidade dos sistemas, serviços, dados e informações que o Poder Judiciário administre no exercício de suas funções.
 
-## Art. 195.
+## Art. 195
 
-registro de ato processual eletrônico deverá ser feito em padrões abertos, que atenderão aos requisitos de autenticidade, integridade, temporalidade, não repúdio, conservação e, nos casos que tramitem em segredo de justiça, confidencialidade, observada a infraestrutura de chaves públicas unificada nacionalmente, nos termos da lei.
+O registro de ato processual eletrônico deverá ser feito em padrões abertos, que atenderão aos requisitos de autenticidade, integridade, temporalidade, não repúdio, conservação e, nos casos que tramitem em segredo de justiça, confidencialidade, observada a infraestrutura de chaves públicas unificada nacionalmente, nos termos da lei.
 
-## Art. 196.
+## Art. 196
 
 Compete ao Conselho Nacional de Justiça e, supletivamente, aos tribunais, regulamentar a prática e a comunicação oficial de atos processuais por meio eletrônico e velar pela compatibilidade dos sistemas, disciplinando a incorporação progressiva de novos avanços tecnológicos e editando, para esse fim, os atos que forem necessários, respeitadas as normas fundamentais deste Código.
 
-## Art. 197.
+## Art. 197
 
-s tribunais divulgarão as informações constantes de seu sistema de automação em página própria na rede mundial de computadores, gozando a divulgação de presunção de veracidade e confiabilidade.
+Os tribunais divulgarão as informações constantes de seu sistema de automação em página própria na rede mundial de computadores, gozando a divulgação de presunção de veracidade e confiabilidade.
 
 Parágrafo único. Nos casos de problema técnico do sistema e de erro ou omissão do auxiliar da justiça responsável pelo registro dos andamentos, poderá ser configurada a justa causa prevista no
 art. 223,
 caput
 e § 1º.
 
-## Art. 198.
+## Art. 198
 
 As unidades do Poder Judiciário deverão manter gratuitamente, à disposição dos interessados, equipamentos necessários à prática de atos processuais e à consulta e ao acesso ao sistema e aos documentos dele constantes.
 
@@ -2088,31 +2088,31 @@ Parágrafo único. Será admitida a prática de atos por meio não eletrônico n
 caput
 .
 
-## Art. 199.
+## Art. 199
 
 As unidades do Poder Judiciário assegurarão às pessoas com deficiência acessibilidade aos seus sítios na rede mundial de computadores, ao meio eletrônico de prática de atos judiciais, à comunicação eletrônica dos atos processuais e à assinatura eletrônica.
 
 ### Seção III — Dos Atos das Partes
 
-## Art. 200.
+## Art. 200
 
-s atos das partes consistentes em declarações unilaterais ou bilaterais de vontade produzem imediatamente a constituição, modificação ou extinção de direitos processuais.
+Os atos das partes consistentes em declarações unilaterais ou bilaterais de vontade produzem imediatamente a constituição, modificação ou extinção de direitos processuais.
 
 Parágrafo único. A desistência da ação só produzirá efeitos após homologação judicial.
 
-## Art. 201.
+## Art. 201
 
 As partes poderão exigir recibo de petições, arrazoados, papéis e documentos que entregarem em cartório.
 
-## Art. 202.
+## Art. 202
 
 É vedado lançar nos autos cotas marginais ou interlineares, as quais o juiz mandará riscar, impondo a quem as escrever multa correspondente à metade do salário-mínimo.
 
 ### Seção IV — Dos Pronunciamentos do Juiz
 
-## Art. 203.
+## Art. 203
 
-s pronunciamentos do juiz consistirão em sentenças, decisões interlocutórias e despachos.
+Os pronunciamentos do juiz consistirão em sentenças, decisões interlocutórias e despachos.
 
 § 1º Ressalvadas as disposições expressas dos procedimentos especiais, sentença é o pronunciamento por meio do qual o juiz, com fundamento nos
 arts. 485
@@ -2125,13 +2125,13 @@ e
 
 § 4º Os atos meramente ordinatórios, como a juntada e a vista obrigatória, independem de despacho, devendo ser praticados de ofício pelo servidor e revistos pelo juiz quando necessário.
 
-## Art. 204.
+## Art. 204
 
 Acórdão é o julgamento colegiado proferido pelos tribunais.
 
-## Art. 205.
+## Art. 205
 
-s despachos, as decisões, as sentenças e os acórdãos serão redigidos, datados e assinados pelos juízes.
+Os despachos, as decisões, as sentenças e os acórdãos serão redigidos, datados e assinados pelos juízes.
 
 § 1º Quando os pronunciamentos previstos no
 caput
@@ -2143,33 +2143,33 @@ forem proferidos oralmente, o servidor os documentará, submetendo-os aos juíze
 
 ### Seção V — Dos Atos do Escrivão ou do Chefe de Secretaria
 
-## Art. 206.
+## Art. 206
 
 Ao receber a petição inicial de processo, o escrivão ou o chefe de secretaria a autuará, mencionando o juízo, a natureza do processo, o número de seu registro, os nomes das partes e a data de seu início, e procederá do mesmo modo em relação aos volumes em formação.
 
-## Art. 207.
+## Art. 207
 
-escrivão ou o chefe de secretaria numerará e rubricará todas as folhas dos autos.
+O escrivão ou o chefe de secretaria numerará e rubricará todas as folhas dos autos.
 
 Parágrafo único. À parte, ao procurador, ao membro do Ministério Público, ao defensor público e aos auxiliares da justiça é facultado rubricar as folhas correspondentes aos atos em que intervierem.
 
-## Art. 208.
+## Art. 208
 
-s termos de juntada, vista, conclusão e outros semelhantes constarão de notas datadas e rubricadas pelo escrivão ou pelo chefe de secretaria.
+Os termos de juntada, vista, conclusão e outros semelhantes constarão de notas datadas e rubricadas pelo escrivão ou pelo chefe de secretaria.
 
-## Art. 209.
+## Art. 209
 
-s atos e os termos do processo serão assinados pelas pessoas que neles intervierem, todavia, quando essas não puderem ou não quiserem firmá-los, o escrivão ou o chefe de secretaria certificará a ocorrência.
+Os atos e os termos do processo serão assinados pelas pessoas que neles intervierem, todavia, quando essas não puderem ou não quiserem firmá-los, o escrivão ou o chefe de secretaria certificará a ocorrência.
 
 § 1º Quando se tratar de processo total ou parcialmente documentado em autos eletrônicos, os atos processuais praticados na presença do juiz poderão ser produzidos e armazenados de modo integralmente digital em arquivo eletrônico inviolável, na forma da lei, mediante registro em termo, que será assinado digitalmente pelo juiz e pelo escrivão ou chefe de secretaria, bem como pelos advogados das partes.
 
 § 2º Na hipótese do § 1º, eventuais contradições na transcrição deverão ser suscitadas oralmente no momento de realização do ato, sob pena de preclusão, devendo o juiz decidir de plano e ordenar o registro, no termo, da alegação e da decisão.
 
-## Art. 210.
+## Art. 210
 
 É lícito o uso da taquigrafia, da estenotipia ou de outro método idôneo em qualquer juízo ou tribunal.
 
-## Art. 211.
+## Art. 211
 
 Não se admitem nos atos e termos processuais espaços em branco, salvo os que forem inutilizados, assim como entrelinhas, emendas ou rasuras, exceto quando expressamente ressalvadas.
 
@@ -2177,9 +2177,9 @@ Não se admitem nos atos e termos processuais espaços em branco, salvo os que f
 
 ### Seção I — Do Tempo
 
-## Art. 212.
+## Art. 212
 
-s atos processuais serão realizados em dias úteis, das 6 (seis) às 20 (vinte) horas.
+Os atos processuais serão realizados em dias úteis, das 6 (seis) às 20 (vinte) horas.
 
 § 1º Serão concluídos após as 20 (vinte) horas os atos iniciados antes, quando o adiamento prejudicar a diligência ou causar grave dano.
 
@@ -2189,13 +2189,13 @@ art. 5º, inciso XI, da Constituição Federal
 
 § 3º Quando o ato tiver de ser praticado por meio de petição em autos não eletrônicos, essa deverá ser protocolada no horário de funcionamento do fórum ou tribunal, conforme o disposto na lei de organização judiciária local.
 
-## Art. 213.
+## Art. 213
 
 A prática eletrônica de ato processual pode ocorrer em qualquer horário até as 24 (vinte e quatro) horas do último dia do prazo.
 
 Parágrafo único. O horário vigente no juízo perante o qual o ato deve ser praticado será considerado para fins de atendimento do prazo.
 
-## Art. 214.
+## Art. 214
 
 Durante as férias forenses e nos feriados, não se praticarão atos processuais, excetuando-se:
 
@@ -2204,7 +2204,7 @@ art. 212, § 2º;
 
 II - a tutela de urgência.
 
-## Art. 215.
+## Art. 215
 
 Processam-se durante as férias forenses, onde as houver, e não se suspendem pela superveniência delas:
 
@@ -2214,23 +2214,23 @@ II - a ação de alimentos e os processos de nomeação ou remoção de tutor e 
 
 III - os processos que a lei determinar.
 
-## Art. 216.
+## Art. 216
 
 Além dos declarados em lei, são feriados, para efeito forense, os sábados, os domingos e os dias em que não haja expediente forense.
 
 ### Seção II — Do Lugar
 
-## Art. 217.
+## Art. 217
 
-s atos processuais realizar-se-ão ordinariamente na sede do juízo, ou, excepcionalmente, em outro lugar em razão de deferência, de interesse da justiça, da natureza do ato ou de obstáculo arguido pelo interessado e acolhido pelo juiz.
+Os atos processuais realizar-se-ão ordinariamente na sede do juízo, ou, excepcionalmente, em outro lugar em razão de deferência, de interesse da justiça, da natureza do ato ou de obstáculo arguido pelo interessado e acolhido pelo juiz.
 
 # CAPÍTULO III — DOS PRAZOS
 
 ### Seção I — Disposições Gerais
 
-## Art. 218.
+## Art. 218
 
-s atos processuais serão realizados nos prazos prescritos em lei.
+Os atos processuais serão realizados nos prazos prescritos em lei.
 
 § 1º Quando a lei for omissa, o juiz determinará os prazos em consideração à complexidade do ato.
 
@@ -2240,13 +2240,13 @@ s atos processuais serão realizados nos prazos prescritos em lei.
 
 § 4º Será considerado tempestivo o ato praticado antes do termo inicial do prazo.
 
-## Art. 219.
+## Art. 219
 
 Na contagem de prazo em dias, estabelecido por lei ou pelo juiz, computar-se-ão somente os dias úteis.
 
 Parágrafo único. O disposto neste artigo aplica-se somente aos prazos processuais.
 
-## Art. 220.
+## Art. 220
 
 Suspende-se o curso do prazo processual nos dias compreendidos entre 20 de dezembro e 20 de janeiro, inclusive.
 
@@ -2256,7 +2256,7 @@ caput
 
 § 2º Durante a suspensão do prazo, não se realizarão audiências nem sessões de julgamento.
 
-## Art. 221.
+## Art. 221
 
 Suspende-se o curso do prazo por obstáculo criado em detrimento da parte ou ocorrendo qualquer das hipóteses do
 
@@ -2264,7 +2264,7 @@ art. 313, devendo o prazo ser restituído por tempo igual ao que faltava para su
 
 Parágrafo único. Suspendem-se os prazos durante a execução de programa instituído pelo Poder Judiciário para promover a autocomposição, incumbindo aos tribunais especificar, com antecedência, a duração dos trabalhos.
 
-## Art. 222.
+## Art. 222
 
 Na comarca, seção ou subseção judiciária onde for difícil o transporte, o juiz poderá prorrogar os prazos por até 2 (dois) meses.
 
@@ -2274,7 +2274,7 @@ Na comarca, seção ou subseção judiciária onde for difícil o transporte, o 
 caput
 para prorrogação de prazos poderá ser excedido.
 
-## Art. 223.
+## Art. 223
 
 Decorrido o prazo, extingue-se o direito de praticar ou de emendar o ato processual, independentemente de declaração judicial, ficando assegurado, porém, à parte provar que não o realizou por justa causa.
 
@@ -2282,7 +2282,7 @@ Decorrido o prazo, extingue-se o direito de praticar ou de emendar o ato process
 
 § 2º Verificada a justa causa, o juiz permitirá à parte a prática do ato no prazo que lhe assinar.
 
-## Art. 224.
+## Art. 224
 
 Salvo disposição em contrário, os prazos serão contados excluindo o dia do começo e incluindo o dia do vencimento.
 
@@ -2292,13 +2292,13 @@ Salvo disposição em contrário, os prazos serão contados excluindo o dia do c
 
 § 3º A contagem do prazo terá início no primeiro dia útil que seguir ao da publicação.
 
-## Art. 225.
+## Art. 225
 
 A parte poderá renunciar ao prazo estabelecido exclusivamente em seu favor, desde que o faça de maneira expressa.
 
-## Art. 226.
+## Art. 226
 
-juiz proferirá:
+O juiz proferirá:
 
 I - os despachos no prazo de 5 (cinco) dias;
 
@@ -2306,11 +2306,11 @@ II - as decisões interlocutórias no prazo de 10 (dez) dias;
 
 III - as sentenças no prazo de 30 (trinta) dias.
 
-## Art. 227.
+## Art. 227
 
 Em qualquer grau de jurisdição, havendo motivo justificado, pode o juiz exceder, por igual tempo, os prazos a que está submetido.
 
-## Art. 228.
+## Art. 228
 
 Incumbirá ao serventuário remeter os autos conclusos no prazo de 1 (um) dia e executar os atos processuais no prazo de 5 (cinco) dias, contado da data em que:
 
@@ -2322,9 +2322,9 @@ II - tiver ciência da ordem, quando determinada pelo juiz.
 
 § 2º Nos processos em autos eletrônicos, a juntada de petições ou de manifestações em geral ocorrerá de forma automática, independentemente de ato de serventuário da justiça.
 
-## Art. 229.
+## Art. 229
 
-s litisconsortes que tiverem diferentes procuradores, de escritórios de advocacia distintos, terão prazos contados em dobro para todas as suas manifestações, em qualquer juízo ou tribunal, independentemente de requerimento.
+Os litisconsortes que tiverem diferentes procuradores, de escritórios de advocacia distintos, terão prazos contados em dobro para todas as suas manifestações, em qualquer juízo ou tribunal, independentemente de requerimento.
 
 § 1º Cessa a contagem do prazo em dobro se, havendo apenas 2 (dois) réus, é oferecida defesa por apenas um deles.
 
@@ -2332,11 +2332,11 @@ s litisconsortes que tiverem diferentes procuradores, de escritórios de advocac
 caput
 aos processos em autos eletrônicos.
 
-## Art. 230.
+## Art. 230
 
-prazo para a parte, o procurador, a Advocacia Pública, a Defensoria Pública e o Ministério Público será contado da citação, da intimação ou da notificação.
+O prazo para a parte, o procurador, a Advocacia Pública, a Defensoria Pública e o Ministério Público será contado da citação, da intimação ou da notificação.
 
-## Art. 231.
+## Art. 231
 
 Salvo disposição em sentido diverso, considera-se dia do começo do prazo:
 
@@ -2376,13 +2376,13 @@ caput
 caput
 à citação com hora certa.
 
-## Art. 232.
+## Art. 232
 
 Nos atos de comunicação por carta precatória, rogatória ou de ordem, a realização da citação ou da intimação será imediatamente informada, por meio eletrônico, pelo juiz deprecado ao juiz deprecante.
 
 ### Seção II — Da Verificação dos Prazos e das Penalidades
 
-## Art. 233.
+## Art. 233
 
 Incumbe ao juiz verificar se o serventuário excedeu, sem motivo legítimo, os prazos estabelecidos em lei.
 
@@ -2390,9 +2390,9 @@ Incumbe ao juiz verificar se o serventuário excedeu, sem motivo legítimo, os p
 
 § 2º Qualquer das partes, o Ministério Público ou a Defensoria Pública poderá representar ao juiz contra o serventuário que injustificadamente exceder os prazos previstos em lei.
 
-## Art. 234.
+## Art. 234
 
-s advogados públicos ou privados, o defensor público e o membro do Ministério Público devem restituir os autos no prazo do ato a ser praticado.
+Os advogados públicos ou privados, o defensor público e o membro do Ministério Público devem restituir os autos no prazo do ato a ser praticado.
 
 § 1º É lícito a qualquer interessado exigir os autos do advogado que exceder prazo legal.
 
@@ -2404,7 +2404,7 @@ s advogados públicos ou privados, o defensor público e o membro do Ministério
 
 § 5º Verificada a falta, o juiz comunicará o fato ao órgão competente responsável pela instauração de procedimento disciplinar contra o membro que atuou no feito.
 
-## Art. 235.
+## Art. 235
 
 Qualquer parte, o Ministério Público ou a Defensoria Pública poderá representar ao corregedor do tribunal ou ao Conselho Nacional de Justiça contra juiz ou relator que injustificadamente exceder os prazos previstos em lei, regulamento ou regimento interno.
 
@@ -2418,9 +2418,9 @@ Qualquer parte, o Ministério Público ou a Defensoria Pública poderá represen
 
 # CAPÍTULO I — DISPOSIÇÕES GERAIS
 
-## Art. 236.
+## Art. 236
 
-s atos processuais serão cumpridos por ordem judicial.
+Os atos processuais serão cumpridos por ordem judicial.
 
 § 1º Será expedida carta para a prática de atos fora dos limites territoriais do tribunal, da comarca, da seção ou da subseção judiciárias, ressalvadas as hipóteses previstas em lei.
 
@@ -2428,7 +2428,7 @@ s atos processuais serão cumpridos por ordem judicial.
 
 § 3º Admite-se a prática de atos processuais por meio de videoconferência ou outro recurso tecnológico de transmissão de sons e imagens em tempo real.
 
-## Art. 237.
+## Art. 237
 
 Será expedida carta:
 
@@ -2445,7 +2445,7 @@ Parágrafo único. Se o ato relativo a processo em curso na justiça federal ou 
 
 # CAPÍTULO II — DA CITAÇÃO
 
-## Art. 238.
+## Art. 238
 
 Citação é o ato pelo qual são convocados o réu, o executado ou o interessado para integrar a relação processual.
 
@@ -2454,7 +2454,7 @@ Parágrafo único. A citação será efetivada em até 45
 (Incluído pela
 Lei nº 14.195, de 2021)
 
-## Art. 239.
+## Art. 239
 
 Para a validade do processo é indispensável a citação do réu ou do executado, ressalvadas as hipóteses de indeferimento da petição inicial ou de improcedência liminar do pedido.
 
@@ -2466,7 +2466,7 @@ I - conhecimento, o réu será considerado revel;
 
 II - execução, o feito terá seguimento.
 
-## Art. 240.
+## Art. 240
 
 A citação válida, ainda quando ordenada por juízo incompetente, induz litispendência, torna litigiosa a coisa e constitui em mora o devedor, ressalvado o disposto nos
 
@@ -2480,11 +2480,11 @@ arts. 397 e 398 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil).
 
 § 4º O efeito retroativo a que se refere o § 1º aplica-se à decadência e aos demais prazos extintivos previstos em lei.
 
-## Art. 241.
+## Art. 241
 
 Transitada em julgado a sentença de mérito proferida em favor do réu antes da citação, incumbe ao escrivão ou ao chefe de secretaria comunicar-lhe o resultado do julgamento.
 
-## Art. 242.
+## Art. 242
 
 A citação será pessoal, podendo, no entanto, ser feita na pessoa do representante legal ou do procurador do réu, do executado ou do interessado.
 
@@ -2494,13 +2494,13 @@ A citação será pessoal, podendo, no entanto, ser feita na pessoa do represent
 
 § 3º A citação da União, dos Estados, do Distrito Federal, dos Municípios e de suas respectivas autarquias e fundações de direito público será realizada perante o órgão de Advocacia Pública responsável por sua representação judicial.
 
-## Art. 243.
+## Art. 243
 
 A citação poderá ser feita em qualquer lugar em que se encontre o réu, o executado ou o interessado.
 
 Parágrafo único. O militar em serviço ativo será citado na unidade em que estiver servindo, se não for conhecida sua residência ou nela não for encontrado.
 
-## Art. 244.
+## Art. 244
 
 Não se fará a citação, salvo para evitar o perecimento do direito:
 
@@ -2512,7 +2512,7 @@ III - de noivos, nos 3 (três) primeiros dias seguintes ao casamento;
 
 IV - de doente, enquanto grave o seu estado.
 
-## Art. 245.
+## Art. 245
 
 Não se fará citação quando se verificar que o citando é mentalmente incapaz ou está impossibilitado de recebê-la.
 
@@ -2526,11 +2526,11 @@ Não se fará citação quando se verificar que o citando é mentalmente incapaz
 
 § 5º A citação será feita na pessoa do curador, a quem incumbirá a defesa dos interesses do citando.
 
-## Art. 246.
+## Art. 246
 
 A citação será feita:
 
-## Art. 246.
+## Art. 246
 
 A citação será feita preferencialmente por
 
@@ -2649,11 +2649,11 @@ tratamento de dados pessoais.
 (Incluído pela
 Lei nº 14.195, de 2021)
 
-## Art. 247.
+## Art. 247
 
 A citação será feita pelo correio para qualquer comarca do país, exceto:
 
-## Art. 247.
+## Art. 247
 
 A citação será feita por meio eletrônico
 
@@ -2672,7 +2672,7 @@ IV - quando o citando residir em local não atendido pela entrega domiciliar de 
 
 V - quando o autor, justificadamente, a requerer de outra forma.
 
-## Art. 248.
+## Art. 248
 
 Deferida a citação pelo correio, o escrivão ou o chefe de secretaria remeterá ao citando cópias da petição inicial e do despacho do juiz e comunicará o prazo para resposta, o endereço do juízo e o respectivo cartório.
 
@@ -2685,13 +2685,13 @@ art. 250.
 
 § 4º Nos condomínios edilícios ou nos loteamentos com controle de acesso, será válida a entrega do mandado a funcionário da portaria responsável pelo recebimento de correspondência, que, entretanto, poderá recusar o recebimento, se declarar, por escrito, sob as penas da lei, que o destinatário da correspondência está ausente.
 
-## Art. 249.
+## Art. 249
 
 A citação será feita por meio de oficial de justiça nas hipóteses previstas neste Código ou em lei, ou quando frustrada a citação pelo correio.
 
-## Art. 250.
+## Art. 250
 
-mandado que o oficial de justiça tiver de cumprir conterá:
+O mandado que o oficial de justiça tiver de cumprir conterá:
 
 I - os nomes do autor e do citando e seus respectivos domicílios ou residências;
 
@@ -2705,7 +2705,7 @@ V - a cópia da petição inicial, do despacho ou da decisão que deferir tutela
 
 VI - a assinatura do escrivão ou do chefe de secretaria e a declaração de que o subscreve por ordem do juiz.
 
-## Art. 251.
+## Art. 251
 
 Incumbe ao oficial de justiça procurar o citando e, onde o encontrar, citá-lo:
 
@@ -2715,7 +2715,7 @@ II - portando por fé se recebeu ou recusou a contrafé;
 
 III - obtendo a nota de ciente ou certificando que o citando não a apôs no mandado.
 
-## Art. 252.
+## Art. 252
 
 Quando, por 2 (duas) vezes, o oficial de justiça houver procurado o citando em seu domicílio ou residência sem o encontrar, deverá, havendo suspeita de ocultação, intimar qualquer pessoa da família ou, em sua falta, qualquer vizinho de que, no dia útil imediato, voltará a fim de efetuar a citação, na hora que designar.
 
@@ -2723,7 +2723,7 @@ Parágrafo único. Nos condomínios edilícios ou nos loteamentos com controle d
 caput
 feita a funcionário da portaria responsável pelo recebimento de correspondência.
 
-## Art. 253.
+## Art. 253
 
 No dia e na hora designados, o oficial de justiça, independentemente de novo despacho, comparecerá ao domicílio ou à residência do citando a fim de realizar a diligência.
 
@@ -2735,15 +2735,15 @@ No dia e na hora designados, o oficial de justiça, independentemente de novo de
 
 § 4º O oficial de justiça fará constar do mandado a advertência de que será nomeado curador especial se houver revelia.
 
-## Art. 254.
+## Art. 254
 
 Feita a citação com hora certa, o escrivão ou chefe de secretaria enviará ao réu, executado ou interessado, no prazo de 10 (dez) dias, contado da data da juntada do mandado aos autos, carta, telegrama ou correspondência eletrônica, dando-lhe de tudo ciência.
 
-## Art. 255.
+## Art. 255
 
 Nas comarcas contíguas de fácil comunicação e nas que se situem na mesma região metropolitana, o oficial de justiça poderá efetuar, em qualquer delas, citações, intimações, notificações, penhoras e quaisquer outros atos executivos.
 
-## Art. 256.
+## Art. 256
 
 A citação por edital será feita:
 
@@ -2759,7 +2759,7 @@ III - nos casos expressos em lei.
 
 § 3º O réu será considerado em local ignorado ou incerto se infrutíferas as tentativas de sua localização, inclusive mediante requisição pelo juízo de informações sobre seu endereço nos cadastros de órgãos públicos ou de concessionárias de serviços públicos.
 
-## Art. 257.
+## Art. 257
 
 São requisitos da citação por edital:
 
@@ -2773,13 +2773,13 @@ IV - a advertência de que será nomeado curador especial em caso de revelia.
 
 Parágrafo único. O juiz poderá determinar que a publicação do edital seja feita também em jornal local de ampla circulação ou por outros meios, considerando as peculiaridades da comarca, da seção ou da subseção judiciárias.
 
-## Art. 258.
+## Art. 258
 
 A parte que requerer a citação por edital, alegando dolosamente a ocorrência das circunstâncias autorizadoras para sua realização, incorrerá em multa de 5 (cinco) vezes o salário-mínimo.
 
 Parágrafo único. A multa reverterá em benefício do citando.
 
-## Art. 259.
+## Art. 259
 
 Serão publicados editais:
 
@@ -2791,7 +2791,7 @@ III - em qualquer ação em que seja necessária, por determinação legal, a pr
 
 # CAPÍTULO III — DAS CARTAS
 
-## Art. 260.
+## Art. 260
 
 São requisitos das cartas de ordem, precatória e rogatória:
 
@@ -2811,7 +2811,7 @@ IV - o encerramento com a assinatura do juiz.
 caput
 e será instruída com a convenção de arbitragem e com as provas da nomeação do árbitro e de sua aceitação da função.
 
-## Art. 261.
+## Art. 261
 
 Em todas as cartas o juiz fixará o prazo para cumprimento, atendendo à facilidade das comunicações e à natureza da diligência.
 
@@ -2823,25 +2823,25 @@ Em todas as cartas o juiz fixará o prazo para cumprimento, atendendo à facilid
 caput
 seja cumprido.
 
-## Art. 262.
+## Art. 262
 
 A carta tem caráter itinerante, podendo, antes ou depois de lhe ser ordenado o cumprimento, ser encaminhada a juízo diverso do que dela consta, a fim de se praticar o ato.
 
 Parágrafo único. O encaminhamento da carta a outro juízo será imediatamente comunicado ao órgão expedidor, que intimará as partes.
 
-## Art. 263.
+## Art. 263
 
 As cartas deverão, preferencialmente, ser expedidas por meio eletrônico, caso em que a assinatura do juiz deverá ser eletrônica, na forma da lei.
 
-## Art. 264.
+## Art. 264
 
 A carta de ordem e a carta precatória por meio eletrônico, por telefone ou por telegrama conterão, em resumo substancial, os requisitos mencionados no
 
 art. 250, especialmente no que se refere à aferição da autenticidade.
 
-## Art. 265.
+## Art. 265
 
-secretário do tribunal, o escrivão ou o chefe de secretaria do juízo deprecante transmitirá, por telefone, a carta de ordem ou a carta precatória ao juízo em que houver de se cumprir o ato, por intermédio do escrivão do primeiro ofício da primeira vara, se houver na comarca mais de um ofício ou de uma vara, observando-se, quanto aos requisitos, o disposto no
+O secretário do tribunal, o escrivão ou o chefe de secretaria do juízo deprecante transmitirá, por telefone, a carta de ordem ou a carta precatória ao juízo em que houver de se cumprir o ato, por intermédio do escrivão do primeiro ofício da primeira vara, se houver na comarca mais de um ofício ou de uma vara, observando-se, quanto aos requisitos, o disposto no
 
 art. 264.
 
@@ -2849,13 +2849,13 @@ art. 264.
 
 § 2º Sendo confirmada, o escrivão ou o chefe de secretaria submeterá a carta a despacho.
 
-## Art. 266.
+## Art. 266
 
 Serão praticados de ofício os atos requisitados por meio eletrônico e de telegrama, devendo a parte depositar, contudo, na secretaria do tribunal ou no cartório do juízo deprecante, a importância correspondente às despesas que serão feitas no juízo em que houver de praticar-se o ato.
 
-## Art. 267.
+## Art. 267
 
-juiz recusará cumprimento a carta precatória ou arbitral, devolvendo-a com decisão motivada quando:
+O juiz recusará cumprimento a carta precatória ou arbitral, devolvendo-a com decisão motivada quando:
 
 I - a carta não estiver revestida dos requisitos legais;
 
@@ -2865,13 +2865,13 @@ III - o juiz tiver dúvida acerca de sua autenticidade.
 
 Parágrafo único. No caso de incompetência em razão da matéria ou da hierarquia, o juiz deprecado, conforme o ato a ser praticado, poderá remeter a carta ao juiz ou ao tribunal competente.
 
-## Art. 268.
+## Art. 268
 
 Cumprida a carta, será devolvida ao juízo de origem no prazo de 10 (dez) dias, independentemente de traslado, pagas as custas pela parte.
 
 # CAPÍTULO IV — DAS INTIMAÇÕES
 
-## Art. 269.
+## Art. 269
 
 Intimação é o ato pelo qual se dá ciência a alguém dos atos e dos termos do processo.
 
@@ -2881,18 +2881,18 @@ Intimação é o ato pelo qual se dá ciência a alguém dos atos e dos termos d
 
 § 3º A intimação da União, dos Estados, do Distrito Federal, dos Municípios e de suas respectivas autarquias e fundações de direito público será realizada perante o órgão de Advocacia Pública responsável por sua representação judicial.
 
-## Art. 270.
+## Art. 270
 
 As intimações realizam-se, sempre que possível, por meio eletrônico, na forma da lei.
 
 Parágrafo único. Aplica-se ao Ministério Público, à Defensoria Pública e à Advocacia Pública o disposto no
 § 1º do art. 246.
 
-## Art. 271.
+## Art. 271
 
-juiz determinará de ofício as intimações em processos pendentes, salvo disposição em contrário.
+O juiz determinará de ofício as intimações em processos pendentes, salvo disposição em contrário.
 
-## Art. 272.
+## Art. 272
 
 Quando não realizadas por meio eletrônico, consideram-se feitas as intimações pela publicação dos atos no órgão oficial.
 
@@ -2914,7 +2914,7 @@ Quando não realizadas por meio eletrônico, consideram-se feitas as intimaçõe
 
 § 9º Não sendo possível a prática imediata do ato diante da necessidade de acesso prévio aos autos, a parte limitar-se-á a arguir a nulidade da intimação, caso em que o prazo será contado da intimação da decisão que a reconheça.
 
-## Art. 273.
+## Art. 273
 
 Se inviável a intimação por meio eletrônico e não houver na localidade publicação em órgão oficial, incumbirá ao escrivão ou chefe de secretaria intimar de todos os atos do processo os advogados das partes:
 
@@ -2922,13 +2922,13 @@ I - pessoalmente, se tiverem domicílio na sede do juízo;
 
 II - por carta registrada, com aviso de recebimento, quando forem domiciliados fora do juízo.
 
-## Art. 274.
+## Art. 274
 
 Não dispondo a lei de outro modo, as intimações serão feitas às partes, aos seus representantes legais, aos advogados e aos demais sujeitos do processo pelo correio ou, se presentes em cartório, diretamente pelo escrivão ou chefe de secretaria.
 
 Parágrafo único. Presumem-se válidas as intimações dirigidas ao endereço constante dos autos, ainda que não recebidas pessoalmente pelo interessado, se a modificação temporária ou definitiva não tiver sido devidamente comunicada ao juízo, fluindo os prazos a partir da juntada aos autos do comprovante de entrega da correspondência no primitivo endereço.
 
-## Art. 275.
+## Art. 275
 
 A intimação será feita por oficial de justiça quando frustrada a realização por meio eletrônico ou pelo correio.
 
@@ -2944,15 +2944,15 @@ III - a nota de ciente ou a certidão de que o interessado não a apôs no manda
 
 # TÍTULO III — DAS NULIDADES
 
-## Art. 276.
+## Art. 276
 
 Quando a lei prescrever determinada forma sob pena de nulidade, a decretação desta não pode ser requerida pela parte que lhe deu causa.
 
-## Art. 277.
+## Art. 277
 
 Quando a lei prescrever determinada forma, o juiz considerará válido o ato se, realizado de outro modo, lhe alcançar a finalidade.
 
-## Art. 278.
+## Art. 278
 
 A nulidade dos atos deve ser alegada na primeira oportunidade em que couber à parte falar nos autos, sob pena de preclusão.
 
@@ -2960,7 +2960,7 @@ Parágrafo único. Não se aplica o disposto no
 caput
 às nulidades que o juiz deva decretar de ofício, nem prevalece a preclusão provando a parte legítimo impedimento.
 
-## Art. 279.
+## Art. 279
 
 É nulo o processo quando o membro do Ministério Público não for intimado a acompanhar o feito em que deva intervir.
 
@@ -2968,15 +2968,15 @@ caput
 
 § 2º A nulidade só pode ser decretada após a intimação do Ministério Público, que se manifestará sobre a existência ou a inexistência de prejuízo.
 
-## Art. 280.
+## Art. 280
 
 As citações e as intimações serão nulas quando feitas sem observância das prescrições legais.
 
-## Art. 281.
+## Art. 281
 
 Anulado o ato, consideram-se de nenhum efeito todos os subsequentes que dele dependam, todavia, a nulidade de uma parte do ato não prejudicará as outras que dela sejam independentes.
 
-## Art. 282.
+## Art. 282
 
 Ao pronunciar a nulidade, o juiz declarará que atos são atingidos e ordenará as providências necessárias a fim de que sejam repetidos ou retificados.
 
@@ -2984,25 +2984,25 @@ Ao pronunciar a nulidade, o juiz declarará que atos são atingidos e ordenará 
 
 § 2º Quando puder decidir o mérito a favor da parte a quem aproveite a decretação da nulidade, o juiz não a pronunciará nem mandará repetir o ato ou suprir-lhe a falta.
 
-## Art. 283.
+## Art. 283
 
-erro de forma do processo acarreta unicamente a anulação dos atos que não possam ser aproveitados, devendo ser praticados os que forem necessários a fim de se observarem as prescrições legais.
+O erro de forma do processo acarreta unicamente a anulação dos atos que não possam ser aproveitados, devendo ser praticados os que forem necessários a fim de se observarem as prescrições legais.
 
 Parágrafo único. Dar-se-á o aproveitamento dos atos praticados desde que não resulte prejuízo à defesa de qualquer parte.
 
 # TÍTULO IV — DA DISTRIBUIÇÃO E DO REGISTRO
 
-## Art. 284.
+## Art. 284
 
 Todos os processos estão sujeitos a registro, devendo ser distribuídos onde houver mais de um juiz.
 
-## Art. 285.
+## Art. 285
 
 A distribuição, que poderá ser eletrônica, será alternada e aleatória, obedecendo-se rigorosa igualdade.
 
 Parágrafo único. A lista de distribuição deverá ser publicada no Diário de Justiça.
 
-## Art. 286.
+## Art. 286
 
 Serão distribuídas por dependência as causas de qualquer natureza:
 
@@ -3015,7 +3015,7 @@ art. 55, § 3º, ao juízo prevento.
 
 Parágrafo único. Havendo intervenção de terceiro, reconvenção ou outra hipótese de ampliação objetiva do processo, o juiz, de ofício, mandará proceder à respectiva anotação pelo distribuidor.
 
-## Art. 287.
+## Art. 287
 
 A petição inicial deve vir acompanhada de procuração, que conterá os endereços do advogado, eletrônico e não eletrônico.
 
@@ -3030,27 +3030,27 @@ III - se a representação decorrer diretamente de norma prevista na
 Constituição Federal
 ou em lei.
 
-## Art. 288.
+## Art. 288
 
-juiz, de ofício ou a requerimento do interessado, corrigirá o erro ou compensará a falta de distribuição.
+O juiz, de ofício ou a requerimento do interessado, corrigirá o erro ou compensará a falta de distribuição.
 
-## Art. 289.
+## Art. 289
 
 A distribuição poderá ser fiscalizada pela parte, por seu procurador, pelo Ministério Público e pela Defensoria Pública.
 
-## Art. 290.
+## Art. 290
 
 Será cancelada a distribuição do feito se a parte, intimada na pessoa de seu advogado, não realizar o pagamento das custas e despesas de ingresso em 15 (quinze) dias.
 
 # TÍTULO V — DO VALOR DA CAUSA
 
-## Art. 291.
+## Art. 291
 
 A toda causa será atribuído valor certo, ainda que não tenha conteúdo econômico imediatamente aferível.
 
-## Art. 292.
+## Art. 292
 
-valor da causa constará da petição inicial ou da reconvenção e será:
+O valor da causa constará da petição inicial ou da reconvenção e será:
 
 I - na ação de cobrança de dívida, a soma monetariamente corrigida do principal, dos juros de mora vencidos e de outras penalidades, se houver, até a data de propositura da ação;
 
@@ -3074,41 +3074,41 @@ VIII - na ação em que houver pedido subsidiário, o valor do pedido principal.
 
 § 3º O juiz corrigirá, de ofício e por arbitramento, o valor da causa quando verificar que não corresponde ao conteúdo patrimonial em discussão ou ao proveito econômico perseguido pelo autor, caso em que se procederá ao recolhimento das custas correspondentes.
 
-## Art. 293.
+## Art. 293
 
-réu poderá impugnar, em preliminar da contestação, o valor atribuído à causa pelo autor, sob pena de preclusão, e o juiz decidirá a respeito, impondo, se for o caso, a complementação das custas.
+O réu poderá impugnar, em preliminar da contestação, o valor atribuído à causa pelo autor, sob pena de preclusão, e o juiz decidirá a respeito, impondo, se for o caso, a complementação das custas.
 
 # LIVRO V — DA TUTELA PROVISÓRIA
 
 # TÍTULO I — DISPOSIÇÕES GERAIS
 
-## Art. 294.
+## Art. 294
 
 A tutela provisória pode fundamentar-se em urgência ou evidência.
 
 Parágrafo único. A tutela provisória de urgência, cautelar ou antecipada, pode ser concedida em caráter antecedente ou incidental.
 
-## Art. 295.
+## Art. 295
 
 A tutela provisória requerida em caráter incidental independe do pagamento de custas.
 
-## Art. 296.
+## Art. 296
 
 A tutela provisória conserva sua eficácia na pendência do processo, mas pode, a qualquer tempo, ser revogada ou modificada.
 
 Parágrafo único. Salvo decisão judicial em contrário, a tutela provisória conservará a eficácia durante o período de suspensão do processo.
 
-## Art. 297.
+## Art. 297
 
-juiz poderá determinar as medidas que considerar adequadas para efetivação da tutela provisória.
+O juiz poderá determinar as medidas que considerar adequadas para efetivação da tutela provisória.
 
 Parágrafo único. A efetivação da tutela provisória observará as normas referentes ao cumprimento provisório da sentença, no que couber.
 
-## Art. 298.
+## Art. 298
 
 Na decisão que conceder, negar, modificar ou revogar a tutela provisória, o juiz motivará seu convencimento de modo claro e preciso.
 
-## Art. 299.
+## Art. 299
 
 A tutela provisória será requerida ao juízo da causa e, quando antecedente, ao juízo competente para conhecer do pedido principal.
 
@@ -3118,7 +3118,7 @@ Parágrafo único. Ressalvada disposição especial, na ação de competência o
 
 # CAPÍTULO I — DISPOSIÇÕES GERAIS
 
-## Art. 300.
+## Art. 300
 
 A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.
 
@@ -3130,11 +3130,11 @@ Para a concessão da tutela de urgência, o juiz pode, conforme o caso, exigir c
 
 § 3º A tutela de urgência de natureza antecipada não será concedida quando houver perigo de irreversibilidade dos efeitos da decisão.
 
-## Art. 301.
+## Art. 301
 
 A tutela de urgência de natureza cautelar pode ser efetivada mediante arresto, sequestro, arrolamento de bens, registro de protesto contra alienação de bem e qualquer outra medida idônea para asseguração do direito.
 
-## Art. 302.
+## Art. 302
 
 Independentemente da reparação por dano processual, a parte responde pelo prejuízo que a efetivação da tutela de urgência causar à parte adversa, se:
 
@@ -3150,7 +3150,7 @@ Parágrafo único. A indenização será liquidada nos autos em que a medida tiv
 
 # CAPÍTULO II — DO PROCEDIMENTO DA TUTELA ANTECIPADA REQUERIDA EM CARÁTER ANTECEDENTE
 
-## Art. 303.
+## Art. 303
 
 Nos casos em que a urgência for contemporânea à propositura da ação, a petição inicial pode limitar-se ao requerimento da tutela antecipada e à indicação do pedido de tutela final, com a exposição da lide, do direito que se busca realizar e do perigo de dano ou do risco ao resultado útil do processo.
 
@@ -3180,7 +3180,7 @@ deste artigo.
 
 § 6º Caso entenda que não há elementos para a concessão de tutela antecipada, o órgão jurisdicional determinará a emenda da petição inicial em até 5 (cinco) dias, sob pena de ser indeferida e de o processo ser extinto sem resolução de mérito.
 
-## Art. 304.
+## Art. 304
 
 A tutela antecipada, concedida nos termos do
 
@@ -3204,7 +3204,7 @@ caput
 
 # CAPÍTULO III — DO PROCEDIMENTO DA TUTELA CAUTELAR REQUERIDA EM CARÁTER ANTECEDENTE
 
-## Art. 305.
+## Art. 305
 
 A petição inicial da ação que visa à prestação de tutela cautelar em caráter antecedente indicará a lide e seu fundamento, a exposição sumária do direito que se objetiva assegurar e o perigo de dano ou o risco ao resultado útil do processo.
 
@@ -3213,17 +3213,17 @@ caput
 tem natureza antecipada, o juiz observará o disposto no
 art. 303.
 
-## Art. 306.
+## Art. 306
 
-réu será citado para, no prazo de 5 (cinco) dias, contestar o pedido e indicar as provas que pretende produzir.
+O réu será citado para, no prazo de 5 (cinco) dias, contestar o pedido e indicar as provas que pretende produzir.
 
-## Art. 307.
+## Art. 307
 
 Não sendo contestado o pedido, os fatos alegados pelo autor presumir-se-ão aceitos pelo réu como ocorridos, caso em que o juiz decidirá dentro de 5 (cinco) dias.
 
 Parágrafo único. Contestado o pedido no prazo legal, observar-se-á o procedimento comum.
 
-## Art. 308.
+## Art. 308
 
 Efetivada a tutela cautelar, o pedido principal terá de ser formulado pelo autor no prazo de 30 (trinta) dias, caso em que será apresentado nos mesmos autos em que deduzido o pedido de tutela cautelar, não dependendo do adiantamento de novas custas processuais.
 
@@ -3237,7 +3237,7 @@ art. 334, por seus advogados ou pessoalmente, sem necessidade de nova citação 
 § 4º Não havendo autocomposição, o prazo para contestação será contado na forma do
 art. 335.
 
-## Art. 309.
+## Art. 309
 
 Cessa a eficácia da tutela concedida em caráter antecedente, se:
 
@@ -3249,13 +3249,13 @@ III - o juiz julgar improcedente o pedido principal formulado pelo autor ou exti
 
 Parágrafo único. Se por qualquer motivo cessar a eficácia da tutela cautelar, é vedado à parte renovar o pedido, salvo sob novo fundamento.
 
-## Art. 310.
+## Art. 310
 
-indeferimento da tutela cautelar não obsta a que a parte formule o pedido principal, nem influi no julgamento desse, salvo se o motivo do indeferimento for o reconhecimento de decadência ou de prescrição.
+O indeferimento da tutela cautelar não obsta a que a parte formule o pedido principal, nem influi no julgamento desse, salvo se o motivo do indeferimento for o reconhecimento de decadência ou de prescrição.
 
 # TÍTULO III — DA TUTELA DA EVIDÊNCIA
 
-## Art. 311.
+## Art. 311
 
 A tutela da evidência será concedida, independentemente da demonstração de perigo de dano ou de risco ao resultado útil do processo, quando:
 
@@ -3273,7 +3273,7 @@ Parágrafo único. Nas hipóteses dos incisos II e III, o juiz poderá decidir l
 
 # TÍTULO I — DA FORMAÇÃO DO PROCESSO
 
-## Art. 312.
+## Art. 312
 
 Considera-se proposta a ação quando a petição inicial for protocolada, todavia, a propositura da ação só produz quanto ao réu os efeitos mencionados no
 
@@ -3282,7 +3282,7 @@ depois que for validamente citado.
 
 # TÍTULO II — DA SUSPENSÃO DO PROCESSO
 
-## Art. 313.
+## Art. 313
 
 Suspende-se o processo:
 
@@ -3335,11 +3335,11 @@ II - falecido o autor e sendo transmissível o direito em litígio, determinará
 º No caso do inciso X, o período de suspensão será de 8 (oito) dias, contado a partir da data do parto ou da concessão da adoção, mediante apresentação de certidão de nascimento ou documento similar que comprove a realização do parto, ou de termo judicial que tenha concedido a adoção, desde que haja notificação ao cliente.
 (Incluído pela Lei nº 13.363, de 2016)
 
-## Art. 314.
+## Art. 314
 
 Durante a suspensão é vedado praticar qualquer ato processual, podendo o juiz, todavia, determinar a realização de atos urgentes a fim de evitar dano irreparável, salvo no caso de arguição de impedimento e de suspeição.
 
-## Art. 315.
+## Art. 315
 
 Se o conhecimento do mérito depender de verificação da existência de fato delituoso, o juiz pode determinar a suspensão do processo até que se pronuncie a justiça criminal.
 
@@ -3349,11 +3349,11 @@ Se o conhecimento do mérito depender de verificação da existência de fato de
 
 # TÍTULO III — DA EXTINÇÃO DO PROCESSO
 
-## Art. 316.
+## Art. 316
 
 A extinção do processo dar-se-á por sentença.
 
-## Art. 317.
+## Art. 317
 
 Antes de proferir decisão sem resolução de mérito, o juiz deverá conceder à parte oportunidade para, se possível, corrigir o vício.
 
@@ -3363,7 +3363,7 @@ Antes de proferir decisão sem resolução de mérito, o juiz deverá conceder �
 
 # CAPÍTULO I — DISPOSIÇÕES GERAIS
 
-## Art. 318.
+## Art. 318
 
 Aplica-se a todas as causas o procedimento comum, salvo disposição em contrário deste Código ou de lei.
 
@@ -3373,7 +3373,7 @@ Parágrafo único. O procedimento comum aplica-se subsidiariamente aos demais pr
 
 ### Seção I — Dos Requisitos da Petição Inicial
 
-## Art. 319.
+## Art. 319
 
 A petição inicial indicará:
 
@@ -3397,13 +3397,13 @@ VII - a opção do autor pela realização ou não de audiência de conciliaçã
 
 § 3º A petição inicial não será indeferida pelo não atendimento ao disposto no inciso II deste artigo se a obtenção de tais informações tornar impossível ou excessivamente oneroso o acesso à justiça.
 
-## Art. 320.
+## Art. 320
 
 A petição inicial será instruída com os documentos indispensáveis à propositura da ação.
 
-## Art. 321.
+## Art. 321
 
-juiz, ao verificar que a petição inicial não preenche os requisitos dos
+O juiz, ao verificar que a petição inicial não preenche os requisitos dos
 
 arts. 319 e 320
 ou que apresenta defeitos e irregularidades capazes de dificultar o julgamento de mérito, determinará que o autor, no prazo de 15 (quinze) dias, a emende ou a complete, indicando com precisão o que deve ser corrigido ou completado.
@@ -3412,21 +3412,21 @@ Parágrafo único. Se o autor não cumprir a diligência, o juiz indeferirá a p
 
 ### Seção II — Do Pedido
 
-## Art. 322.
+## Art. 322
 
-pedido deve ser certo.
+O pedido deve ser certo.
 
 § 1º Compreendem-se no principal os juros legais, a correção monetária e as verbas de sucumbência, inclusive os honorários advocatícios.
 
 § 2º A interpretação do pedido considerará o conjunto da postulação e observará o princípio da boa-fé.
 
-## Art. 323.
+## Art. 323
 
 Na ação que tiver por objeto cumprimento de obrigação em prestações sucessivas, essas serão consideradas incluídas no pedido, independentemente de declaração expressa do autor, e serão incluídas na condenação, enquanto durar a obrigação, se o devedor, no curso do processo, deixar de pagá-las ou de consigná-las.
 
-## Art. 324.
+## Art. 324
 
-pedido deve ser determinado.
+O pedido deve ser determinado.
 
 § 1º É lícito, porém, formular pedido genérico:
 
@@ -3438,19 +3438,19 @@ III - quando a determinação do objeto ou do valor da condenação depender de 
 
 § 2º O disposto neste artigo aplica-se à reconvenção.
 
-## Art. 325.
+## Art. 325
 
-pedido será alternativo quando, pela natureza da obrigação, o devedor puder cumprir a prestação de mais de um modo.
+O pedido será alternativo quando, pela natureza da obrigação, o devedor puder cumprir a prestação de mais de um modo.
 
 Parágrafo único. Quando, pela lei ou pelo contrato, a escolha couber ao devedor, o juiz lhe assegurará o direito de cumprir a prestação de um ou de outro modo, ainda que o autor não tenha formulado pedido alternativo.
 
-## Art. 326.
+## Art. 326
 
 É lícito formular mais de um pedido em ordem subsidiária, a fim de que o juiz conheça do posterior, quando não acolher o anterior.
 
 Parágrafo único. É lícito formular mais de um pedido, alternativamente, para que o juiz acolha um deles.
 
-## Art. 327.
+## Art. 327
 
 É lícita a cumulação, em um único processo, contra o mesmo réu, de vários pedidos, ainda que entre eles não haja conexão.
 
@@ -3467,13 +3467,13 @@ III - seja adequado para todos os pedidos o tipo de procedimento.
 § 3º O inciso I do § 1º não se aplica às cumulações de pedidos de que trata o
 art. 326.
 
-## Art. 328.
+## Art. 328
 
 Na obrigação indivisível com pluralidade de credores, aquele que não participou do processo receberá sua parte, deduzidas as despesas na proporção de seu crédito.
 
-## Art. 329.
+## Art. 329
 
-autor poderá:
+O autor poderá:
 
 I - até a citação, aditar ou alterar o pedido ou a causa de pedir, independentemente de consentimento do réu;
 
@@ -3483,7 +3483,7 @@ Parágrafo único. Aplica-se o disposto neste artigo à reconvenção e à respe
 
 ### Seção III — Do Indeferimento da Petição Inicial
 
-## Art. 330.
+## Art. 330
 
 A petição inicial será indeferida quando:
 
@@ -3512,7 +3512,7 @@ IV - contiver pedidos incompatíveis entre si.
 
 § 3º Na hipótese do § 2º, o valor incontroverso deverá continuar a ser pago no tempo e modo contratados.
 
-## Art. 331.
+## Art. 331
 
 Indeferida a petição inicial, o autor poderá apelar, facultado ao juiz, no prazo de 5 (cinco) dias, retratar-se.
 
@@ -3525,7 +3525,7 @@ art. 334.
 
 # CAPÍTULO III — DA IMPROCEDÊNCIA LIMINAR DO PEDIDO
 
-## Art. 332.
+## Art. 332
 
 Nas causas que dispensem a fase instrutória, o juiz, independentemente da citação do réu, julgará liminarmente improcedente o pedido que contrariar:
 
@@ -3548,13 +3548,13 @@ art. 241.
 
 # CAPÍTULO IV — DA CONVERSÃO DA AÇÃO INDIVIDUAL EM AÇÃO COLETIVA
 
-## Art. 333.
+## Art. 333
 
 (VETADO).
 
 # CAPÍTULO V — DA AUDIÊNCIA DE CONCILIAÇÃO OU DE MEDIAÇÃO
 
-## Art. 334.
+## Art. 334
 
 Se a petição inicial preencher os requisitos essenciais e não for o caso de improcedência liminar do pedido, o juiz designará audiência de conciliação ou de mediação com antecedência mínima de 30 (trinta) dias, devendo ser citado o réu com pelo menos 20 (vinte) dias de antecedência.
 
@@ -3588,9 +3588,9 @@ II - quando não se admitir a autocomposição.
 
 # CAPÍTULO VI — DA CONTESTAÇÃO
 
-## Art. 335.
+## Art. 335
 
-réu poderá oferecer contestação, por petição, no prazo de 15 (quinze) dias, cujo termo inicial será a data:
+O réu poderá oferecer contestação, por petição, no prazo de 15 (quinze) dias, cujo termo inicial será a data:
 
 I - da audiência de conciliação ou de mediação, ou da última sessão de conciliação, quando qualquer parte não comparecer ou, comparecendo, não houver autocomposição;
 
@@ -3606,11 +3606,11 @@ art. 334, § 6º, o termo inicial previsto no inciso II será, para cada um dos 
 § 2º Quando ocorrer a hipótese do
 art. 334, § 4º, inciso II, havendo litisconsórcio passivo e o autor desistir da ação em relação a réu ainda não citado, o prazo para resposta correrá da data de intimação da decisão que homologar a desistência.
 
-## Art. 336.
+## Art. 336
 
 Incumbe ao réu alegar, na contestação, toda a matéria de defesa, expondo as razões de fato e de direito com que impugna o pedido do autor e especificando as provas que pretende produzir.
 
-## Art. 337.
+## Art. 337
 
 Incumbe ao réu, antes de discutir o mérito, alegar:
 
@@ -3652,14 +3652,14 @@ XIII - indevida concessão do benefício de gratuidade de justiça.
 
 § 6º A ausência de alegação da existência de convenção de arbitragem, na forma prevista neste Capítulo, implica aceitação da jurisdição estatal e renúncia ao juízo arbitral.
 
-## Art. 338.
+## Art. 338
 
 Alegando o réu, na contestação, ser parte ilegítima ou não ser o responsável pelo prejuízo invocado, o juiz facultará ao autor, em 15 (quinze) dias, a alteração da petição inicial para substituição do réu.
 
 Parágrafo único. Realizada a substituição, o autor reembolsará as despesas e pagará os honorários ao procurador do réu excluído, que serão fixados entre três e cinco por cento do valor da causa ou, sendo este irrisório, nos termos do
 art. 85, § 8º.
 
-## Art. 339.
+## Art. 339
 
 Quando alegar sua ilegitimidade, incumbe ao réu indicar o sujeito passivo da relação jurídica discutida sempre que tiver conhecimento, sob pena de arcar com as despesas processuais e de indenizar o autor pelos prejuízos decorrentes da falta de indicação.
 
@@ -3668,7 +3668,7 @@ art. 338.
 
 § 2º No prazo de 15 (quinze) dias, o autor pode optar por alterar a petição inicial para incluir, como litisconsorte passivo, o sujeito indicado pelo réu.
 
-## Art. 340.
+## Art. 340
 
 Havendo alegação de incompetência relativa ou absoluta, a contestação poderá ser protocolada no foro de domicílio do réu, fato que será imediatamente comunicado ao juiz da causa, preferencialmente por meio eletrônico.
 
@@ -3682,7 +3682,7 @@ caput
 
 § 4º Definida a competência, o juízo competente designará nova data para a audiência de conciliação ou de mediação.
 
-## Art. 341.
+## Art. 341
 
 Incumbe também ao réu manifestar-se precisamente sobre as alegações de fato constantes da petição inicial, presumindo-se verdadeiras as não impugnadas, salvo se:
 
@@ -3694,7 +3694,7 @@ III - estiverem em contradição com a defesa, considerada em seu conjunto.
 
 Parágrafo único. O ônus da impugnação especificada dos fatos não se aplica ao defensor público, ao advogado dativo e ao curador especial.
 
-## Art. 342.
+## Art. 342
 
 Depois da contestação, só é lícito ao réu deduzir novas alegações quando:
 
@@ -3706,7 +3706,7 @@ III - por expressa autorização legal, puderem ser formuladas em qualquer tempo
 
 # CAPÍTULO VII — DA RECONVENÇÃO
 
-## Art. 343.
+## Art. 343
 
 Na contestação, é lícito ao réu propor reconvenção para manifestar pretensão própria, conexa com a ação principal ou com o fundamento da defesa.
 
@@ -3724,11 +3724,11 @@ Na contestação, é lícito ao réu propor reconvenção para manifestar preten
 
 # CAPÍTULO VIII — DA REVELIA
 
-## Art. 344.
+## Art. 344
 
 Se o réu não contestar a ação, será considerado revel e presumir-se-ão verdadeiras as alegações de fato formuladas pelo autor.
 
-## Art. 345.
+## Art. 345
 
 A revelia não produz o efeito mencionado no
 
@@ -3743,49 +3743,49 @@ III - a petição inicial não estiver acompanhada de instrumento que a lei cons
 
 IV - as alegações de fato formuladas pelo autor forem inverossímeis ou estiverem em contradição com prova constante dos autos.
 
-## Art. 346.
+## Art. 346
 
-s prazos contra o revel que não tenha patrono nos autos fluirão da data de publicação do ato decisório no órgão oficial.
+Os prazos contra o revel que não tenha patrono nos autos fluirão da data de publicação do ato decisório no órgão oficial.
 
 Parágrafo único. O revel poderá intervir no processo em qualquer fase, recebendo-o no estado em que se encontrar.
 
 # CAPÍTULO IX — DAS PROVIDÊNCIAS PRELIMINARES E DO SANEAMENTO
 
-## Art. 347.
+## Art. 347
 
 Findo o prazo para a contestação, o juiz tomará, conforme o caso, as providências preliminares constantes das seções deste Capítulo.
 
 ### Seção I — Da Não Incidência dos Efeitos da Revelia
 
-## Art. 348.
+## Art. 348
 
 Se o réu não contestar a ação, o juiz, verificando a inocorrência do efeito da revelia previsto no
 
 art. 344, ordenará que o autor especifique as provas que pretenda produzir, se ainda não as tiver indicado.
 
-## Art. 349.
+## Art. 349
 
 Ao réu revel será lícita a produção de provas, contrapostas às alegações do autor, desde que se faça representar nos autos a tempo de praticar os atos processuais indispensáveis a essa produção.
 
 ### Seção II — Do Fato Impeditivo, Modificativo ou Extintivo do Direito do Autor
 
-## Art. 350.
+## Art. 350
 
 Se o réu alegar fato impeditivo, modificativo ou extintivo do direito do autor, este será ouvido no prazo de 15 (quinze) dias, permitindo-lhe o juiz a produção de prova.
 
 ### Seção III — Das Alegações do Réu
 
-## Art. 351.
+## Art. 351
 
 Se o réu alegar qualquer das matérias enumeradas no
 
 art. 337, o juiz determinará a oitiva do autor no prazo de 15 (quinze) dias, permitindo-lhe a produção de prova.
 
-## Art. 352.
+## Art. 352
 
 Verificando a existência de irregularidades ou de vícios sanáveis, o juiz determinará sua correção em prazo nunca superior a 30 (trinta) dias.
 
-## Art. 353.
+## Art. 353
 
 Cumpridas as providências preliminares ou não havendo necessidade delas, o juiz proferirá julgamento conforme o estado do processo, observando o que dispõe o Capítulo X.
 
@@ -3793,9 +3793,9 @@ Cumpridas as providências preliminares ou não havendo necessidade delas, o jui
 
 ### Seção I — Da Extinção do Processo
 
-## Art. 354.
+## Art. 354
 
-correndo qualquer das hipóteses previstas nos
+Ocorrendo qualquer das hipóteses previstas nos
 
 arts. 485
 e
@@ -3807,9 +3807,9 @@ pode dizer respeito a apenas parcela do processo, caso em que será impugnável 
 
 ### Seção II — Do Julgamento Antecipado do Mérito
 
-## Art. 355.
+## Art. 355
 
-juiz julgará antecipadamente o pedido, proferindo sentença com resolução de mérito, quando:
+O juiz julgará antecipadamente o pedido, proferindo sentença com resolução de mérito, quando:
 
 I - não houver necessidade de produção de outras provas;
 
@@ -3820,9 +3820,9 @@ art. 349.
 
 ### Seção III — Do Julgamento Antecipado Parcial do Mérito
 
-## Art. 356.
+## Art. 356
 
-juiz decidirá parcialmente o mérito quando um ou mais dos pedidos formulados ou parcela deles:
+O juiz decidirá parcialmente o mérito quando um ou mais dos pedidos formulados ou parcela deles:
 
 I - mostrar-se incontroverso;
 
@@ -3841,7 +3841,7 @@ art. 355.
 
 ### Seção IV — Do Saneamento e da Organização do Processo
 
-## Art. 357.
+## Art. 357
 
 Não ocorrendo nenhuma das hipóteses deste Capítulo, deverá o juiz, em decisão de saneamento e de organização do processo:
 
@@ -3878,17 +3878,17 @@ e, se possível, estabelecer, desde logo, calendário para sua realização.
 
 # CAPÍTULO XI — DA AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO
 
-## Art. 358.
+## Art. 358
 
 No dia e na hora designados, o juiz declarará aberta a audiência de instrução e julgamento e mandará apregoar as partes e os respectivos advogados, bem como outras pessoas que dela devam participar.
 
-## Art. 359.
+## Art. 359
 
 Instalada a audiência, o juiz tentará conciliar as partes, independentemente do emprego anterior de outros métodos de solução consensual de conflitos, como a mediação e a arbitragem.
 
-## Art. 360.
+## Art. 360
 
-juiz exerce o poder de polícia, incumbindo-lhe:
+O juiz exerce o poder de polícia, incumbindo-lhe:
 
 I - manter a ordem e o decoro na audiência;
 
@@ -3900,7 +3900,7 @@ IV - tratar com urbanidade as partes, os advogados, os membros do Ministério P�
 
 V - registrar em ata, com exatidão, todos os requerimentos apresentados em audiência.
 
-## Art. 361.
+## Art. 361
 
 As provas orais serão produzidas em audiência, ouvindo-se nesta ordem, preferencialmente:
 
@@ -3913,7 +3913,7 @@ III - as testemunhas arroladas pelo autor e pelo réu, que serão inquiridas.
 
 Parágrafo único. Enquanto depuserem o perito, os assistentes técnicos, as partes e as testemunhas, não poderão os advogados e o Ministério Público intervir ou apartear, sem licença do juiz.
 
-## Art. 362.
+## Art. 362
 
 A audiência poderá ser adiada:
 
@@ -3929,11 +3929,11 @@ III - por atraso injustificado de seu início em tempo superior a 30 (trinta) mi
 
 § 3º Quem der causa ao adiamento responderá pelas despesas acrescidas.
 
-## Art. 363.
+## Art. 363
 
 Havendo antecipação ou adiamento da audiência, o juiz, de ofício ou a requerimento da parte, determinará a intimação dos advogados ou da sociedade de advogados para ciência da nova designação.
 
-## Art. 364.
+## Art. 364
 
 Finda a instrução, o juiz dará a palavra ao advogado do autor e do réu, bem como ao membro do Ministério Público, se for o caso de sua intervenção, sucessivamente, pelo prazo de 20 (vinte) minutos para cada um, prorrogável por 10 (dez) minutos, a critério do juiz.
 
@@ -3941,19 +3941,19 @@ Finda a instrução, o juiz dará a palavra ao advogado do autor e do réu, bem 
 
 § 2º Quando a causa apresentar questões complexas de fato ou de direito, o debate oral poderá ser substituído por razões finais escritas, que serão apresentadas pelo autor e pelo réu, bem como pelo Ministério Público, se for o caso de sua intervenção, em prazos sucessivos de 15 (quinze) dias, assegurada vista dos autos.
 
-## Art. 365.
+## Art. 365
 
 A audiência é una e contínua, podendo ser excepcional e justificadamente cindida na ausência de perito ou de testemunha, desde que haja concordância das partes.
 
 Parágrafo único. Diante da impossibilidade de realização da instrução, do debate e do julgamento no mesmo dia, o juiz marcará seu prosseguimento para a data mais próxima possível, em pauta preferencial.
 
-## Art. 366.
+## Art. 366
 
 Encerrado o debate ou oferecidas as razões finais, o juiz proferirá sentença em audiência ou no prazo de 30 (trinta) dias.
 
-## Art. 367.
+## Art. 367
 
-servidor lavrará, sob ditado do juiz, termo que conterá, em resumo, o ocorrido na audiência, bem como, por extenso, os despachos, as decisões e a sentença, se proferida no ato.
+O servidor lavrará, sob ditado do juiz, termo que conterá, em resumo, o ocorrido na audiência, bem como, por extenso, os despachos, as decisões e a sentença, se proferida no ato.
 
 § 1º Quando o termo não for registrado em meio eletrônico, o juiz rubricar-lhe-á as folhas, que serão encadernadas em volume próprio.
 
@@ -3967,7 +3967,7 @@ servidor lavrará, sob ditado do juiz, termo que conterá, em resumo, o ocorrido
 
 § 6º A gravação a que se refere o § 5º também pode ser realizada diretamente por qualquer das partes, independentemente de autorização judicial.
 
-## Art. 368.
+## Art. 368
 
 A audiência será pública, ressalvadas as exceções legais.
 
@@ -3975,27 +3975,27 @@ A audiência será pública, ressalvadas as exceções legais.
 
 ### Seção I — Disposições Gerais
 
-## Art. 369.
+## Art. 369
 
 As partes têm o direito de empregar todos os meios legais, bem como os moralmente legítimos, ainda que não especificados neste Código, para provar a verdade dos fatos em que se funda o pedido ou a defesa e influir eficazmente na convicção do juiz.
 
-## Art. 370.
+## Art. 370
 
 Caberá ao juiz, de ofício ou a requerimento da parte, determinar as provas necessárias ao julgamento do mérito.
 
 Parágrafo único. O juiz indeferirá, em decisão fundamentada, as diligências inúteis ou meramente protelatórias.
 
-## Art. 371.
+## Art. 371
 
-juiz apreciará a prova constante dos autos, independentemente do sujeito que a tiver promovido, e indicará na decisão as razões da formação de seu convencimento.
+O juiz apreciará a prova constante dos autos, independentemente do sujeito que a tiver promovido, e indicará na decisão as razões da formação de seu convencimento.
 
-## Art. 372.
+## Art. 372
 
-juiz poderá admitir a utilização de prova produzida em outro processo, atribuindo-lhe o valor que considerar adequado, observado o contraditório.
+O juiz poderá admitir a utilização de prova produzida em outro processo, atribuindo-lhe o valor que considerar adequado, observado o contraditório.
 
-## Art. 373.
+## Art. 373
 
-ônus da prova incumbe:
+O ônus da prova incumbe:
 
 I - ao autor, quanto ao fato constitutivo de seu direito;
 
@@ -4015,7 +4015,7 @@ II - tornar excessivamente difícil a uma parte o exercício do direito.
 
 § 4º A convenção de que trata o § 3º pode ser celebrada antes ou durante o processo.
 
-## Art. 374.
+## Art. 374
 
 Não dependem de prova os fatos:
 
@@ -4027,15 +4027,15 @@ III - admitidos no processo como incontroversos;
 
 IV - em cujo favor milita presunção legal de existência ou de veracidade.
 
-## Art. 375.
+## Art. 375
 
-juiz aplicará as regras de experiência comum subministradas pela observação do que ordinariamente acontece e, ainda, as regras de experiência técnica, ressalvado, quanto a estas, o exame pericial.
+O juiz aplicará as regras de experiência comum subministradas pela observação do que ordinariamente acontece e, ainda, as regras de experiência técnica, ressalvado, quanto a estas, o exame pericial.
 
-## Art. 376.
+## Art. 376
 
 A parte que alegar direito municipal, estadual, estrangeiro ou consuetudinário provar-lhe-á o teor e a vigência, se assim o juiz determinar.
 
-## Art. 377.
+## Art. 377
 
 A carta precatória, a carta rogatória e o auxílio direto suspenderão o julgamento da causa no caso previsto no
 
@@ -4044,11 +4044,11 @@ quando, tendo sido requeridos antes da decisão de saneamento, a prova neles sol
 
 Parágrafo único. A carta precatória e a carta rogatória não devolvidas no prazo ou concedidas sem efeito suspensivo poderão ser juntadas aos autos a qualquer momento.
 
-## Art. 378.
+## Art. 378
 
 Ninguém se exime do dever de colaborar com o Poder Judiciário para o descobrimento da verdade.
 
-## Art. 379.
+## Art. 379
 
 Preservado o direito de não produzir prova contra si própria, incumbe à parte:
 
@@ -4058,7 +4058,7 @@ II - colaborar com o juízo na realização de inspeção judicial que for consi
 
 III - praticar o ato que lhe for determinado.
 
-## Art. 380.
+## Art. 380
 
 Incumbe ao terceiro, em relação a qualquer causa:
 
@@ -4070,7 +4070,7 @@ Parágrafo único. Poderá o juiz, em caso de descumprimento, determinar, além 
 
 ### Seção II — Da Produção Antecipada da Prova
 
-## Art. 381.
+## Art. 381
 
 A produção antecipada da prova será admitida nos casos em que:
 
@@ -4090,7 +4090,7 @@ III - o prévio conhecimento dos fatos possa justificar ou evitar o ajuizamento 
 
 § 5º Aplica-se o disposto nesta Seção àquele que pretender justificar a existência de algum fato ou relação jurídica para simples documento e sem caráter contencioso, que exporá, em petição circunstanciada, a sua intenção.
 
-## Art. 382.
+## Art. 382
 
 Na petição, o requerente apresentará as razões que justificam a necessidade de antecipação da prova e mencionará com precisão os fatos sobre os quais a prova há de recair.
 
@@ -4102,15 +4102,15 @@ Na petição, o requerente apresentará as razões que justificam a necessidade 
 
 § 4º Neste procedimento, não se admitirá defesa ou recurso, salvo contra decisão que indeferir totalmente a produção da prova pleiteada pelo requerente originário.
 
-## Art. 383.
+## Art. 383
 
-s autos permanecerão em cartório durante 1 (um) mês para extração de cópias e certidões pelos interessados.
+Os autos permanecerão em cartório durante 1 (um) mês para extração de cópias e certidões pelos interessados.
 
 Parágrafo único. Findo o prazo, os autos serão entregues ao promovente da medida.
 
 ### Seção III — Da Ata Notarial
 
-## Art. 384.
+## Art. 384
 
 A existência e o modo de existir de algum fato podem ser atestados ou documentados, a requerimento do interessado, mediante ata lavrada por tabelião.
 
@@ -4118,7 +4118,7 @@ Parágrafo único. Dados representados por imagem ou som gravados em arquivos el
 
 ### Seção IV — Do Depoimento Pessoal
 
-## Art. 385.
+## Art. 385
 
 Cabe à parte requerer o depoimento pessoal da outra parte, a fim de que esta seja interrogada na audiência de instrução e julgamento, sem prejuízo do poder do juiz de ordená-lo de ofício.
 
@@ -4128,15 +4128,15 @@ Cabe à parte requerer o depoimento pessoal da outra parte, a fim de que esta se
 
 § 3º O depoimento pessoal da parte que residir em comarca, seção ou subseção judiciária diversa daquela onde tramita o processo poderá ser colhido por meio de videoconferência ou outro recurso tecnológico de transmissão de sons e imagens em tempo real, o que poderá ocorrer, inclusive, durante a realização da audiência de instrução e julgamento.
 
-## Art. 386.
+## Art. 386
 
 Quando a parte, sem motivo justificado, deixar de responder ao que lhe for perguntado ou empregar evasivas, o juiz, apreciando as demais circunstâncias e os elementos de prova, declarará, na sentença, se houve recusa de depor.
 
-## Art. 387.
+## Art. 387
 
 A parte responderá pessoalmente sobre os fatos articulados, não podendo servir-se de escritos anteriormente preparados, permitindo-lhe o juiz, todavia, a consulta a notas breves, desde que objetivem completar esclarecimentos.
 
-## Art. 388.
+## Art. 388
 
 A parte não é obrigada a depor sobre fatos:
 
@@ -4152,11 +4152,11 @@ Parágrafo único. Esta disposição não se aplica às ações de estado e de f
 
 ### Seção V — Da Confissão
 
-## Art. 389.
+## Art. 389
 
 Há confissão, judicial ou extrajudicial, quando a parte admite a verdade de fato contrário ao seu interesse e favorável ao do adversário.
 
-## Art. 390.
+## Art. 390
 
 A confissão judicial pode ser espontânea ou provocada.
 
@@ -4164,13 +4164,13 @@ A confissão judicial pode ser espontânea ou provocada.
 
 § 2º A confissão provocada constará do termo de depoimento pessoal.
 
-## Art. 391.
+## Art. 391
 
 A confissão judicial faz prova contra o confitente, não prejudicando, todavia, os litisconsortes.
 
 Parágrafo único. Nas ações que versarem sobre bens imóveis ou direitos reais sobre imóveis alheios, a confissão de um cônjuge ou companheiro não valerá sem a do outro, salvo se o regime de casamento for o de separação absoluta de bens.
 
-## Art. 392.
+## Art. 392
 
 Não vale como confissão a admissão, em juízo, de fatos relativos a direitos indisponíveis.
 
@@ -4178,7 +4178,7 @@ Não vale como confissão a admissão, em juízo, de fatos relativos a direitos 
 
 § 2º A confissão feita por um representante somente é eficaz nos limites em que este pode vincular o representado.
 
-## Art. 393.
+## Art. 393
 
 A confissão é irrevogável, mas pode ser anulada se decorreu de erro de fato ou de coação.
 
@@ -4186,23 +4186,23 @@ Parágrafo único. A legitimidade para a ação prevista no
 caput
 é exclusiva do confitente e pode ser transferida a seus herdeiros se ele falecer após a propositura.
 
-## Art. 394.
+## Art. 394
 
 A confissão extrajudicial, quando feita oralmente, só terá eficácia nos casos em que a lei não exija prova literal.
 
-## Art. 395.
+## Art. 395
 
 A confissão é, em regra, indivisível, não podendo a parte que a quiser invocar como prova aceitá-la no tópico que a beneficiar e rejeitá-la no que lhe for desfavorável, porém cindir-se-á quando o confitente a ela aduzir fatos novos, capazes de constituir fundamento de defesa de direito material ou de reconvenção.
 
 ### Seção VI — Da Exibição de Documento ou Coisa
 
-## Art. 396.
+## Art. 396
 
-juiz pode ordenar que a parte exiba documento ou coisa que se encontre em seu poder.
+O juiz pode ordenar que a parte exiba documento ou coisa que se encontre em seu poder.
 
-## Art. 397.
+## Art. 397
 
-pedido formulado pela parte conterá:
+O pedido formulado pela parte conterá:
 
 I - a individuação, tão completa quanto possível, do documento ou da coisa;
 
@@ -4229,15 +4229,15 @@ poder da parte contrária.
 (Redação dada pela
 Lei nº 14.195, de 2021)
 
-## Art. 398.
+## Art. 398
 
-requerido dará sua resposta nos 5 (cinco) dias subsequentes à sua intimação.
+O requerido dará sua resposta nos 5 (cinco) dias subsequentes à sua intimação.
 
 Parágrafo único. Se o requerido afirmar que não possui o documento ou a coisa, o juiz permitirá que o requerente prove, por qualquer meio, que a declaração não corresponde à verdade.
 
-## Art. 399.
+## Art. 399
 
-juiz não admitirá a recusa se:
+O juiz não admitirá a recusa se:
 
 I - o requerido tiver obrigação legal de exibir;
 
@@ -4245,7 +4245,7 @@ II - o requerido tiver aludido ao documento ou à coisa, no processo, com o intu
 
 III - o documento, por seu conteúdo, for comum às partes.
 
-## Art. 400.
+## Art. 400
 
 Ao decidir o pedido, o juiz admitirá como verdadeiros os fatos que, por meio do documento ou da coisa, a parte pretendia provar se:
 
@@ -4256,21 +4256,21 @@ II - a recusa for havida por ilegítima.
 
 Parágrafo único. Sendo necessário, o juiz pode adotar medidas indutivas, coercitivas, mandamentais ou sub-rogatórias para que o documento seja exibido.
 
-## Art. 401.
+## Art. 401
 
 Quando o documento ou a coisa estiver em poder de terceiro, o juiz ordenará sua citação para responder no prazo de 15 (quinze) dias.
 
-## Art. 402.
+## Art. 402
 
 Se o terceiro negar a obrigação de exibir ou a posse do documento ou da coisa, o juiz designará audiência especial, tomando-lhe o depoimento, bem como o das partes e, se necessário, o de testemunhas, e em seguida proferirá decisão.
 
-## Art. 403.
+## Art. 403
 
 Se o terceiro, sem justo motivo, se recusar a efetuar a exibição, o juiz ordenar-lhe-á que proceda ao respectivo depósito em cartório ou em outro lugar designado, no prazo de 5 (cinco) dias, impondo ao requerente que o ressarça pelas despesas que tiver.
 
 Parágrafo único. Se o terceiro descumprir a ordem, o juiz expedirá mandado de apreensão, requisitando, se necessário, força policial, sem prejuízo da responsabilidade por crime de desobediência, pagamento de multa e outras medidas indutivas, coercitivas, mandamentais ou sub-rogatórias necessárias para assegurar a efetivação da decisão.
 
-## Art. 404.
+## Art. 404
 
 A parte e o terceiro se escusam de exibir, em juízo, o documento ou a coisa se:
 
@@ -4294,25 +4294,25 @@ disserem respeito a apenas uma parcela do documento, a parte ou o terceiro exibi
 
 #### Subseção I — Da Força Probante dos Documentos
 
-## Art. 405.
+## Art. 405
 
-documento público faz prova não só da sua formação, mas também dos fatos que o escrivão, o chefe de secretaria, o tabelião ou o servidor declarar que ocorreram em sua presença.
+O documento público faz prova não só da sua formação, mas também dos fatos que o escrivão, o chefe de secretaria, o tabelião ou o servidor declarar que ocorreram em sua presença.
 
-## Art. 406.
+## Art. 406
 
 Quando a lei exigir instrumento público como da substância do ato, nenhuma outra prova, por mais especial que seja, pode suprir-lhe a falta.
 
-## Art. 407.
+## Art. 407
 
-documento feito por oficial público incompetente ou sem a observância das formalidades legais, sendo subscrito pelas partes, tem a mesma eficácia probatória do documento particular.
+O documento feito por oficial público incompetente ou sem a observância das formalidades legais, sendo subscrito pelas partes, tem a mesma eficácia probatória do documento particular.
 
-## Art. 408.
+## Art. 408
 
 As declarações constantes do documento particular escrito e assinado ou somente assinado presumem-se verdadeiras em relação ao signatário.
 
 Parágrafo único. Quando, todavia, contiver declaração de ciência de determinado fato, o documento particular prova a ciência, mas não o fato em si, incumbindo o ônus de prová-lo ao interessado em sua veracidade.
 
-## Art. 409.
+## Art. 409
 
 A data do documento particular, quando a seu respeito surgir dúvida ou impugnação entre os litigantes, provar-se-á por todos os meios de direito.
 
@@ -4328,7 +4328,7 @@ IV - da sua apresentação em repartição pública ou em juízo;
 
 V - do ato ou do fato que estabeleça, de modo certo, a anterioridade da formação do documento.
 
-## Art. 410.
+## Art. 410
 
 Considera-se autor do documento particular:
 
@@ -4338,7 +4338,7 @@ II - aquele por conta de quem ele foi feito, estando assinado;
 
 III - aquele que, mandando compô-lo, não o firmou porque, conforme a experiência comum, não se costuma assinar, como livros empresariais e assentos domésticos.
 
-## Art. 411.
+## Art. 411
 
 Considera-se autêntico o documento quando:
 
@@ -4348,23 +4348,23 @@ II - a autoria estiver identificada por qualquer outro meio legal de certificaç
 
 III - não houver impugnação da parte contra quem foi produzido o documento.
 
-## Art. 412.
+## Art. 412
 
-documento particular de cuja autenticidade não se duvida prova que o seu autor fez a declaração que lhe é atribuída.
+O documento particular de cuja autenticidade não se duvida prova que o seu autor fez a declaração que lhe é atribuída.
 
 Parágrafo único. O documento particular admitido expressa ou tacitamente é indivisível, sendo vedado à parte que pretende utilizar-se dele aceitar os fatos que lhe são favoráveis e recusar os que são contrários ao seu interesse, salvo se provar que estes não ocorreram.
 
-## Art. 413.
+## Art. 413
 
-telegrama, o radiograma ou qualquer outro meio de transmissão tem a mesma força probatória do documento particular se o original constante da estação expedidora tiver sido assinado pelo remetente.
+O telegrama, o radiograma ou qualquer outro meio de transmissão tem a mesma força probatória do documento particular se o original constante da estação expedidora tiver sido assinado pelo remetente.
 
 Parágrafo único. A firma do remetente poderá ser reconhecida pelo tabelião, declarando-se essa circunstância no original depositado na estação expedidora.
 
-## Art. 414.
+## Art. 414
 
-telegrama ou o radiograma presume-se conforme com o original, provando as datas de sua expedição e de seu recebimento pelo destinatário.
+O telegrama ou o radiograma presume-se conforme com o original, provando as datas de sua expedição e de seu recebimento pelo destinatário.
 
-## Art. 415.
+## Art. 415
 
 As cartas e os registros domésticos provam contra quem os escreveu quando:
 
@@ -4374,27 +4374,27 @@ II - contêm anotação que visa a suprir a falta de título em favor de quem é
 
 III - expressam conhecimento de fatos para os quais não se exija determinada prova.
 
-## Art. 416.
+## Art. 416
 
 A nota escrita pelo credor em qualquer parte de documento representativo de obrigação, ainda que não assinada, faz prova em benefício do devedor.
 
 Parágrafo único. Aplica-se essa regra tanto para o documento que o credor conservar em seu poder quanto para aquele que se achar em poder do devedor ou de terceiro.
 
-## Art. 417.
+## Art. 417
 
-s livros empresariais provam contra seu autor, sendo lícito ao empresário, todavia, demonstrar, por todos os meios permitidos em direito, que os lançamentos não correspondem à verdade dos fatos.
+Os livros empresariais provam contra seu autor, sendo lícito ao empresário, todavia, demonstrar, por todos os meios permitidos em direito, que os lançamentos não correspondem à verdade dos fatos.
 
-## Art. 418.
+## Art. 418
 
-s livros empresariais que preencham os requisitos exigidos por lei provam a favor de seu autor no litígio entre empresários.
+Os livros empresariais que preencham os requisitos exigidos por lei provam a favor de seu autor no litígio entre empresários.
 
-## Art. 419.
+## Art. 419
 
 A escrituração contábil é indivisível, e, se dos fatos que resultam dos lançamentos, uns são favoráveis ao interesse de seu autor e outros lhe são contrários, ambos serão considerados em conjunto, como unidade.
 
-## Art. 420.
+## Art. 420
 
-juiz pode ordenar, a requerimento da parte, a exibição integral dos livros empresariais e dos documentos do arquivo:
+O juiz pode ordenar, a requerimento da parte, a exibição integral dos livros empresariais e dos documentos do arquivo:
 
 I - na liquidação de sociedade;
 
@@ -4402,11 +4402,11 @@ II - na sucessão por morte de sócio;
 
 III - quando e como determinar a lei.
 
-## Art. 421.
+## Art. 421
 
-juiz pode, de ofício, ordenar à parte a exibição parcial dos livros e dos documentos, extraindo-se deles a suma que interessar ao litígio, bem como reproduções autenticadas.
+O juiz pode, de ofício, ordenar à parte a exibição parcial dos livros e dos documentos, extraindo-se deles a suma que interessar ao litígio, bem como reproduções autenticadas.
 
-## Art. 422.
+## Art. 422
 
 Qualquer reprodução mecânica, como a fotográfica, a cinematográfica, a fonográfica ou de outra espécie, tem aptidão para fazer prova dos fatos ou das coisas representadas, se a sua conformidade com o documento original não for impugnada por aquele contra quem foi produzida.
 
@@ -4416,15 +4416,15 @@ Qualquer reprodução mecânica, como a fotográfica, a cinematográfica, a fono
 
 § 3º Aplica-se o disposto neste artigo à forma impressa de mensagem eletrônica.
 
-## Art. 423.
+## Art. 423
 
 As reproduções dos documentos particulares, fotográficas ou obtidas por outros processos de repetição, valem como certidões sempre que o escrivão ou o chefe de secretaria certificar sua conformidade com o original.
 
-## Art. 424.
+## Art. 424
 
 A cópia de documento particular tem o mesmo valor probante que o original, cabendo ao escrivão, intimadas as partes, proceder à conferência e certificar a conformidade entre a cópia e o original.
 
-## Art. 425.
+## Art. 425
 
 Fazem a mesma prova que os originais:
 
@@ -4444,11 +4444,11 @@ VI - as reproduções digitalizadas de qualquer documento público ou particular
 
 § 2º Tratando-se de cópia digital de título executivo extrajudicial ou de documento relevante à instrução do processo, o juiz poderá determinar seu depósito em cartório ou secretaria.
 
-## Art. 426.
+## Art. 426
 
-juiz apreciará fundamentadamente a fé que deva merecer o documento, quando em ponto substancial e sem ressalva contiver entrelinha, emenda, borrão ou cancelamento.
+O juiz apreciará fundamentadamente a fé que deva merecer o documento, quando em ponto substancial e sem ressalva contiver entrelinha, emenda, borrão ou cancelamento.
 
-## Art. 427.
+## Art. 427
 
 Cessa a fé do documento público ou particular sendo-lhe declarada judicialmente a falsidade.
 
@@ -4458,7 +4458,7 @@ I - formar documento não verdadeiro;
 
 II - alterar documento verdadeiro.
 
-## Art. 428.
+## Art. 428
 
 Cessa a fé do documento particular quando:
 
@@ -4468,7 +4468,7 @@ II - assinado em branco, for impugnado seu conteúdo, por preenchimento abusivo.
 
 Parágrafo único. Dar-se-á abuso quando aquele que recebeu documento assinado com texto não escrito no todo ou em parte formá-lo ou completá-lo por si ou por meio de outrem, violando o pacto feito com o signatário.
 
-## Art. 429.
+## Art. 429
 
 Incumbe o ônus da prova quando:
 
@@ -4478,30 +4478,30 @@ II - se tratar de impugnação da autenticidade, à parte que produziu o documen
 
 #### Subseção II — Da Arguição de Falsidade
 
-## Art. 430.
+## Art. 430
 
 A falsidade deve ser suscitada na contestação, na réplica ou no prazo de 15 (quinze) dias, contado a partir da intimação da juntada do documento aos autos.
 
 Parágrafo único. Uma vez arguida, a falsidade será resolvida como questão incidental, salvo se a parte requerer que o juiz a decida como questão principal, nos termos do
 inciso II do art. 19.
 
-## Art. 431.
+## Art. 431
 
 A parte arguirá a falsidade expondo os motivos em que funda a sua pretensão e os meios com que provará o alegado.
 
-## Art. 432.
+## Art. 432
 
 Depois de ouvida a outra parte no prazo de 15 (quinze) dias, será realizado o exame pericial.
 
 Parágrafo único. Não se procederá ao exame pericial se a parte que produziu o documento concordar em retirá-lo.
 
-## Art. 433.
+## Art. 433
 
 A declaração sobre a falsidade do documento, quando suscitada como questão principal, constará da parte dispositiva da sentença e sobre ela incidirá também a autoridade da coisa julgada.
 
 #### Subseção III — Da Produção da Prova Documental
 
-## Art. 434.
+## Art. 434
 
 Incumbe à parte instruir a petição inicial ou a contestação com os documentos destinados a provar suas alegações.
 
@@ -4509,14 +4509,14 @@ Parágrafo único. Quando o documento consistir em reprodução cinematográfica
 caput
 , mas sua exposição será realizada em audiência, intimando-se previamente as partes.
 
-## Art. 435.
+## Art. 435
 
 É lícito às partes, em qualquer tempo, juntar aos autos documentos novos, quando destinados a fazer prova de fatos ocorridos depois dos articulados ou para contrapô-los aos que foram produzidos nos autos.
 
 Parágrafo único. Admite-se também a juntada posterior de documentos formados após a petição inicial ou a contestação, bem como dos que se tornaram conhecidos, acessíveis ou disponíveis após esses atos, cabendo à parte que os produzir comprovar o motivo que a impediu de juntá-los anteriormente e incumbindo ao juiz, em qualquer caso, avaliar a conduta da parte de acordo com o
 art. 5º.
 
-## Art. 436.
+## Art. 436
 
 A parte, intimada a falar sobre documento constante dos autos, poderá:
 
@@ -4530,18 +4530,18 @@ IV - manifestar-se sobre seu conteúdo.
 
 Parágrafo único. Nas hipóteses dos incisos II e III, a impugnação deverá basear-se em argumentação específica, não se admitindo alegação genérica de falsidade.
 
-## Art. 437.
+## Art. 437
 
-réu manifestar-se-á na contestação sobre os documentos anexados à inicial, e o autor manifestar-se-á na réplica sobre os documentos anexados à contestação.
+O réu manifestar-se-á na contestação sobre os documentos anexados à inicial, e o autor manifestar-se-á na réplica sobre os documentos anexados à contestação.
 
 § 1º Sempre que uma das partes requerer a juntada de documento aos autos, o juiz ouvirá, a seu respeito, a outra parte, que disporá do prazo de 15 (quinze) dias para adotar qualquer das posturas indicadas no
 art. 436.
 
 § 2º Poderá o juiz, a requerimento da parte, dilatar o prazo para manifestação sobre a prova documental produzida, levando em consideração a quantidade e a complexidade da documentação.
 
-## Art. 438.
+## Art. 438
 
-juiz requisitará às repartições públicas, em qualquer tempo ou grau de jurisdição:
+O juiz requisitará às repartições públicas, em qualquer tempo ou grau de jurisdição:
 
 I - as certidões necessárias à prova das alegações das partes;
 
@@ -4553,15 +4553,15 @@ II - os procedimentos administrativos nas causas em que forem interessados a Uni
 
 ### Seção VIII — Dos Documentos Eletrônicos
 
-## Art. 439.
+## Art. 439
 
 A utilização de documentos eletrônicos no processo convencional dependerá de sua conversão à forma impressa e da verificação de sua autenticidade, na forma da lei.
 
-## Art. 440.
+## Art. 440
 
-juiz apreciará o valor probante do documento eletrônico não convertido, assegurado às partes o acesso ao seu teor.
+O juiz apreciará o valor probante do documento eletrônico não convertido, assegurado às partes o acesso ao seu teor.
 
-## Art. 441.
+## Art. 441
 
 Serão admitidos documentos eletrônicos produzidos e conservados com a observância da legislação específica.
 
@@ -4569,27 +4569,27 @@ Serão admitidos documentos eletrônicos produzidos e conservados com a observâ
 
 #### Subseção I — Da Admissibilidade e do Valor da Prova Testemunhal
 
-## Art. 442.
+## Art. 442
 
 A prova testemunhal é sempre admissível, não dispondo a lei de modo diverso.
 
-## Art. 443.
+## Art. 443
 
-juiz indeferirá a inquirição de testemunhas sobre fatos:
+O juiz indeferirá a inquirição de testemunhas sobre fatos:
 
 I - já provados por documento ou confissão da parte;
 
 II - que só por documento ou por exame pericial puderem ser provados.
 
-## Art. 444.
+## Art. 444
 
 Nos casos em que a lei exigir prova escrita da obrigação, é admissível a prova testemunhal quando houver começo de prova por escrito, emanado da parte contra a qual se pretende produzir a prova.
 
-## Art. 445.
+## Art. 445
 
 Também se admite a prova testemunhal quando o credor não pode ou não podia, moral ou materialmente, obter a prova escrita da obrigação, em casos como o de parentesco, de depósito necessário ou de hospedagem em hotel ou em razão das práticas comerciais do local onde contraída a obrigação.
 
-## Art. 446.
+## Art. 446
 
 É lícito à parte provar com testemunhas:
 
@@ -4597,7 +4597,7 @@ I - nos contratos simulados, a divergência entre a vontade real e a vontade dec
 
 II - nos contratos em geral, os vícios de consentimento.
 
-## Art. 447.
+## Art. 447
 
 Podem depor como testemunhas todas as pessoas, exceto as incapazes, impedidas ou suspeitas.
 
@@ -4629,7 +4629,7 @@ II - o que tiver interesse no litígio.
 
 § 5º Os depoimentos referidos no § 4º serão prestados independentemente de compromisso, e o juiz lhes atribuirá o valor que possam merecer.
 
-## Art. 448.
+## Art. 448
 
 A testemunha não é obrigada a depor sobre fatos:
 
@@ -4637,7 +4637,7 @@ I - que lhe acarretem grave dano, bem como ao seu cônjuge ou companheiro e aos 
 
 II - a cujo respeito, por estado ou profissão, deva guardar sigilo.
 
-## Art. 449.
+## Art. 449
 
 Salvo disposição especial em contrário, as testemunhas devem ser ouvidas na sede do juízo.
 
@@ -4645,11 +4645,11 @@ Parágrafo único. Quando a parte ou a testemunha, por enfermidade ou por outro 
 
 #### Subseção II — Da Produção da Prova Testemunhal
 
-## Art. 450.
+## Art. 450
 
-rol de testemunhas conterá, sempre que possível, o nome, a profissão, o estado civil, a idade, o número de inscrição no Cadastro de Pessoas Físicas, o número de registro de identidade e o endereço completo da residência e do local de trabalho.
+O rol de testemunhas conterá, sempre que possível, o nome, a profissão, o estado civil, a idade, o número de inscrição no Cadastro de Pessoas Físicas, o número de registro de identidade e o endereço completo da residência e do local de trabalho.
 
-## Art. 451.
+## Art. 451
 
 Depois de apresentado o rol de que tratam os
 
@@ -4661,7 +4661,7 @@ II - que, por enfermidade, não estiver em condições de depor;
 
 III - que, tendo mudado de residência ou de local de trabalho, não for encontrada.
 
-## Art. 452.
+## Art. 452
 
 Quando for arrolado como testemunha, o juiz da causa:
 
@@ -4669,7 +4669,7 @@ I - declarar-se-á impedido, se tiver conhecimento de fatos que possam influir n
 
 II - se nada souber, mandará excluir o seu nome.
 
-## Art. 453.
+## Art. 453
 
 As testemunhas depõem, na audiência de instrução e julgamento, perante o juiz da causa, exceto:
 
@@ -4681,7 +4681,7 @@ II - as que são inquiridas por carta.
 
 § 2º Os juízos deverão manter equipamento para a transmissão e recepção de sons e imagens a que se refere o § 1º.
 
-## Art. 454.
+## Art. 454
 
 São inquiridos em sua residência ou onde exercem sua função:
 
@@ -4715,7 +4715,7 @@ XII - o embaixador de país que, por lei ou tratado, concede idêntica prerrogat
 
 § 3º O juiz também designará dia, hora e local para o depoimento, quando a autoridade não comparecer, injustificadamente, à sessão agendada para a colheita de seu testemunho no dia, hora e local por ela mesma indicados.
 
-## Art. 455.
+## Art. 455
 
 Cabe ao advogado da parte informar ou intimar a testemunha por ele arrolada do dia, da hora e do local da audiência designada, dispensando-se a intimação do juízo.
 
@@ -4740,15 +4740,15 @@ art. 454.
 
 § 5º A testemunha que, intimada na forma do § 1º ou do § 4º, deixar de comparecer sem motivo justificado será conduzida e responderá pelas despesas do adiamento.
 
-## Art. 456.
+## Art. 456
 
-juiz inquirirá as testemunhas separada e sucessivamente, primeiro as do autor e depois as do réu, e providenciará para que uma não ouça o depoimento das outras.
+O juiz inquirirá as testemunhas separada e sucessivamente, primeiro as do autor e depois as do réu, e providenciará para que uma não ouça o depoimento das outras.
 
 Parágrafo único. O juiz poderá alterar a ordem estabelecida no
 caput
 se as partes concordarem.
 
-## Art. 457.
+## Art. 457
 
 Antes de depor, a testemunha será qualificada, declarará ou confirmará seus dados e informará se tem relações de parentesco com a parte ou interesse no objeto do processo.
 
@@ -4758,13 +4758,13 @@ Antes de depor, a testemunha será qualificada, declarará ou confirmará seus d
 
 § 3º A testemunha pode requerer ao juiz que a escuse de depor, alegando os motivos previstos neste Código, decidindo o juiz de plano após ouvidas as partes.
 
-## Art. 458.
+## Art. 458
 
 Ao início da inquirição, a testemunha prestará o compromisso de dizer a verdade do que souber e lhe for perguntado.
 
 Parágrafo único. O juiz advertirá à testemunha que incorre em sanção penal quem faz afirmação falsa, cala ou oculta a verdade.
 
-## Art. 459.
+## Art. 459
 
 As perguntas serão formuladas pelas partes diretamente à testemunha, começando pela que a arrolou, não admitindo o juiz aquelas que puderem induzir a resposta, não tiverem relação com as questões de fato objeto da atividade probatória ou importarem repetição de outra já respondida.
 
@@ -4774,9 +4774,9 @@ As perguntas serão formuladas pelas partes diretamente à testemunha, começand
 
 § 3º As perguntas que o juiz indeferir serão transcritas no termo, se a parte o requerer.
 
-## Art. 460.
+## Art. 460
 
-depoimento poderá ser documentado por meio de gravação.
+O depoimento poderá ser documentado por meio de gravação.
 
 § 1º Quando digitado ou registrado por taquigrafia, estenotipia ou outro método idôneo de documentação, o depoimento será assinado pelo juiz, pelo depoente e pelos procuradores.
 
@@ -4784,9 +4784,9 @@ depoimento poderá ser documentado por meio de gravação.
 
 § 3º Tratando-se de autos eletrônicos, observar-se-á o disposto neste Código e na legislação específica sobre a prática eletrônica de atos processuais.
 
-## Art. 461.
+## Art. 461
 
-juiz pode ordenar, de ofício ou a requerimento da parte:
+O juiz pode ordenar, de ofício ou a requerimento da parte:
 
 I - a inquirição de testemunhas referidas nas declarações da parte ou das testemunhas;
 
@@ -4796,19 +4796,19 @@ II - a acareação de 2 (duas) ou mais testemunhas ou de alguma delas com a part
 
 § 2º A acareação pode ser realizada por videoconferência ou por outro recurso tecnológico de transmissão de sons e imagens em tempo real.
 
-## Art. 462.
+## Art. 462
 
 A testemunha pode requerer ao juiz o pagamento da despesa que efetuou para comparecimento à audiência, devendo a parte pagá-la logo que arbitrada ou depositá-la em cartório dentro de 3 (três) dias.
 
-## Art. 463.
+## Art. 463
 
-depoimento prestado em juízo é considerado serviço público.
+O depoimento prestado em juízo é considerado serviço público.
 
 Parágrafo único. A testemunha, quando sujeita ao regime da legislação trabalhista, não sofre, por comparecer à audiência, perda de salário nem desconto no tempo de serviço.
 
 ### Seção X — Da Prova Pericial
 
-## Art. 464.
+## Art. 464
 
 A prova pericial consiste em exame, vistoria ou avaliação.
 
@@ -4828,9 +4828,9 @@ III - a verificação for impraticável.
 o
 Durante a arguição, o especialista, que deverá ter formação acadêmica específica na área objeto de seu depoimento, poderá valer-se de qualquer recurso tecnológico de transmissão de sons e imagens com o fim de esclarecer os pontos controvertidos da causa.
 
-## Art. 465.
+## Art. 465
 
-juiz nomeará perito especializado no objeto da perícia e fixará de imediato o prazo para a entrega do laudo.
+O juiz nomeará perito especializado no objeto da perícia e fixará de imediato o prazo para a entrega do laudo.
 
 § 1º Incumbe às partes, dentro de 15 (quinze) dias contados da intimação do despacho de nomeação do perito:
 
@@ -4857,23 +4857,23 @@ art. 95.
 
 § 6º Quando tiver de realizar-se por carta, poder-se-á proceder à nomeação de perito e à indicação de assistentes técnicos no juízo ao qual se requisitar a perícia.
 
-## Art. 466.
+## Art. 466
 
-perito cumprirá escrupulosamente o encargo que lhe foi cometido, independentemente de termo de compromisso.
+O perito cumprirá escrupulosamente o encargo que lhe foi cometido, independentemente de termo de compromisso.
 
 § 1º Os assistentes técnicos são de confiança da parte e não estão sujeitos a impedimento ou suspeição.
 
 § 2º O perito deve assegurar aos assistentes das partes o acesso e o acompanhamento das diligências e dos exames que realizar, com prévia comunicação, comprovada nos autos, com antecedência mínima de 5 (cinco) dias.
 
-## Art. 467.
+## Art. 467
 
-perito pode escusar-se ou ser recusado por impedimento ou suspeição.
+O perito pode escusar-se ou ser recusado por impedimento ou suspeição.
 
 Parágrafo único. O juiz, ao aceitar a escusa ou ao julgar procedente a impugnação, nomeará novo perito.
 
-## Art. 468.
+## Art. 468
 
-perito pode ser substituído quando:
+O perito pode ser substituído quando:
 
 I - faltar-lhe conhecimento técnico ou científico;
 
@@ -4886,13 +4886,13 @@ II - sem motivo legítimo, deixar de cumprir o encargo no prazo que lhe foi assi
 § 3º Não ocorrendo a restituição voluntária de que trata o § 2º, a parte que tiver realizado o adiantamento dos honorários poderá promover execução contra o perito, na forma dos
 arts. 513 e seguintes deste Código, com fundamento na decisão que determinar a devolução do numerário.
 
-## Art. 469.
+## Art. 469
 
 As partes poderão apresentar quesitos suplementares durante a diligência, que poderão ser respondidos pelo perito previamente ou na audiência de instrução e julgamento.
 
 Parágrafo único. O escrivão dará à parte contrária ciência da juntada dos quesitos aos autos.
 
-## Art. 470.
+## Art. 470
 
 Incumbe ao juiz:
 
@@ -4900,7 +4900,7 @@ I - indeferir quesitos impertinentes;
 
 II - formular os quesitos que entender necessários ao esclarecimento da causa.
 
-## Art. 471.
+## Art. 471
 
 As partes podem, de comum acordo, escolher o perito, indicando-o mediante requerimento, desde que:
 
@@ -4914,13 +4914,13 @@ II - a causa possa ser resolvida por autocomposição.
 
 § 3º A perícia consensual substitui, para todos os efeitos, a que seria realizada por perito nomeado pelo juiz.
 
-## Art. 472.
+## Art. 472
 
-juiz poderá dispensar prova pericial quando as partes, na inicial e na contestação, apresentarem, sobre as questões de fato, pareceres técnicos ou documentos elucidativos que considerar suficientes.
+O juiz poderá dispensar prova pericial quando as partes, na inicial e na contestação, apresentarem, sobre as questões de fato, pareceres técnicos ou documentos elucidativos que considerar suficientes.
 
-## Art. 473.
+## Art. 473
 
-laudo pericial deverá conter:
+O laudo pericial deverá conter:
 
 I - a exposição do objeto da perícia;
 
@@ -4936,21 +4936,21 @@ IV - resposta conclusiva a todos os quesitos apresentados pelo juiz, pelas parte
 
 § 3º Para o desempenho de sua função, o perito e os assistentes técnicos podem valer-se de todos os meios necessários, ouvindo testemunhas, obtendo informações, solicitando documentos que estejam em poder da parte, de terceiros ou em repartições públicas, bem como instruir o laudo com planilhas, mapas, plantas, desenhos, fotografias ou outros elementos necessários ao esclarecimento do objeto da perícia.
 
-## Art. 474.
+## Art. 474
 
 As partes terão ciência da data e do local designados pelo juiz ou indicados pelo perito para ter início a produção da prova.
 
-## Art. 475.
+## Art. 475
 
 Tratando-se de perícia complexa que abranja mais de uma área de conhecimento especializado, o juiz poderá nomear mais de um perito, e a parte, indicar mais de um assistente técnico.
 
-## Art. 476.
+## Art. 476
 
 Se o perito, por motivo justificado, não puder apresentar o laudo dentro do prazo, o juiz poderá conceder-lhe, por uma vez, prorrogação pela metade do prazo originalmente fixado.
 
-## Art. 477.
+## Art. 477
 
-perito protocolará o laudo em juízo, no prazo fixado pelo juiz, pelo menos 20 (vinte) dias antes da audiência de instrução e julgamento.
+O perito protocolará o laudo em juízo, no prazo fixado pelo juiz, pelo menos 20 (vinte) dias antes da audiência de instrução e julgamento.
 
 § 1º As partes serão intimadas para, querendo, manifestar-se sobre o laudo do perito do juízo no prazo comum de 15 (quinze) dias, podendo o assistente técnico de cada uma das partes, em igual prazo, apresentar seu respectivo parecer.
 
@@ -4964,7 +4964,7 @@ II - divergente apresentado no parecer do assistente técnico da parte.
 
 § 4º O perito ou o assistente técnico será intimado por meio eletrônico, com pelo menos 10 (dez) dias de antecedência da audiência.
 
-## Art. 478.
+## Art. 478
 
 Quando o exame tiver por objeto a autenticidade ou a falsidade de documento ou for de natureza médico-legal, o perito será escolhido, de preferência, entre os técnicos dos estabelecimentos oficiais especializados, a cujos diretores o juiz autorizará a remessa dos autos, bem como do material sujeito a exame.
 
@@ -4974,15 +4974,15 @@ Quando o exame tiver por objeto a autenticidade ou a falsidade de documento ou f
 
 § 3º Quando o exame tiver por objeto a autenticidade da letra e da firma, o perito poderá requisitar, para efeito de comparação, documentos existentes em repartições públicas e, na falta destes, poderá requerer ao juiz que a pessoa a quem se atribuir a autoria do documento lance em folha de papel, por cópia ou sob ditado, dizeres diferentes, para fins de comparação.
 
-## Art. 479.
+## Art. 479
 
-juiz apreciará a prova pericial de acordo com o disposto no
+O juiz apreciará a prova pericial de acordo com o disposto no
 
 art. 371, indicando na sentença os motivos que o levaram a considerar ou a deixar de considerar as conclusões do laudo, levando em conta o método utilizado pelo perito.
 
-## Art. 480.
+## Art. 480
 
-juiz determinará, de ofício ou a requerimento da parte, a realização de nova perícia quando a matéria não estiver suficientemente esclarecida.
+O juiz determinará, de ofício ou a requerimento da parte, a realização de nova perícia quando a matéria não estiver suficientemente esclarecida.
 
 § 1º A segunda perícia tem por objeto os mesmos fatos sobre os quais recaiu a primeira e destina-se a corrigir eventual omissão ou inexatidão dos resultados a que esta conduziu.
 
@@ -4992,17 +4992,17 @@ juiz determinará, de ofício ou a requerimento da parte, a realização de nova
 
 ### Seção XI — Da Inspeção Judicial
 
-## Art. 481.
+## Art. 481
 
-juiz, de ofício ou a requerimento da parte, pode, em qualquer fase do processo, inspecionar pessoas ou coisas, a fim de se esclarecer sobre fato que interesse à decisão da causa.
+O juiz, de ofício ou a requerimento da parte, pode, em qualquer fase do processo, inspecionar pessoas ou coisas, a fim de se esclarecer sobre fato que interesse à decisão da causa.
 
-## Art. 482.
+## Art. 482
 
 Ao realizar a inspeção, o juiz poderá ser assistido por um ou mais peritos.
 
-## Art. 483.
+## Art. 483
 
-juiz irá ao local onde se encontre a pessoa ou a coisa quando:
+O juiz irá ao local onde se encontre a pessoa ou a coisa quando:
 
 I - julgar necessário para a melhor verificação ou interpretação dos fatos que deva observar;
 
@@ -5012,7 +5012,7 @@ III - determinar a reconstituição dos fatos.
 
 Parágrafo único. As partes têm sempre direito a assistir à inspeção, prestando esclarecimentos e fazendo observações que considerem de interesse para a causa.
 
-## Art. 484.
+## Art. 484
 
 Concluída a diligência, o juiz mandará lavrar auto circunstanciado, mencionando nele tudo quanto for útil ao julgamento da causa.
 
@@ -5022,9 +5022,9 @@ Parágrafo único. O auto poderá ser instruído com desenho, gráfico ou fotogr
 
 ### Seção I — Disposições Gerais
 
-## Art. 485.
+## Art. 485
 
-juiz não resolverá o mérito quando:
+O juiz não resolverá o mérito quando:
 
 I - indeferir a petição inicial;
 
@@ -5060,9 +5060,9 @@ X - nos demais casos prescritos neste Código.
 
 § 7º Interposta a apelação em qualquer dos casos de que tratam os incisos deste artigo, o juiz terá 5 (cinco) dias para retratar-se.
 
-## Art. 486.
+## Art. 486
 
-pronunciamento judicial que não resolve o mérito não obsta a que a parte proponha de novo a ação.
+O pronunciamento judicial que não resolve o mérito não obsta a que a parte proponha de novo a ação.
 
 § 1º No caso de extinção em razão de litispendência e nos casos dos
 incisos I, IV, VI e VII do art. 485, a propositura da nova ação depende da correção do vício que levou à sentença sem resolução do mérito.
@@ -5071,7 +5071,7 @@ incisos I, IV, VI e VII do art. 485, a propositura da nova ação depende da cor
 
 § 3º Se o autor der causa, por 3 (três) vezes, a sentença fundada em abandono da causa, não poderá propor nova ação contra o réu com o mesmo objeto, ficando-lhe ressalvada, entretanto, a possibilidade de alegar em defesa o seu direito.
 
-## Art. 487.
+## Art. 487
 
 Haverá resolução de mérito quando o juiz:
 
@@ -5090,7 +5090,7 @@ III - homologar:
 Parágrafo único. Ressalvada a hipótese do
 § 1º do art. 332, a prescrição e a decadência não serão reconhecidas sem que antes seja dada às partes oportunidade de manifestar-se.
 
-## Art. 488.
+## Art. 488
 
 Desde que possível, o juiz resolverá o mérito sempre que a decisão for favorável à parte a quem aproveitaria eventual pronunciamento nos termos do
 
@@ -5098,7 +5098,7 @@ art. 485.
 
 ### Seção II — Dos Elementos e dos Efeitos da Sentença
 
-## Art. 489.
+## Art. 489
 
 São elementos essenciais da sentença:
 
@@ -5126,11 +5126,11 @@ VI - deixar de seguir enunciado de súmula, jurisprudência ou precedente invoca
 
 § 3º A decisão judicial deve ser interpretada a partir da conjugação de todos os seus elementos e em conformidade com o princípio da boa-fé.
 
-## Art. 490.
+## Art. 490
 
-juiz resolverá o mérito acolhendo ou rejeitando, no todo ou em parte, os pedidos formulados pelas partes.
+O juiz resolverá o mérito acolhendo ou rejeitando, no todo ou em parte, os pedidos formulados pelas partes.
 
-## Art. 491.
+## Art. 491
 
 Na ação relativa à obrigação de pagar quantia, ainda que formulado pedido genérico, a decisão definirá desde logo a extensão da obrigação, o índice de correção monetária, a taxa de juros, o termo inicial de ambos e a periodicidade da capitalização dos juros, se for o caso, salvo quando:
 
@@ -5144,19 +5144,19 @@ II - a apuração do valor devido depender da produção de prova de realizaçã
 caput
 também se aplica quando o acórdão alterar a sentença.
 
-## Art. 492.
+## Art. 492
 
 É vedado ao juiz proferir decisão de natureza diversa da pedida, bem como condenar a parte em quantidade superior ou em objeto diverso do que lhe foi demandado.
 
 Parágrafo único. A decisão deve ser certa, ainda que resolva relação jurídica condicional.
 
-## Art. 493.
+## Art. 493
 
 Se, depois da propositura da ação, algum fato constitutivo, modificativo ou extintivo do direito influir no julgamento do mérito, caberá ao juiz tomá-lo em consideração, de ofício ou a requerimento da parte, no momento de proferir a decisão.
 
 Parágrafo único. Se constatar de ofício o fato novo, o juiz ouvirá as partes sobre ele antes de decidir.
 
-## Art. 494.
+## Art. 494
 
 Publicada a sentença, o juiz só poderá alterá-la:
 
@@ -5164,7 +5164,7 @@ I - para corrigir-lhe, de ofício ou a requerimento da parte, inexatidões mater
 
 II - por meio de embargos de declaração.
 
-## Art. 495.
+## Art. 495
 
 A decisão que condenar o réu ao pagamento de prestação consistente em dinheiro e a que determinar a conversão de prestação de fazer, de não fazer ou de dar coisa em prestação pecuniária valerão como título constitutivo de hipoteca judiciária.
 
@@ -5186,7 +5186,7 @@ III - mesmo que impugnada por recurso dotado de efeito suspensivo.
 
 ### Seção III — Da Remessa Necessária
 
-## Art. 496.
+## Art. 496
 
 Está sujeita ao duplo grau de jurisdição, não produzindo efeito senão depois de confirmada pelo tribunal, a sentença:
 
@@ -5218,19 +5218,19 @@ IV - entendimento coincidente com orientação vinculante firmada no âmbito adm
 
 ### Seção IV — Do Julgamento das Ações Relativas às Prestações de Fazer, de Não Fazer e de Entregar Coisa
 
-## Art. 497.
+## Art. 497
 
 Na ação que tenha por objeto a prestação de fazer ou de não fazer, o juiz, se procedente o pedido, concederá a tutela específica ou determinará providências que assegurem a obtenção de tutela pelo resultado prático equivalente.
 
 Parágrafo único. Para a concessão da tutela específica destinada a inibir a prática, a reiteração ou a continuação de um ilícito, ou a sua remoção, é irrelevante a demonstração da ocorrência de dano ou da existência de culpa ou dolo.
 
-## Art. 498.
+## Art. 498
 
 Na ação que tenha por objeto a entrega de coisa, o juiz, ao conceder a tutela específica, fixará o prazo para o cumprimento da obrigação.
 
 Parágrafo único. Tratando-se de entrega de coisa determinada pelo gênero e pela quantidade, o autor individualizá-la-á na petição inicial, se lhe couber a escolha, ou, se a escolha couber ao réu, este a entregará individualizada, no prazo fixado pelo juiz.
 
-## Art. 499.
+## Art. 499
 
 A obrigação somente será convertida em perdas e danos se o autor o requerer ou se impossível a tutela específica ou a obtenção de tutela pelo resultado prático equivalente.
 
@@ -5245,21 +5245,21 @@ específica.
 (Incluído pela Lei
 nº 14.833, de 2024)
 
-## Art. 500.
+## Art. 500
 
 A indenização por perdas e danos dar-se-á sem prejuízo da multa fixada periodicamente para compelir o réu ao cumprimento específico da obrigação.
 
-## Art. 501.
+## Art. 501
 
 Na ação que tenha por objeto a emissão de declaração de vontade, a sentença que julgar procedente o pedido, uma vez transitada em julgado, produzirá todos os efeitos da declaração não emitida.
 
 ### Seção V — Da Coisa Julgada
 
-## Art. 502.
+## Art. 502
 
 Denomina-se coisa julgada material a autoridade que torna imutável e indiscutível a decisão de mérito não mais sujeita a recurso.
 
-## Art. 503.
+## Art. 503
 
 A decisão que julgar total ou parcialmente o mérito tem força de lei nos limites da questão principal expressamente decidida.
 
@@ -5275,7 +5275,7 @@ III - o juízo tiver competência em razão da matéria e da pessoa para resolv�
 
 § 2º A hipótese do § 1º não se aplica se no processo houver restrições probatórias ou limitações à cognição que impeçam o aprofundamento da análise da questão prejudicial.
 
-## Art. 504.
+## Art. 504
 
 Não fazem coisa julgada:
 
@@ -5283,7 +5283,7 @@ I - os motivos, ainda que importantes para determinar o alcance da parte disposi
 
 II - a verdade dos fatos, estabelecida como fundamento da sentença.
 
-## Art. 505.
+## Art. 505
 
 Nenhum juiz decidirá novamente as questões já decididas relativas à mesma lide, salvo:
 
@@ -5291,21 +5291,21 @@ I - se, tratando-se de relação jurídica de trato continuado, sobreveio modifi
 
 II - nos demais casos prescritos em lei.
 
-## Art. 506.
+## Art. 506
 
 A sentença faz coisa julgada às partes entre as quais é dada, não prejudicando terceiros.
 
-## Art. 507.
+## Art. 507
 
 É vedado à parte discutir no curso do processo as questões já decididas a cujo respeito se operou a preclusão.
 
-## Art. 508.
+## Art. 508
 
 Transitada em julgado a decisão de mérito, considerar-se-ão deduzidas e repelidas todas as alegações e as defesas que a parte poderia opor tanto ao acolhimento quanto à rejeição do pedido.
 
 # CAPÍTULO XIV — DA LIQUIDAÇÃO DE SENTENÇA
 
-## Art. 509.
+## Art. 509
 
 Quando a sentença condenar ao pagamento de quantia ilíquida, proceder-se-á à sua liquidação, a requerimento do credor ou do devedor:
 
@@ -5321,18 +5321,18 @@ II - pelo procedimento comum, quando houver necessidade de alegar e provar fato 
 
 § 4º Na liquidação é vedado discutir de novo a lide ou modificar a sentença que a julgou.
 
-## Art. 510.
+## Art. 510
 
 Na liquidação por arbitramento, o juiz intimará as partes para a apresentação de pareceres ou documentos elucidativos, no prazo que fixar, e, caso não possa decidir de plano, nomeará perito, observando-se, no que couber, o procedimento da prova pericial.
 
-## Art. 511.
+## Art. 511
 
 Na liquidação pelo procedimento comum, o juiz determinará a intimação do requerido, na pessoa de seu advogado ou da sociedade de advogados a que estiver vinculado, para, querendo, apresentar contestação no prazo de 15 (quinze) dias, observando-se, a seguir, no que couber, o disposto no
 
 Livro I da Parte Especial deste Código
 .
 
-## Art. 512.
+## Art. 512
 
 A liquidação poderá ser realizada na pendência de recurso, processando-se em autos apartados no juízo de origem, cumprindo ao liquidante instruir o pedido com cópias das peças processuais pertinentes.
 
@@ -5340,9 +5340,9 @@ A liquidação poderá ser realizada na pendência de recurso, processando-se em
 
 # CAPÍTULO I — DISPOSIÇÕES GERAIS
 
-## Art. 513.
+## Art. 513
 
-cumprimento da sentença será feito segundo as regras deste Título, observando-se, no que couber e conforme a natureza da obrigação, o disposto no Livro II da Parte Especial deste Código.
+O cumprimento da sentença será feito segundo as regras deste Título, observando-se, no que couber e conforme a natureza da obrigação, o disposto no Livro II da Parte Especial deste Código.
 
 § 1º O cumprimento da sentença que reconhece o dever de pagar quantia, provisório ou definitivo, far-se-á a requerimento do exequente.
 
@@ -5366,11 +5366,11 @@ e no § 3º deste artigo.
 
 § 5º O cumprimento da sentença não poderá ser promovido em face do fiador, do coobrigado ou do corresponsável que não tiver participado da fase de conhecimento.
 
-## Art. 514.
+## Art. 514
 
 Quando o juiz decidir relação jurídica sujeita a condição ou termo, o cumprimento da sentença dependerá de demonstração de que se realizou a condição ou de que ocorreu o termo.
 
-## Art. 515.
+## Art. 515
 
 São títulos executivos judiciais, cujo cumprimento dar-se-á de acordo com os artigos previstos neste Título:
 
@@ -5400,9 +5400,9 @@ X - (VETADO).
 
 § 2º A autocomposição judicial pode envolver sujeito estranho ao processo e versar sobre relação jurídica que não tenha sido deduzida em juízo.
 
-## Art. 516.
+## Art. 516
 
-cumprimento da sentença efetuar-se-á perante:
+O cumprimento da sentença efetuar-se-á perante:
 
 I - os tribunais, nas causas de sua competência originária;
 
@@ -5412,7 +5412,7 @@ III - o juízo cível competente, quando se tratar de sentença penal condenató
 
 Parágrafo único. Nas hipóteses dos incisos II e III, o exequente poderá optar pelo juízo do atual domicílio do executado, pelo juízo do local onde se encontrem os bens sujeitos à execução ou pelo juízo do local onde deva ser executada a obrigação de fazer ou de não fazer, casos em que a remessa dos autos do processo será solicitada ao juízo de origem.
 
-## Art. 517.
+## Art. 517
 
 A decisão judicial transitada em julgado poderá ser levada a protesto, nos termos da lei, depois de transcorrido o prazo para pagamento voluntário previsto no
 
@@ -5426,19 +5426,19 @@ art. 523.
 
 § 4º A requerimento do executado, o protesto será cancelado por determinação do juiz, mediante ofício a ser expedido ao cartório, no prazo de 3 (três) dias, contado da data de protocolo do requerimento, desde que comprovada a satisfação integral da obrigação.
 
-## Art. 518.
+## Art. 518
 
 Todas as questões relativas à validade do procedimento de cumprimento da sentença e dos atos executivos subsequentes poderão ser arguidas pelo executado nos próprios autos e nestes serão decididas pelo juiz.
 
-## Art. 519.
+## Art. 519
 
 Aplicam-se as disposições relativas ao cumprimento da sentença, provisório ou definitivo, e à liquidação, no que couber, às decisões que concederem tutela provisória.
 
 # CAPÍTULO II — DO CUMPRIMENTO PROVISÓRIO DA SENTENÇA QUE RECONHECE A EXIGIBILIDADE DE OBRIGAÇÃO DE PAGAR QUANTIA CERTA
 
-## Art. 520.
+## Art. 520
 
-cumprimento provisório da sentença impugnada por recurso desprovido de efeito suspensivo será realizado da mesma forma que o cumprimento definitivo, sujeitando-se ao seguinte regime:
+O cumprimento provisório da sentença impugnada por recurso desprovido de efeito suspensivo será realizado da mesma forma que o cumprimento definitivo, sujeitando-se ao seguinte regime:
 
 I - corre por iniciativa e responsabilidade do exequente, que se obriga, se a sentença for reformada, a reparar os danos que o executado haja sofrido;
 
@@ -5461,7 +5461,7 @@ são devidos no cumprimento provisório de sentença condenatória ao pagamento 
 
 § 5º Ao cumprimento provisório de sentença que reconheça obrigação de fazer, de não fazer ou de dar coisa aplica-se, no que couber, o disposto neste Capítulo.
 
-## Art. 521.
+## Art. 521
 
 A caução prevista no
 
@@ -5484,9 +5484,9 @@ IV - a sentença a ser provisoriamente cumprida estiver em consonância com súm
 
 Parágrafo único. A exigência de caução será mantida quando da dispensa possa resultar manifesto risco de grave dano de difícil ou incerta reparação.
 
-## Art. 522.
+## Art. 522
 
-cumprimento provisório da sentença será requerido por petição dirigida ao juízo competente.
+O cumprimento provisório da sentença será requerido por petição dirigida ao juízo competente.
 
 Parágrafo único. Não sendo eletrônicos os autos, a petição será acompanhada de cópias das seguintes peças do processo, cuja autenticidade poderá ser certificada pelo próprio advogado, sob sua responsabilidade pessoal:
 
@@ -5502,7 +5502,7 @@ V - facultativamente, outras peças processuais consideradas necessárias para d
 
 # CAPÍTULO III — DO CUMPRIMENTO DEFINITIVO DA SENTENÇA QUE RECONHECE A EXIGIBILIDADE DE OBRIGAÇÃO DE PAGAR QUANTIA CERTA
 
-## Art. 523.
+## Art. 523
 
 No caso de condenação em quantia certa, ou já fixada em liquidação, e no caso de decisão sobre parcela incontroversa, o cumprimento definitivo da sentença far-se-á a requerimento do exequente, sendo o executado intimado para pagar o débito, no prazo de 15 (quinze) dias, acrescido de custas, se houver.
 
@@ -5516,9 +5516,9 @@ caput
 
 § 3º Não efetuado tempestivamente o pagamento voluntário, será expedido, desde logo, mandado de penhora e avaliação, seguindo-se os atos de expropriação.
 
-## Art. 524.
+## Art. 524
 
-requerimento previsto no
+O requerimento previsto no
 
 art. 523
 será instruído com demonstrativo discriminado e atualizado do crédito, devendo a petição conter:
@@ -5548,7 +5548,7 @@ VII - indicação dos bens passíveis de penhora, sempre que possível.
 
 § 5º Se os dados adicionais a que se refere o § 4º não forem apresentados pelo executado, sem justificativa, no prazo designado, reputar-se-ão corretos os cálculos apresentados pelo exequente apenas com base nos dados de que dispõe.
 
-## Art. 525.
+## Art. 525
 
 Transcorrido o prazo previsto no
 
@@ -5608,7 +5608,7 @@ Constituição Federal, em controle de constitucionalidade concentrado ou difuso
 (Vide AR
 2876)
 
-## Art. 526.
+## Art. 526
 
 É lícito ao réu, antes de ser intimado para o cumprimento da sentença, comparecer em juízo e oferecer em pagamento o valor que entender devido, apresentando memória discriminada do cálculo.
 
@@ -5618,13 +5618,13 @@ Constituição Federal, em controle de constitucionalidade concentrado ou difuso
 
 § 3º Se o autor não se opuser, o juiz declarará satisfeita a obrigação e extinguirá o processo.
 
-## Art. 527.
+## Art. 527
 
 Aplicam-se as disposições deste Capítulo ao cumprimento provisório da sentença, no que couber.
 
 # CAPÍTULO IV — DO CUMPRIMENTO DE SENTENÇA QUE RECONHEÇA A EXIGIBILIDADE DE OBRIGAÇÃO DE PRESTAR ALIMENTOS
 
-## Art. 528.
+## Art. 528
 
 No cumprimento de sentença que condene ao pagamento de prestação alimentícia ou de decisão interlocutória que fixe alimentos, o juiz, a requerimento do exequente, mandará intimar o executado pessoalmente para, em 3 (três) dias, pagar o débito, provar que o fez ou justificar a impossibilidade de efetuá-lo.
 
@@ -5651,7 +5651,7 @@ art. 517
 § 9º Além das opções previstas no
 art. 516, parágrafo único, o exequente pode promover o cumprimento da sentença ou decisão que condena ao pagamento de prestação alimentícia no juízo de seu domicílio.
 
-## Art. 529.
+## Art. 529
 
 Quando o executado for funcionário público, militar, diretor ou gerente de empresa ou empregado sujeito à legislação do trabalho, o exequente poderá requerer o desconto em folha de pagamento da importância da prestação alimentícia.
 
@@ -5663,25 +5663,25 @@ Quando o executado for funcionário público, militar, diretor ou gerente de emp
 caput
 deste artigo, contanto que, somado à parcela devida, não ultrapasse cinquenta por cento de seus ganhos líquidos.
 
-## Art. 530.
+## Art. 530
 
 Não cumprida a obrigação, observar-se-á o disposto nos
 
 arts. 831 e seguintes.
 
-## Art. 531.
+## Art. 531
 
-disposto neste Capítulo aplica-se aos alimentos definitivos ou provisórios.
+O disposto neste Capítulo aplica-se aos alimentos definitivos ou provisórios.
 
 § 1º A execução dos alimentos provisórios, bem como a dos alimentos fixados em sentença ainda não transitada em julgado, se processa em autos apartados.
 
 § 2º O cumprimento definitivo da obrigação de prestar alimentos será processado nos mesmos autos em que tenha sido proferida a sentença.
 
-## Art. 532.
+## Art. 532
 
 Verificada a conduta procrastinatória do executado, o juiz deverá, se for o caso, dar ciência ao Ministério Público dos indícios da prática do crime de abandono material.
 
-## Art. 533.
+## Art. 533
 
 Quando a indenização por ato ilícito incluir prestação de alimentos, caberá ao executado, a requerimento do exequente, constituir capital cuja renda assegure o pagamento do valor mensal da pensão.
 
@@ -5699,7 +5699,7 @@ caput
 
 # CAPÍTULO V — DO CUMPRIMENTO DE SENTENÇA QUE RECONHEÇA A EXIGIBILIDADE DE OBRIGAÇÃO DE PAGAR QUANTIA CERTA PELA FAZENDA PÚBLICA
 
-## Art. 534.
+## Art. 534
 
 No cumprimento de sentença que impuser à Fazenda Pública o dever de pagar quantia certa, o exequente apresentará demonstrativo discriminado e atualizado do crédito contendo:
 
@@ -5722,7 +5722,7 @@ VI - a especificação dos eventuais descontos obrigatórios realizados.
 § 1º do art. 523
 não se aplica à Fazenda Pública.
 
-## Art. 535.
+## Art. 535
 
 A Fazenda Pública será intimada na pessoa de seu representante judicial, por carga, remessa ou meio eletrônico, para, querendo, no prazo de 30 (trinta) dias e nos próprios autos, impugnar a execução, podendo arguir:
 
@@ -5776,7 +5776,7 @@ Constituição Federal, em controle de constitucionalidade concentrado ou difuso
 
 ### Seção I — Do Cumprimento de Sentença que Reconheça a Exigibilidade de Obrigação de Fazer ou de Não Fazer
 
-## Art. 536.
+## Art. 536
 
 No cumprimento de sentença que reconheça a exigibilidade de obrigação de fazer ou de não fazer, o juiz poderá, de ofício ou a requerimento, para a efetivação da tutela específica ou a obtenção de tutela pelo resultado prático equivalente, determinar as medidas necessárias à satisfação do exequente.
 
@@ -5794,7 +5794,7 @@ art. 525, no que couber.
 
 § 5º O disposto neste artigo aplica-se, no que couber, ao cumprimento de sentença que reconheça deveres de fazer e de não fazer de natureza não obrigacional.
 
-## Art. 537.
+## Art. 537
 
 A multa independe de requerimento da parte e poderá ser aplicada na fase de conhecimento, em tutela provisória ou na sentença, ou na fase de execução, desde que seja suficiente e compatível com a obrigação e que se determine prazo razoável para cumprimento do preceito.
 
@@ -5819,7 +5819,7 @@ incisos II ou III do art. 1.042.
 
 ### Seção II — Do Cumprimento de Sentença que Reconheça a Exigibilidade de Obrigação de Entregar Coisa
 
-## Art. 538.
+## Art. 538
 
 Não cumprida a obrigação de entregar coisa no prazo estabelecido na sentença, será expedido mandado de busca e apreensão ou de imissão na posse em favor do credor, conforme se tratar de coisa móvel ou imóvel.
 
@@ -5833,7 +5833,7 @@ Não cumprida a obrigação de entregar coisa no prazo estabelecido na sentença
 
 # CAPÍTULO I — DA AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO
 
-## Art. 539.
+## Art. 539
 
 Nos casos previstos em lei, poderá o devedor ou terceiro requerer, com efeito de pagamento, a consignação da quantia ou da coisa devida.
 
@@ -5845,15 +5845,15 @@ Nos casos previstos em lei, poderá o devedor ou terceiro requerer, com efeito d
 
 § 4º Não proposta a ação no prazo do § 3º, ficará sem efeito o depósito, podendo levantá-lo o depositante.
 
-## Art. 540.
+## Art. 540
 
 Requerer-se-á a consignação no lugar do pagamento, cessando para o devedor, à data do depósito, os juros e os riscos, salvo se a demanda for julgada improcedente.
 
-## Art. 541.
+## Art. 541
 
 Tratando-se de prestações sucessivas, consignada uma delas, pode o devedor continuar a depositar, no mesmo processo e sem mais formalidades, as que se forem vencendo, desde que o faça em até 5 (cinco) dias contados da data do respectivo vencimento.
 
-## Art. 542.
+## Art. 542
 
 Na petição inicial, o autor requererá:
 
@@ -5864,11 +5864,11 @@ II - a citação do réu para levantar o depósito ou oferecer contestação.
 
 Parágrafo único. Não realizado o depósito no prazo do inciso I, o processo será extinto sem resolução do mérito.
 
-## Art. 543.
+## Art. 543
 
 Se o objeto da prestação for coisa indeterminada e a escolha couber ao credor, será este citado para exercer o direito dentro de 5 (cinco) dias, se outro prazo não constar de lei ou do contrato, ou para aceitar que o devedor a faça, devendo o juiz, ao despachar a petição inicial, fixar lugar, dia e hora em que se fará a entrega, sob pena de depósito.
 
-## Art. 544.
+## Art. 544
 
 Na contestação, o réu poderá alegar que:
 
@@ -5882,7 +5882,7 @@ IV - o depósito não é integral.
 
 Parágrafo único. No caso do inciso IV, a alegação somente será admissível se o réu indicar o montante que entende devido.
 
-## Art. 545.
+## Art. 545
 
 Alegada a insuficiência do depósito, é lícito ao autor completá-lo, em 10 (dez) dias, salvo se corresponder a prestação cujo inadimplemento acarrete a rescisão do contrato.
 
@@ -5892,17 +5892,17 @@ caput
 
 § 2º A sentença que concluir pela insuficiência do depósito determinará, sempre que possível, o montante devido e valerá como título executivo, facultado ao credor promover-lhe o cumprimento nos mesmos autos, após liquidação, se necessária.
 
-## Art. 546.
+## Art. 546
 
 Julgado procedente o pedido, o juiz declarará extinta a obrigação e condenará o réu ao pagamento de custas e honorários advocatícios.
 
 Parágrafo único. Proceder-se-á do mesmo modo se o credor receber e der quitação.
 
-## Art. 547.
+## Art. 547
 
 Se ocorrer dúvida sobre quem deva legitimamente receber o pagamento, o autor requererá o depósito e a citação dos possíveis titulares do crédito para provarem o seu direito.
 
-## Art. 548.
+## Art. 548
 
 No caso do
 
@@ -5914,13 +5914,13 @@ II - comparecendo apenas um, o juiz decidirá de plano;
 
 III - comparecendo mais de um, o juiz declarará efetuado o depósito e extinta a obrigação, continuando o processo a correr unicamente entre os presuntivos credores, observado o procedimento comum.
 
-## Art. 549.
+## Art. 549
 
 Aplica-se o procedimento estabelecido neste Capítulo, no que couber, ao resgate do aforamento.
 
 # CAPÍTULO II — DA AÇÃO DE EXIGIR CONTAS
 
-## Art. 550.
+## Art. 550
 
 Aquele que afirmar ser titular do direito de exigir contas requererá a citação do réu para que as preste ou ofereça contestação no prazo de 15 (quinze) dias.
 
@@ -5937,7 +5937,7 @@ art. 355.
 
 § 6º Se o réu apresentar as contas no prazo previsto no § 5º, seguir-se-á o procedimento do § 2º, caso contrário, o autor apresentá-las-á no prazo de 15 (quinze) dias, podendo o juiz determinar a realização de exame pericial, se necessário.
 
-## Art. 551.
+## Art. 551
 
 As contas do réu serão apresentadas na forma adequada, especificando-se as receitas, a aplicação das despesas e os investimentos, se houver.
 
@@ -5946,11 +5946,11 @@ As contas do réu serão apresentadas na forma adequada, especificando-se as rec
 § 2º As contas do autor, para os fins do
 art. 550, § 5º, serão apresentadas na forma adequada, já instruídas com os documentos justificativos, especificando-se as receitas, a aplicação das despesas e os investimentos, se houver, bem como o respectivo saldo.
 
-## Art. 552.
+## Art. 552
 
 A sentença apurará o saldo e constituirá título executivo judicial.
 
-## Art. 553.
+## Art. 553
 
 As contas do inventariante, do tutor, do curador, do depositário e de qualquer outro administrador serão prestadas em apenso aos autos do processo em que tiver sido nomeado.
 
@@ -5962,7 +5962,7 @@ for condenado a pagar o saldo e não o fizer no prazo legal, o juiz poderá dest
 
 ### Seção I — Disposições Gerais
 
-## Art. 554.
+## Art. 554
 
 A propositura de uma ação possessória em vez de outra não obstará a que o juiz conheça do pedido e outorgue a proteção legal correspondente àquela cujos pressupostos estejam provados.
 
@@ -5972,7 +5972,7 @@ A propositura de uma ação possessória em vez de outra não obstará a que o j
 
 § 3º O juiz deverá determinar que se dê ampla publicidade da existência da ação prevista no § 1º e dos respectivos prazos processuais, podendo, para tanto, valer-se de anúncios em jornal ou rádio locais, da publicação de cartazes na região do conflito e de outros meios.
 
-## Art. 555.
+## Art. 555
 
 É lícito ao autor cumular ao pedido possessório o de:
 
@@ -5986,17 +5986,17 @@ I - evitar nova turbação ou esbulho;
 
 II - cumprir-se a tutela provisória ou final.
 
-## Art. 556.
+## Art. 556
 
 É lícito ao réu, na contestação, alegando que foi o ofendido em sua posse, demandar a proteção possessória e a indenização pelos prejuízos resultantes da turbação ou do esbulho cometido pelo autor.
 
-## Art. 557.
+## Art. 557
 
 Na pendência de ação possessória é vedado, tanto ao autor quanto ao réu, propor ação de reconhecimento do domínio, exceto se a pretensão for deduzida em face de terceira pessoa.
 
 Parágrafo único. Não obsta à manutenção ou à reintegração de posse a alegação de propriedade ou de outro direito sobre a coisa.
 
-## Art. 558.
+## Art. 558
 
 Regem o procedimento de manutenção e de reintegração de posse as normas da Seção II deste Capítulo quando a ação for proposta dentro de ano e dia da turbação ou do esbulho afirmado na petição inicial.
 
@@ -6004,17 +6004,17 @@ Parágrafo único. Passado o prazo referido no
 caput
 , será comum o procedimento, não perdendo, contudo, o caráter possessório.
 
-## Art. 559.
+## Art. 559
 
 Se o réu provar, em qualquer tempo, que o autor provisoriamente mantido ou reintegrado na posse carece de idoneidade financeira para, no caso de sucumbência, responder por perdas e danos, o juiz designar-lhe-á o prazo de 5 (cinco) dias para requerer caução, real ou fidejussória, sob pena de ser depositada a coisa litigiosa, ressalvada a impossibilidade da parte economicamente hipossuficiente.
 
 ### Seção II — Da Manutenção e da Reintegração de Posse
 
-## Art. 560.
+## Art. 560
 
-possuidor tem direito a ser mantido na posse em caso de turbação e reintegrado em caso de esbulho.
+O possuidor tem direito a ser mantido na posse em caso de turbação e reintegrado em caso de esbulho.
 
-## Art. 561.
+## Art. 561
 
 Incumbe ao autor provar:
 
@@ -6026,23 +6026,23 @@ III - a data da turbação ou do esbulho;
 
 IV - a continuação da posse, embora turbada, na ação de manutenção, ou a perda da posse, na ação de reintegração.
 
-## Art. 562.
+## Art. 562
 
 Estando a petição inicial devidamente instruída, o juiz deferirá, sem ouvir o réu, a expedição do mandado liminar de manutenção ou de reintegração, caso contrário, determinará que o autor justifique previamente o alegado, citando-se o réu para comparecer à audiência que for designada.
 
 Parágrafo único. Contra as pessoas jurídicas de direito público não será deferida a manutenção ou a reintegração liminar sem prévia audiência dos respectivos representantes judiciais.
 
-## Art. 563.
+## Art. 563
 
 Considerada suficiente a justificação, o juiz fará logo expedir mandado de manutenção ou de reintegração.
 
-## Art. 564.
+## Art. 564
 
 Concedido ou não o mandado liminar de manutenção ou de reintegração, o autor promoverá, nos 5 (cinco) dias subsequentes, a citação do réu para, querendo, contestar a ação no prazo de 15 (quinze) dias.
 
 Parágrafo único. Quando for ordenada a justificação prévia, o prazo para contestar será contado da intimação da decisão que deferir ou não a medida liminar.
 
-## Art. 565.
+## Art. 565
 
 No litígio coletivo pela posse de imóvel, quando o esbulho ou a turbação afirmado na petição inicial houver ocorrido há mais de ano e dia, o juiz, antes de apreciar o pedido de concessão da medida liminar, deverá designar audiência de mediação, a realizar-se em até 30 (trinta) dias, que observará o disposto nos §§ 2º e 4º.
 
@@ -6056,17 +6056,17 @@ No litígio coletivo pela posse de imóvel, quando o esbulho ou a turbação afi
 
 § 5º Aplica-se o disposto neste artigo ao litígio sobre propriedade de imóvel.
 
-## Art. 566.
+## Art. 566
 
 Aplica-se, quanto ao mais, o procedimento comum.
 
 ### Seção III — Do Interdito Proibitório
 
-## Art. 567.
+## Art. 567
 
-possuidor direto ou indireto que tenha justo receio de ser molestado na posse poderá requerer ao juiz que o segure da turbação ou esbulho iminente, mediante mandado proibitório em que se comine ao réu determinada pena pecuniária caso transgrida o preceito.
+O possuidor direto ou indireto que tenha justo receio de ser molestado na posse poderá requerer ao juiz que o segure da turbação ou esbulho iminente, mediante mandado proibitório em que se comine ao réu determinada pena pecuniária caso transgrida o preceito.
 
-## Art. 568.
+## Art. 568
 
 Aplica-se ao interdito proibitório o disposto na Seção II deste Capítulo.
 
@@ -6074,7 +6074,7 @@ Aplica-se ao interdito proibitório o disposto na Seção II deste Capítulo.
 
 ### Seção I — Disposições Gerais
 
-## Art. 569.
+## Art. 569
 
 Cabe:
 
@@ -6082,15 +6082,15 @@ I - ao proprietário a ação de demarcação, para obrigar o seu confinante a e
 
 II - ao condômino a ação de divisão, para obrigar os demais consortes a estremar os quinhões.
 
-## Art. 570.
+## Art. 570
 
 É lícita a cumulação dessas ações, caso em que deverá processar-se primeiramente a demarcação total ou parcial da coisa comum, citando-se os confinantes e os condôminos.
 
-## Art. 571.
+## Art. 571
 
 A demarcação e a divisão poderão ser realizadas por escritura pública, desde que maiores, capazes e concordes todos os interessados, observando-se, no que couber, os dispositivos deste Capítulo.
 
-## Art. 572.
+## Art. 572
 
 Fixados os marcos da linha de demarcação, os confinantes considerar-se-ão terceiros quanto ao processo divisório, ficando-lhes, porém, ressalvado o direito de vindicar os terrenos de que se julguem despojados por invasão das linhas limítrofes constitutivas do perímetro ou de reclamar indenização correspondente ao seu valor.
 
@@ -6101,21 +6101,21 @@ serão citados para a ação todos os condôminos, se a sentença homologatória
 
 § 2º Neste último caso, a sentença que julga procedente a ação, condenando a restituir os terrenos ou a pagar a indenização, valerá como título executivo em favor dos quinhoeiros para haverem dos outros condôminos que forem parte na divisão ou de seus sucessores a título universal, na proporção que lhes tocar, a composição pecuniária do desfalque sofrido.
 
-## Art. 573.
+## Art. 573
 
 Tratando-se de imóvel georreferenciado, com averbação no registro de imóveis, pode o juiz dispensar a realização de prova pericial.
 
 ### Seção II — Da Demarcação
 
-## Art. 574.
+## Art. 574
 
 Na petição inicial, instruída com os títulos da propriedade, designar-se-á o imóvel pela situação e pela denominação, descrever-se-ão os limites por constituir, aviventar ou renovar e nomear-se-ão todos os confinantes da linha demarcanda.
 
-## Art. 575.
+## Art. 575
 
 Qualquer condômino é parte legítima para promover a demarcação do imóvel comum, requerendo a intimação dos demais para, querendo, intervir no processo.
 
-## Art. 576.
+## Art. 576
 
 A citação dos réus será feita por correio, observado o disposto no
 
@@ -6124,35 +6124,35 @@ art. 247.
 Parágrafo único. Será publicado edital, nos termos do
 inciso III do art. 259.
 
-## Art. 577.
+## Art. 577
 
 Feitas as citações, terão os réus o prazo comum de 15 (quinze) dias para contestar.
 
-## Art. 578.
+## Art. 578
 
 Após o prazo de resposta do réu, observar-se-á o procedimento comum.
 
-## Art. 579.
+## Art. 579
 
 Antes de proferir a sentença, o juiz nomeará um ou mais peritos para levantar o traçado da linha demarcanda.
 
-## Art. 580.
+## Art. 580
 
 Concluídos os estudos, os peritos apresentarão minucioso laudo sobre o traçado da linha demarcanda, considerando os títulos, os marcos, os rumos, a fama da vizinhança, as informações de antigos moradores do lugar e outros elementos que coligirem.
 
-## Art. 581.
+## Art. 581
 
 A sentença que julgar procedente o pedido determinará o traçado da linha demarcanda.
 
 Parágrafo único. A sentença proferida na ação demarcatória determinará a restituição da área invadida, se houver, declarando o domínio ou a posse do prejudicado, ou ambos.
 
-## Art. 582.
+## Art. 582
 
 Transitada em julgado a sentença, o perito efetuará a demarcação e colocará os marcos necessários.
 
 Parágrafo único. Todas as operações serão consignadas em planta e memorial descritivo com as referências convenientes para a identificação, em qualquer tempo, dos pontos assinalados, observada a legislação especial que dispõe sobre a identificação do imóvel rural.
 
-## Art. 583.
+## Art. 583
 
 As plantas serão acompanhadas das cadernetas de operações de campo e do memorial descritivo, que conterá:
 
@@ -6170,27 +6170,27 @@ VI - as distâncias a pontos de referência, tais como rodovias federais e estad
 
 VII - a indicação de tudo o mais que for útil para o levantamento da linha ou para a identificação da linha já levantada.
 
-## Art. 584.
+## Art. 584
 
 É obrigatória a colocação de marcos tanto na estação inicial, dita marco primordial, quanto nos vértices dos ângulos, salvo se algum desses últimos pontos for assinalado por acidentes naturais de difícil remoção ou destruição.
 
-## Art. 585.
+## Art. 585
 
 A linha será percorrida pelos peritos, que examinarão os marcos e os rumos, consignando em relatório escrito a exatidão do memorial e da planta apresentados pelo agrimensor ou as divergências porventura encontradas.
 
-## Art. 586.
+## Art. 586
 
 Juntado aos autos o relatório dos peritos, o juiz determinará que as partes se manifestem sobre ele no prazo comum de 15 (quinze) dias.
 
 Parágrafo único. Executadas as correções e as retificações que o juiz determinar, lavrar-se-á, em seguida, o auto de demarcação em que os limites demarcandos serão minuciosamente descritos de acordo com o memorial e a planta.
 
-## Art. 587.
+## Art. 587
 
 Assinado o auto pelo juiz e pelos peritos, será proferida a sentença homologatória da demarcação.
 
 ### Seção III — Da Divisão
 
-## Art. 588.
+## Art. 588
 
 A petição inicial será instruída com os títulos de domínio do promovente e conterá:
 
@@ -6200,50 +6200,50 @@ II - o nome, o estado civil, a profissão e a residência de todos os condômino
 
 III - as benfeitorias comuns.
 
-## Art. 589.
+## Art. 589
 
 Feitas as citações como preceitua o
 
 art. 576, prosseguir-se-á na forma dos
 arts. 577 e 578.
 
-## Art. 590.
+## Art. 590
 
-juiz nomeará um ou mais peritos para promover a medição do imóvel e as operações de divisão, observada a legislação especial que dispõe sobre a identificação do imóvel rural.
+O juiz nomeará um ou mais peritos para promover a medição do imóvel e as operações de divisão, observada a legislação especial que dispõe sobre a identificação do imóvel rural.
 
 Parágrafo único. O perito deverá indicar as vias de comunicação existentes, as construções e as benfeitorias, com a indicação dos seus valores e dos respectivos proprietários e ocupantes, as águas principais que banham o imóvel e quaisquer outras informações que possam concorrer para facilitar a partilha.
 
-## Art. 591.
+## Art. 591
 
 Todos os condôminos serão intimados a apresentar, dentro de 10 (dez) dias, os seus títulos, se ainda não o tiverem feito, e a formular os seus pedidos sobre a constituição dos quinhões.
 
-## Art. 592.
+## Art. 592
 
-juiz ouvirá as partes no prazo comum de 15 (quinze) dias.
+O juiz ouvirá as partes no prazo comum de 15 (quinze) dias.
 
 § 1º Não havendo impugnação, o juiz determinará a divisão geodésica do imóvel.
 
 § 2º Havendo impugnação, o juiz proferirá, no prazo de 10 (dez) dias, decisão sobre os pedidos e os títulos que devam ser atendidos na formação dos quinhões.
 
-## Art. 593.
+## Art. 593
 
 Se qualquer linha do perímetro atingir benfeitorias permanentes dos confinantes feitas há mais de 1 (um) ano, serão elas respeitadas, bem como os terrenos onde estiverem, os quais não se computarão na área dividenda.
 
-## Art. 594.
+## Art. 594
 
-s confinantes do imóvel dividendo podem demandar a restituição dos terrenos que lhes tenham sido usurpados.
+Os confinantes do imóvel dividendo podem demandar a restituição dos terrenos que lhes tenham sido usurpados.
 
 § 1º Serão citados para a ação todos os condôminos, se a sentença homologatória da divisão ainda não houver transitado em julgado, e todos os quinhoeiros dos terrenos vindicados, se a ação for proposta posteriormente.
 
 § 2º Nesse último caso terão os quinhoeiros o direito, pela mesma sentença que os obrigar à restituição, a haver dos outros condôminos do processo divisório ou de seus sucessores a título universal a composição pecuniária proporcional ao desfalque sofrido.
 
-## Art. 595.
+## Art. 595
 
-s peritos proporão, em laudo fundamentado, a forma da divisão, devendo consultar, quanto possível, a comodidade das partes, respeitar, para adjudicação a cada condômino, a preferência dos terrenos contíguos às suas residências e benfeitorias e evitar o retalhamento dos quinhões em glebas separadas.
+Os peritos proporão, em laudo fundamentado, a forma da divisão, devendo consultar, quanto possível, a comodidade das partes, respeitar, para adjudicação a cada condômino, a preferência dos terrenos contíguos às suas residências e benfeitorias e evitar o retalhamento dos quinhões em glebas separadas.
 
-## Art. 596.
+## Art. 596
 
-uvidas as partes, no prazo comum de 15 (quinze) dias, sobre o cálculo e o plano da divisão, o juiz deliberará a partilha.
+Ouvidas as partes, no prazo comum de 15 (quinze) dias, sobre o cálculo e o plano da divisão, o juiz deliberará a partilha.
 
 Parágrafo único. Em cumprimento dessa decisão, o perito procederá à demarcação dos quinhões, observando, além do disposto nos
 arts. 584 e 585, as seguintes regras:
@@ -6256,7 +6256,7 @@ III - as benfeitorias particulares dos condôminos que excederem à área a que 
 
 IV - se outra coisa não acordarem as partes, as compensações e as reposições serão feitas em dinheiro.
 
-## Art. 597.
+## Art. 597
 
 Terminados os trabalhos e desenhados na planta os quinhões e as servidões aparentes, o perito organizará o memorial descritivo.
 
@@ -6281,7 +6281,7 @@ II - a relação das benfeitorias e das culturas do próprio quinhoeiro e das qu
 
 III - a declaração das servidões instituídas, especificados os lugares, a extensão e o modo de exercício.
 
-## Art. 598.
+## Art. 598
 
 Aplica-se às divisões o disposto nos
 
@@ -6289,7 +6289,7 @@ arts. 575 a 578.
 
 # CAPÍTULO V — DA AÇÃO DE DISSOLUÇÃO PARCIAL DE SOCIEDADE
 
-## Art. 599.
+## Art. 599
 
 A ação de dissolução parcial de sociedade pode ter por objeto:
 
@@ -6303,7 +6303,7 @@ III - somente a resolução ou a apuração de haveres.
 
 § 2º A ação de dissolução parcial de sociedade pode ter também por objeto a sociedade anônima de capital fechado quando demonstrado, por acionista ou acionistas que representem cinco por cento ou mais do capital social, que não pode preencher o seu fim.
 
-## Art. 600.
+## Art. 600
 
 A ação pode ser proposta:
 
@@ -6321,17 +6321,17 @@ VI - pelo sócio excluído.
 
 Parágrafo único. O cônjuge ou companheiro do sócio cujo casamento, união estável ou convivência terminou poderá requerer a apuração de seus haveres na sociedade, que serão pagos à conta da quota social titulada por este sócio.
 
-## Art. 601.
+## Art. 601
 
-s sócios e a sociedade serão citados para, no prazo de 15 (quinze) dias, concordar com o pedido ou apresentar contestação.
+Os sócios e a sociedade serão citados para, no prazo de 15 (quinze) dias, concordar com o pedido ou apresentar contestação.
 
 Parágrafo único. A sociedade não será citada se todos os seus sócios o forem, mas ficará sujeita aos efeitos da decisão e à coisa julgada.
 
-## Art. 602.
+## Art. 602
 
 A sociedade poderá formular pedido de indenização compensável com o valor dos haveres a apurar.
 
-## Art. 603.
+## Art. 603
 
 Havendo manifestação expressa e unânime pela concordância da dissolução, o juiz a decretará, passando-se imediatamente à fase de liquidação.
 
@@ -6341,7 +6341,7 @@ caput
 
 § 2º Havendo contestação, observar-se-á o procedimento comum, mas a liquidação da sentença seguirá o disposto neste Capítulo.
 
-## Art. 604.
+## Art. 604
 
 Para apuração dos haveres, o juiz:
 
@@ -6357,7 +6357,7 @@ III - nomeará o perito.
 
 § 3º Se o contrato social estabelecer o pagamento dos haveres, será observado o que nele se dispôs no depósito judicial da parte incontroversa.
 
-## Art. 605.
+## Art. 605
 
 A data da resolução da sociedade será:
 
@@ -6371,23 +6371,23 @@ IV - na retirada por justa causa de sociedade por prazo determinado e na exclus�
 
 V - na exclusão extrajudicial, a data da assembleia ou da reunião de sócios que a tiver deliberado.
 
-## Art. 606.
+## Art. 606
 
 Em caso de omissão do contrato social, o juiz definirá, como critério de apuração de haveres, o valor patrimonial apurado em balanço de determinação, tomando-se por referência a data da resolução e avaliando-se bens e direitos do ativo, tangíveis e intangíveis, a preço de saída, além do passivo também a ser apurado de igual forma.
 
 Parágrafo único. Em todos os casos em que seja necessária a realização de perícia, a nomeação do perito recairá preferencialmente sobre especialista em avaliação de sociedades.
 
-## Art. 607.
+## Art. 607
 
 A data da resolução e o critério de apuração de haveres podem ser revistos pelo juiz, a pedido da parte, a qualquer tempo antes do início da perícia.
 
-## Art. 608.
+## Art. 608
 
 Até a data da resolução, integram o valor devido ao ex-sócio, ao espólio ou aos sucessores a participação nos lucros ou os juros sobre o capital próprio declarados pela sociedade e, se for o caso, a remuneração como administrador.
 
 Parágrafo único. Após a data da resolução, o ex-sócio, o espólio ou os sucessores terão direito apenas à correção monetária dos valores apurados e aos juros contratuais ou legais.
 
-## Art. 609.
+## Art. 609
 
 Uma vez apurados, os haveres do sócio retirante serão pagos conforme disciplinar o contrato social e, no silêncio deste, nos termos do
 
@@ -6397,7 +6397,7 @@ Uma vez apurados, os haveres do sócio retirante serão pagos conforme disciplin
 
 ### Seção I — Disposições Gerais
 
-## Art. 610.
+## Art. 610
 
 Havendo testamento ou interessado incapaz, proceder-se-á ao inventário judicial.
 
@@ -6407,33 +6407,33 @@ Havendo testamento ou interessado incapaz, proceder-se-á ao inventário judicia
 o
 O tabelião somente lavrará a escritura pública se todas as partes interessadas estiverem assistidas por advogado ou por defensor público, cuja qualificação e assinatura constarão do ato notarial.
 
-## Art. 611.
+## Art. 611
 
-processo de inventário e de partilha deve ser instaurado dentro de 2 (dois) meses, a contar da abertura da sucessão, ultimando-se nos 12 (doze) meses subsequentes, podendo o juiz prorrogar esses prazos, de ofício ou a requerimento de parte.
+O processo de inventário e de partilha deve ser instaurado dentro de 2 (dois) meses, a contar da abertura da sucessão, ultimando-se nos 12 (doze) meses subsequentes, podendo o juiz prorrogar esses prazos, de ofício ou a requerimento de parte.
 
-## Art. 612.
+## Art. 612
 
-juiz decidirá todas as questões de direito desde que os fatos relevantes estejam provados por documento, só remetendo para as vias ordinárias as questões que dependerem de outras provas.
+O juiz decidirá todas as questões de direito desde que os fatos relevantes estejam provados por documento, só remetendo para as vias ordinárias as questões que dependerem de outras provas.
 
-## Art. 613.
+## Art. 613
 
 Até que o inventariante preste o compromisso, continuará o espólio na posse do administrador provisório.
 
-## Art. 614.
+## Art. 614
 
-administrador provisório representa ativa e passivamente o espólio, é obrigado a trazer ao acervo os frutos que desde a abertura da sucessão percebeu, tem direito ao reembolso das despesas necessárias e úteis que fez e responde pelo dano a que, por dolo ou culpa, der causa.
+O administrador provisório representa ativa e passivamente o espólio, é obrigado a trazer ao acervo os frutos que desde a abertura da sucessão percebeu, tem direito ao reembolso das despesas necessárias e úteis que fez e responde pelo dano a que, por dolo ou culpa, der causa.
 
 ### Seção II — Da Legitimidade para Requerer o Inventário
 
-## Art. 615.
+## Art. 615
 
-requerimento de inventário e de partilha incumbe a quem estiver na posse e na administração do espólio, no prazo estabelecido no
+O requerimento de inventário e de partilha incumbe a quem estiver na posse e na administração do espólio, no prazo estabelecido no
 
 art. 611.
 
 Parágrafo único. O requerimento será instruído com a certidão de óbito do autor da herança.
 
-## Art. 616.
+## Art. 616
 
 Têm, contudo, legitimidade concorrente:
 
@@ -6457,9 +6457,9 @@ IX - o administrador judicial da falência do herdeiro, do legatário, do autor 
 
 ### Seção III — Do Inventariante e das Primeiras Declarações
 
-## Art. 617.
+## Art. 617
 
-juiz nomeará inventariante na seguinte ordem:
+O juiz nomeará inventariante na seguinte ordem:
 
 I - o cônjuge ou companheiro sobrevivente, desde que estivesse convivendo com o outro ao tempo da morte deste;
 
@@ -6479,7 +6479,7 @@ VIII - pessoa estranha idônea, quando não houver inventariante judicial.
 
 Parágrafo único. O inventariante, intimado da nomeação, prestará, dentro de 5 (cinco) dias, o compromisso de bem e fielmente desempenhar a função.
 
-## Art. 618.
+## Art. 618
 
 Incumbe ao inventariante:
 
@@ -6500,7 +6500,7 @@ VII - prestar contas de sua gestão ao deixar o cargo ou sempre que o juiz lhe d
 
 VIII - requerer a declaração de insolvência.
 
-## Art. 619.
+## Art. 619
 
 Incumbe ainda ao inventariante, ouvidos os interessados e com autorização do juiz:
 
@@ -6512,7 +6512,7 @@ III - pagar dívidas do espólio;
 
 IV - fazer as despesas necessárias para a conservação e o melhoramento dos bens do espólio.
 
-## Art. 620.
+## Art. 620
 
 Dentro de 20 (vinte) dias contados da data em que prestou o compromisso, o inventariante fará as primeiras declarações, das quais se lavrará termo circunstanciado, assinado pelo juiz, pelo escrivão e pelo inventariante, no qual serão exarados:
 
@@ -6548,13 +6548,13 @@ II - à apuração de haveres, se o autor da herança era sócio de sociedade qu
 
 § 2º As declarações podem ser prestadas mediante petição, firmada por procurador com poderes especiais, à qual o termo se reportará.
 
-## Art. 621.
+## Art. 621
 
 Só se pode arguir sonegação ao inventariante depois de encerrada a descrição dos bens, com a declaração, por ele feita, de não existirem outros por inventariar.
 
-## Art. 622.
+## Art. 622
 
-inventariante será removido de ofício ou a requerimento:
+O inventariante será removido de ofício ou a requerimento:
 
 I - se não prestar, no prazo legal, as primeiras ou as últimas declarações;
 
@@ -6568,7 +6568,7 @@ V - se não prestar contas ou se as que prestar não forem julgadas boas;
 
 VI - se sonegar, ocultar ou desviar bens do espólio.
 
-## Art. 623.
+## Art. 623
 
 Requerida a remoção com fundamento em qualquer dos incisos do
 
@@ -6576,20 +6576,20 @@ art. 622, será intimado o inventariante para, no prazo de 15 (quinze) dias, def
 
 Parágrafo único. O incidente da remoção correrá em apenso aos autos do inventário.
 
-## Art. 624.
+## Art. 624
 
 Decorrido o prazo, com a defesa do inventariante ou sem ela, o juiz decidirá.
 
 Parágrafo único. Se remover o inventariante, o juiz nomeará outro, observada a ordem estabelecida no
 art. 617.
 
-## Art. 625.
+## Art. 625
 
-inventariante removido entregará imediatamente ao substituto os bens do espólio e, caso deixe de fazê-lo, será compelido mediante mandado de busca e apreensão ou de imissão na posse, conforme se tratar de bem móvel ou imóvel, sem prejuízo da multa a ser fixada pelo juiz em montante não superior a três por cento do valor dos bens inventariados.
+O inventariante removido entregará imediatamente ao substituto os bens do espólio e, caso deixe de fazê-lo, será compelido mediante mandado de busca e apreensão ou de imissão na posse, conforme se tratar de bem móvel ou imóvel, sem prejuízo da multa a ser fixada pelo juiz em montante não superior a três por cento do valor dos bens inventariados.
 
 ### Seção IV — Das Citações e das Impugnações
 
-## Art. 626.
+## Art. 626
 
 Feitas as primeiras declarações, o juiz mandará citar, para os termos do inventário e da partilha, o cônjuge, o companheiro, os herdeiros e os legatários e intimar a Fazenda Pública, o Ministério Público, se houver herdeiro incapaz ou ausente, e o testamenteiro, se houver testamento.
 
@@ -6603,7 +6603,7 @@ inciso III do art. 259.
 
 § 4º Incumbe ao escrivão remeter cópias à Fazenda Pública, ao Ministério Público, ao testamenteiro, se houver, e ao advogado, se a parte já estiver representada nos autos.
 
-## Art. 627.
+## Art. 627
 
 Concluídas as citações, abrir-se-á vista às partes, em cartório e pelo prazo comum de 15 (quinze) dias, para que se manifestem sobre as primeiras declarações, incumbindo às partes:
 
@@ -6619,7 +6619,7 @@ III - contestar a qualidade de quem foi incluído no título de herdeiro.
 
 § 3º Verificando que a disputa sobre a qualidade de herdeiro a que alude o inciso III demanda produção de provas que não a documental, o juiz remeterá a parte às vias ordinárias e sobrestará, até o julgamento da ação, a entrega do quinhão que na partilha couber ao herdeiro admitido.
 
-## Art. 628.
+## Art. 628
 
 Aquele que se julgar preterido poderá demandar sua admissão no inventário, requerendo-a antes da partilha.
 
@@ -6627,7 +6627,7 @@ Aquele que se julgar preterido poderá demandar sua admissão no inventário, re
 
 § 2º Se para solução da questão for necessária a produção de provas que não a documental, o juiz remeterá o requerente às vias ordinárias, mandando reservar, em poder do inventariante, o quinhão do herdeiro excluído até que se decida o litígio.
 
-## Art. 629.
+## Art. 629
 
 A Fazenda Pública, no prazo de 15 (quinze) dias, após a vista de que trata o
 
@@ -6635,7 +6635,7 @@ art. 627, informará ao juízo, de acordo com os dados que constam de seu cadast
 
 ### Seção V — Da Avaliação e do Cálculo do Imposto
 
-## Art. 630.
+## Art. 630
 
 Findo o prazo previsto no
 
@@ -6645,25 +6645,25 @@ sem impugnação ou decidida a impugnação que houver sido oposta, o juiz nomea
 Parágrafo único. Na hipótese prevista no
 art. 620, § 1º, o juiz nomeará perito para avaliação das quotas sociais ou apuração dos haveres.
 
-## Art. 631.
+## Art. 631
 
 Ao avaliar os bens do espólio, o perito observará, no que for aplicável, o disposto nos
 
 arts. 872 e 873.
 
-## Art. 632.
+## Art. 632
 
 Não se expedirá carta precatória para a avaliação de bens situados fora da comarca onde corre o inventário se eles forem de pequeno valor ou perfeitamente conhecidos do perito nomeado.
 
-## Art. 633.
+## Art. 633
 
 Sendo capazes todas as partes, não se procederá à avaliação se a Fazenda Pública, intimada pessoalmente, concordar de forma expressa com o valor atribuído, nas primeiras declarações, aos bens do espólio.
 
-## Art. 634.
+## Art. 634
 
 Se os herdeiros concordarem com o valor dos bens declarados pela Fazenda Pública, a avaliação cingir-se-á aos demais.
 
-## Art. 635.
+## Art. 635
 
 Entregue o laudo de avaliação, o juiz mandará que as partes se manifestem no prazo de 15 (quinze) dias, que correrá em cartório.
 
@@ -6671,15 +6671,15 @@ Entregue o laudo de avaliação, o juiz mandará que as partes se manifestem no 
 
 § 2º Julgando procedente a impugnação, o juiz determinará que o perito retifique a avaliação, observando os fundamentos da decisão.
 
-## Art. 636.
+## Art. 636
 
 Aceito o laudo ou resolvidas as impugnações suscitadas a seu respeito, lavrar-se-á em seguida o termo de últimas declarações, no qual o inventariante poderá emendar, aditar ou completar as primeiras.
 
-## Art. 637.
+## Art. 637
 
-uvidas as partes sobre as últimas declarações no prazo comum de 15 (quinze) dias, proceder-se-á ao cálculo do tributo.
+Ouvidas as partes sobre as últimas declarações no prazo comum de 15 (quinze) dias, proceder-se-á ao cálculo do tributo.
 
-## Art. 638.
+## Art. 638
 
 Feito o cálculo, sobre ele serão ouvidas todas as partes no prazo comum de 5 (cinco) dias, que correrá em cartório, e, em seguida, a Fazenda Pública.
 
@@ -6689,7 +6689,7 @@ Feito o cálculo, sobre ele serão ouvidas todas as partes no prazo comum de 5 (
 
 ### Seção VI — Das Colações
 
-## Art. 639.
+## Art. 639
 
 No prazo estabelecido no
 
@@ -6697,9 +6697,9 @@ art. 627, o herdeiro obrigado à colação conferirá por termo nos autos ou por
 
 Parágrafo único. Os bens a serem conferidos na partilha, assim como as acessões e as benfeitorias que o donatário fez, calcular-se-ão pelo valor que tiverem ao tempo da abertura da sucessão.
 
-## Art. 640.
+## Art. 640
 
-herdeiro que renunciou à herança ou o que dela foi excluído não se exime, pelo fato da renúncia ou da exclusão, de conferir, para o efeito de repor a parte inoficiosa, as liberalidades que obteve do doador.
+O herdeiro que renunciou à herança ou o que dela foi excluído não se exime, pelo fato da renúncia ou da exclusão, de conferir, para o efeito de repor a parte inoficiosa, as liberalidades que obteve do doador.
 
 § 1º É lícito ao donatário escolher, dentre os bens doados, tantos quantos bastem para perfazer a legítima e a metade disponível, entrando na partilha o excedente para ser dividido entre os demais herdeiros.
 
@@ -6707,7 +6707,7 @@ herdeiro que renunciou à herança ou o que dela foi excluído não se exime, pe
 
 § 3º O donatário poderá concorrer na licitação referida no § 2º e, em igualdade de condições, terá preferência sobre os herdeiros.
 
-## Art. 641.
+## Art. 641
 
 Se o herdeiro negar o recebimento dos bens ou a obrigação de os conferir, o juiz, ouvidas as partes no prazo comum de 15 (quinze) dias, decidirá à vista das alegações e das provas produzidas.
 
@@ -6717,7 +6717,7 @@ Se o herdeiro negar o recebimento dos bens ou a obrigação de os conferir, o ju
 
 ### Seção VII — Do Pagamento das Dívidas
 
-## Art. 642.
+## Art. 642
 
 Antes da partilha, poderão os credores do espólio requerer ao juízo do inventário o pagamento das dívidas vencidas e exigíveis.
 
@@ -6731,29 +6731,29 @@ Antes da partilha, poderão os credores do espólio requerer ao juízo do invent
 
 § 5º Os donatários serão chamados a pronunciar-se sobre a aprovação das dívidas, sempre que haja possibilidade de resultar delas a redução das liberalidades.
 
-## Art. 643.
+## Art. 643
 
 Não havendo concordância de todas as partes sobre o pedido de pagamento feito pelo credor, será o pedido remetido às vias ordinárias.
 
 Parágrafo único. O juiz mandará, porém, reservar, em poder do inventariante, bens suficientes para pagar o credor quando a dívida constar de documento que comprove suficientemente a obrigação e a impugnação não se fundar em quitação.
 
-## Art. 644.
+## Art. 644
 
-credor de dívida líquida e certa, ainda não vencida, pode requerer habilitação no inventário.
+O credor de dívida líquida e certa, ainda não vencida, pode requerer habilitação no inventário.
 
 Parágrafo único. Concordando as partes com o pedido referido no
 caput
 , o juiz, ao julgar habilitado o crédito, mandará que se faça separação de bens para o futuro pagamento.
 
-## Art. 645.
+## Art. 645
 
-legatário é parte legítima para manifestar-se sobre as dívidas do espólio:
+O legatário é parte legítima para manifestar-se sobre as dívidas do espólio:
 
 I - quando toda a herança for dividida em legados;
 
 II - quando o reconhecimento das dívidas importar redução dos legados.
 
-## Art. 646.
+## Art. 646
 
 Sem prejuízo do disposto no
 
@@ -6761,7 +6761,7 @@ art. 860, é lícito aos herdeiros, ao separarem bens para o pagamento de dívid
 
 ### Seção VIII — Da Partilha
 
-## Art. 647.
+## Art. 647
 
 Cumprido o disposto no
 
@@ -6769,7 +6769,7 @@ art. 642, § 3º, o juiz facultará às partes que, no prazo comum de 15 (quinze
 
 Parágrafo único. O juiz poderá, em decisão fundamentada, deferir antecipadamente a qualquer dos herdeiros o exercício dos direitos de usar e de fruir de determinado bem, com a condição de que, ao término do inventário, tal bem integre a cota desse herdeiro, cabendo a este, desde o deferimento, todos os ônus e bônus decorrentes do exercício daqueles direitos.
 
-## Art. 648.
+## Art. 648
 
 Na partilha, serão observadas as seguintes regras:
 
@@ -6779,17 +6779,17 @@ II - a prevenção de litígios futuros;
 
 III - a máxima comodidade dos coerdeiros, do cônjuge ou do companheiro, se for o caso.
 
-## Art. 649.
+## Art. 649
 
-s bens insuscetíveis de divisão cômoda que não couberem na parte do cônjuge ou companheiro supérstite ou no quinhão de um só herdeiro serão licitados entre os interessados ou vendidos judicialmente, partilhando-se o valor apurado, salvo se houver acordo para que sejam adjudicados a todos.
+Os bens insuscetíveis de divisão cômoda que não couberem na parte do cônjuge ou companheiro supérstite ou no quinhão de um só herdeiro serão licitados entre os interessados ou vendidos judicialmente, partilhando-se o valor apurado, salvo se houver acordo para que sejam adjudicados a todos.
 
-## Art. 650.
+## Art. 650
 
 Se um dos interessados for nascituro, o quinhão que lhe caberá será reservado em poder do inventariante até o seu nascimento.
 
-## Art. 651.
+## Art. 651
 
-partidor organizará o esboço da partilha de acordo com a decisão judicial, observando nos pagamentos a seguinte ordem:
+O partidor organizará o esboço da partilha de acordo com a decisão judicial, observando nos pagamentos a seguinte ordem:
 
 I - dívidas atendidas;
 
@@ -6799,11 +6799,11 @@ III - meação disponível;
 
 IV - quinhões hereditários, a começar pelo coerdeiro mais velho.
 
-## Art. 652.
+## Art. 652
 
 Feito o esboço, as partes manifestar-se-ão sobre esse no prazo comum de 15 (quinze) dias, e, resolvidas as reclamações, a partilha será lançada nos autos.
 
-## Art. 653.
+## Art. 653
 
 A partilha constará:
 
@@ -6819,13 +6819,13 @@ II - de folha de pagamento para cada parte, declarando a quota a pagar-lhe, a ra
 
 Parágrafo único. O auto e cada uma das folhas serão assinados pelo juiz e pelo escrivão.
 
-## Art. 654.
+## Art. 654
 
 Pago o imposto de transmissão a título de morte e juntada aos autos certidão ou informação negativa de dívida para com a Fazenda Pública, o juiz julgará por sentença a partilha.
 
 Parágrafo único. A existência de dívida para com a Fazenda Pública não impedirá o julgamento da partilha, desde que o seu pagamento esteja devidamente garantido.
 
-## Art. 655.
+## Art. 655
 
 Transitada em julgado a sentença mencionada no
 
@@ -6843,11 +6843,11 @@ V - sentença.
 
 Parágrafo único. O formal de partilha poderá ser substituído por certidão de pagamento do quinhão hereditário quando esse não exceder a 5 (cinco) vezes o salário-mínimo, caso em que se transcreverá nela a sentença de partilha transitada em julgado.
 
-## Art. 656.
+## Art. 656
 
 A partilha, mesmo depois de transitada em julgado a sentença, pode ser emendada nos mesmos autos do inventário, convindo todas as partes, quando tenha havido erro de fato na descrição dos bens, podendo o juiz, de ofício ou a requerimento da parte, a qualquer tempo, corrigir-lhe as inexatidões materiais.
 
-## Art. 657.
+## Art. 657
 
 A partilha amigável, lavrada em instrumento público, reduzida a termo nos autos do inventário ou constante de escrito particular homologado pelo juiz, pode ser anulada por dolo, coação, erro essencial ou intervenção de incapaz, observado o disposto no
 
@@ -6862,7 +6862,7 @@ II - no caso de erro ou dolo, do dia em que se realizou o ato;
 
 III - quanto ao incapaz, do dia em que cessar a incapacidade.
 
-## Art. 658.
+## Art. 658
 
 É rescindível a partilha julgada por sentença:
 
@@ -6875,7 +6875,7 @@ III - se preteriu herdeiro ou incluiu quem não o seja.
 
 ### Seção IX — Do Arrolamento
 
-## Art. 659.
+## Art. 659
 
 A partilha amigável, celebrada entre partes capazes, nos termos da lei, será homologada de plano pelo juiz, com observância dos
 
@@ -6886,7 +6886,7 @@ arts. 660 a 663.
 § 2º Transitada em julgado a sentença de homologação de partilha ou de adjudicação, será lavrado o formal de partilha ou elaborada a carta de adjudicação e, em seguida, serão expedidos os alvarás referentes aos bens e às rendas por ele abrangidos, intimando-se o fisco para lançamento administrativo do imposto de transmissão e de outros tributos porventura incidentes, conforme dispuser a legislação tributária, nos termos do
 § 2º do art. 662.
 
-## Art. 660.
+## Art. 660
 
 Na petição de inventário, que se processará na forma de arrolamento sumário, independentemente da lavratura de termos de qualquer espécie, os herdeiros:
 
@@ -6897,13 +6897,13 @@ art. 630;
 
 III - atribuirão valor aos bens do espólio, para fins de partilha.
 
-## Art. 661.
+## Art. 661
 
 Ressalvada a hipótese prevista no parágrafo único do
 
 art. 663, não se procederá à avaliação dos bens do espólio para nenhuma finalidade.
 
-## Art. 662.
+## Art. 662
 
 No arrolamento, não serão conhecidas ou apreciadas questões relativas ao lançamento, ao pagamento ou à quitação de taxas judiciárias e de tributos incidentes sobre a transmissão da propriedade dos bens do espólio.
 
@@ -6911,13 +6911,13 @@ No arrolamento, não serão conhecidas ou apreciadas questões relativas ao lan�
 
 § 2º O imposto de transmissão será objeto de lançamento administrativo, conforme dispuser a legislação tributária, não ficando as autoridades fazendárias adstritas aos valores dos bens do espólio atribuídos pelos herdeiros.
 
-## Art. 663.
+## Art. 663
 
 A existência de credores do espólio não impedirá a homologação da partilha ou da adjudicação, se forem reservados bens suficientes para o pagamento da dívida.
 
 Parágrafo único. A reserva de bens será realizada pelo valor estimado pelas partes, salvo se o credor, regularmente notificado, impugnar a estimativa, caso em que se promoverá a avaliação dos bens a serem reservados.
 
-## Art. 664.
+## Art. 664
 
 Quando o valor dos bens do espólio for igual ou inferior a 1.000 (mil) salários-mínimos, o inventário processar-se-á na forma de arrolamento, cabendo ao inventariante nomeado, independentemente de assinatura de termo de compromisso, apresentar, com suas declarações, a atribuição de valor aos bens do espólio e o plano da partilha.
 
@@ -6933,27 +6933,27 @@ art. 672
 
 § 5º Provada a quitação dos tributos relativos aos bens do espólio e às suas rendas, o juiz julgará a partilha.
 
-## Art. 665.
+## Art. 665
 
-inventário processar-se-á também na forma do
+O inventário processar-se-á também na forma do
 
 art. 664
 , ainda que haja interessado incapaz, desde que concordem todas as partes e o Ministério Público.
 
-## Art. 666.
+## Art. 666
 
 Independerá de inventário ou de arrolamento o pagamento dos valores previstos na
 
 Lei nº 6.858, de 24 de novembro de 1980
 .
 
-## Art. 667.
+## Art. 667
 
 Aplicam-se subsidiariamente a esta Seção as disposições das Seções VII e VIII deste Capítulo.
 
 ### Seção X — Disposições Comuns a Todas as Seções
 
-## Art. 668.
+## Art. 668
 
 Cessa a eficácia da tutela provisória prevista nas Seções deste Capítulo:
 
@@ -6961,7 +6961,7 @@ I - se a ação não for proposta em 30 (trinta) dias contados da data em que da
 
 II - se o juiz extinguir o processo de inventário com ou sem resolução de mérito.
 
-## Art. 669.
+## Art. 669
 
 São sujeitos à sobrepartilha os bens:
 
@@ -6975,21 +6975,21 @@ IV - situados em lugar remoto da sede do juízo onde se processa o inventário.
 
 Parágrafo único. Os bens mencionados nos incisos III e IV serão reservados à sobrepartilha sob a guarda e a administração do mesmo ou de diverso inventariante, a consentimento da maioria dos herdeiros.
 
-## Art. 670.
+## Art. 670
 
 Na sobrepartilha dos bens, observar-se-á o processo de inventário e de partilha.
 
 Parágrafo único. A sobrepartilha correrá nos autos do inventário do autor da herança.
 
-## Art. 671.
+## Art. 671
 
-juiz nomeará curador especial:
+O juiz nomeará curador especial:
 
 I - ao ausente, se não o tiver;
 
 II - ao incapaz, se concorrer na partilha com o seu representante, desde que exista colisão de interesses.
 
-## Art. 672.
+## Art. 672
 
 É lícita a cumulação de inventários para a partilha de heranças de pessoas diversas quando houver:
 
@@ -7001,7 +7001,7 @@ III - dependência de uma das partilhas em relação à outra.
 
 Parágrafo único. No caso previsto no inciso III, se a dependência for parcial, por haver outros bens, o juiz pode ordenar a tramitação separada, se melhor convier ao interesse das partes ou à celeridade processual.
 
-## Art. 673.
+## Art. 673
 
 No caso previsto no
 
@@ -7010,7 +7010,7 @@ art. 672
 
 # CAPÍTULO VII — DOS EMBARGOS DE TERCEIRO
 
-## Art. 674.
+## Art. 674
 
 Quem, não sendo parte no processo, sofrer constrição ou ameaça de constrição sobre bens que possua ou sobre os quais tenha direito incompatível com o ato constritivo, poderá requerer seu desfazimento ou sua inibição por meio de embargos de terceiro.
 
@@ -7028,19 +7028,19 @@ III - quem sofre constrição judicial de seus bens por força de desconsideraç
 
 IV - o credor com garantia real para obstar expropriação judicial do objeto de direito real de garantia, caso não tenha sido intimado, nos termos legais dos atos expropriatórios respectivos.
 
-## Art. 675.
+## Art. 675
 
-s embargos podem ser opostos a qualquer tempo no processo de conhecimento enquanto não transitada em julgado a sentença e, no cumprimento de sentença ou no processo de execução, até 5 (cinco) dias depois da adjudicação, da alienação por iniciativa particular ou da arrematação, mas sempre antes da assinatura da respectiva carta.
+Os embargos podem ser opostos a qualquer tempo no processo de conhecimento enquanto não transitada em julgado a sentença e, no cumprimento de sentença ou no processo de execução, até 5 (cinco) dias depois da adjudicação, da alienação por iniciativa particular ou da arrematação, mas sempre antes da assinatura da respectiva carta.
 
 Parágrafo único. Caso identifique a existência de terceiro titular de interesse em embargar o ato, o juiz mandará intimá-lo pessoalmente.
 
-## Art. 676.
+## Art. 676
 
-s embargos serão distribuídos por dependência ao juízo que ordenou a constrição e autuados em apartado.
+Os embargos serão distribuídos por dependência ao juízo que ordenou a constrição e autuados em apartado.
 
 Parágrafo único. Nos casos de ato de constrição realizado por carta, os embargos serão oferecidos no juízo deprecado, salvo se indicado pelo juízo deprecante o bem constrito ou se já devolvida a carta.
 
-## Art. 677.
+## Art. 677
 
 Na petição inicial, o embargante fará a prova sumária de sua posse ou de seu domínio e da qualidade de terceiro, oferecendo documentos e rol de testemunhas.
 
@@ -7052,17 +7052,17 @@ Na petição inicial, o embargante fará a prova sumária de sua posse ou de seu
 
 § 4º Será legitimado passivo o sujeito a quem o ato de constrição aproveita, assim como o será seu adversário no processo principal quando for sua a indicação do bem para a constrição judicial.
 
-## Art. 678.
+## Art. 678
 
 A decisão que reconhecer suficientemente provado o domínio ou a posse determinará a suspensão das medidas constritivas sobre os bens litigiosos objeto dos embargos, bem como a manutenção ou a reintegração provisória da posse, se o embargante a houver requerido.
 
 Parágrafo único. O juiz poderá condicionar a ordem de manutenção ou de reintegração provisória de posse à prestação de caução pelo requerente, ressalvada a impossibilidade da parte economicamente hipossuficiente.
 
-## Art. 679.
+## Art. 679
 
-s embargos poderão ser contestados no prazo de 15 (quinze) dias, findo o qual se seguirá o procedimento comum.
+Os embargos poderão ser contestados no prazo de 15 (quinze) dias, findo o qual se seguirá o procedimento comum.
 
-## Art. 680.
+## Art. 680
 
 Contra os embargos do credor com garantia real, o embargado somente poderá alegar que:
 
@@ -7072,43 +7072,43 @@ II - o título é nulo ou não obriga a terceiro;
 
 III - outra é a coisa dada em garantia.
 
-## Art. 681.
+## Art. 681
 
 Acolhido o pedido inicial, o ato de constrição judicial indevida será cancelado, com o reconhecimento do domínio, da manutenção da posse ou da reintegração definitiva do bem ou do direito ao embargante.
 
 # CAPÍTULO VIII — DA OPOSIÇÃO
 
-## Art. 682.
+## Art. 682
 
 Quem pretender, no todo ou em parte, a coisa ou o direito sobre que controvertem autor e réu poderá, até ser proferida a sentença, oferecer oposição contra ambos.
 
-## Art. 683.
+## Art. 683
 
-opoente deduzirá o pedido em observação aos requisitos exigidos para propositura da ação.
+O opoente deduzirá o pedido em observação aos requisitos exigidos para propositura da ação.
 
 Parágrafo único. Distribuída a oposição por dependência, serão os opostos citados, na pessoa de seus respectivos advogados, para contestar o pedido no prazo comum de 15 (quinze) dias.
 
-## Art. 684.
+## Art. 684
 
 Se um dos opostos reconhecer a procedência do pedido, contra o outro prosseguirá o opoente.
 
-## Art. 685.
+## Art. 685
 
 Admitido o processamento, a oposição será apensada aos autos e tramitará simultaneamente à ação originária, sendo ambas julgadas pela mesma sentença.
 
 Parágrafo único. Se a oposição for proposta após o início da audiência de instrução, o juiz suspenderá o curso do processo ao fim da produção das provas, salvo se concluir que a unidade da instrução atende melhor ao princípio da duração razoável do processo.
 
-## Art. 686.
+## Art. 686
 
 Cabendo ao juiz decidir simultaneamente a ação originária e a oposição, desta conhecerá em primeiro lugar.
 
 # CAPÍTULO IX — DA HABILITAÇÃO
 
-## Art. 687.
+## Art. 687
 
 A habilitação ocorre quando, por falecimento de qualquer das partes, os interessados houverem de suceder-lhe no processo.
 
-## Art. 688.
+## Art. 688
 
 A habilitação pode ser requerida:
 
@@ -7116,39 +7116,39 @@ I - pela parte, em relação aos sucessores do falecido;
 
 II - pelos sucessores do falecido, em relação à parte.
 
-## Art. 689.
+## Art. 689
 
 Proceder-se-á à habilitação nos autos do processo principal, na instância em que estiver, suspendendo-se, a partir de então, o processo.
 
-## Art. 690.
+## Art. 690
 
 Recebida a petição, o juiz ordenará a citação dos requeridos para se pronunciarem no prazo de 5 (cinco) dias.
 
 Parágrafo único. A citação será pessoal, se a parte não tiver procurador constituído nos autos.
 
-## Art. 691.
+## Art. 691
 
-juiz decidirá o pedido de habilitação imediatamente, salvo se este for impugnado e houver necessidade de dilação probatória diversa da documental, caso em que determinará que o pedido seja autuado em apartado e disporá sobre a instrução.
+O juiz decidirá o pedido de habilitação imediatamente, salvo se este for impugnado e houver necessidade de dilação probatória diversa da documental, caso em que determinará que o pedido seja autuado em apartado e disporá sobre a instrução.
 
-## Art. 692.
+## Art. 692
 
 Transitada em julgado a sentença de habilitação, o processo principal retomará o seu curso, e cópia da sentença será juntada aos autos respectivos.
 
 # CAPÍTULO X — DAS AÇÕES DE FAMÍLIA
 
-## Art. 693.
+## Art. 693
 
 As normas deste Capítulo aplicam-se aos processos contenciosos de divórcio, separação, reconhecimento e extinção de união estável, guarda, visitação e filiação.
 
 Parágrafo único. A ação de alimentos e a que versar sobre interesse de criança ou de adolescente observarão o procedimento previsto em legislação específica, aplicando-se, no que couber, as disposições deste Capítulo.
 
-## Art. 694.
+## Art. 694
 
 Nas ações de família, todos os esforços serão empreendidos para a solução consensual da controvérsia, devendo o juiz dispor do auxílio de profissionais de outras áreas de conhecimento para a mediação e conciliação.
 
 Parágrafo único. A requerimento das partes, o juiz pode determinar a suspensão do processo enquanto os litigantes se submetem a mediação extrajudicial ou a atendimento multidisciplinar.
 
-## Art. 695.
+## Art. 695
 
 Recebida a petição inicial e, se for o caso, tomadas as providências referentes à tutela provisória, o juiz ordenará a citação do réu para comparecer à audiência de mediação e conciliação, observado o disposto no art. 694.
 
@@ -7160,18 +7160,18 @@ Recebida a petição inicial e, se for o caso, tomadas as providências referent
 
 § 4º Na audiência, as partes deverão estar acompanhadas de seus advogados ou de defensores públicos.
 
-## Art. 696.
+## Art. 696
 
 A audiência de mediação e conciliação poderá dividir-se em tantas sessões quantas sejam necessárias para viabilizar a solução consensual, sem prejuízo de providências jurisdicionais para evitar o perecimento do direito.
 
-## Art. 697.
+## Art. 697
 
 Não realizado o acordo, passarão a incidir, a partir de então, as normas do procedimento comum, observado o
 
 art. 335
 .
 
-## Art. 698.
+## Art. 698
 
 Nas ações de família, o Ministério Público somente intervirá quando houver interesse de incapaz e deverá ser ouvido previamente à homologação de acordo.
 
@@ -7183,13 +7183,13 @@ agosto de 2006 (Lei Maria da Penha).
 (Incluído pela Lei
 nº 13.894, de 2019)
 
-## Art. 699.
+## Art. 699
 
 Quando o processo envolver discussão sobre fato relacionado a abuso ou a alienação parental, o juiz, ao tomar o depoimento do incapaz, deverá estar acompanhado por especialista.
 
 ## Art. 699-A
 
-. Nas ações de guarda, antes de
+Nas ações de guarda, antes de
 
 iniciada a audiência de mediação e conciliação de que trata o art. 695 deste
 Código, o juiz indagará às partes e ao Ministério Público se há risco de
@@ -7200,7 +7200,7 @@ nº 14.713, de 2023)
 
 # CAPÍTULO XI — DA AÇÃO MONITÓRIA
 
-## Art. 700.
+## Art. 700
 
 A ação monitória pode ser proposta por aquele que afirmar, com base em prova escrita sem eficácia de título executivo, ter direito de exigir do devedor capaz:
 
@@ -7234,7 +7234,7 @@ art. 330
 
 § 7º Na ação monitória, admite-se citação por qualquer dos meios permitidos para o procedimento comum.
 
-## Art. 701.
+## Art. 701
 
 Sendo evidente o direito do autor, o juiz deferirá a expedição de mandado de pagamento, de entrega de coisa ou para execução de obrigação de fazer ou de não fazer, concedendo ao réu prazo de 15 (quinze) dias para o cumprimento e o pagamento de honorários advocatícios de cinco por cento do valor atribuído à causa.
 
@@ -7261,7 +7261,7 @@ Título II do Livro I da Parte Especial.
 art. 916
 .
 
-## Art. 702.
+## Art. 702
 
 Independentemente de prévia segurança do juízo, o réu poderá opor, nos próprios autos, no prazo previsto no
 
@@ -7298,7 +7298,7 @@ Título II do Livro I da Parte Especial
 
 # CAPÍTULO XII — DA HOMOLOGAÇÃO DO PENHOR LEGAL
 
-## Art. 703.
+## Art. 703
 
 Tomado o penhor legal nos casos previstos em lei, requererá o credor, ato contínuo, a homologação.
 
@@ -7312,7 +7312,7 @@ art. 704
 
 § 4º Transcorrido o prazo sem manifestação do devedor, o notário formalizará a homologação do penhor legal por escritura pública.
 
-## Art. 704.
+## Art. 704
 
 A defesa só pode consistir em:
 
@@ -7324,11 +7324,11 @@ III - não estar a dívida compreendida entre as previstas em lei ou não estare
 
 IV - alegação de haver sido ofertada caução idônea, rejeitada pelo credor.
 
-## Art. 705.
+## Art. 705
 
 A partir da audiência preliminar, observar-se-á o procedimento comum.
 
-## Art. 706.
+## Art. 706
 
 Homologado judicialmente o penhor legal, consolidar-se-á a posse do autor sobre o objeto.
 
@@ -7338,13 +7338,13 @@ Homologado judicialmente o penhor legal, consolidar-se-á a posse do autor sobre
 
 # CAPÍTULO XIII — DA REGULAÇÃO DE AVARIA GROSSA
 
-## Art. 707.
+## Art. 707
 
 Quando inexistir consenso acerca da nomeação de um regulador de avarias, o juiz de direito da comarca do primeiro porto onde o navio houver chegado, provocado por qualquer parte interessada, nomeará um de notório conhecimento.
 
-## Art. 708.
+## Art. 708
 
-regulador declarará justificadamente se os danos são passíveis de rateio na forma de avaria grossa e exigirá das partes envolvidas a apresentação de garantias idôneas para que possam ser liberadas as cargas aos consignatários.
+O regulador declarará justificadamente se os danos são passíveis de rateio na forma de avaria grossa e exigirá das partes envolvidas a apresentação de garantias idôneas para que possam ser liberadas as cargas aos consignatários.
 
 § 1º A parte que não concordar com o regulador quanto à declaração de abertura da avaria grossa deverá justificar suas razões ao juiz, que decidirá no prazo de 10 (dez) dias.
 
@@ -7358,19 +7358,19 @@ a
 
 § 4º É permitido o levantamento, por alvará, das quantias necessárias ao pagamento das despesas da alienação a serem arcadas pelo consignatário, mantendo-se o saldo remanescente em depósito judicial até o encerramento da regulação.
 
-## Art. 709.
+## Art. 709
 
 As partes deverão apresentar nos autos os documentos necessários à regulação da avaria grossa em prazo razoável a ser fixado pelo regulador.
 
-## Art. 710.
+## Art. 710
 
-regulador apresentará o regulamento da avaria grossa no prazo de até 12 (doze) meses, contado da data da entrega dos documentos nos autos pelas partes, podendo o prazo ser estendido a critério do juiz.
+O regulador apresentará o regulamento da avaria grossa no prazo de até 12 (doze) meses, contado da data da entrega dos documentos nos autos pelas partes, podendo o prazo ser estendido a critério do juiz.
 
 § 1º Oferecido o regulamento da avaria grossa, dele terão vista as partes pelo prazo comum de 15 (quinze) dias, e, não havendo impugnação, o regulamento será homologado por sentença.
 
 § 2º Havendo impugnação ao regulamento, o juiz decidirá no prazo de 10 (dez) dias, após a oitiva do regulador.
 
-## Art. 711.
+## Art. 711
 
 Aplicam-se ao regulador de avarias os
 
@@ -7379,13 +7379,13 @@ arts. 156 a 158
 
 # CAPÍTULO XIV — DA RESTAURAÇÃO DE AUTOS
 
-## Art. 712.
+## Art. 712
 
 Verificado o desaparecimento dos autos, eletrônicos ou não, pode o juiz, de ofício, qualquer das partes ou o Ministério Público, se for o caso, promover-lhes a restauração.
 
 Parágrafo único. Havendo autos suplementares, nesses prosseguirá o processo.
 
-## Art. 713.
+## Art. 713
 
 Na petição inicial, declarará a parte o estado do processo ao tempo do desaparecimento dos autos, oferecendo:
 
@@ -7395,7 +7395,7 @@ II - cópia das peças que tenha em seu poder;
 
 III - qualquer outro documento que facilite a restauração.
 
-## Art. 714.
+## Art. 714
 
 A parte contrária será citada para contestar o pedido no prazo de 5 (cinco) dias, cabendo-lhe exibir as cópias, as contrafés e as reproduções dos atos e dos documentos que estiverem em seu poder.
 
@@ -7403,7 +7403,7 @@ A parte contrária será citada para contestar o pedido no prazo de 5 (cinco) di
 
 § 2º Se a parte não contestar ou se a concordância for parcial, observar-se-á o procedimento comum.
 
-## Art. 715.
+## Art. 715
 
 Se a perda dos autos tiver ocorrido depois da produção das provas em audiência, o juiz, se necessário, mandará repeti-las.
 
@@ -7417,13 +7417,13 @@ Se a perda dos autos tiver ocorrido depois da produção das provas em audiênci
 
 § 5º Se o juiz houver proferido sentença da qual ele próprio ou o escrivão possua cópia, esta será juntada aos autos e terá a mesma autoridade da original.
 
-## Art. 716.
+## Art. 716
 
 Julgada a restauração, seguirá o processo os seus termos.
 
 Parágrafo único. Aparecendo os autos originais, neles se prosseguirá, sendo-lhes apensados os autos da restauração.
 
-## Art. 717.
+## Art. 717
 
 Se o desaparecimento dos autos tiver ocorrido no tribunal, o processo de restauração será distribuído, sempre que possível, ao relator do processo.
 
@@ -7431,7 +7431,7 @@ Se o desaparecimento dos autos tiver ocorrido no tribunal, o processo de restaur
 
 § 2º Remetidos os autos ao tribunal, nele completar-se-á a restauração e proceder-se-á ao julgamento.
 
-## Art. 718.
+## Art. 718
 
 Quem houver dado causa ao desaparecimento dos autos responderá pelas custas da restauração e pelos honorários de advogado, sem prejuízo da responsabilidade civil ou penal em que incorrer.
 
@@ -7439,36 +7439,36 @@ Quem houver dado causa ao desaparecimento dos autos responderá pelas custas da 
 
 ### Seção I — Disposições Gerais
 
-## Art. 719.
+## Art. 719
 
 Quando este Código não estabelecer procedimento especial, regem os procedimentos de jurisdição voluntária as disposições constantes desta Seção.
 
-## Art. 720.
+## Art. 720
 
-procedimento terá início por provocação do interessado, do Ministério Público ou da Defensoria Pública, cabendo-lhes formular o pedido devidamente instruído com os documentos necessários e com a indicação da providência judicial.
+O procedimento terá início por provocação do interessado, do Ministério Público ou da Defensoria Pública, cabendo-lhes formular o pedido devidamente instruído com os documentos necessários e com a indicação da providência judicial.
 
-## Art. 721.
+## Art. 721
 
 Serão citados todos os interessados, bem como intimado o Ministério Público, nos casos do
 
 art. 178
 , para que se manifestem, querendo, no prazo de 15 (quinze) dias.
 
-## Art. 722.
+## Art. 722
 
 A Fazenda Pública será sempre ouvida nos casos em que tiver interesse.
 
-## Art. 723.
+## Art. 723
 
-juiz decidirá o pedido no prazo de 10 (dez) dias.
+O juiz decidirá o pedido no prazo de 10 (dez) dias.
 
 Parágrafo único. O juiz não é obrigado a observar critério de legalidade estrita, podendo adotar em cada caso a solução que considerar mais conveniente ou oportuna.
 
-## Art. 724.
+## Art. 724
 
 Da sentença caberá apelação.
 
-## Art. 725.
+## Art. 725
 
 Processar-se-á na forma estabelecida nesta Seção o pedido de:
 
@@ -7492,7 +7492,7 @@ Parágrafo único. As normas desta Seção aplicam-se, no que couber, aos proced
 
 ### Seção II — Da Notificação e da Interpelação
 
-## Art. 726.
+## Art. 726
 
 Quem tiver interesse em manifestar formalmente sua vontade a outrem sobre assunto juridicamente relevante poderá notificar pessoas participantes da mesma relação jurídica para dar-lhes ciência de seu propósito.
 
@@ -7500,28 +7500,28 @@ Quem tiver interesse em manifestar formalmente sua vontade a outrem sobre assunt
 
 § 2º Aplica-se o disposto nesta Seção, no que couber, ao protesto judicial.
 
-## Art. 727.
+## Art. 727
 
 Também poderá o interessado interpelar o requerido, no caso do
 
 art. 726
 , para que faça ou deixe de fazer o que o requerente entenda ser de seu direito.
 
-## Art. 728.
+## Art. 728
 
-requerido será previamente ouvido antes do deferimento da notificação ou do respectivo edital:
+O requerido será previamente ouvido antes do deferimento da notificação ou do respectivo edital:
 
 I - se houver suspeita de que o requerente, por meio da notificação ou do edital, pretende alcançar fim ilícito;
 
 II - se tiver sido requerida a averbação da notificação em registro público.
 
-## Art. 729.
+## Art. 729
 
 Deferida e realizada a notificação ou interpelação, os autos serão entregues ao requerente.
 
 ### Seção III — Da Alienação Judicial
 
-## Art. 730.
+## Art. 730
 
 Nos casos expressos em lei, não havendo acordo entre os interessados sobre o modo como se deve realizar a alienação do bem, o juiz, de ofício ou a requerimento dos interessados ou do depositário, mandará aliená-lo em leilão, observando-se o disposto na Seção I deste Capítulo e, no que couber, o disposto nos
 
@@ -7532,7 +7532,7 @@ a
 
 ### Seção IV — Do Divórcio e da Separação Consensuais, da Extinção Consensual de União Estável e da Alteração do Regime de Bens do Matrimônio
 
-## Art. 731.
+## Art. 731
 
 A homologação do divórcio ou da separação consensuais, observados os requisitos legais, poderá ser requerida em petição assinada por ambos os cônjuges, da qual constarão:
 
@@ -7550,13 +7550,13 @@ a
 658
 .
 
-## Art. 732.
+## Art. 732
 
 As disposições relativas ao processo de homologação judicial de divórcio ou de separação consensuais aplicam-se, no que couber, ao processo de homologação da extinção consensual de união estável.
 
-## Art. 733.
+## Art. 733
 
-divórcio consensual, a separação consensual e a extinção consensual de união estável, não havendo nascituro ou filhos incapazes e observados os requisitos legais, poderão ser realizados por escritura pública, da qual constarão as disposições de que trata o
+O divórcio consensual, a separação consensual e a extinção consensual de união estável, não havendo nascituro ou filhos incapazes e observados os requisitos legais, poderão ser realizados por escritura pública, da qual constarão as disposições de que trata o
 
 art. 731
 .
@@ -7565,7 +7565,7 @@ art. 731
 
 § 2º O tabelião somente lavrará a escritura se os interessados estiverem assistidos por advogado ou por defensor público, cuja qualificação e assinatura constarão do ato notarial.
 
-## Art. 734.
+## Art. 734
 
 A alteração do regime de bens do casamento, observados os requisitos legais, poderá ser requerida, motivadamente, em petição assinada por ambos os cônjuges, na qual serão expostas as razões que justificam a alteração, ressalvados os direitos de terceiros.
 
@@ -7577,7 +7577,7 @@ A alteração do regime de bens do casamento, observados os requisitos legais, p
 
 ### Seção V — Dos Testamentos e dos Codicilos
 
-## Art. 735.
+## Art. 735
 
 Recebendo testamento cerrado, o juiz, se não achar vício externo que o torne suspeito de nulidade ou falsidade, o abrirá e mandará que o escrivão o leia em presença do apresentante.
 
@@ -7591,14 +7591,14 @@ Recebendo testamento cerrado, o juiz, se não achar vício externo que o torne s
 
 § 5º O testamenteiro deverá cumprir as disposições testamentárias e prestar contas em juízo do que recebeu e despendeu, observando-se o disposto em lei.
 
-## Art. 736.
+## Art. 736
 
 Qualquer interessado, exibindo o traslado ou a certidão de testamento público, poderá requerer ao juiz que ordene o seu cumprimento, observando-se, no que couber, o disposto nos parágrafos do
 
 art. 735
 .
 
-## Art. 737.
+## Art. 737
 
 A publicação do testamento particular poderá ser requerida, depois da morte do testador, pelo herdeiro, pelo legatário ou pelo testamenteiro, bem como pelo terceiro detentor do testamento, se impossibilitado de entregá-lo a algum dos outros legitimados para requerê-la.
 
@@ -7614,11 +7614,11 @@ art. 735
 
 ### Seção VI — Da Herança Jacente
 
-## Art. 738.
+## Art. 738
 
 Nos casos em que a lei considere jacente a herança, o juiz em cuja comarca tiver domicílio o falecido procederá imediatamente à arrecadação dos respectivos bens.
 
-## Art. 739.
+## Art. 739
 
 A herança jacente ficará sob a guarda, a conservação e a administração de um curador até a respectiva entrega ao sucessor legalmente habilitado ou até a declaração de vacância.
 
@@ -7638,9 +7638,9 @@ V - prestar contas ao final de sua gestão.
 arts. 159 a 161
 .
 
-## Art. 740.
+## Art. 740
 
-juiz ordenará que o oficial de justiça, acompanhado do escrivão ou do chefe de secretaria e do curador, arrole os bens e descreva-os em auto circunstanciado.
+O juiz ordenará que o oficial de justiça, acompanhado do escrivão ou do chefe de secretaria e do curador, arrole os bens e descreva-os em auto circunstanciado.
 
 § 1º Não podendo comparecer ao local, o juiz requisitará à autoridade policial que proceda à arrecadação e ao arrolamento dos bens, com 2 (duas) testemunhas, que assistirão às diligências.
 
@@ -7654,7 +7654,7 @@ juiz ordenará que o oficial de justiça, acompanhado do escrivão ou do chefe d
 
 § 6º Não se fará a arrecadação, ou essa será suspensa, quando, iniciada, apresentarem-se para reclamar os bens o cônjuge ou companheiro, o herdeiro ou o testamenteiro notoriamente reconhecido e não houver oposição motivada do curador, de qualquer interessado, do Ministério Público ou do representante da Fazenda Pública.
 
-## Art. 741.
+## Art. 741
 
 Ultimada a arrecadação, o juiz mandará expedir edital, que será publicado na rede mundial de computadores, no sítio do tribunal a que estiver vinculado o juízo e na plataforma de editais do Conselho Nacional de Justiça, onde permanecerá por 3 (três) meses, ou, não havendo sítio, no órgão oficial e na imprensa da comarca, por 3 (três) vezes com intervalos de 1 (um) mês, para que os sucessores do falecido venham a habilitar-se no prazo de 6 (seis) meses contado da primeira publicação.
 
@@ -7666,9 +7666,9 @@ Ultimada a arrecadação, o juiz mandará expedir edital, que será publicado na
 
 § 4º Os credores da herança poderão habilitar-se como nos inventários ou propor a ação de cobrança.
 
-## Art. 742.
+## Art. 742
 
-juiz poderá autorizar a alienação:
+O juiz poderá autorizar a alienação:
 
 I - de bens móveis, se forem de conservação difícil ou dispendiosa;
 
@@ -7688,7 +7688,7 @@ V - de bens imóveis:
 
 § 2º Os bens com valor de afeição, como retratos, objetos de uso pessoal, livros e obras de arte, só serão alienados depois de declarada a vacância da herança.
 
-## Art. 743.
+## Art. 743
 
 Passado 1 (um) ano da primeira publicação do edital e não havendo herdeiro habilitado nem habilitação pendente, será a herança declarada vacante.
 
@@ -7698,11 +7698,11 @@ Passado 1 (um) ano da primeira publicação do edital e não havendo herdeiro ha
 
 ### Seção VII — Dos Bens dos Ausentes
 
-## Art. 744.
+## Art. 744
 
 Declarada a ausência nos casos previstos em lei, o juiz mandará arrecadar os bens do ausente e nomear-lhes-á curador na forma estabelecida na Seção VI, observando-se o disposto em lei.
 
-## Art. 745.
+## Art. 745
 
 Feita a arrecadação, o juiz mandará publicar editais na rede mundial de computadores, no sítio do tribunal a que estiver vinculado e na plataforma de editais do Conselho Nacional de Justiça, onde permanecerá por 1 (um) ano, ou, não havendo sítio, no órgão oficial e na imprensa da comarca, durante 1 (um) ano, reproduzida de 2 (dois) em 2 (dois) meses, anunciando a arrecadação e chamando o ausente a entrar na posse de seus bens.
 
@@ -7720,7 +7720,7 @@ a
 
 ### Seção VIII — Das Coisas Vagas
 
-## Art. 746.
+## Art. 746
 
 Recebendo do descobridor coisa alheia perdida, o juiz mandará lavrar o respectivo auto, do qual constará a descrição do bem e as declarações do descobridor.
 
@@ -7732,7 +7732,7 @@ Recebendo do descobridor coisa alheia perdida, o juiz mandará lavrar o respecti
 
 ### Seção IX — Da Interdição
 
-## Art. 747.
+## Art. 747
 
 A interdição pode ser promovida:
 
@@ -7746,9 +7746,9 @@ IV - pelo Ministério Público.
 
 Parágrafo único. A legitimidade deverá ser comprovada por documentação que acompanhe a petição inicial.
 
-## Art. 748.
+## Art. 748
 
-Ministério Público só promoverá interdição em caso de doença mental grave:
+O Ministério Público só promoverá interdição em caso de doença mental grave:
 
 I - se as pessoas designadas nos
 incisos I, II e III do art. 747
@@ -7758,19 +7758,19 @@ II - se, existindo, forem incapazes as pessoas mencionadas nos
 incisos I e II do art. 747
 .
 
-## Art. 749.
+## Art. 749
 
 Incumbe ao autor, na petição inicial, especificar os fatos que demonstram a incapacidade do interditando para administrar seus bens e, se for o caso, para praticar atos da vida civil, bem como o momento em que a incapacidade se revelou.
 
 Parágrafo único. Justificada a urgência, o juiz pode nomear curador provisório ao interditando para a prática de determinados atos.
 
-## Art. 750.
+## Art. 750
 
-requerente deverá juntar laudo médico para fazer prova de suas alegações ou informar a impossibilidade de fazê-lo.
+O requerente deverá juntar laudo médico para fazer prova de suas alegações ou informar a impossibilidade de fazê-lo.
 
-## Art. 751.
+## Art. 751
 
-interditando será citado para, em dia designado, comparecer perante o juiz, que o entrevistará minuciosamente acerca de sua vida, negócios, bens, vontades, preferências e laços familiares e afetivos e sobre o que mais lhe parecer necessário para convencimento quanto à sua capacidade para praticar atos da vida civil, devendo ser reduzidas a termo as perguntas e respostas.
+O interditando será citado para, em dia designado, comparecer perante o juiz, que o entrevistará minuciosamente acerca de sua vida, negócios, bens, vontades, preferências e laços familiares e afetivos e sobre o que mais lhe parecer necessário para convencimento quanto à sua capacidade para praticar atos da vida civil, devendo ser reduzidas a termo as perguntas e respostas.
 
 § 1º Não podendo o interditando deslocar-se, o juiz o ouvirá no local onde estiver.
 
@@ -7780,7 +7780,7 @@ interditando será citado para, em dia designado, comparecer perante o juiz, que
 
 § 4º A critério do juiz, poderá ser requisitada a oitiva de parentes e de pessoas próximas.
 
-## Art. 752.
+## Art. 752
 
 Dentro do prazo de 15 (quinze) dias contado da entrevista, o interditando poderá impugnar o pedido.
 
@@ -7790,7 +7790,7 @@ Dentro do prazo de 15 (quinze) dias contado da entrevista, o interditando poder�
 
 § 3º Caso o interditando não constitua advogado, o seu cônjuge, companheiro ou qualquer parente sucessível poderá intervir como assistente.
 
-## Art. 753.
+## Art. 753
 
 Decorrido o prazo previsto no
 
@@ -7801,11 +7801,11 @@ art. 752
 
 § 2º O laudo pericial indicará especificadamente, se for o caso, os atos para os quais haverá necessidade de curatela.
 
-## Art. 754.
+## Art. 754
 
 Apresentado o laudo, produzidas as demais provas e ouvidos os interessados, o juiz proferirá sentença.
 
-## Art. 755.
+## Art. 755
 
 Na sentença que decretar a interdição, o juiz:
 
@@ -7819,7 +7819,7 @@ II - considerará as características pessoais do interdito, observando suas pot
 
 § 3º A sentença de interdição será inscrita no registro de pessoas naturais e imediatamente publicada na rede mundial de computadores, no sítio do tribunal a que estiver vinculado o juízo e na plataforma de editais do Conselho Nacional de Justiça, onde permanecerá por 6 (seis) meses, na imprensa local, 1 (uma) vez, e no órgão oficial, por 3 (três) vezes, com intervalo de 10 (dez) dias, constando do edital os nomes do interdito e do curador, a causa da interdição, os limites da curatela e, não sendo total a interdição, os atos que o interdito poderá praticar autonomamente.
 
-## Art. 756.
+## Art. 756
 
 Levantar-se-á a curatela quando cessar a causa que a determinou.
 
@@ -7833,19 +7833,19 @@ art. 755, § 3º
 
 § 4º A interdição poderá ser levantada parcialmente quando demonstrada a capacidade do interdito para praticar alguns atos da vida civil.
 
-## Art. 757.
+## Art. 757
 
 A autoridade do curador estende-se à pessoa e aos bens do incapaz que se encontrar sob a guarda e a responsabilidade do curatelado ao tempo da interdição, salvo se o juiz considerar outra solução como mais conveniente aos interesses do incapaz.
 
-## Art. 758.
+## Art. 758
 
-curador deverá buscar tratamento e apoio apropriados à conquista da autonomia pelo interdito.
+O curador deverá buscar tratamento e apoio apropriados à conquista da autonomia pelo interdito.
 
 ### Seção X — Disposições Comuns à Tutela e à Curatela
 
-## Art. 759.
+## Art. 759
 
-tutor ou o curador será intimado a prestar compromisso no prazo de 5 (cinco) dias contado da:
+O tutor ou o curador será intimado a prestar compromisso no prazo de 5 (cinco) dias contado da:
 
 I - nomeação feita em conformidade com a lei;
 
@@ -7855,9 +7855,9 @@ II - intimação do despacho que mandar cumprir o testamento ou o instrumento p�
 
 § 2º Prestado o compromisso, o tutor ou o curador assume a administração dos bens do tutelado ou do interditado.
 
-## Art. 760.
+## Art. 760
 
-tutor ou o curador poderá eximir-se do encargo apresentando escusa ao juiz no prazo de 5 (cinco) dias contado:
+O tutor ou o curador poderá eximir-se do encargo apresentando escusa ao juiz no prazo de 5 (cinco) dias contado:
 
 I - antes de aceitar o encargo, da intimação para prestar compromisso;
 
@@ -7867,17 +7867,17 @@ II - depois de entrar em exercício, do dia em que sobrevier o motivo da escusa.
 
 § 2º O juiz decidirá de plano o pedido de escusa, e, não o admitindo, exercerá o nomeado a tutela ou a curatela enquanto não for dispensado por sentença transitada em julgado.
 
-## Art. 761.
+## Art. 761
 
 Incumbe ao Ministério Público ou a quem tenha legítimo interesse requerer, nos casos previstos em lei, a remoção do tutor ou do curador.
 
 Parágrafo único. O tutor ou o curador será citado para contestar a arguição no prazo de 5 (cinco) dias, findo o qual observar-se-á o procedimento comum.
 
-## Art. 762.
+## Art. 762
 
 Em caso de extrema gravidade, o juiz poderá suspender o tutor ou o curador do exercício de suas funções, nomeando substituto interino.
 
-## Art. 763.
+## Art. 763
 
 Cessando as funções do tutor ou do curador pelo decurso do prazo em que era obrigado a servir, ser-lhe-á lícito requerer a exoneração do encargo.
 
@@ -7887,9 +7887,9 @@ Cessando as funções do tutor ou do curador pelo decurso do prazo em que era ob
 
 ### Seção XI — Da Organização e da Fiscalização das Fundações
 
-## Art. 764.
+## Art. 764
 
-juiz decidirá sobre a aprovação do estatuto das fundações e de suas alterações sempre que o requeira o interessado, quando:
+O juiz decidirá sobre a aprovação do estatuto das fundações e de suas alterações sempre que o requeira o interessado, quando:
 
 I - ela for negada previamente pelo Ministério Público ou por este forem exigidas modificações com as quais o interessado não concorde;
 
@@ -7901,7 +7901,7 @@ Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil)
 
 § 2º Antes de suprir a aprovação, o juiz poderá mandar fazer no estatuto modificações a fim de adaptá-lo ao objetivo do instituidor.
 
-## Art. 765.
+## Art. 765
 
 Qualquer interessado ou o Ministério Público promoverá em juízo a extinção da fundação quando:
 
@@ -7913,15 +7913,15 @@ III - vencer o prazo de sua existência.
 
 ### Seção XII — Da Ratificação dos Protestos Marítimos e dos Processos Testemunháveis Formados a Bordo
 
-## Art. 766.
+## Art. 766
 
 Todos os protestos e os processos testemunháveis formados a bordo e lançados no livro Diário da Navegação deverão ser apresentados pelo comandante ao juiz de direito do primeiro porto, nas primeiras 24 (vinte e quatro) horas de chegada da embarcação, para sua ratificação judicial.
 
-## Art. 767.
+## Art. 767
 
 A petição inicial conterá a transcrição dos termos lançados no livro Diário da Navegação e deverá ser instruída com cópias das páginas que contenham os termos que serão ratificados, dos documentos de identificação do comandante e das testemunhas arroladas, do rol de tripulantes, do documento de registro da embarcação e, quando for o caso, do manifesto das cargas sinistradas e a qualificação de seus consignatários, traduzidos, quando for o caso, de forma livre para o português.
 
-## Art. 768.
+## Art. 768
 
 A petição inicial deverá ser distribuída com urgência e encaminhada ao juiz, que ouvirá, sob compromisso a ser prestado no mesmo dia, o comandante e as testemunhas em número mínimo de 2 (duas) e máximo de 4 (quatro), que deverão comparecer ao ato independentemente de intimação.
 
@@ -7929,11 +7929,11 @@ A petição inicial deverá ser distribuída com urgência e encaminhada ao juiz
 
 § 2º Caso o autor não se faça acompanhar por tradutor, o juiz deverá nomear outro que preste compromisso em audiência.
 
-## Art. 769.
+## Art. 769
 
 Aberta a audiência, o juiz mandará apregoar os consignatários das cargas indicados na petição inicial e outros eventuais interessados, nomeando para os ausentes curador para o ato.
 
-## Art. 770.
+## Art. 770
 
 Inquiridos o comandante e as testemunhas, o juiz, convencido da veracidade dos termos lançados no Diário da Navegação, em audiência, ratificará por sentença o protesto ou o processo testemunhável lavrado a bordo, dispensado o relatório.
 
@@ -7945,15 +7945,15 @@ Parágrafo único. Independentemente do trânsito em julgado, o juiz determinar�
 
 # CAPÍTULO I — DISPOSIÇÕES GERAIS
 
-## Art. 771.
+## Art. 771
 
 Este Livro regula o procedimento da execução fundada em título extrajudicial, e suas disposições aplicam-se, também, no que couber, aos procedimentos especiais de execução, aos atos executivos realizados no procedimento de cumprimento de sentença, bem como aos efeitos de atos ou fatos processuais a que a lei atribuir força executiva.
 
 Parágrafo único. Aplicam-se subsidiariamente à execução as disposições do Livro I da Parte Especial.
 
-## Art. 772.
+## Art. 772
 
-juiz pode, em qualquer momento do processo:
+O juiz pode, em qualquer momento do processo:
 
 I - ordenar o comparecimento das partes;
 
@@ -7961,13 +7961,13 @@ II - advertir o executado de que seu procedimento constitui ato atentatório à 
 
 III - determinar que sujeitos indicados pelo exequente forneçam informações em geral relacionadas ao objeto da execução, tais como documentos e dados que tenham em seu poder, assinando-lhes prazo razoável.
 
-## Art. 773.
+## Art. 773
 
-juiz poderá, de ofício ou a requerimento, determinar as medidas necessárias ao cumprimento da ordem de entrega de documentos e dados.
+O juiz poderá, de ofício ou a requerimento, determinar as medidas necessárias ao cumprimento da ordem de entrega de documentos e dados.
 
 Parágrafo único. Quando, em decorrência do disposto neste artigo, o juízo receber dados sigilosos para os fins da execução, o juiz adotará as medidas necessárias para assegurar a confidencialidade.
 
-## Art. 774.
+## Art. 774
 
 Considera-se atentatória à dignidade da justiça a conduta comissiva ou omissiva do executado que:
 
@@ -7983,9 +7983,9 @@ V - intimado, não indica ao juiz quais são e onde estão os bens sujeitos à p
 
 Parágrafo único. Nos casos previstos neste artigo, o juiz fixará multa em montante não superior a vinte por cento do valor atualizado do débito em execução, a qual será revertida em proveito do exequente, exigível nos próprios autos do processo, sem prejuízo de outras sanções de natureza processual ou material.
 
-## Art. 775.
+## Art. 775
 
-exequente tem o direito de desistir de toda a execução ou de apenas alguma medida executiva.
+O exequente tem o direito de desistir de toda a execução ou de apenas alguma medida executiva.
 
 Parágrafo único. Na desistência da execução, observar-se-á o seguinte:
 
@@ -7993,17 +7993,17 @@ I - serão extintos a impugnação e os embargos que versarem apenas sobre quest
 
 II - nos demais casos, a extinção dependerá da concordância do impugnante ou do embargante.
 
-## Art. 776.
+## Art. 776
 
-exequente ressarcirá ao executado os danos que este sofreu, quando a sentença, transitada em julgado, declarar inexistente, no todo ou em parte, a obrigação que ensejou a execução.
+O exequente ressarcirá ao executado os danos que este sofreu, quando a sentença, transitada em julgado, declarar inexistente, no todo ou em parte, a obrigação que ensejou a execução.
 
-## Art. 777.
+## Art. 777
 
 A cobrança de multas ou de indenizações decorrentes de litigância de má-fé ou de prática de ato atentatório à dignidade da justiça será promovida nos próprios autos do processo.
 
 # CAPÍTULO II — DAS PARTES
 
-## Art. 778.
+## Art. 778
 
 Pode promover a execução forçada o credor a quem a lei confere título executivo.
 
@@ -8019,7 +8019,7 @@ IV - o sub-rogado, nos casos de sub-rogação legal ou convencional.
 
 § 2º A sucessão prevista no § 1º independe de consentimento do executado.
 
-## Art. 779.
+## Art. 779
 
 A execução pode ser promovida contra:
 
@@ -8035,13 +8035,13 @@ V - o responsável titular do bem vinculado por garantia real ao pagamento do d�
 
 VI - o responsável tributário, assim definido em lei.
 
-## Art. 780.
+## Art. 780
 
-exequente pode cumular várias execuções, ainda que fundadas em títulos diferentes, quando o executado for o mesmo e desde que para todas elas seja competente o mesmo juízo e idêntico o procedimento.
+O exequente pode cumular várias execuções, ainda que fundadas em títulos diferentes, quando o executado for o mesmo e desde que para todas elas seja competente o mesmo juízo e idêntico o procedimento.
 
 # CAPÍTULO III — DA COMPETÊNCIA
 
-## Art. 781.
+## Art. 781
 
 A execução fundada em título extrajudicial será processada perante o juízo competente, observando-se o seguinte:
 
@@ -8055,7 +8055,7 @@ IV - havendo mais de um devedor, com diferentes domicílios, a execução será 
 
 V - a execução poderá ser proposta no foro do lugar em que se praticou o ato ou em que ocorreu o fato que deu origem ao título, mesmo que nele não mais resida o executado.
 
-## Art. 782.
+## Art. 782
 
 Não dispondo a lei de modo diverso, o juiz determinará os atos executivos, e o oficial de justiça os cumprirá.
 
@@ -8073,11 +8073,11 @@ Não dispondo a lei de modo diverso, o juiz determinará os atos executivos, e o
 
 ### Seção I — Do Título Executivo
 
-## Art. 783.
+## Art. 783
 
 A execução para cobrança de crédito fundar-se-á sempre em título de obrigação certa, líquida e exigível.
 
-## Art. 784.
+## Art. 784
 
 São títulos executivos extrajudiciais:
 
@@ -8124,35 +8124,35 @@ sua integridade for conferida por provedor de assinatura.
 (Incluído pela
 Lei nº 14.620, de 2023)
 
-## Art. 785.
+## Art. 785
 
 A existência de título executivo extrajudicial não impede a parte de optar pelo processo de conhecimento, a fim de obter título executivo judicial.
 
 ### Seção II — Da Exigibilidade da Obrigação
 
-## Art. 786.
+## Art. 786
 
 A execução pode ser instaurada caso o devedor não satisfaça a obrigação certa, líquida e exigível consubstanciada em título executivo.
 
 Parágrafo único. A necessidade de simples operações aritméticas para apurar o crédito exequendo não retira a liquidez da obrigação constante do título.
 
-## Art. 787.
+## Art. 787
 
 Se o devedor não for obrigado a satisfazer sua prestação senão mediante a contraprestação do credor, este deverá provar que a adimpliu ao requerer a execução, sob pena de extinção do processo.
 
 Parágrafo único. O executado poderá eximir-se da obrigação, depositando em juízo a prestação ou a coisa, caso em que o juiz não permitirá que o credor a receba sem cumprir a contraprestação que lhe tocar.
 
-## Art. 788.
+## Art. 788
 
-credor não poderá iniciar a execução ou nela prosseguir se o devedor cumprir a obrigação, mas poderá recusar o recebimento da prestação se ela não corresponder ao direito ou à obrigação estabelecidos no título executivo, caso em que poderá requerer a execução forçada, ressalvado ao devedor o direito de embargá-la.
+O credor não poderá iniciar a execução ou nela prosseguir se o devedor cumprir a obrigação, mas poderá recusar o recebimento da prestação se ela não corresponder ao direito ou à obrigação estabelecidos no título executivo, caso em que poderá requerer a execução forçada, ressalvado ao devedor o direito de embargá-la.
 
 # CAPÍTULO V — DA RESPONSABILIDADE PATRIMONIAL
 
-## Art. 789.
+## Art. 789
 
-devedor responde com todos os seus bens presentes e futuros para o cumprimento de suas obrigações, salvo as restrições estabelecidas em lei.
+O devedor responde com todos os seus bens presentes e futuros para o cumprimento de suas obrigações, salvo as restrições estabelecidas em lei.
 
-## Art. 790.
+## Art. 790
 
 São sujeitos à execução os bens:
 
@@ -8170,7 +8170,7 @@ VI - cuja alienação ou gravação com ônus real tenha sido anulada em razão 
 
 VII - do responsável, nos casos de desconsideração da personalidade jurídica.
 
-## Art. 791.
+## Art. 791
 
 Se a execução tiver por objeto obrigação de que seja sujeito passivo o proprietário de terreno submetido ao regime do direito de superfície, ou o superficiário, responderá pela dívida, exclusivamente, o direito real do qual é titular o executado, recaindo a penhora ou outros atos de constrição exclusivamente sobre o terreno, no primeiro caso, ou sobre a construção ou a plantação, no segundo caso.
 
@@ -8180,7 +8180,7 @@ serão averbados separadamente na matrícula do imóvel, com a identificação d
 
 § 2º Aplica-se, no que couber, o disposto neste artigo à enfiteuse, à concessão de uso especial para fins de moradia e à concessão de direito real de uso.
 
-## Art. 792.
+## Art. 792
 
 A alienação ou a oneração de bem é considerada fraude à execução:
 
@@ -8204,13 +8204,13 @@ V - nos demais casos expressos em lei.
 
 § 4º Antes de declarar a fraude à execução, o juiz deverá intimar o terceiro adquirente, que, se quiser, poderá opor embargos de terceiro, no prazo de 15 (quinze) dias.
 
-## Art. 793.
+## Art. 793
 
-exequente que estiver, por direito de retenção, na posse de coisa pertencente ao devedor não poderá promover a execução sobre outros bens senão depois de excutida a coisa que se achar em seu poder.
+O exequente que estiver, por direito de retenção, na posse de coisa pertencente ao devedor não poderá promover a execução sobre outros bens senão depois de excutida a coisa que se achar em seu poder.
 
-## Art. 794.
+## Art. 794
 
-fiador, quando executado, tem o direito de exigir que primeiro sejam executados os bens do devedor situados na mesma comarca, livres e desembargados, indicando-os pormenorizadamente à penhora.
+O fiador, quando executado, tem o direito de exigir que primeiro sejam executados os bens do devedor situados na mesma comarca, livres e desembargados, indicando-os pormenorizadamente à penhora.
 
 § 1º Os bens do fiador ficarão sujeitos à execução se os do devedor, situados na mesma comarca que os seus, forem insuficientes à satisfação do direito do credor.
 
@@ -8220,9 +8220,9 @@ fiador, quando executado, tem o direito de exigir que primeiro sejam executados 
 caput
 não se aplica se o fiador houver renunciado ao benefício de ordem.
 
-## Art. 795.
+## Art. 795
 
-s bens particulares dos sócios não respondem pelas dívidas da sociedade, senão nos casos previstos em lei.
+Os bens particulares dos sócios não respondem pelas dívidas da sociedade, senão nos casos previstos em lei.
 
 § 1º O sócio réu, quando responsável pelo pagamento da dívida da sociedade, tem o direito de exigir que primeiro sejam excutidos os bens da sociedade.
 
@@ -8232,21 +8232,21 @@ s bens particulares dos sócios não respondem pelas dívidas da sociedade, sen�
 
 § 4º Para a desconsideração da personalidade jurídica é obrigatória a observância do incidente previsto neste Código.
 
-## Art. 796.
+## Art. 796
 
-espólio responde pelas dívidas do falecido, mas, feita a partilha, cada herdeiro responde por elas dentro das forças da herança e na proporção da parte que lhe coube.
+O espólio responde pelas dívidas do falecido, mas, feita a partilha, cada herdeiro responde por elas dentro das forças da herança e na proporção da parte que lhe coube.
 
 # TÍTULO II — DAS DIVERSAS ESPÉCIES DE EXECUÇÃO
 
 # CAPÍTULO I — DISPOSIÇÕES GERAIS
 
-## Art. 797.
+## Art. 797
 
 Ressalvado o caso de insolvência do devedor, em que tem lugar o concurso universal, realiza-se a execução no interesse do exequente que adquire, pela penhora, o direito de preferência sobre os bens penhorados.
 
 Parágrafo único. Recaindo mais de uma penhora sobre o mesmo bem, cada exequente conservará o seu título de preferência.
 
-## Art. 798.
+## Art. 798
 
 Ao propor a execução, incumbe ao exequente:
 
@@ -8280,7 +8280,7 @@ IV - a periodicidade da capitalização dos juros, se for o caso;
 
 V - a especificação de desconto obrigatório realizado.
 
-## Art. 799.
+## Art. 799
 
 Incumbe ainda ao exequente:
 
@@ -8310,7 +8310,7 @@ X - requerer a intimação do titular da construção-base, bem como, se for o c
 XI - requerer a intimação do titular das lajes, quando a penhora recair sobre a construção-base.
 (Incluído pela Lei nº 13.465, de 2017)
 
-## Art. 800.
+## Art. 800
 
 Nas obrigações alternativas, quando a escolha couber ao devedor, esse será citado para exercer a opção e realizar a prestação dentro de 10 (dez) dias, se outro prazo não lhe foi determinado em lei ou em contrato.
 
@@ -8318,11 +8318,11 @@ Nas obrigações alternativas, quando a escolha couber ao devedor, esse será ci
 
 § 2º A escolha será indicada na petição inicial da execução quando couber ao credor exercê-la.
 
-## Art. 801.
+## Art. 801
 
 Verificando que a petição inicial está incompleta ou que não está acompanhada dos documentos indispensáveis à propositura da execução, o juiz determinará que o exequente a corrija, no prazo de 15 (quinze) dias, sob pena de indeferimento.
 
-## Art. 802.
+## Art. 802
 
 Na execução, o despacho que ordena a citação, desde que realizada em observância ao disposto no
 
@@ -8331,7 +8331,7 @@ Na execução, o despacho que ordena a citação, desde que realizada em observ�
 
 Parágrafo único. A interrupção da prescrição retroagirá à data de propositura da ação.
 
-## Art. 803.
+## Art. 803
 
 É nula a execução se:
 
@@ -8343,7 +8343,7 @@ III - for instaurada antes de se verificar a condição ou de ocorrer o termo.
 
 Parágrafo único. A nulidade de que cuida este artigo será pronunciada pelo juiz, de ofício ou a requerimento da parte, independentemente de embargos à execução.
 
-## Art. 804.
+## Art. 804
 
 A alienação de bem gravado por penhor, hipoteca ou anticrese será ineficaz em relação ao credor pignoratício, hipotecário ou anticrético não intimado.
 
@@ -8359,7 +8359,7 @@ A alienação de bem gravado por penhor, hipoteca ou anticrese será ineficaz em
 
 § 6º A alienação de bem sobre o qual tenha sido instituído usufruto, uso ou habitação será ineficaz em relação ao titular desses direitos reais não intimado.
 
-## Art. 805.
+## Art. 805
 
 Quando por vários meios o exequente puder promover a execução, o juiz mandará que se faça pelo modo menos gravoso para o executado.
 
@@ -8369,31 +8369,31 @@ Parágrafo único. Ao executado que alegar ser a medida executiva mais gravosa i
 
 ### Seção I — Da Entrega de Coisa Certa
 
-## Art. 806.
+## Art. 806
 
-devedor de obrigação de entrega de coisa certa, constante de título executivo extrajudicial, será citado para, em 15 (quinze) dias, satisfazer a obrigação.
+O devedor de obrigação de entrega de coisa certa, constante de título executivo extrajudicial, será citado para, em 15 (quinze) dias, satisfazer a obrigação.
 
 § 1º Ao despachar a inicial, o juiz poderá fixar multa por dia de atraso no cumprimento da obrigação, ficando o respectivo valor sujeito a alteração, caso se revele insuficiente ou excessivo.
 
 § 2º Do mandado de citação constará ordem para imissão na posse ou busca e apreensão, conforme se tratar de bem imóvel ou móvel, cujo cumprimento se dará de imediato, se o executado não satisfizer a obrigação no prazo que lhe foi designado.
 
-## Art. 807.
+## Art. 807
 
 Se o executado entregar a coisa, será lavrado o termo respectivo e considerada satisfeita a obrigação, prosseguindo-se a execução para o pagamento de frutos ou o ressarcimento de prejuízos, se houver.
 
-## Art. 808.
+## Art. 808
 
 Alienada a coisa quando já litigiosa, será expedido mandado contra o terceiro adquirente, que somente será ouvido após depositá-la.
 
-## Art. 809.
+## Art. 809
 
-exequente tem direito a receber, além de perdas e danos, o valor da coisa, quando essa se deteriorar, não lhe for entregue, não for encontrada ou não for reclamada do poder de terceiro adquirente.
+O exequente tem direito a receber, além de perdas e danos, o valor da coisa, quando essa se deteriorar, não lhe for entregue, não for encontrada ou não for reclamada do poder de terceiro adquirente.
 
 § 1º Não constando do título o valor da coisa e sendo impossível sua avaliação, o exequente apresentará estimativa, sujeitando-a ao arbitramento judicial.
 
 § 2º Serão apurados em liquidação o valor da coisa e os prejuízos.
 
-## Art. 810.
+## Art. 810
 
 Havendo benfeitorias indenizáveis feitas na coisa pelo executado ou por terceiros de cujo poder ela houver sido tirada, a liquidação prévia é obrigatória.
 
@@ -8405,17 +8405,17 @@ II - em favor do exequente, esse poderá cobrá-lo nos autos do mesmo processo.
 
 ### Seção II — Da Entrega de Coisa Incerta
 
-## Art. 811.
+## Art. 811
 
 Quando a execução recair sobre coisa determinada pelo gênero e pela quantidade, o executado será citado para entregá-la individualizada, se lhe couber a escolha.
 
 Parágrafo único. Se a escolha couber ao exequente, esse deverá indicá-la na petição inicial.
 
-## Art. 812.
+## Art. 812
 
 Qualquer das partes poderá, no prazo de 15 (quinze) dias, impugnar a escolha feita pela outra, e o juiz decidirá de plano ou, se necessário, ouvindo perito de sua nomeação.
 
-## Art. 813.
+## Art. 813
 
 Aplicar-se-ão à execução para entrega de coisa incerta, no que couber, as disposições da Seção I deste Capítulo.
 
@@ -8423,7 +8423,7 @@ Aplicar-se-ão à execução para entrega de coisa incerta, no que couber, as di
 
 ### Seção I — Disposições Comuns
 
-## Art. 814.
+## Art. 814
 
 Na execução de obrigação de fazer ou de não fazer fundada em título extrajudicial, ao despachar a inicial, o juiz fixará multa por período de atraso no cumprimento da obrigação e a data a partir da qual será devida.
 
@@ -8431,41 +8431,41 @@ Parágrafo único. Se o valor da multa estiver previsto no título e for excessi
 
 ### Seção II — Da Obrigação de Fazer
 
-## Art. 815.
+## Art. 815
 
 Quando o objeto da execução for obrigação de fazer, o executado será citado para satisfazê-la no prazo que o juiz lhe designar, se outro não estiver determinado no título executivo.
 
-## Art. 816.
+## Art. 816
 
 Se o executado não satisfizer a obrigação no prazo designado, é lícito ao exequente, nos próprios autos do processo, requerer a satisfação da obrigação à custa do executado ou perdas e danos, hipótese em que se converterá em indenização.
 
 Parágrafo único. O valor das perdas e danos será apurado em liquidação, seguindo-se a execução para cobrança de quantia certa.
 
-## Art. 817.
+## Art. 817
 
 Se a obrigação puder ser satisfeita por terceiro, é lícito ao juiz autorizar, a requerimento do exequente, que aquele a satisfaça à custa do executado.
 
 Parágrafo único. O exequente adiantará as quantias previstas na proposta que, ouvidas as partes, o juiz houver aprovado.
 
-## Art. 818.
+## Art. 818
 
 Realizada a prestação, o juiz ouvirá as partes no prazo de 10 (dez) dias e, não havendo impugnação, considerará satisfeita a obrigação.
 
 Parágrafo único. Caso haja impugnação, o juiz a decidirá.
 
-## Art. 819.
+## Art. 819
 
 Se o terceiro contratado não realizar a prestação no prazo ou se o fizer de modo incompleto ou defeituoso, poderá o exequente requerer ao juiz, no prazo de 15 (quinze) dias, que o autorize a concluí-la ou a repará-la à custa do contratante.
 
 Parágrafo único. Ouvido o contratante no prazo de 15 (quinze) dias, o juiz mandará avaliar o custo das despesas necessárias e o condenará a pagá-lo.
 
-## Art. 820.
+## Art. 820
 
 Se o exequente quiser executar ou mandar executar, sob sua direção e vigilância, as obras e os trabalhos necessários à realização da prestação, terá preferência, em igualdade de condições de oferta, em relação ao terceiro.
 
 Parágrafo único. O direito de preferência deverá ser exercido no prazo de 5 (cinco) dias, após aprovada a proposta do terceiro.
 
-## Art. 821.
+## Art. 821
 
 Na obrigação de fazer, quando se convencionar que o executado a satisfaça pessoalmente, o exequente poderá requerer ao juiz que lhe assine prazo para cumpri-la.
 
@@ -8473,11 +8473,11 @@ Parágrafo único. Havendo recusa ou mora do executado, sua obrigação pessoal 
 
 ### Seção III — Da Obrigação de Não Fazer
 
-## Art. 822.
+## Art. 822
 
 Se o executado praticou ato a cuja abstenção estava obrigado por lei ou por contrato, o exequente requererá ao juiz que assine prazo ao executado para desfazê-lo.
 
-## Art. 823.
+## Art. 823
 
 Havendo recusa ou mora do executado, o exequente requererá ao juiz que mande desfazer o ato à custa daquele, que responderá por perdas e danos.
 
@@ -8487,11 +8487,11 @@ Parágrafo único. Não sendo possível desfazer-se o ato, a obrigação resolve
 
 ### Seção I — Disposições Gerais
 
-## Art. 824.
+## Art. 824
 
 A execução por quantia certa realiza-se pela expropriação de bens do executado, ressalvadas as execuções especiais.
 
-## Art. 825.
+## Art. 825
 
 A expropriação consiste em:
 
@@ -8501,13 +8501,13 @@ II - alienação;
 
 III - apropriação de frutos e rendimentos de empresa ou de estabelecimentos e de outros bens.
 
-## Art. 826.
+## Art. 826
 
 Antes de adjudicados ou alienados os bens, o executado pode, a todo tempo, remir a execução, pagando ou consignando a importância atualizada da dívida, acrescida de juros, custas e honorários advocatícios.
 
 ### Seção II — Da Citação do Devedor e do Arresto
 
-## Art. 827.
+## Art. 827
 
 Ao despachar a inicial, o juiz fixará, de plano, os honorários advocatícios de dez por cento, a serem pagos pelo executado.
 
@@ -8515,9 +8515,9 @@ Ao despachar a inicial, o juiz fixará, de plano, os honorários advocatícios d
 
 § 2º O valor dos honorários poderá ser elevado até vinte por cento, quando rejeitados os embargos à execução, podendo a majoração, caso não opostos os embargos, ocorrer ao final do procedimento executivo, levando-se em conta o trabalho realizado pelo advogado do exequente.
 
-## Art. 828.
+## Art. 828
 
-exequente poderá obter certidão de que a execução foi admitida pelo juiz, com identificação das partes e do valor da causa, para fins de averbação no registro de imóveis, de veículos ou de outros bens sujeitos a penhora, arresto ou indisponibilidade.
+O exequente poderá obter certidão de que a execução foi admitida pelo juiz, com identificação das partes e do valor da causa, para fins de averbação no registro de imóveis, de veículos ou de outros bens sujeitos a penhora, arresto ou indisponibilidade.
 
 § 1º No prazo de 10 (dez) dias de sua concretização, o exequente deverá comunicar ao juízo as averbações efetivadas.
 
@@ -8529,15 +8529,15 @@ exequente poderá obter certidão de que a execução foi admitida pelo juiz, co
 
 § 5º O exequente que promover averbação manifestamente indevida ou não cancelar as averbações nos termos do § 2º indenizará a parte contrária, processando-se o incidente em autos apartados.
 
-## Art. 829.
+## Art. 829
 
-executado será citado para pagar a dívida no prazo de 3 (três) dias, contado da citação.
+O executado será citado para pagar a dívida no prazo de 3 (três) dias, contado da citação.
 
 § 1º Do mandado de citação constarão, também, a ordem de penhora e a avaliação a serem cumpridas pelo oficial de justiça tão logo verificado o não pagamento no prazo assinalado, de tudo lavrando-se auto, com intimação do executado.
 
 § 2º A penhora recairá sobre os bens indicados pelo exequente, salvo se outros forem indicados pelo executado e aceitos pelo juiz, mediante demonstração de que a constrição proposta lhe será menos onerosa e não trará prejuízo ao exequente.
 
-## Art. 830.
+## Art. 830
 
 Se o oficial de justiça não encontrar o executado, arrestar-lhe-á tantos bens quantos bastem para garantir a execução.
 
@@ -8551,15 +8551,15 @@ Se o oficial de justiça não encontrar o executado, arrestar-lhe-á tantos bens
 
 #### Subseção I — Do Objeto da Penhora
 
-## Art. 831.
+## Art. 831
 
 A penhora deverá recair sobre tantos bens quantos bastem para o pagamento do principal atualizado, dos juros, das custas e dos honorários advocatícios.
 
-## Art. 832.
+## Art. 832
 
 Não estão sujeitos à execução os bens que a lei considera impenhoráveis ou inalienáveis.
 
-## Art. 833.
+## Art. 833
 
 São impenhoráveis:
 
@@ -8601,11 +8601,11 @@ art. 529, § 3º
 caput
 os equipamentos, os implementos e as máquinas agrícolas pertencentes a pessoa física ou a empresa individual produtora rural, exceto quando tais bens tenham sido objeto de financiamento e estejam vinculados em garantia a negócio jurídico ou quando respondam por dívida de natureza alimentar, trabalhista ou previdenciária.
 
-## Art. 834.
+## Art. 834
 
 Podem ser penhorados, à falta de outros bens, os frutos e os rendimentos dos bens inalienáveis.
 
-## Art. 835.
+## Art. 835
 
 A penhora observará, preferencialmente, a seguinte ordem:
 
@@ -8643,7 +8643,7 @@ de acordo com as circunstâncias do caso concreto.
 
 § 3º Na execução de crédito com garantia real, a penhora recairá sobre a coisa dada em garantia, e, se a coisa pertencer a terceiro garantidor, este também será intimado da penhora.
 
-## Art. 836.
+## Art. 836
 
 Não se levará a efeito a penhora quando ficar evidente que o produto da execução dos bens encontrados será totalmente absorvido pelo pagamento das custas da execução.
 
@@ -8653,11 +8653,11 @@ Não se levará a efeito a penhora quando ficar evidente que o produto da execu�
 
 #### Subseção II — Da Documentação da Penhora, de seu Registro e do Depósito
 
-## Art. 837.
+## Art. 837
 
-bedecidas as normas de segurança instituídas sob critérios uniformes pelo Conselho Nacional de Justiça, a penhora de dinheiro e as averbações de penhoras de bens imóveis e móveis podem ser realizadas por meio eletrônico.
+Obedecidas as normas de segurança instituídas sob critérios uniformes pelo Conselho Nacional de Justiça, a penhora de dinheiro e as averbações de penhoras de bens imóveis e móveis podem ser realizadas por meio eletrônico.
 
-## Art. 838.
+## Art. 838
 
 A penhora será realizada mediante auto ou termo, que conterá:
 
@@ -8669,13 +8669,13 @@ III - a descrição dos bens penhorados, com as suas características;
 
 IV - a nomeação do depositário dos bens.
 
-## Art. 839.
+## Art. 839
 
 Considerar-se-á feita a penhora mediante a apreensão e o depósito dos bens, lavrando-se um só auto se as diligências forem concluídas no mesmo dia.
 
 Parágrafo único. Havendo mais de uma penhora, serão lavrados autos individuais.
 
-## Art. 840.
+## Art. 840
 
 Serão preferencialmente depositados:
 
@@ -8694,7 +8694,7 @@ caput
 
 § 3º As joias, as pedras e os objetos preciosos deverão ser depositados com registro do valor estimado de resgate.
 
-## Art. 841.
+## Art. 841
 
 Formalizada a penhora por qualquer dos meios legais, dela será imediatamente intimado o executado.
 
@@ -8708,11 +8708,11 @@ Formalizada a penhora por qualquer dos meios legais, dela será imediatamente in
 art. 274
 .
 
-## Art. 842.
+## Art. 842
 
 Recaindo a penhora sobre bem imóvel ou direito real sobre imóvel, será intimado também o cônjuge do executado, salvo se forem casados em regime de separação absoluta de bens.
 
-## Art. 843.
+## Art. 843
 
 Tratando-se de penhora de bem indivisível, o equivalente à quota-parte do coproprietário ou do cônjuge alheio à execução recairá sobre o produto da alienação do bem.
 
@@ -8720,13 +8720,13 @@ Tratando-se de penhora de bem indivisível, o equivalente à quota-parte do copr
 
 § 2º Não será levada a efeito expropriação por preço inferior ao da avaliação na qual o valor auferido seja incapaz de garantir, ao coproprietário ou ao cônjuge alheio à execução, o correspondente à sua quota-parte calculado sobre o valor da avaliação.
 
-## Art. 844.
+## Art. 844
 
 Para presunção absoluta de conhecimento por terceiros, cabe ao exequente providenciar a averbação do arresto ou da penhora no registro competente, mediante apresentação de cópia do auto ou do termo, independentemente de mandado judicial.
 
 #### Subseção III — Do Lugar de Realização da Penhora
 
-## Art. 845.
+## Art. 845
 
 Efetuar-se-á a penhora onde se encontrem os bens, ainda que sob a posse, a detenção ou a guarda de terceiros.
 
@@ -8734,7 +8734,7 @@ Efetuar-se-á a penhora onde se encontrem os bens, ainda que sob a posse, a dete
 
 § 2º Se o executado não tiver bens no foro do processo, não sendo possível a realização da penhora nos termos do § 1º, a execução será feita por carta, penhorando-se, avaliando-se e alienando-se os bens no foro da situação.
 
-## Art. 846.
+## Art. 846
 
 Se o executado fechar as portas da casa a fim de obstar a penhora dos bens, o oficial de justiça comunicará o fato ao juiz, solicitando-lhe ordem de arrombamento.
 
@@ -8750,9 +8750,9 @@ Deferido o pedido, 2 (dois) oficiais de justiça cumprirão o mandado, arromband
 
 #### Subseção IV — Das Modificações da Penhora
 
-## Art. 847.
+## Art. 847
 
-executado pode, no prazo de 10 (dez) dias contado da intimação da penhora, requerer a substituição do bem penhorado, desde que comprove que lhe será menos onerosa e não trará prejuízo ao exequente.
+O executado pode, no prazo de 10 (dez) dias contado da intimação da penhora, requerer a substituição do bem penhorado, desde que comprove que lhe será menos onerosa e não trará prejuízo ao exequente.
 
 § 1º O juiz só autorizará a substituição se o executado:
 
@@ -8772,7 +8772,7 @@ V - atribuir, em qualquer caso, valor aos bens indicados à penhora, além de es
 
 § 4º O juiz intimará o exequente para manifestar-se sobre o requerimento de substituição do bem penhorado.
 
-## Art. 848.
+## Art. 848
 
 As partes poderão requerer a substituição da penhora se:
 
@@ -8792,15 +8792,15 @@ VII - o executado não indicar o valor dos bens ou omitir qualquer das indicaç�
 
 Parágrafo único. A penhora pode ser substituída por fiança bancária ou por seguro garantia judicial, em valor não inferior ao do débito constante da inicial, acrescido de trinta por cento.
 
-## Art. 849.
+## Art. 849
 
 Sempre que ocorrer a substituição dos bens inicialmente penhorados, será lavrado novo termo.
 
-## Art. 850.
+## Art. 850
 
 Será admitida a redução ou a ampliação da penhora, bem como sua transferência para outros bens, se, no curso do processo, o valor de mercado dos bens penhorados sofrer alteração significativa.
 
-## Art. 851.
+## Art. 851
 
 Não se procede à segunda penhora, salvo se:
 
@@ -8810,15 +8810,15 @@ II - executados os bens, o produto da alienação não bastar para o pagamento d
 
 III - o exequente desistir da primeira penhora, por serem litigiosos os bens ou por estarem submetidos a constrição judicial.
 
-## Art. 852.
+## Art. 852
 
-juiz determinará a alienação antecipada dos bens penhorados quando:
+O juiz determinará a alienação antecipada dos bens penhorados quando:
 
 I - se tratar de veículos automotores, de pedras e metais preciosos e de outros bens móveis sujeitos à depreciação ou à deterioração;
 
 II - houver manifesta vantagem.
 
-## Art. 853.
+## Art. 853
 
 Quando uma das partes requerer alguma das medidas previstas nesta Subseção, o juiz ouvirá sempre a outra, no prazo de 3 (três) dias, antes de decidir.
 
@@ -8826,7 +8826,7 @@ Parágrafo único. O juiz decidirá de plano qualquer questão suscitada.
 
 #### Subseção V — Da Penhora de Dinheiro em Depósito ou em Aplicação Financeira
 
-## Art. 854.
+## Art. 854
 
 Para possibilitar a penhora de dinheiro em depósito ou em aplicação financeira, o juiz, a requerimento do exequente, sem dar ciência prévia do ato ao executado, determinará às instituições financeiras, por meio de sistema eletrônico gerido pela autoridade supervisora do sistema financeiro nacional, que torne indisponíveis ativos financeiros existentes em nome do executado, limitando-se a indisponibilidade ao valor indicado na execução.
 
@@ -8854,7 +8854,7 @@ II - ainda remanesce indisponibilidade excessiva de ativos financeiros.
 
 #### Subseção VI — Da Penhora de Créditos
 
-## Art. 855.
+## Art. 855
 
 Quando recair em crédito do executado, enquanto não ocorrer a hipótese prevista no
 
@@ -8865,7 +8865,7 @@ I - ao terceiro devedor para que não pague ao executado, seu credor;
 
 II - ao executado, credor do terceiro, para que não pratique ato de disposição do crédito.
 
-## Art. 856.
+## Art. 856
 
 A penhora de crédito representado por letra de câmbio, nota promissória, duplicata, cheque ou outros títulos far-se-á pela apreensão do documento, esteja ou não este em poder do executado.
 
@@ -8877,7 +8877,7 @@ A penhora de crédito representado por letra de câmbio, nota promissória, dupl
 
 § 4º A requerimento do exequente, o juiz determinará o comparecimento, em audiência especialmente designada, do executado e do terceiro, a fim de lhes tomar os depoimentos.
 
-## Art. 857.
+## Art. 857
 
 Feita a penhora em direito e ação do executado, e não tendo ele oferecido embargos ou sendo estes rejeitados, o exequente ficará sub-rogado nos direitos do executado até a concorrência de seu crédito.
 
@@ -8885,21 +8885,21 @@ Feita a penhora em direito e ação do executado, e não tendo ele oferecido emb
 
 § 2º A sub-rogação não impede o sub-rogado, se não receber o crédito do executado, de prosseguir na execução, nos mesmos autos, penhorando outros bens.
 
-## Art. 858.
+## Art. 858
 
 Quando a penhora recair sobre dívidas de dinheiro a juros, de direito a rendas ou de prestações periódicas, o exequente poderá levantar os juros, os rendimentos ou as prestações à medida que forem sendo depositados, abatendo-se do crédito as importâncias recebidas, conforme as regras de imputação do pagamento.
 
-## Art. 859.
+## Art. 859
 
 Recaindo a penhora sobre direito a prestação ou a restituição de coisa determinada, o executado será intimado para, no vencimento, depositá-la, correndo sobre ela a execução.
 
-## Art. 860.
+## Art. 860
 
 Quando o direito estiver sendo pleiteado em juízo, a penhora que recair sobre ele será averbada, com destaque, nos autos pertinentes ao direito e na ação correspondente à penhora, a fim de que esta seja efetivada nos bens que forem adjudicados ou que vierem a caber ao executado.
 
 #### Subseção VII — Da Penhora das Quotas ou das Ações de Sociedades Personificadas
 
-## Art. 861.
+## Art. 861
 
 Penhoradas as quotas ou as ações de sócio em sociedade simples ou empresária, o juiz assinará prazo razoável, não superior a 3 (três) meses, para que a sociedade:
 
@@ -8933,7 +8933,7 @@ seja excessivamente onerosa para a sociedade, o juiz poderá determinar o leilã
 
 #### Subseção VIII — Da Penhora de Empresa, de Outros Estabelecimentos e de Semoventes
 
-## Art. 862.
+## Art. 862
 
 Quando a penhora recair em estabelecimento comercial, industrial ou agrícola, bem como em semoventes, plantações ou edifícios em construção, o juiz nomeará administrador-depositário, determinando-lhe que apresente em 10 (dez) dias o plano de administração.
 
@@ -8945,7 +8945,7 @@ Quando a penhora recair em estabelecimento comercial, industrial ou agrícola, b
 
 § 4º Sendo necessário afastar o incorporador da administração da incorporação, será ela exercida pela comissão de representantes dos adquirentes ou, se se tratar de construção financiada, por empresa ou profissional indicado pela instituição fornecedora dos recursos para a obra, devendo ser ouvida, neste último caso, a comissão de representantes dos adquirentes.
 
-## Art. 863.
+## Art. 863
 
 A penhora de empresa que funcione mediante concessão ou autorização far-se-á, conforme o valor do crédito, sobre a renda, sobre determinados bens ou sobre todo o patrimônio, e o juiz nomeará como depositário, de preferência, um de seus diretores.
 
@@ -8953,17 +8953,17 @@ A penhora de empresa que funcione mediante concessão ou autorização far-se-á
 
 § 2º Recaindo a penhora sobre todo o patrimônio, prosseguirá a execução em seus ulteriores termos, ouvindo-se, antes da arrematação ou da adjudicação, o ente público que houver outorgado a concessão.
 
-## Art. 864.
+## Art. 864
 
 A penhora de navio ou de aeronave não obsta que continuem navegando ou operando até a alienação, mas o juiz, ao conceder a autorização para tanto, não permitirá que saiam do porto ou do aeroporto antes que o executado faça o seguro usual contra riscos.
 
-## Art. 865.
+## Art. 865
 
 A penhora de que trata esta Subseção somente será determinada se não houver outro meio eficaz para a efetivação do crédito.
 
 #### Subseção IX — Da Penhora de Percentual de Faturamento de Empresa
 
-## Art. 866.
+## Art. 866
 
 Se o executado não tiver outros bens penhoráveis ou se, tendo-os, esses forem de difícil alienação ou insuficientes para saldar o crédito executado, o juiz poderá ordenar a penhora de percentual de faturamento de empresa.
 
@@ -8975,21 +8975,21 @@ Se o executado não tiver outros bens penhoráveis ou se, tendo-os, esses forem 
 
 #### Subseção X — Da Penhora de Frutos e Rendimentos de Coisa Móvel ou Imóvel
 
-## Art. 867.
+## Art. 867
 
-juiz pode ordenar a penhora de frutos e rendimentos de coisa móvel ou imóvel quando a considerar mais eficiente para o recebimento do crédito e menos gravosa ao executado.
+O juiz pode ordenar a penhora de frutos e rendimentos de coisa móvel ou imóvel quando a considerar mais eficiente para o recebimento do crédito e menos gravosa ao executado.
 
-## Art. 868.
+## Art. 868
 
-rdenada a penhora de frutos e rendimentos, o juiz nomeará administrador-depositário, que será investido de todos os poderes que concernem à administração do bem e à fruição de seus frutos e utilidades, perdendo o executado o direito de gozo do bem, até que o exequente seja pago do principal, dos juros, das custas e dos honorários advocatícios.
+Ordenada a penhora de frutos e rendimentos, o juiz nomeará administrador-depositário, que será investido de todos os poderes que concernem à administração do bem e à fruição de seus frutos e utilidades, perdendo o executado o direito de gozo do bem, até que o exequente seja pago do principal, dos juros, das custas e dos honorários advocatícios.
 
 § 1º A medida terá eficácia em relação a terceiros a partir da publicação da decisão que a conceda ou de sua averbação no ofício imobiliário, em caso de imóveis.
 
 § 2º O exequente providenciará a averbação no ofício imobiliário mediante a apresentação de certidão de inteiro teor do ato, independentemente de mandado judicial.
 
-## Art. 869.
+## Art. 869
 
-juiz poderá nomear administrador-depositário o exequente ou o executado, ouvida a parte contrária, e, não havendo acordo, nomeará profissional qualificado para o desempenho da função.
+O juiz poderá nomear administrador-depositário o exequente ou o executado, ouvida a parte contrária, e, não havendo acordo, nomeará profissional qualificado para o desempenho da função.
 
 § 1º O administrador submeterá à aprovação judicial a forma de administração e a de prestar contas periodicamente.
 
@@ -9005,13 +9005,13 @@ juiz poderá nomear administrador-depositário o exequente ou o executado, ouvid
 
 #### Subseção XI — Da Avaliação
 
-## Art. 870.
+## Art. 870
 
 A avaliação será feita pelo oficial de justiça.
 
 Parágrafo único. Se forem necessários conhecimentos especializados e o valor da execução o comportar, o juiz nomeará avaliador, fixando-lhe prazo não superior a 10 (dez) dias para entrega do laudo.
 
-## Art. 871.
+## Art. 871
 
 Não se procederá à avaliação quando:
 
@@ -9025,7 +9025,7 @@ IV - se tratar de veículos automotores ou de outros bens cujo preço médio de 
 
 Parágrafo único. Ocorrendo a hipótese do inciso I deste artigo, a avaliação poderá ser realizada quando houver fundada dúvida do juiz quanto ao real valor do bem.
 
-## Art. 872.
+## Art. 872
 
 A avaliação realizada pelo oficial de justiça constará de vistoria e de laudo anexados ao auto de penhora ou, em caso de perícia realizada por avaliador, de laudo apresentado no prazo fixado pelo juiz, devendo-se, em qualquer hipótese, especificar:
 
@@ -9037,7 +9037,7 @@ II - o valor dos bens.
 
 § 2º Realizada a avaliação e, sendo o caso, apresentada a proposta de desmembramento, as partes serão ouvidas no prazo de 5 (cinco) dias.
 
-## Art. 873.
+## Art. 873
 
 É admitida nova avaliação quando:
 
@@ -9053,7 +9053,7 @@ art. 480
 caput
 deste artigo.
 
-## Art. 874.
+## Art. 874
 
 Após a avaliação, o juiz poderá, a requerimento do interessado e ouvida a parte contrária, mandar:
 
@@ -9061,7 +9061,7 @@ I - reduzir a penhora aos bens suficientes ou transferi-la para outros, se o val
 
 II - ampliar a penhora ou transferi-la para outros bens mais valiosos, se o valor dos bens penhorados for inferior ao crédito do exequente.
 
-## Art. 875.
+## Art. 875
 
 Realizadas a penhora e a avaliação, o juiz dará início aos atos de expropriação do bem.
 
@@ -9069,7 +9069,7 @@ Realizadas a penhora e a avaliação, o juiz dará início aos atos de expropria
 
 #### Subseção I — Da Adjudicação
 
-## Art. 876.
+## Art. 876
 
 É lícito ao exequente, oferecendo preço não inferior ao da avaliação, requerer que lhe sejam adjudicados os bens penhorados.
 
@@ -9103,7 +9103,7 @@ art. 889, incisos II a VIII
 
 § 7º No caso de penhora de quota social ou de ação de sociedade anônima fechada realizada em favor de exequente alheio à sociedade, esta será intimada, ficando responsável por informar aos sócios a ocorrência da penhora, assegurando-se a estes a preferência.
 
-## Art. 877.
+## Art. 877
 
 Transcorrido o prazo de 5 (cinco) dias, contado da última intimação, e decididas eventuais questões, o juiz ordenará a lavratura do auto de adjudicação.
 
@@ -9119,13 +9119,13 @@ II - a ordem de entrega ao adjudicatário, quando se tratar de bem móvel.
 
 § 4º Na hipótese de falência ou de insolvência do devedor hipotecário, o direito de remição previsto no § 3º será deferido à massa ou aos credores em concurso, não podendo o exequente recusar o preço da avaliação do imóvel.
 
-## Art. 878.
+## Art. 878
 
 Frustradas as tentativas de alienação do bem, será reaberta oportunidade para requerimento de adjudicação, caso em que também se poderá pleitear a realização de nova avaliação.
 
 #### Subseção II — Da Alienação
 
-## Art. 879.
+## Art. 879
 
 A alienação far-se-á:
 
@@ -9133,7 +9133,7 @@ I - por iniciativa particular;
 
 II - em leilão judicial eletrônico ou presencial.
 
-## Art. 880.
+## Art. 880
 
 Não efetivada a adjudicação, o exequente poderá requerer a alienação por sua própria iniciativa ou por intermédio de corretor ou leiloeiro público credenciado perante o órgão judiciário.
 
@@ -9149,7 +9149,7 @@ II - a ordem de entrega ao adquirente, quando se tratar de bem móvel.
 
 § 4º Nas localidades em que não houver corretor ou leiloeiro público credenciado nos termos do § 3º, a indicação será de livre escolha do exequente.
 
-## Art. 881.
+## Art. 881
 
 A alienação far-se-á em leilão judicial se não efetivada a adjudicação ou a alienação por iniciativa particular.
 
@@ -9157,7 +9157,7 @@ A alienação far-se-á em leilão judicial se não efetivada a adjudicação ou
 
 § 2º Ressalvados os casos de alienação a cargo de corretores de bolsa de valores, todos os demais bens serão alienados em leilão público.
 
-## Art. 882.
+## Art. 882
 
 Não sendo possível a sua realização por meio eletrônico, o leilão será presencial.
 
@@ -9167,11 +9167,11 @@ Não sendo possível a sua realização por meio eletrônico, o leilão será pr
 
 § 3º O leilão presencial será realizado no local designado pelo juiz.
 
-## Art. 883.
+## Art. 883
 
 Caberá ao juiz a designação do leiloeiro público, que poderá ser indicado pelo exequente.
 
-## Art. 884.
+## Art. 884
 
 Incumbe ao leiloeiro público:
 
@@ -9187,13 +9187,13 @@ V - prestar contas nos 2 (dois) dias subsequentes ao depósito.
 
 Parágrafo único. O leiloeiro tem o direito de receber do arrematante a comissão estabelecida em lei ou arbitrada pelo juiz.
 
-## Art. 885.
+## Art. 885
 
-juiz da execução estabelecerá o preço mínimo, as condições de pagamento e as garantias que poderão ser prestadas pelo arrematante.
+O juiz da execução estabelecerá o preço mínimo, as condições de pagamento e as garantias que poderão ser prestadas pelo arrematante.
 
-## Art. 886.
+## Art. 886
 
-leilão será precedido de publicação de edital, que conterá:
+O leilão será precedido de publicação de edital, que conterá:
 
 I - a descrição do bem penhorado, com suas características, e, tratando-se de imóvel, sua situação e suas divisas, com remissão à matrícula e aos registros;
 
@@ -9209,9 +9209,9 @@ VI - menção da existência de ônus, recurso ou processo pendente sobre os ben
 
 Parágrafo único. No caso de títulos da dívida pública e de títulos negociados em bolsa, constará do edital o valor da última cotação.
 
-## Art. 887.
+## Art. 887
 
-leiloeiro público designado adotará providências para a ampla divulgação da alienação.
+O leiloeiro público designado adotará providências para a ampla divulgação da alienação.
 
 § 1º A publicação do edital deverá ocorrer pelo menos 5 (cinco) dias antes da data marcada para o leilão.
 
@@ -9225,7 +9225,7 @@ leiloeiro público designado adotará providências para a ampla divulgação da
 
 § 6º O juiz poderá determinar a reunião de publicações em listas referentes a mais de uma execução.
 
-## Art. 888.
+## Art. 888
 
 Não se realizando o leilão por qualquer motivo, o juiz mandará publicar a transferência, observando-se o disposto no
 
@@ -9234,7 +9234,7 @@ art. 887
 
 Parágrafo único. O escrivão, o chefe de secretaria ou o leiloeiro que culposamente der causa à transferência responde pelas despesas da nova publicação, podendo o juiz aplicar-lhe a pena de suspensão por 5 (cinco) dias a 3 (três) meses, em procedimento administrativo regular.
 
-## Art. 889.
+## Art. 889
 
 Serão cientificados da alienação judicial, com pelo menos 5 (cinco) dias de antecedência:
 
@@ -9256,7 +9256,7 @@ VIII - a União, o Estado e o Município, no caso de alienação de bem tombado.
 
 Parágrafo único. Se o executado for revel e não tiver advogado constituído, não constando dos autos seu endereço atual ou, ainda, não sendo ele encontrado no endereço constante do processo, a intimação considerar-se-á feita por meio do próprio edital de leilão.
 
-## Art. 890.
+## Art. 890
 
 Pode oferecer lance quem estiver na livre administração de seus bens, com exceção:
 
@@ -9272,13 +9272,13 @@ V - dos leiloeiros e seus prepostos, quanto aos bens de cuja venda estejam encar
 
 VI - dos advogados de qualquer das partes.
 
-## Art. 891.
+## Art. 891
 
 Não será aceito lance que ofereça preço vil.
 
 Parágrafo único. Considera-se vil o preço inferior ao mínimo estipulado pelo juiz e constante do edital, e, não tendo sido fixado preço mínimo, considera-se vil o preço inferior a cinquenta por cento do valor da avaliação.
 
-## Art. 892.
+## Art. 892
 
 Salvo pronunciamento judicial em sentido diverso, o pagamento deverá ser realizado de imediato pelo arrematante, por depósito judicial ou por meio eletrônico.
 
@@ -9288,11 +9288,11 @@ Salvo pronunciamento judicial em sentido diverso, o pagamento deverá ser realiz
 
 § 3º No caso de leilão de bem tombado, a União, os Estados e os Municípios terão, nessa ordem, o direito de preferência na arrematação, em igualdade de oferta.
 
-## Art. 893.
+## Art. 893
 
 Se o leilão for de diversos bens e houver mais de um lançador, terá preferência aquele que se propuser a arrematá-los todos, em conjunto, oferecendo, para os bens que não tiverem lance, preço igual ao da avaliação e, para os demais, preço igual ao do maior lance que, na tentativa de arrematação individualizada, tenha sido oferecido para eles.
 
-## Art. 894.
+## Art. 894
 
 Quando o imóvel admitir cômoda divisão, o juiz, a requerimento do executado, ordenará a alienação judicial de parte dele, desde que suficiente para o pagamento do exequente e para a satisfação das despesas da execução.
 
@@ -9300,9 +9300,9 @@ Quando o imóvel admitir cômoda divisão, o juiz, a requerimento do executado, 
 
 § 2º A alienação por partes deverá ser requerida a tempo de permitir a avaliação das glebas destacadas e sua inclusão no edital, e, nesse caso, caberá ao executado instruir o requerimento com planta e memorial descritivo subscritos por profissional habilitado.
 
-## Art. 895.
+## Art. 895
 
-interessado em adquirir o bem penhorado em prestações poderá apresentar, por escrito:
+O interessado em adquirir o bem penhorado em prestações poderá apresentar, por escrito:
 
 I - até o início do primeiro leilão, proposta de aquisição do bem por valor não inferior ao da avaliação;
 
@@ -9330,7 +9330,7 @@ II - em iguais condições, o juiz decidirá pela formulada em primeiro lugar.
 
 § 9º No caso de arrematação a prazo, os pagamentos feitos pelo arrematante pertencerão ao exequente até o limite de seu crédito, e os subsequentes, ao executado.
 
-## Art. 896.
+## Art. 896
 
 Quando o imóvel de incapaz não alcançar em leilão pelo menos oitenta por cento do valor da avaliação, o juiz o confiará à guarda e à administração de depositário idôneo, adiando a alienação por prazo não superior a 1 (um) ano.
 
@@ -9342,23 +9342,23 @@ Quando o imóvel de incapaz não alcançar em leilão pelo menos oitenta por cen
 
 § 4º Findo o prazo do adiamento, o imóvel será submetido a novo leilão.
 
-## Art. 897.
+## Art. 897
 
 Se o arrematante ou seu fiador não pagar o preço no prazo estabelecido, o juiz impor-lhe-á, em favor do exequente, a perda da caução, voltando os bens a novo leilão, do qual não serão admitidos a participar o arrematante e o fiador remissos.
 
-## Art. 898.
+## Art. 898
 
-fiador do arrematante que pagar o valor do lance e a multa poderá requerer que a arrematação lhe seja transferida.
+O fiador do arrematante que pagar o valor do lance e a multa poderá requerer que a arrematação lhe seja transferida.
 
-## Art. 899.
+## Art. 899
 
 Será suspensa a arrematação logo que o produto da alienação dos bens for suficiente para o pagamento do credor e para a satisfação das despesas da execução.
 
-## Art. 900.
+## Art. 900
 
-leilão prosseguirá no dia útil imediato, à mesma hora em que teve início, independentemente de novo edital, se for ultrapassado o horário de expediente forense.
+O leilão prosseguirá no dia útil imediato, à mesma hora em que teve início, independentemente de novo edital, se for ultrapassado o horário de expediente forense.
 
-## Art. 901.
+## Art. 901
 
 A arrematação constará de auto que será lavrado de imediato e poderá abranger bens penhorados em mais de uma execução, nele mencionadas as condições nas quais foi alienado o bem.
 
@@ -9366,7 +9366,7 @@ A arrematação constará de auto que será lavrado de imediato e poderá abrang
 
 § 2º A carta de arrematação conterá a descrição do imóvel, com remissão à sua matrícula ou individuação e aos seus registros, a cópia do auto de arrematação e a prova de pagamento do imposto de transmissão, além da indicação da existência de eventual ônus real ou gravame.
 
-## Art. 902.
+## Art. 902
 
 No caso de leilão de bem hipotecado, o executado poderá remi-lo até a assinatura do auto de arrematação, oferecendo preço igual ao do maior lance oferecido.
 
@@ -9374,7 +9374,7 @@ Parágrafo único. No caso de falência ou insolvência do devedor hipotecário,
 caput
 defere-se à massa ou aos credores em concurso, não podendo o exequente recusar o preço da avaliação do imóvel.
 
-## Art. 903.
+## Art. 903
 
 Qualquer que seja a modalidade de leilão, assinado o auto pelo juiz, pelo arrematante e pelo leiloeiro, a arrematação será considerada perfeita, acabada e irretratável, ainda que venham a ser julgados procedentes os embargos do executado ou a ação autônoma de que trata o § 4º deste artigo, assegurada a possibilidade de reparação pelos prejuízos sofridos.
 
@@ -9406,7 +9406,7 @@ III - uma vez citado para responder a ação autônoma de que trata o § 4º des
 
 ### Seção V — Da Satisfação do Crédito
 
-## Art. 904.
+## Art. 904
 
 A satisfação do crédito exequendo far-se-á:
 
@@ -9414,9 +9414,9 @@ I - pela entrega do dinheiro;
 
 II - pela adjudicação dos bens penhorados.
 
-## Art. 905.
+## Art. 905
 
-juiz autorizará que o exequente levante, até a satisfação integral de seu crédito, o dinheiro depositado para segurar o juízo ou o produto dos bens alienados, bem como do faturamento de empresa ou de outros frutos e rendimentos de coisas ou empresas penhoradas, quando:
+O juiz autorizará que o exequente levante, até a satisfação integral de seu crédito, o dinheiro depositado para segurar o juízo ou o produto dos bens alienados, bem como do faturamento de empresa ou de outros frutos e rendimentos de coisas ou empresas penhoradas, quando:
 
 I - a execução for movida só a benefício do exequente singular, a quem, por força da penhora, cabe o direito de preferência sobre os bens penhorados e alienados;
 
@@ -9424,17 +9424,17 @@ II - não houver sobre os bens alienados outros privilégios ou preferências in
 
 Parágrafo único. Durante o plantão judiciário, veda-se a concessão de pedidos de levantamento de importância em dinheiro ou valores ou de liberação de bens apreendidos.
 
-## Art. 906.
+## Art. 906
 
 Ao receber o mandado de levantamento, o exequente dará ao executado, por termo nos autos, quitação da quantia paga.
 
 Parágrafo único. A expedição de mandado de levantamento poderá ser substituída pela transferência eletrônica do valor depositado em conta vinculada ao juízo para outra indicada pelo exequente.
 
-## Art. 907.
+## Art. 907
 
 Pago ao exequente o principal, os juros, as custas e os honorários, a importância que sobrar será restituída ao executado.
 
-## Art. 908.
+## Art. 908
 
 Havendo pluralidade de credores ou exequentes, o dinheiro lhes será distribuído e entregue consoante a ordem das respectivas preferências.
 
@@ -9444,13 +9444,13 @@ propter rem
 
 § 2º Não havendo título legal à preferência, o dinheiro será distribuído entre os concorrentes, observando-se a anterioridade de cada penhora.
 
-## Art. 909.
+## Art. 909
 
-s exequentes formularão as suas pretensões, que versarão unicamente sobre o direito de preferência e a anterioridade da penhora, e, apresentadas as razões, o juiz decidirá.
+Os exequentes formularão as suas pretensões, que versarão unicamente sobre o direito de preferência e a anterioridade da penhora, e, apresentadas as razões, o juiz decidirá.
 
 # CAPÍTULO V — DA EXECUÇÃO CONTRA A FAZENDA PÚBLICA
 
-## Art. 910.
+## Art. 910
 
 Na execução fundada em título extrajudicial, a Fazenda Pública será citada para opor embargos em 30 (trinta) dias.
 
@@ -9466,7 +9466,7 @@ artigos 534 e 535
 
 # CAPÍTULO VI — DA EXECUÇÃO DE ALIMENTOS
 
-## Art. 911.
+## Art. 911
 
 Na execução fundada em título executivo extrajudicial que contenha obrigação alimentar, o juiz mandará citar o executado para, em 3 (três) dias, efetuar o pagamento das parcelas anteriores ao início da execução e das que se vencerem no seu curso, provar que o fez ou justificar a impossibilidade de fazê-lo.
 
@@ -9474,7 +9474,7 @@ Parágrafo único. Aplicam-se, no que couber, os
 §§ 2º a 7º do art. 528
 .
 
-## Art. 912.
+## Art. 912
 
 Quando o executado for funcionário público, militar, diretor ou gerente de empresa, bem como empregado sujeito à legislação do trabalho, o exequente poderá requerer o desconto em folha de pagamento de pessoal da importância da prestação alimentícia.
 
@@ -9482,7 +9482,7 @@ Quando o executado for funcionário público, militar, diretor ou gerente de emp
 
 § 2º O ofício conterá os nomes e o número de inscrição no Cadastro de Pessoas Físicas do exequente e do executado, a importância a ser descontada mensalmente, a conta na qual deve ser feito o depósito e, se for o caso, o tempo de sua duração.
 
-## Art. 913.
+## Art. 913
 
 Não requerida a execução nos termos deste Capítulo, observar-se-á o disposto no
 
@@ -9491,17 +9491,17 @@ e seguintes, com a ressalva de que, recaindo a penhora em dinheiro, a concessão
 
 # TÍTULO III — DOS EMBARGOS À EXECUÇÃO
 
-## Art. 914.
+## Art. 914
 
-executado, independentemente de penhora, depósito ou caução, poderá se opor à execução por meio de embargos.
+O executado, independentemente de penhora, depósito ou caução, poderá se opor à execução por meio de embargos.
 
 § 1º Os embargos à execução serão distribuídos por dependência, autuados em apartado e instruídos com cópias das peças processuais relevantes, que poderão ser declaradas autênticas pelo próprio advogado, sob sua responsabilidade pessoal.
 
 § 2º Na execução por carta, os embargos serão oferecidos no juízo deprecante ou no juízo deprecado, mas a competência para julgá-los é do juízo deprecante, salvo se versarem unicamente sobre vícios ou defeitos da penhora, da avaliação ou da alienação dos bens efetuadas no juízo deprecado.
 
-## Art. 915.
+## Art. 915
 
-s embargos serão oferecidos no prazo de 15 (quinze) dias, contado, conforme o caso, na forma do
+Os embargos serão oferecidos no prazo de 15 (quinze) dias, contado, conforme o caso, na forma do
 
 art. 231
 .
@@ -9520,7 +9520,7 @@ art. 229
 
 § 4º Nos atos de comunicação por carta precatória, rogatória ou de ordem, a realização da citação será imediatamente informada, por meio eletrônico, pelo juiz deprecado ao juiz deprecante.
 
-## Art. 916.
+## Art. 916
 
 No prazo para embargos, reconhecendo o crédito do exequente e comprovando o depósito de trinta por cento do valor em execução, acrescido de custas e de honorários de advogado, o executado poderá requerer que lhe seja permitido pagar o restante em até 6 (seis) parcelas mensais, acrescidas de correção monetária e de juros de um por cento ao mês.
 
@@ -9544,7 +9544,7 @@ II - a imposição ao executado de multa de dez por cento sobre o valor das pres
 
 § 7º O disposto neste artigo não se aplica ao cumprimento da sentença.
 
-## Art. 917.
+## Art. 917
 
 Nos embargos à execução, o executado poderá alegar:
 
@@ -9592,9 +9592,9 @@ art. 464
 arts. 146 e 148
 .
 
-## Art. 918.
+## Art. 918
 
-juiz rejeitará liminarmente os embargos:
+O juiz rejeitará liminarmente os embargos:
 
 I - quando intempestivos;
 
@@ -9604,9 +9604,9 @@ III - manifestamente protelatórios.
 
 Parágrafo único. Considera-se conduta atentatória à dignidade da justiça o oferecimento de embargos manifestamente protelatórios.
 
-## Art. 919.
+## Art. 919
 
-s embargos à execução não terão efeito suspensivo.
+Os embargos à execução não terão efeito suspensivo.
 
 § 1º O juiz poderá, a requerimento do embargante, atribuir efeito suspensivo aos embargos quando verificados os requisitos para a concessão da tutela provisória e desde que a execução já esteja garantida por penhora, depósito ou caução suficientes.
 
@@ -9618,7 +9618,7 @@ s embargos à execução não terão efeito suspensivo.
 
 § 5º A concessão de efeito suspensivo não impedirá a efetivação dos atos de substituição, de reforço ou de redução da penhora e de avaliação dos bens.
 
-## Art. 920.
+## Art. 920
 
 Recebidos os embargos:
 
@@ -9632,7 +9632,7 @@ III - encerrada a instrução, o juiz proferirá sentença.
 
 # CAPÍTULO I — DA SUSPENSÃO DO PROCESSO DE EXECUÇÃO
 
-## Art. 921.
+## Art. 921
 
 Suspende-se a execução:
 
@@ -9699,19 +9699,19 @@ de sentença de que trata o art. 523 deste Código.
 (Incluído pela
 Lei nº 14.195, de 2021)
 
-## Art. 922.
+## Art. 922
 
 Convindo as partes, o juiz declarará suspensa a execução durante o prazo concedido pelo exequente para que o executado cumpra voluntariamente a obrigação.
 
 Parágrafo único. Findo o prazo sem cumprimento da obrigação, o processo retomará o seu curso.
 
-## Art. 923.
+## Art. 923
 
 Suspensa a execução, não serão praticados atos processuais, podendo o juiz, entretanto, salvo no caso de arguição de impedimento ou de suspeição, ordenar providências urgentes.
 
 # CAPÍTULO II — DA EXTINÇÃO DO PROCESSO DE EXECUÇÃO
 
-## Art. 924.
+## Art. 924
 
 Extingue-se a execução quando:
 
@@ -9725,7 +9725,7 @@ IV - o exequente renunciar ao crédito;
 
 V - ocorrer a prescrição intercorrente.
 
-## Art. 925.
+## Art. 925
 
 A extinção só produz efeito quando declarada por sentença.
 
@@ -9735,17 +9735,17 @@ A extinção só produz efeito quando declarada por sentença.
 
 # CAPÍTULO I — DISPOSIÇÕES GERAIS
 
-## Art. 926.
+## Art. 926
 
-s tribunais devem uniformizar sua jurisprudência e mantê-la estável, íntegra e coerente.
+Os tribunais devem uniformizar sua jurisprudência e mantê-la estável, íntegra e coerente.
 
 § 1º Na forma estabelecida e segundo os pressupostos fixados no regimento interno, os tribunais editarão enunciados de súmula correspondentes a sua jurisprudência dominante.
 
 § 2º Ao editar enunciados de súmula, os tribunais devem ater-se às circunstâncias fáticas dos precedentes que motivaram sua criação.
 
-## Art. 927.
+## Art. 927
 
-s juízes e os tribunais observarão:
+Os juízes e os tribunais observarão:
 
 I - as decisões do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
 
@@ -9771,7 +9771,7 @@ art. 489, § 1º
 
 § 5º Os tribunais darão publicidade a seus precedentes, organizando-os por questão jurídica decidida e divulgando-os, preferencialmente, na rede mundial de computadores.
 
-## Art. 928.
+## Art. 928
 
 Para os fins deste Código, considera-se julgamento de casos repetitivos a decisão proferida em:
 
@@ -9783,23 +9783,23 @@ Parágrafo único. O julgamento de casos repetitivos tem por objeto questão de 
 
 # CAPÍTULO II — DA ORDEM DOS PROCESSOS NO TRIBUNAL
 
-## Art. 929.
+## Art. 929
 
-s autos serão registrados no protocolo do tribunal no dia de sua entrada, cabendo à secretaria ordená-los, com imediata distribuição.
+Os autos serão registrados no protocolo do tribunal no dia de sua entrada, cabendo à secretaria ordená-los, com imediata distribuição.
 
 Parágrafo único. A critério do tribunal, os serviços de protocolo poderão ser descentralizados, mediante delegação a ofícios de justiça de primeiro grau.
 
-## Art. 930.
+## Art. 930
 
 Far-se-á a distribuição de acordo com o regimento interno do tribunal, observando-se a alternatividade, o sorteio eletrônico e a publicidade.
 
 Parágrafo único. O primeiro recurso protocolado no tribunal tornará prevento o relator para eventual recurso subsequente interposto no mesmo processo ou em processo conexo.
 
-## Art. 931.
+## Art. 931
 
 Distribuídos, os autos serão imediatamente conclusos ao relator, que, em 30 (trinta) dias, depois de elaborar o voto, restituí-los-á, com relatório, à secretaria.
 
-## Art. 932.
+## Art. 932
 
 Incumbe ao relator:
 
@@ -9833,7 +9833,7 @@ VIII - exercer outras atribuições estabelecidas no regimento interno do tribun
 
 Parágrafo único. Antes de considerar inadmissível o recurso, o relator concederá o prazo de 5 (cinco) dias ao recorrente para que seja sanado vício ou complementada a documentação exigível.
 
-## Art. 933.
+## Art. 933
 
 Se o relator constatar a ocorrência de fato superveniente à decisão recorrida ou a existência de questão apreciável de ofício ainda não examinada que devam ser considerados no julgamento do recurso, intimará as partes para que se manifestem no prazo de 5 (cinco) dias.
 
@@ -9843,11 +9843,11 @@ Se o relator constatar a ocorrência de fato superveniente à decisão recorrida
 caput
 e, em seguida, solicitará a inclusão do feito em pauta para prosseguimento do julgamento, com submissão integral da nova questão aos julgadores.
 
-## Art. 934.
+## Art. 934
 
 Em seguida, os autos serão apresentados ao presidente, que designará dia para julgamento, ordenando, em todas as hipóteses previstas neste Livro, a publicação da pauta no órgão oficial.
 
-## Art. 935.
+## Art. 935
 
 Entre a data de publicação da pauta e a da sessão de julgamento decorrerá, pelo menos, o prazo de 5 (cinco) dias, incluindo-se em nova pauta os processos que não tenham sido julgados, salvo aqueles cujo julgamento tiver sido expressamente adiado para a primeira sessão seguinte.
 
@@ -9855,7 +9855,7 @@ Entre a data de publicação da pauta e a da sessão de julgamento decorrerá, p
 
 § 2º Afixar-se-á a pauta na entrada da sala em que se realizar a sessão de julgamento.
 
-## Art. 936.
+## Art. 936
 
 Ressalvadas as preferências legais e regimentais, os recursos, a remessa necessária e os processos de competência originária serão julgados na seguinte ordem:
 
@@ -9867,7 +9867,7 @@ III - aqueles cujo julgamento tenha iniciado em sessão anterior; e
 
 IV - os demais casos.
 
-## Art. 937.
+## Art. 937
 
 Na sessão de julgamento, depois da exposição da causa pelo relator, o presidente dará a palavra, sucessivamente, ao recorrente, ao recorrido e, nos casos de sua intervenção, ao membro do Ministério Público, pelo prazo improrrogável de 15 (quinze) minutos para cada um, a fim de sustentarem suas razões, nas seguintes hipóteses, nos termos da parte final do
 
@@ -9904,7 +9904,7 @@ art. 984
 
 § 4º É permitido ao advogado com domicílio profissional em cidade diversa daquela onde está sediado o tribunal realizar sustentação oral por meio de videoconferência ou outro recurso tecnológico de transmissão de sons e imagens em tempo real, desde que o requeira até o dia anterior ao da sessão.
 
-## Art. 938.
+## Art. 938
 
 A questão preliminar suscitada no julgamento será decidida antes do mérito, deste não se conhecendo caso seja incompatível com a decisão.
 
@@ -9916,19 +9916,19 @@ A questão preliminar suscitada no julgamento será decidida antes do mérito, d
 
 § 4º Quando não determinadas pelo relator, as providências indicadas nos §§ 1º e 3º poderão ser determinadas pelo órgão competente para julgamento do recurso.
 
-## Art. 939.
+## Art. 939
 
 Se a preliminar for rejeitada ou se a apreciação do mérito for com ela compatível, seguir-se-ão a discussão e o julgamento da matéria principal, sobre a qual deverão se pronunciar os juízes vencidos na preliminar.
 
-## Art. 940.
+## Art. 940
 
-relator ou outro juiz que não se considerar habilitado a proferir imediatamente seu voto poderá solicitar vista pelo prazo máximo de 10 (dez) dias, após o qual o recurso será reincluído em pauta para julgamento na sessão seguinte à data da devolução.
+O relator ou outro juiz que não se considerar habilitado a proferir imediatamente seu voto poderá solicitar vista pelo prazo máximo de 10 (dez) dias, após o qual o recurso será reincluído em pauta para julgamento na sessão seguinte à data da devolução.
 
 § 1º Se os autos não forem devolvidos tempestivamente ou se não for solicitada pelo juiz prorrogação de prazo de no máximo mais 10 (dez) dias, o presidente do órgão fracionário os requisitará para julgamento do recurso na sessão ordinária subsequente, com publicação da pauta em que for incluído.
 
 § 2º Quando requisitar os autos na forma do § 1º, se aquele que fez o pedido de vista ainda não se sentir habilitado a votar, o presidente convocará substituto para proferir voto, na forma estabelecida no regimento interno do tribunal.
 
-## Art. 941.
+## Art. 941
 
 Proferidos os votos, o presidente anunciará o resultado do julgamento, designando para redigir o acórdão o relator ou, se vencido este, o autor do primeiro voto vencedor.
 
@@ -9938,7 +9938,7 @@ Proferidos os votos, o presidente anunciará o resultado do julgamento, designan
 
 § 3º O voto vencido será necessariamente declarado e considerado parte integrante do acórdão para todos os fins legais, inclusive de pré-questionamento.
 
-## Art. 942.
+## Art. 942
 
 Quando o resultado da apelação for não unânime, o julgamento terá prosseguimento em sessão a ser designada com a presença de outros julgadores, que serão convocados nos termos previamente definidos no regimento interno, em número suficiente para garantir a possibilidade de inversão do resultado inicial, assegurado às partes e a eventuais terceiros o direito de sustentar oralmente suas razões perante os novos julgadores.
 
@@ -9960,15 +9960,15 @@ II - da remessa necessária;
 
 III - não unânime proferido, nos tribunais, pelo plenário ou pela corte especial.
 
-## Art. 943.
+## Art. 943
 
-s votos, os acórdãos e os demais atos processuais podem ser registrados em documento eletrônico inviolável e assinados eletronicamente, na forma da lei, devendo ser impressos para juntada aos autos do processo quando este não for eletrônico.
+Os votos, os acórdãos e os demais atos processuais podem ser registrados em documento eletrônico inviolável e assinados eletronicamente, na forma da lei, devendo ser impressos para juntada aos autos do processo quando este não for eletrônico.
 
 § 1º Todo acórdão conterá ementa.
 
 § 2º Lavrado o acórdão, sua ementa será publicada no órgão oficial no prazo de 10 (dez) dias.
 
-## Art. 944.
+## Art. 944
 
 Não publicado o acórdão no prazo de 30 (trinta) dias, contado da data da sessão de julgamento, as notas taquigráficas o substituirão, para todos os fins legais, independentemente de revisão.
 
@@ -9976,7 +9976,7 @@ Parágrafo único. No caso do
 caput
 , o presidente do tribunal lavrará, de imediato, as conclusões e a ementa e mandará publicar o acórdão.
 
-## Art. 945.
+## Art. 945
 
 A critério do órgão julgador, o julgamento dos recursos e dos processos de competência originária que não admitem sustentação oral poderá realizar-se por meio eletrônico.
 
@@ -9994,9 +9994,9 @@ A critério do órgão julgador, o julgamento dos recursos e dos processos de co
 § 4º Caso surja alguma divergência entre os integrantes do órgão julgador durante o julgamento eletrônico, este ficará imediatamente suspenso, devendo a causa ser apreciada em sessão presencial.
 (Revogado pela Lei nº 13.256, de 2016)
 
-## Art. 946.
+## Art. 946
 
-agravo de instrumento será julgado antes da apelação interposta no mesmo processo.
+O agravo de instrumento será julgado antes da apelação interposta no mesmo processo.
 
 Parágrafo único. Se ambos os recursos de que trata o
 caput
@@ -10004,7 +10004,7 @@ houverem de ser julgados na mesma sessão, terá precedência o agravo de instru
 
 # CAPÍTULO III — DO INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA
 
-## Art. 947.
+## Art. 947
 
 É admissível a assunção de competência quando o julgamento de recurso, de remessa necessária ou de processo de competência originária envolver relevante questão de direito, com grande repercussão social, sem repetição em múltiplos processos.
 
@@ -10018,11 +10018,11 @@ houverem de ser julgados na mesma sessão, terá precedência o agravo de instru
 
 # CAPÍTULO IV — DO INCIDENTE DE ARGUIÇÃO DE INCONSTITUCIONALIDADE
 
-## Art. 948.
+## Art. 948
 
 Arguida, em controle difuso, a inconstitucionalidade de lei ou de ato normativo do poder público, o relator, após ouvir o Ministério Público e as partes, submeterá a questão à turma ou à câmara à qual competir o conhecimento do processo.
 
-## Art. 949.
+## Art. 949
 
 Se a arguição for:
 
@@ -10032,7 +10032,7 @@ II - acolhida, a questão será submetida ao plenário do tribunal ou ao seu ór
 
 Parágrafo único. Os órgãos fracionários dos tribunais não submeterão ao plenário ou ao órgão especial a arguição de inconstitucionalidade quando já houver pronunciamento destes ou do plenário do Supremo Tribunal Federal sobre a questão.
 
-## Art. 950.
+## Art. 950
 
 Remetida cópia do acórdão a todos os juízes, o presidente do tribunal designará a sessão de julgamento.
 
@@ -10046,23 +10046,23 @@ poderá manifestar-se, por escrito, sobre a questão constitucional objeto de ap
 
 # CAPÍTULO V — DO CONFLITO DE COMPETÊNCIA
 
-## Art. 951.
+## Art. 951
 
-conflito de competência pode ser suscitado por qualquer das partes, pelo Ministério Público ou pelo juiz.
+O conflito de competência pode ser suscitado por qualquer das partes, pelo Ministério Público ou pelo juiz.
 
 Parágrafo único. O Ministério Público somente será ouvido nos conflitos de competência relativos aos processos previstos no
 art. 178
 , mas terá qualidade de parte nos conflitos que suscitar.
 
-## Art. 952.
+## Art. 952
 
 Não pode suscitar conflito a parte que, no processo, arguiu incompetência relativa.
 
 Parágrafo único. O conflito de competência não obsta, porém, a que a parte que não o arguiu suscite a incompetência.
 
-## Art. 953.
+## Art. 953
 
-conflito será suscitado ao tribunal:
+O conflito será suscitado ao tribunal:
 
 I - pelo juiz, por ofício;
 
@@ -10070,15 +10070,15 @@ II - pela parte e pelo Ministério Público, por petição.
 
 Parágrafo único. O ofício e a petição serão instruídos com os documentos necessários à prova do conflito.
 
-## Art. 954.
+## Art. 954
 
 Após a distribuição, o relator determinará a oitiva dos juízes em conflito ou, se um deles for suscitante, apenas do suscitado.
 
 Parágrafo único. No prazo designado pelo relator, incumbirá ao juiz ou aos juízes prestar as informações.
 
-## Art. 955.
+## Art. 955
 
-relator poderá, de ofício ou a requerimento de qualquer das partes, determinar, quando o conflito for positivo, o sobrestamento do processo e, nesse caso, bem como no de conflito negativo, designará um dos juízes para resolver, em caráter provisório, as medidas urgentes.
+O relator poderá, de ofício ou a requerimento de qualquer das partes, determinar, quando o conflito for positivo, o sobrestamento do processo e, nesse caso, bem como no de conflito negativo, designará um dos juízes para resolver, em caráter provisório, as medidas urgentes.
 
 Parágrafo único. O relator poderá julgar de plano o conflito de competência quando sua decisão se fundar em:
 
@@ -10086,27 +10086,27 @@ I - súmula do Supremo Tribunal Federal, do Superior Tribunal de Justiça ou do 
 
 II - tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência.
 
-## Art. 956.
+## Art. 956
 
 Decorrido o prazo designado pelo relator, será ouvido o Ministério Público, no prazo de 5 (cinco) dias, ainda que as informações não tenham sido prestadas, e, em seguida, o conflito irá a julgamento.
 
-## Art. 957.
+## Art. 957
 
 Ao decidir o conflito, o tribunal declarará qual o juízo competente, pronunciando-se também sobre a validade dos atos do juízo incompetente.
 
 Parágrafo único. Os autos do processo em que se manifestou o conflito serão remetidos ao juiz declarado competente.
 
-## Art. 958.
+## Art. 958
 
 No conflito que envolva órgãos fracionários dos tribunais, desembargadores e juízes em exercício no tribunal, observar-se-á o que dispuser o regimento interno do tribunal.
 
-## Art. 959.
+## Art. 959
 
-regimento interno do tribunal regulará o processo e o julgamento do conflito de atribuições entre autoridade judiciária e autoridade administrativa.
+O regimento interno do tribunal regulará o processo e o julgamento do conflito de atribuições entre autoridade judiciária e autoridade administrativa.
 
 # CAPÍTULO VI — DA HOMOLOGAÇÃO DE DECISÃO ESTRANGEIRA E DA CONCESSÃO DO EXEQUATUR À CARTA ROGATÓRIA
 
-## Art. 960.
+## Art. 960
 
 A homologação de decisão estrangeira será requerida por ação de homologação de decisão estrangeira, salvo disposição especial em sentido contrário prevista em tratado.
 
@@ -10116,7 +10116,7 @@ A homologação de decisão estrangeira será requerida por ação de homologaç
 
 § 3º A homologação de decisão arbitral estrangeira obedecerá ao disposto em tratado e em lei, aplicando-se, subsidiariamente, as disposições deste Capítulo.
 
-## Art. 961.
+## Art. 961
 
 A decisão estrangeira somente terá eficácia no Brasil após a homologação de sentença estrangeira ou a concessão do
 
@@ -10135,7 +10135,7 @@ exequatur
 
 § 6º Na hipótese do § 5º, competirá a qualquer juiz examinar a validade da decisão, em caráter principal ou incidental, quando essa questão for suscitada em processo de sua competência.
 
-## Art. 962.
+## Art. 962
 
 É passível de execução a decisão estrangeira concessiva de medida de urgência.
 
@@ -10147,7 +10147,7 @@ exequatur
 
 § 4º Quando dispensada a homologação para que a sentença estrangeira produza efeitos no Brasil, a decisão concessiva de medida de urgência dependerá, para produzir efeitos, de ter sua validade expressamente reconhecida pelo juiz competente para dar-lhe cumprimento, dispensada a homologação pelo Superior Tribunal de Justiça.
 
-## Art. 963.
+## Art. 963
 
 Constituem requisitos indispensáveis à homologação da decisão:
 
@@ -10171,7 +10171,7 @@ deste artigo e no
 art. 962, § 2º
 .
 
-## Art. 964.
+## Art. 964
 
 Não será homologada a decisão estrangeira na hipótese de competência exclusiva da autoridade judiciária brasileira.
 
@@ -10179,9 +10179,9 @@ Parágrafo único. O dispositivo também se aplica à concessão do
 exequatur
 à carta rogatória.
 
-## Art. 965.
+## Art. 965
 
-cumprimento de decisão estrangeira far-se-á perante o juízo federal competente, a requerimento da parte, conforme as normas estabelecidas para o cumprimento de decisão nacional.
+O cumprimento de decisão estrangeira far-se-á perante o juízo federal competente, a requerimento da parte, conforme as normas estabelecidas para o cumprimento de decisão nacional.
 
 Parágrafo único. O pedido de execução deverá ser instruído com cópia autenticada da decisão homologatória ou do
 exequatur
@@ -10189,7 +10189,7 @@ exequatur
 
 # CAPÍTULO VII — DA AÇÃO RESCISÓRIA
 
-## Art. 966.
+## Art. 966
 
 A decisão de mérito, transitada em julgado, pode ser rescindida quando:
 
@@ -10233,7 +10233,7 @@ deste artigo, contra decisão baseada em enunciado de súmula ou acórdão profe
 (Incluído pela Lei nº 13.256, de 2016)
 (Vigência)
 
-## Art. 967.
+## Art. 967
 
 Têm legitimidade para propor a ação rescisória:
 
@@ -10255,7 +10255,7 @@ Parágrafo único. Nas hipóteses do
 art. 178
 , o Ministério Público será intimado para intervir como fiscal da ordem jurídica quando não for parte.
 
-## Art. 968.
+## Art. 968
 
 A petição inicial será elaborada com observância dos requisitos essenciais do
 
@@ -10292,31 +10292,31 @@ II - tiver sido substituída por decisão posterior.
 
 § 6º Na hipótese do § 5º, após a emenda da petição inicial, será permitido ao réu complementar os fundamentos de defesa, e, em seguida, os autos serão remetidos ao tribunal competente.
 
-## Art. 969.
+## Art. 969
 
 A propositura da ação rescisória não impede o cumprimento da decisão rescindenda, ressalvada a concessão de tutela provisória.
 
-## Art. 970.
+## Art. 970
 
-relator ordenará a citação do réu, designando-lhe prazo nunca inferior a 15 (quinze) dias nem superior a 30 (trinta) dias para, querendo, apresentar resposta, ao fim do qual, com ou sem contestação, observar-se-á, no que couber, o procedimento comum.
+O relator ordenará a citação do réu, designando-lhe prazo nunca inferior a 15 (quinze) dias nem superior a 30 (trinta) dias para, querendo, apresentar resposta, ao fim do qual, com ou sem contestação, observar-se-á, no que couber, o procedimento comum.
 
-## Art. 971.
+## Art. 971
 
 Na ação rescisória, devolvidos os autos pelo relator, a secretaria do tribunal expedirá cópias do relatório e as distribuirá entre os juízes que compuserem o órgão competente para o julgamento.
 
 Parágrafo único. A escolha de relator recairá, sempre que possível, em juiz que não haja participado do julgamento rescindendo.
 
-## Art. 972.
+## Art. 972
 
 Se os fatos alegados pelas partes dependerem de prova, o relator poderá delegar a competência ao órgão que proferiu a decisão rescindenda, fixando prazo de 1 (um) a 3 (três) meses para a devolução dos autos.
 
-## Art. 973.
+## Art. 973
 
 Concluída a instrução, será aberta vista ao autor e ao réu para razões finais, sucessivamente, pelo prazo de 10 (dez) dias.
 
 Parágrafo único. Em seguida, os autos serão conclusos ao relator, procedendo-se ao julgamento pelo órgão competente.
 
-## Art. 974.
+## Art. 974
 
 Julgando procedente o pedido, o tribunal rescindirá a decisão, proferirá, se for o caso, novo julgamento e determinará a restituição do depósito a que se refere o
 
@@ -10327,9 +10327,9 @@ Parágrafo único. Considerando, por unanimidade, inadmissível ou improcedente 
 § 2º do art. 82
 .
 
-## Art. 975.
+## Art. 975
 
-direito à rescisão se extingue em 2 (dois) anos contados do trânsito em julgado da última decisão proferida no processo.
+O direito à rescisão se extingue em 2 (dois) anos contados do trânsito em julgado da última decisão proferida no processo.
 
 § 1º Prorroga-se até o primeiro dia útil imediatamente subsequente o prazo a que se refere o
 caput
@@ -10341,7 +10341,7 @@ caput
 
 # CAPÍTULO VIII — DO INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS
 
-## Art. 976.
+## Art. 976
 
 É cabível a instauração do incidente de resolução de demandas repetitivas quando houver, simultaneamente:
 
@@ -10359,9 +10359,9 @@ II - risco de ofensa à isonomia e à segurança jurídica.
 
 § 5º Não serão exigidas custas processuais no incidente de resolução de demandas repetitivas.
 
-## Art. 977.
+## Art. 977
 
-pedido de instauração do incidente será dirigido ao presidente de tribunal:
+O pedido de instauração do incidente será dirigido ao presidente de tribunal:
 
 I - pelo juiz ou relator, por ofício;
 
@@ -10371,13 +10371,13 @@ III - pelo Ministério Público ou pela Defensoria Pública, por petição.
 
 Parágrafo único. O ofício ou a petição será instruído com os documentos necessários à demonstração do preenchimento dos pressupostos para a instauração do incidente.
 
-## Art. 978.
+## Art. 978
 
-julgamento do incidente caberá ao órgão indicado pelo regimento interno dentre aqueles responsáveis pela uniformização de jurisprudência do tribunal.
+O julgamento do incidente caberá ao órgão indicado pelo regimento interno dentre aqueles responsáveis pela uniformização de jurisprudência do tribunal.
 
 Parágrafo único. O órgão colegiado incumbido de julgar o incidente e de fixar a tese jurídica julgará igualmente o recurso, a remessa necessária ou o processo de competência originária de onde se originou o incidente.
 
-## Art. 979.
+## Art. 979
 
 A instauração e o julgamento do incidente serão sucedidos da mais ampla e específica divulgação e publicidade, por meio de registro eletrônico no Conselho Nacional de Justiça.
 
@@ -10387,9 +10387,9 @@ A instauração e o julgamento do incidente serão sucedidos da mais ampla e esp
 
 § 3º Aplica-se o disposto neste artigo ao julgamento de recursos repetitivos e da repercussão geral em recurso extraordinário.
 
-## Art. 980.
+## Art. 980
 
-incidente será julgado no prazo de 1 (um) ano e terá preferência sobre os demais feitos, ressalvados os que envolvam réu preso e os pedidos de
+O incidente será julgado no prazo de 1 (um) ano e terá preferência sobre os demais feitos, ressalvados os que envolvam réu preso e os pedidos de
 
 habeas corpus
 .
@@ -10400,13 +10400,13 @@ caput
 art. 982
 , salvo decisão fundamentada do relator em sentido contrário.
 
-## Art. 981.
+## Art. 981
 
 Após a distribuição, o órgão colegiado competente para julgar o incidente procederá ao seu juízo de admissibilidade, considerando a presença dos pressupostos do
 
 art. 976.
 
-## Art. 982.
+## Art. 982
 
 Admitido o incidente, o relator:
 
@@ -10430,15 +10430,15 @@ art. 977, incisos II e III
 caput
 deste artigo se não for interposto recurso especial ou recurso extraordinário contra a decisão proferida no incidente.
 
-## Art. 983.
+## Art. 983
 
-relator ouvirá as partes e os demais interessados, inclusive pessoas, órgãos e entidades com interesse na controvérsia, que, no prazo comum de 15 (quinze) dias, poderão requerer a juntada de documentos, bem como as diligências necessárias para a elucidação da questão de direito controvertida, e, em seguida, manifestar-se-á o Ministério Público, no mesmo prazo.
+O relator ouvirá as partes e os demais interessados, inclusive pessoas, órgãos e entidades com interesse na controvérsia, que, no prazo comum de 15 (quinze) dias, poderão requerer a juntada de documentos, bem como as diligências necessárias para a elucidação da questão de direito controvertida, e, em seguida, manifestar-se-á o Ministério Público, no mesmo prazo.
 
 § 1º Para instruir o incidente, o relator poderá designar data para, em audiência pública, ouvir depoimentos de pessoas com experiência e conhecimento na matéria.
 
 § 2º Concluídas as diligências, o relator solicitará dia para o julgamento do incidente.
 
-## Art. 984.
+## Art. 984
 
 No julgamento do incidente, observar-se-á a seguinte ordem:
 
@@ -10454,7 +10454,7 @@ II - poderão sustentar suas razões, sucessivamente:
 
 § 2º O conteúdo do acórdão abrangerá a análise de todos os fundamentos suscitados concernentes à tese jurídica discutida, sejam favoráveis ou contrários.
 
-## Art. 985.
+## Art. 985
 
 Julgado o incidente, a tese jurídica será aplicada:
 
@@ -10468,14 +10468,14 @@ art. 986
 
 § 2º Se o incidente tiver por objeto questão relativa a prestação de serviço concedido, permitido ou autorizado, o resultado do julgamento será comunicado ao órgão, ao ente ou à agência reguladora competente para fiscalização da efetiva aplicação, por parte dos entes sujeitos a regulação, da tese adotada.
 
-## Art. 986.
+## Art. 986
 
 A revisão da tese jurídica firmada no incidente far-se-á pelo mesmo tribunal, de ofício ou mediante requerimento dos legitimados mencionados no
 
 art. 977, inciso III
 .
 
-## Art. 987.
+## Art. 987
 
 Do julgamento do mérito do incidente caberá recurso extraordinário ou especial, conforme o caso.
 
@@ -10485,7 +10485,7 @@ Do julgamento do mérito do incidente caberá recurso extraordinário ou especia
 
 # CAPÍTULO IX — DA RECLAMAÇÃO
 
-## Art. 988.
+## Art. 988
 
 Caberá reclamação da parte interessada ou do Ministério Público para:
 
@@ -10529,7 +10529,7 @@ II – proposta para garantir a observância de acórdão de recurso extraordin�
 
 § 6º A inadmissibilidade ou o julgamento do recurso interposto contra a decisão proferida pelo órgão reclamado não prejudica a reclamação.
 
-## Art. 989.
+## Art. 989
 
 Ao despachar a reclamação, o relator:
 
@@ -10539,27 +10539,27 @@ II - se necessário, ordenará a suspensão do processo ou do ato impugnado para
 
 III - determinará a citação do beneficiário da decisão impugnada, que terá prazo de 15 (quinze) dias para apresentar a sua contestação.
 
-## Art. 990.
+## Art. 990
 
 Qualquer interessado poderá impugnar o pedido do reclamante.
 
-## Art. 991.
+## Art. 991
 
 Na reclamação que não houver formulado, o Ministério Público terá vista do processo por 5 (cinco) dias, após o decurso do prazo para informações e para o oferecimento da contestação pelo beneficiário do ato impugnado.
 
-## Art. 992.
+## Art. 992
 
 Julgando procedente a reclamação, o tribunal cassará a decisão exorbitante de seu julgado ou determinará medida adequada à solução da controvérsia.
 
-## Art. 993.
+## Art. 993
 
-presidente do tribunal determinará o imediato cumprimento da decisão, lavrando-se o acórdão posteriormente.
+O presidente do tribunal determinará o imediato cumprimento da decisão, lavrando-se o acórdão posteriormente.
 
 # TÍTULO II — DOS RECURSOS
 
 # CAPÍTULO I — DISPOSIÇÕES GERAIS
 
-## Art. 994.
+## Art. 994
 
 São cabíveis os seguintes recursos:
 
@@ -10581,19 +10581,19 @@ VIII - agravo em recurso especial ou extraordinário;
 
 IX - embargos de divergência.
 
-## Art. 995.
+## Art. 995
 
-s recursos não impedem a eficácia da decisão, salvo disposição legal ou decisão judicial em sentido diverso.
+Os recursos não impedem a eficácia da decisão, salvo disposição legal ou decisão judicial em sentido diverso.
 
 Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso.
 
-## Art. 996.
+## Art. 996
 
-recurso pode ser interposto pela parte vencida, pelo terceiro prejudicado e pelo Ministério Público, como parte ou como fiscal da ordem jurídica.
+O recurso pode ser interposto pela parte vencida, pelo terceiro prejudicado e pelo Ministério Público, como parte ou como fiscal da ordem jurídica.
 
 Parágrafo único. Cumpre ao terceiro demonstrar a possibilidade de a decisão sobre a relação jurídica submetida à apreciação judicial atingir direito de que se afirme titular ou que possa discutir em juízo como substituto processual.
 
-## Art. 997.
+## Art. 997
 
 Cada parte interporá o recurso independentemente, no prazo e com observância das exigências legais.
 
@@ -10607,33 +10607,33 @@ II - será admissível na apelação, no recurso extraordinário e no recurso es
 
 III - não será conhecido, se houver desistência do recurso principal ou se for ele considerado inadmissível.
 
-## Art. 998.
+## Art. 998
 
-recorrente poderá, a qualquer tempo, sem a anuência do recorrido ou dos litisconsortes, desistir do recurso.
+O recorrente poderá, a qualquer tempo, sem a anuência do recorrido ou dos litisconsortes, desistir do recurso.
 
 Parágrafo único. A desistência do recurso não impede a análise de questão cuja repercussão geral já tenha sido reconhecida e daquela objeto de julgamento de recursos extraordinários ou especiais repetitivos.
 
-## Art. 999.
+## Art. 999
 
 A renúncia ao direito de recorrer independe da aceitação da outra parte.
 
-## Art. 1.000.
+## Art. 1.000
 
 A parte que aceitar expressa ou tacitamente a decisão não poderá recorrer.
 
 Parágrafo único. Considera-se aceitação tácita a prática, sem nenhuma reserva, de ato incompatível com a vontade de recorrer.
 
-## Art. 1.001.
+## Art. 1.001
 
 Dos despachos não cabe recurso.
 
-## Art. 1.002.
+## Art. 1.002
 
 A decisão pode ser impugnada no todo ou em parte.
 
-## Art. 1.003.
+## Art. 1.003
 
-prazo para interposição de recurso conta-se da data em que os advogados, a sociedade de advogados, a Advocacia Pública, a Defensoria Pública ou o Ministério Público são intimados da decisão.
+O prazo para interposição de recurso conta-se da data em que os advogados, a sociedade de advogados, a Advocacia Pública, a Defensoria Pública ou o Ministério Público são intimados da decisão.
 
 § 1º Os sujeitos previstos no
 caput
@@ -10659,21 +10659,21 @@ eletrônico.
 (Redação dada pela
 Lei nº 14.939, de 2024)
 
-## Art. 1.004.
+## Art. 1.004
 
 Se, durante o prazo para a interposição do recurso, sobrevier o falecimento da parte ou de seu advogado ou ocorrer motivo de força maior que suspenda o curso do processo, será tal prazo restituído em proveito da parte, do herdeiro ou do sucessor, contra quem começará a correr novamente depois da intimação.
 
-## Art. 1.005.
+## Art. 1.005
 
-recurso interposto por um dos litisconsortes a todos aproveita, salvo se distintos ou opostos os seus interesses.
+O recurso interposto por um dos litisconsortes a todos aproveita, salvo se distintos ou opostos os seus interesses.
 
 Parágrafo único. Havendo solidariedade passiva, o recurso interposto por um devedor aproveitará aos outros quando as defesas opostas ao credor lhes forem comuns.
 
-## Art. 1.006.
+## Art. 1.006
 
 Certificado o trânsito em julgado, com menção expressa da data de sua ocorrência, o escrivão ou o chefe de secretaria, independentemente de despacho, providenciará a baixa dos autos ao juízo de origem, no prazo de 5 (cinco) dias.
 
-## Art. 1.007.
+## Art. 1.007
 
 No ato de interposição do recurso, o recorrente comprovará, quando exigido pela legislação pertinente, o respectivo preparo, inclusive porte de remessa e de retorno, sob pena de deserção.
 
@@ -10691,13 +10691,13 @@ No ato de interposição do recurso, o recorrente comprovará, quando exigido pe
 
 § 7º O equívoco no preenchimento da guia de custas não implicará a aplicação da pena de deserção, cabendo ao relator, na hipótese de dúvida quanto ao recolhimento, intimar o recorrente para sanar o vício no prazo de 5 (cinco) dias.
 
-## Art. 1.008.
+## Art. 1.008
 
-julgamento proferido pelo tribunal substituirá a decisão impugnada no que tiver sido objeto de recurso.
+O julgamento proferido pelo tribunal substituirá a decisão impugnada no que tiver sido objeto de recurso.
 
 # CAPÍTULO II — DA APELAÇÃO
 
-## Art. 1.009.
+## Art. 1.009
 
 Da sentença cabe apelação.
 
@@ -10711,7 +10711,7 @@ deste artigo aplica-se mesmo quando as questões mencionadas no
 art. 1.015
 integrarem capítulo da sentença.
 
-## Art. 1.010.
+## Art. 1.010
 
 A apelação, interposta por petição dirigida ao juízo de primeiro grau, conterá:
 
@@ -10729,7 +10729,7 @@ IV - o pedido de nova decisão.
 
 § 3º Após as formalidades previstas nos §§ 1º e 2º, os autos serão remetidos ao tribunal pelo juiz, independentemente de juízo de admissibilidade.
 
-## Art. 1.011.
+## Art. 1.011
 
 Recebido o recurso de apelação no tribunal e distribuído imediatamente, o relator:
 
@@ -10739,7 +10739,7 @@ art. 932, incisos III a V
 
 II - se não for o caso de decisão monocrática, elaborará seu voto para julgamento do recurso pelo órgão colegiado.
 
-## Art. 1.012.
+## Art. 1.012
 
 A apelação terá efeito suspensivo.
 
@@ -10767,7 +10767,7 @@ II - relator, se já distribuída a apelação.
 
 § 4º Nas hipóteses do § 1º, a eficácia da sentença poderá ser suspensa pelo relator se o apelante demonstrar a probabilidade de provimento do recurso ou se, sendo relevante a fundamentação, houver risco de dano grave ou de difícil reparação.
 
-## Art. 1.013.
+## Art. 1.013
 
 A apelação devolverá ao tribunal o conhecimento da matéria impugnada.
 
@@ -10791,13 +10791,13 @@ IV - decretar a nulidade de sentença por falta de fundamentação.
 
 § 5º O capítulo da sentença que confirma, concede ou revoga a tutela provisória é impugnável na apelação.
 
-## Art. 1.014.
+## Art. 1.014
 
 As questões de fato não propostas no juízo inferior poderão ser suscitadas na apelação, se a parte provar que deixou de fazê-lo por motivo de força maior.
 
 # CAPÍTULO III — DO AGRAVO DE INSTRUMENTO
 
-## Art. 1.015.
+## Art. 1.015
 
 Cabe agravo de instrumento contra as decisões interlocutórias que versarem sobre:
 
@@ -10831,9 +10831,9 @@ XIII - outros casos expressamente referidos em lei.
 
 Parágrafo único. Também caberá agravo de instrumento contra decisões interlocutórias proferidas na fase de liquidação de sentença ou de cumprimento de sentença, no processo de execução e no processo de inventário.
 
-## Art. 1.016.
+## Art. 1.016
 
-agravo de instrumento será dirigido diretamente ao tribunal competente, por meio de petição com os seguintes requisitos:
+O agravo de instrumento será dirigido diretamente ao tribunal competente, por meio de petição com os seguintes requisitos:
 
 I - os nomes das partes;
 
@@ -10843,7 +10843,7 @@ III - as razões do pedido de reforma ou de invalidação da decisão e o própr
 
 IV - o nome e o endereço completo dos advogados constantes do processo.
 
-## Art. 1.017.
+## Art. 1.017
 
 A petição de agravo de instrumento será instruída:
 
@@ -10877,9 +10877,9 @@ art. 932, parágrafo único
 caput
 , facultando-se ao agravante anexar outros documentos que entender úteis para a compreensão da controvérsia.
 
-## Art. 1.018.
+## Art. 1.018
 
-agravante poderá requerer a juntada, aos autos do processo, de cópia da petição do agravo de instrumento, do comprovante de sua interposição e da relação dos documentos que instruíram o recurso.
+O agravante poderá requerer a juntada, aos autos do processo, de cópia da petição do agravo de instrumento, do comprovante de sua interposição e da relação dos documentos que instruíram o recurso.
 
 § 1º Se o juiz comunicar que reformou inteiramente a decisão, o relator considerará prejudicado o agravo de instrumento.
 
@@ -10889,7 +10889,7 @@ caput
 
 § 3º O descumprimento da exigência de que trata o § 2º, desde que arguido e provado pelo agravado, importa inadmissibilidade do agravo de instrumento.
 
-## Art. 1.019.
+## Art. 1.019
 
 Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do
 
@@ -10902,13 +10902,13 @@ II - ordenará a intimação do agravado pessoalmente, por carta com aviso de re
 
 III - determinará a intimação do Ministério Público, preferencialmente por meio eletrônico, quando for o caso de sua intervenção, para que se manifeste no prazo de 15 (quinze) dias.
 
-## Art. 1.020.
+## Art. 1.020
 
-relator solicitará dia para julgamento em prazo não superior a 1 (um) mês da intimação do agravado.
+O relator solicitará dia para julgamento em prazo não superior a 1 (um) mês da intimação do agravado.
 
 # CAPÍTULO IV — DO AGRAVO INTERNO
 
-## Art. 1.021.
+## Art. 1.021
 
 Contra decisão proferida pelo relator caberá agravo interno para o respectivo órgão colegiado, observadas, quanto ao processamento, as regras do regimento interno do tribunal.
 
@@ -10924,7 +10924,7 @@ Contra decisão proferida pelo relator caberá agravo interno para o respectivo 
 
 # CAPÍTULO V — DOS EMBARGOS DE DECLARAÇÃO
 
-## Art. 1.022.
+## Art. 1.022
 
 Cabem embargos de declaração contra qualquer decisão judicial para:
 
@@ -10942,9 +10942,9 @@ II - incorra em qualquer das condutas descritas no
 art. 489, § 1º
 .
 
-## Art. 1.023.
+## Art. 1.023
 
-s embargos serão opostos, no prazo de 5 (cinco) dias, em petição dirigida ao juiz, com indicação do erro, obscuridade, contradição ou omissão, e não se sujeitam a preparo.
+Os embargos serão opostos, no prazo de 5 (cinco) dias, em petição dirigida ao juiz, com indicação do erro, obscuridade, contradição ou omissão, e não se sujeitam a preparo.
 
 § 1º Aplica-se aos embargos de declaração o
 art. 229
@@ -10952,9 +10952,9 @@ art. 229
 
 § 2º O juiz intimará o embargado para, querendo, manifestar-se, no prazo de 5 (cinco) dias, sobre os embargos opostos, caso seu eventual acolhimento implique a modificação da decisão embargada.
 
-## Art. 1.024.
+## Art. 1.024
 
-juiz julgará os embargos em 5 (cinco) dias.
+O juiz julgará os embargos em 5 (cinco) dias.
 
 § 1º Nos tribunais, o relator apresentará os embargos em mesa na sessão subsequente, proferindo voto, e, não havendo julgamento nessa sessão, será o recurso incluído em pauta automaticamente.
 
@@ -10968,13 +10968,13 @@ art. 1.021, § 1º
 
 § 5º Se os embargos de declaração forem rejeitados ou não alterarem a conclusão do julgamento anterior, o recurso interposto pela outra parte antes da publicação do julgamento dos embargos de declaração será processado e julgado independentemente de ratificação.
 
-## Art. 1.025.
+## Art. 1.025
 
 Consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade.
 
-## Art. 1.026.
+## Art. 1.026
 
-s embargos de declaração não possuem efeito suspensivo e interrompem o prazo para a interposição de recurso.
+Os embargos de declaração não possuem efeito suspensivo e interrompem o prazo para a interposição de recurso.
 
 § 1º A eficácia da decisão monocrática ou colegiada poderá ser suspensa pelo respectivo juiz ou relator se demonstrada a probabilidade de provimento do recurso ou, sendo relevante a fundamentação, se houver risco de dano grave ou de difícil reparação.
 
@@ -10988,7 +10988,7 @@ s embargos de declaração não possuem efeito suspensivo e interrompem o prazo 
 
 ### Seção I — Do Recurso Ordinário
 
-## Art. 1.027.
+## Art. 1.027
 
 Serão julgados em recurso ordinário:
 
@@ -11012,7 +11012,7 @@ arts. 1.013, § 3º
 1.029, § 5º
 .
 
-## Art. 1.028.
+## Art. 1.028
 
 Ao recurso mencionado no
 
@@ -11035,9 +11035,9 @@ deve ser interposto perante o tribunal de origem, cabendo ao seu presidente ou v
 
 #### Subseção I — Disposições Gerais
 
-## Art. 1.029.
+## Art. 1.029
 
-recurso extraordinário e o recurso especial, nos casos previstos na
+O recurso extraordinário e o recurso especial, nos casos previstos na
 
 Constituição Federal
 , serão interpostos perante o presidente ou o vice-presidente do tribunal recorrido, em petições distintas que conterão:
@@ -11082,7 +11082,7 @@ art. 1.037
 (Redação dada pela Lei nº 13.256, de 2016)
 (Vigência)
 
-## Art. 1.030.
+## Art. 1.030
 
 Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão remetidos ao respectivo tribunal superior.
 
@@ -11090,7 +11090,7 @@ Parágrafo único. A remessa de que trata o
 caput
 dar-se-á independentemente de juízo de admissibilidade.
 
-## Art. 1.030.
+## Art. 1.030
 
 Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
 
@@ -11144,7 +11144,7 @@ V – realizar o juízo de admissibilidade e, se positivo, remeter o feito ao Su
 (Incluído pela Lei nº 13.256, de 2016)
 (Vigência)
 
-## Art. 1.031.
+## Art. 1.031
 
 Na hipótese de interposição conjunta de recurso extraordinário e recurso especial, os autos serão remetidos ao Superior Tribunal de Justiça.
 
@@ -11154,7 +11154,7 @@ Na hipótese de interposição conjunta de recurso extraordinário e recurso esp
 
 § 3º Na hipótese do § 2º, se o relator do recurso extraordinário, em decisão irrecorrível, rejeitar a prejudicialidade, devolverá os autos ao Superior Tribunal de Justiça para o julgamento do recurso especial.
 
-## Art. 1.032.
+## Art. 1.032
 
 Se o relator, no Superior Tribunal de Justiça, entender que o recurso especial versa sobre questão constitucional, deverá conceder prazo de 15 (quinze) dias para que o recorrente demonstre a existência de repercussão geral e se manifeste sobre a questão constitucional.
 
@@ -11162,19 +11162,19 @@ Parágrafo único. Cumprida a diligência de que trata o
 caput
 , o relator remeterá o recurso ao Supremo Tribunal Federal, que, em juízo de admissibilidade, poderá devolvê-lo ao Superior Tribunal de Justiça.
 
-## Art. 1.033.
+## Art. 1.033
 
 Se o Supremo Tribunal Federal considerar como reflexa a ofensa à Constituição afirmada no recurso extraordinário, por pressupor a revisão da interpretação de lei federal ou de tratado, remetê-lo-á ao Superior Tribunal de Justiça para julgamento como recurso especial.
 
-## Art. 1.034.
+## Art. 1.034
 
 Admitido o recurso extraordinário ou o recurso especial, o Supremo Tribunal Federal ou o Superior Tribunal de Justiça julgará o processo, aplicando o direito.
 
 Parágrafo único. Admitido o recurso extraordinário ou o recurso especial por um fundamento, devolve-se ao tribunal superior o conhecimento dos demais fundamentos para a solução do capítulo impugnado.
 
-## Art. 1.035.
+## Art. 1.035
 
-Supremo Tribunal Federal, em decisão irrecorrível, não conhecerá do recurso extraordinário quando a questão constitucional nele versada não tiver repercussão geral, nos termos deste artigo.
+O Supremo Tribunal Federal, em decisão irrecorrível, não conhecerá do recurso extraordinário quando a questão constitucional nele versada não tiver repercussão geral, nos termos deste artigo.
 
 § 1º Para efeito de repercussão geral, será considerada a existência ou não de questões relevantes do ponto de vista econômico, político, social ou jurídico que ultrapassem os interesses subjetivos do processo.
 
@@ -11227,7 +11227,7 @@ Revogado
 
 #### Subseção II — Do Julgamento dos Recursos Extraordinário e Especial Repetitivos
 
-## Art. 1.036.
+## Art. 1.036
 
 Sempre que houver multiplicidade de recursos extraordinários ou especiais com fundamento em idêntica questão de direito, haverá afetação para julgamento de acordo com as disposições desta Subseção, observado o disposto no Regimento Interno do Supremo Tribunal Federal e no do Superior Tribunal de Justiça.
 
@@ -11248,7 +11248,7 @@ art. 1.042
 
 § 6º Somente podem ser selecionados recursos admissíveis que contenham abrangente argumentação e discussão a respeito da questão a ser decidida.
 
-## Art. 1.037.
+## Art. 1.037
 
 Selecionados os recursos, o relator, no tribunal superior, constatando a presença do pressuposto do
 
@@ -11327,9 +11327,9 @@ I - agravo de instrumento, se o processo estiver em primeiro grau;
 
 II - agravo interno, se a decisão for de relator.
 
-## Art. 1.038.
+## Art. 1.038
 
-relator poderá:
+O relator poderá:
 
 I - solicitar ou admitir manifestação de pessoas, órgãos ou entidades com interesse na controvérsia, considerando a relevância da matéria e consoante dispuser o regimento interno;
 
@@ -11348,13 +11348,13 @@ habeas corpus
 § 3º O conteúdo do acórdão abrangerá a análise dos fundamentos relevantes da tese jurídica discutida.
 (Redação dada pela Lei nº 13.256, de 2016)
 
-## Art. 1.039.
+## Art. 1.039
 
 Decididos os recursos afetados, os órgãos colegiados declararão prejudicados os demais recursos versando sobre idêntica controvérsia ou os decidirão aplicando a tese firmada.
 
 Parágrafo único. Negada a existência de repercussão geral no recurso extraordinário afetado, serão considerados automaticamente inadmitidos os recursos extraordinários cujo processamento tenha sido sobrestado.
 
-## Art. 1.040.
+## Art. 1.040
 
 Publicado o acórdão paradigma:
 
@@ -11372,7 +11372,7 @@ IV - se os recursos versarem sobre questão relativa a prestação de serviço p
 
 § 3º A desistência apresentada nos termos do § 1º independe de consentimento do réu, ainda que apresentada contestação.
 
-## Art. 1.041.
+## Art. 1.041
 
 Mantido o acórdão divergente pelo tribunal de origem, o recurso especial ou extraordinário será remetido ao respectivo tribunal superior, na forma do
 
@@ -11394,11 +11394,11 @@ e o recurso versar sobre outras questões, caberá ao presidente ou ao vice-pres
 
 ### Seção III — Do Agravo em Recurso Especial e em Recurso Extraordinário
 
-## Art. 1.042.
+## Art. 1.042
 
 Cabe agravo contra decisão de presidente ou de vice-presidente do tribunal que:
 
-## Art. 1.042.
+## Art. 1.042
 
 Cabe agravo contra decisão do presidente ou do vice-presidente do tribunal recorrido que inadmitir recurso extraordinário ou recurso especial, salvo quando fundada na aplicação de entendimento firmado em regime de repercussão geral ou em julgamento de recursos repetitivos.
 
@@ -11491,7 +11491,7 @@ Revogada
 
 ### Seção IV — Dos Embargos de Divergência
 
-## Art. 1.043.
+## Art. 1.043
 
 É embargável o acórdão de órgão fracionário que:
 
@@ -11516,7 +11516,7 @@ IV - nos processos de competência originária, divergir do julgamento de qualqu
 § 5º É vedado ao tribunal inadmitir o recurso com base em fundamento genérico de que as circunstâncias fáticas são diferentes, sem demonstrar a existência da distinção.
 (Revogado pela Lei nº 13.256, de 2016)
 
-## Art. 1.044.
+## Art. 1.044
 
 No recurso de embargos de divergência, será observado o procedimento estabelecido no regimento interno do respectivo tribunal superior.
 
@@ -11526,11 +11526,11 @@ No recurso de embargos de divergência, será observado o procedimento estabelec
 
 # LIVRO COMPLEMENTAR — DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
-## Art. 1.045.
+## Art. 1.045
 
 Este Código entra em vigor após decorrido 1 (um) ano da data de sua publicação oficial.
 
-## Art. 1.046.
+## Art. 1.046
 
 Ao entrar em vigor este Código, suas disposições se aplicarão desde logo aos processos pendentes, ficando revogada a
 
@@ -11552,11 +11552,11 @@ art. 1.218 da Lei nº 5.869, de 11 de janeiro de 1973
 vigor deste Código
 .
 
-## Art. 1.047.
+## Art. 1.047
 
 As disposições de direito probatório adotadas neste Código aplicam-se apenas às provas requeridas ou determinadas de ofício a partir da data de início de sua vigência.
 
-## Art. 1.048.
+## Art. 1.048
 
 Terão prioridade de tramitação, em qualquer juízo ou tribunal, os procedimentos judiciais:
 
@@ -11590,13 +11590,13 @@ pela Lei nº 14.133, de 2021)
 
 § 4º A tramitação prioritária independe de deferimento pelo órgão jurisdicional e deverá ser imediatamente concedida diante da prova da condição de beneficiário.
 
-## Art. 1.049.
+## Art. 1.049
 
 Sempre que a lei remeter a procedimento previsto na lei processual sem especificá-lo, será observado o procedimento comum previsto neste Código.
 
 Parágrafo único. Na hipótese de a lei remeter ao procedimento sumário, será observado o procedimento comum previsto neste Código, com as modificações previstas na própria lei especial, se houver.
 
-## Art. 1.050.
+## Art. 1.050
 
 A União, os Estados, o Distrito Federal, os Municípios, suas respectivas entidades da administração indireta, o Ministério Público, a Defensoria Pública e a Advocacia Pública, no prazo de 30 (trinta) dias a contar da data da entrada em
 
@@ -11607,7 +11607,7 @@ arts. 246, § 2º
 270, parágrafo único
 .
 
-## Art. 1.051.
+## Art. 1.051
 
 As empresas públicas e privadas devem cumprir o disposto no
 
@@ -11618,20 +11618,20 @@ Parágrafo único. O disposto no
 caput
 não se aplica às microempresas e às empresas de pequeno porte.
 
-## Art. 1.052.
+## Art. 1.052
 
 Até a edição de lei específica, as execuções contra devedor insolvente, em curso ou que venham a ser propostas, permanecem reguladas pelo
 
 Livro II, Título IV, da Lei nº 5.869, de 11 de janeiro de 1973
 .
 
-## Art. 1.053.
+## Art. 1.053
 
-s atos processuais praticados por meio eletrônico até a transição definitiva para certificação digital ficam convalidados, ainda que não tenham observado os requisitos mínimos estabelecidos por este Código, desde que tenham atingido sua finalidade e não tenha havido prejuízo à defesa de qualquer das partes.
+Os atos processuais praticados por meio eletrônico até a transição definitiva para certificação digital ficam convalidados, ainda que não tenham observado os requisitos mínimos estabelecidos por este Código, desde que tenham atingido sua finalidade e não tenha havido prejuízo à defesa de qualquer das partes.
 
-## Art. 1.054.
+## Art. 1.054
 
-disposto no
+O disposto no
 
 art. 503, § 1º
 , somente se aplica aos processos iniciados após a vigência deste Código, aplicando-se aos anteriores o disposto nos
@@ -11642,20 +11642,20 @@ e
 470 da Lei nº 5.869, de 11 de janeiro de 1973
 .
 
-## Art. 1.055.
+## Art. 1.055
 
 (VETADO).
 
-## Art. 1.056.
+## Art. 1.056
 
 Considerar-se-á como termo inicial do prazo da prescrição prevista no
 
 art. 924, inciso V
 , inclusive para as execuções em curso, a data de vigência deste Código.
 
-## Art. 1.057.
+## Art. 1.057
 
-disposto no
+O disposto no
 
 art. 525, §§ 14 e 15
 , e no
@@ -11668,14 +11668,14 @@ art. 475-L, § 1º
 art. 741, parágrafo único, da Lei nº 5.869, de 11 de janeiro de 1973
 .
 
-## Art. 1.058.
+## Art. 1.058
 
 Em todos os casos em que houver recolhimento de importância em dinheiro, esta será depositada em nome da parte ou do interessado, em conta especial movimentada por ordem do juiz, nos termos do
 
 art. 840, inciso I
 .
 
-## Art. 1.059.
+## Art. 1.059
 
 À tutela provisória requerida contra a Fazenda Pública aplica-se o disposto nos
 
@@ -11684,9 +11684,9 @@ arts. 1º a 4º da Lei nº 8.437, de 30 de junho de 1992
 art. 7º, § 2º, da Lei nº 12.016, de 7 de agosto de 2009
 .
 
-## Art. 1.060.
+## Art. 1.060
 
-inciso II do art. 14 da
+O inciso II do art. 14 da
 
 Lei nº 9.289, de 4 de julho de 1996
 , passa a vigorar com a seguinte redação:
@@ -11703,9 +11703,9 @@ aquele que recorrer da sentença adiantará a outra metade das custas, comprovan
 
 ...................................................................................” (NR)
 
-## Art. 1.061.
+## Art. 1.061
 
-§ 3º do art. 33 da
+O § 3º do art. 33 da
 
 Lei nº 9.307, de 23 de setembro de 1996 (Lei de Arbitragem)
 , passa a vigorar com a seguinte redação:
@@ -11720,11 +11720,11 @@ A decretação da nulidade da sentença arbitral também poderá ser requerida n
 arts. 525 e seguintes do Código de Processo Civil
 , se houver execução judicial.” (NR)
 
-## Art. 1.062.
+## Art. 1.062
 
-incidente de desconsideração da personalidade jurídica aplica-se ao processo de competência dos juizados especiais.
+O incidente de desconsideração da personalidade jurídica aplica-se ao processo de competência dos juizados especiais.
 
-## Art. 1.063.
+## Art. 1.063
 
 Até a edição de lei específica, os juizados especiais cíveis previstos na
 
@@ -11733,9 +11733,9 @@ Lei nº 9.099, de 26 de setembro de 1995
 art. 275, inciso II, da Lei nº 5.869, de 11 de janeiro de 1973
 .
 
-## Art. 1.063.
+## Art. 1.063
 
-s juizados especiais cíveis previstos
+Os juizados especiais cíveis previstos
 
 na
 Lei
@@ -11746,7 +11746,9 @@ de 11 de janeiro de 1973.
 (Redação dada pela
 Lei nº 14.976, de 2024)
 
-## Art. 1.064.
+## Art. 1.064
+
+O
 
 caput
 do art. 48 da
@@ -11762,9 +11764,9 @@ Código de Processo Civil
 
 ...................................................................................” (NR)
 
-## Art. 1.065.
+## Art. 1.065
 
-art. 50 da
+O art. 50 da
 
 Lei nº 9.099, de 26 de setembro de 1995
 , passa a vigorar com a seguinte redação:
@@ -11774,9 +11776,9 @@ Lei nº 9.099, de 26 de setembro de 1995
 Art. 50.
 Os embargos de declaração interrompem o prazo para a interposição de recurso.” (NR)
 
-## Art. 1.066.
+## Art. 1.066
 
-art. 83 da
+O art. 83 da
 
 Lei nº 9.099, de 26 de setembro de 1995
 , passam a vigorar com a seguinte redação:
@@ -11793,9 +11795,9 @@ Os embargos de declaração interrompem o prazo para a interposição de recurso
 
 ...................................................................................” (NR)
 
-## Art. 1.067.
+## Art. 1.067
 
-art. 275 da
+O art. 275 da
 
 Lei nº 4.737, de 15 de julho de 1965 (Código Eleitoral)
 , passa a vigorar com a seguinte redação:
@@ -11827,9 +11829,9 @@ III - vencido o relator, outro será designado para lavrar o acórdão.
 
 § 7º Na reiteração de embargos de declaração manifestamente protelatórios, a multa será elevada a até 10 (dez) salários-mínimos.” (NR)
 
-## Art. 1.068.
+## Art. 1.068
 
-art. 274 e o
+O art. 274 e o
 
 caput
 do art. 2.027 da
@@ -11845,17 +11847,17 @@ A partilha é anulável pelos vícios e defeitos que invalidam, em geral, os neg
 
 ...................................................................................” (NR)
 
-## Art. 1.069.
+## Art. 1.069
 
-Conselho Nacional de Justiça promoverá, periodicamente, pesquisas estatísticas para avaliação da efetividade das normas previstas neste Código.
+O Conselho Nacional de Justiça promoverá, periodicamente, pesquisas estatísticas para avaliação da efetividade das normas previstas neste Código.
 
-## Art. 1.070.
+## Art. 1.070
 
 É de 15 (quinze) dias o prazo para a interposição de qualquer agravo, previsto em lei ou em regimento interno de tribunal, contra decisão de relator ou outra decisão unipessoal proferida em tribunal.
 
-## Art. 1.071.
+## Art. 1.071
 
-Capítulo III do Título V da
+O Capítulo III do Título V da
 
 Lei nº 6.015, de 31 de dezembro de 1973
 (Lei de Registros Públicos), passa a vigorar acrescida do seguinte art. 216-A:
@@ -11892,7 +11894,7 @@ IV - justo título ou quaisquer outros documentos que demonstrem a origem, a con
 
 § 10. Em caso de impugnação do pedido de reconhecimento extrajudicial de usucapião, apresentada por qualquer um dos titulares de direito reais e de outros direitos registrados ou averbados na matrícula do imóvel usucapiendo e na matrícula dos imóveis confinantes, por algum dos entes públicos ou por algum terceiro interessado, o oficial de registro de imóveis remeterá os autos ao juízo competente da comarca da situação do imóvel, cabendo ao requerente emendar a petição inicial para adequá-la ao procedimento comum.”
 
-## Art. 1.072.
+## Art. 1.072
 
 Revogam-se:
 

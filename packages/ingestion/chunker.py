@@ -11,10 +11,17 @@ Markdown contract (produced by the seed / loaders):
   body, including its ``§`` paragraphs, ``I/II`` incisos and ``a)/b)`` alíneas.
 - Text before the first article heading (preamble) is ignored for chunking.
 
-The article number is normalized for the id (``6º`` -> ``6``) while the rendered
-form is kept in `article` for display. Internal structure is preserved inside
-`text`; the structural fields (paragraph/inciso/alinea) stay ``None`` at the
-article granularity but remain available for finer chunking later.
+The article number is normalized for the id (``6º`` -> ``6``). The `article`
+field carries the **dotless match token** (``6º``, ``12``, ``1238``,
+``1240-A``) — never a thousands separator — because the ranking/filter path
+(``query_analyzer.extract_article`` + ``legal_ranker.exact_citation_match``)
+compares article numbers dotless ("art. 1.238"/"art 1238" -> "1238"). The
+human-readable citation surface with the thousands dot (``## Art. 1.238``)
+lives in the rendered `text` (heading), so high CC/CPC articles still get the
+``exact_citation_match`` boost and match article filters/queries. Internal
+structure is preserved inside `text`; the structural fields
+(paragraph/inciso/alinea) stay ``None`` at the article granularity but remain
+available for finer chunking later.
 """
 
 from __future__ import annotations
@@ -33,40 +40,55 @@ from packages.legal_types.schemas import CaseLawDocument, LegalChunk
 # Matches an article heading line: "## Art. 6º", "## Art. 12", "## Art. 14-A".
 # The number may carry a thousands separator ("Art. 1.000") if a heading reaches
 # the chunker undotted-normalization; dots are stripped in _id_article/_render.
+# The ordinal mark sits *before* any letter suffix in the canonical heading
+# ("## Art. 5º-A"), so it is captured between the numeric stem and the "-A"
+# group rather than trailing the whole token.
 _ARTICLE_HEADING_RE = re.compile(
-    r"^\s{0,3}#{1,6}\s*Art\.?\s*(?P<num>\d[\d.]*(?:-[A-Z])?)\s*(?P<ord>[ºo°]?)\s*$",
+    r"^\s{0,3}#{1,6}\s*Art\.?\s*"
+    r"(?P<num>\d[\d.]*(?P<ord>[ºo°]?)(?:-[A-Z])?)\s*$",
     re.IGNORECASE | re.MULTILINE,
 )
 
 # Ordinal articles (1-9) render as "6º"; from 10 on, "12".
 _ORDINAL_LIMIT = 10
-# Below this, no thousands separator ("999"); at/above, group it ("1.784").
-_THOUSANDS_LIMIT = 1000
 
 
-def _render_article(num: str) -> str:
-    """Render the display form of an article number.
+def _match_article(num: str) -> str:
+    """Canonical **dotless** match token for the `article` field.
 
-    Drops any thousands separator from the input, then re-applies the canonical
-    Brazilian legal form: ordinal mark for 1-9 ("6" -> "6º"), thousands grouping
-    for >=1000 ("1784" -> "1.784", "1240-A" -> "1.240-A"). The dotted form is the
-    citation surface; ids stay dotless (`_id_article`).
+    Drops any thousands separator from the source ("1.238" -> "1238") and keeps
+    the ordinal mark for 1-9 ("6" -> "6º") and any letter suffix ("1.240-A" ->
+    "1240-A"). This is what ``legal_ranker.exact_citation_match`` and the article
+    filter compare against — both see article numbers dotless. The dotted
+    citation surface ("Art. 1.238") is preserved in the rendered ``text``
+    heading, not here. Ids stay dotless too (`_id_article`).
     """
 
-    num = num.replace(".", "")
+    num = _strip_ordinal(num).replace(".", "")
     base, sep, suffix = num.partition("-")
     if base.isdigit() and int(base) < _ORDINAL_LIMIT:
-        return f"{num}º"
-    if base.isdigit() and int(base) >= _THOUSANDS_LIMIT:
-        grouped = f"{int(base):,}".replace(",", ".")
-        return f"{grouped}{sep}{suffix}"
+        # Ordinal mark goes *before* the letter suffix: "1-A" -> "1º-A", not
+        # "1-Aº". The hyphen-letter ("-A") is part of the article number, so the
+        # ordinal attaches to the numeric stem.
+        return f"{base}º-{suffix}" if sep else f"{base}º"
     return num
 
 
-def _id_article(num: str) -> str:
-    """Id-safe article token (lowercase, no ordinal mark): "6º" -> "6"."""
+def _strip_ordinal(num: str) -> str:
+    """Drop ordinal marks from a heading token: "5º-A" -> "5-A", "6º" -> "6".
 
-    return num.replace(".", "").lower()
+    The heading regex captures the ordinal *inside* ``num`` (canonical form is
+    "5º-A", with the mark before the letter suffix), so both the match token and
+    the id are derived from the bare numeric form.
+    """
+
+    return re.sub(r"[ºo°]", "", num)
+
+
+def _id_article(num: str) -> str:
+    """Id-safe article token (no ordinal mark, dotless): "5º-A" -> "5-a"."""
+
+    return _strip_ordinal(num).replace(".", "").lower()
 
 
 def iter_article_sections(body: str) -> Iterator[tuple[str, str]]:
@@ -137,7 +159,7 @@ def chunk_document(
                 norm_type=raw.norm_type,
                 norm_number=raw.norm_number,
                 norm_year=raw.norm_year,
-                article=_render_article(num),
+                article=_match_article(num),
                 paragraph=None,
                 inciso=None,
                 alinea=None,

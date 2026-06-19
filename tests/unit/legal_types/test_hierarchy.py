@@ -61,6 +61,17 @@ def test_statute_weight_for_federal_law() -> None:
     assert authority_weight_for_chunk(_chunk("lei")) == 0.95
 
 
+def test_unknown_norm_type_does_not_inflate_to_federal_law() -> None:
+    # Asserção negativa: norm_type desconhecido/infralegal não-vazio (ex.:
+    # "portaria") NÃO recebe força de lei federal — cai em UNKNOWN (0.10),
+    # nunca 0.95. Mantém _FEDERAL_LAW_NORMS autoritativo e paridade com retrieval.
+    assert tier_for_statute(_chunk("portaria")) is AuthorityTier.UNKNOWN
+    assert authority_weight_for_chunk(_chunk("portaria")) == 0.10
+    assert authority_weight_for_chunk(_chunk("portaria")) != 0.95
+    # "decreto" regulamentar infralegal também não é lei federal.
+    assert tier_for_statute(_chunk("decreto")) is AuthorityTier.UNKNOWN
+
+
 def _case(court: str, precedent: PrecedentType | None) -> CaseLawDocument:
     return CaseLawDocument(
         document_id="c",

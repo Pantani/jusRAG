@@ -125,8 +125,7 @@ def _parse(item: Any, idx: int, default_area: str) -> GoldenQuestion:
         raise ValueError(f"golden item #{idx} is missing a non-empty 'id'.")
     if not isinstance(question, str) or not question:
         raise ValueError(f"golden item {qid!r} is missing a non-empty 'question'.")
-    raw_area = item.get("area")
-    area = raw_area if isinstance(raw_area, str) and raw_area else default_area
+    area = _resolve_area(item.get("area"), qid, default_area)
     return GoldenQuestion(
         id=qid,
         question=question,
@@ -136,6 +135,26 @@ def _parse(item: Any, idx: int, default_area: str) -> GoldenQuestion:
         expected_articles=tuple(str(a) for a in (item.get("expected_articles") or ())),
         expected_sumulas=tuple(str(s) for s in (item.get("expected_sumulas") or ())),
     )
+
+
+def _resolve_area(raw_area: Any, qid: str, default_area: str) -> str:
+    """Normalise the optional ``area`` key (strip + lower); default when absent.
+
+    A whitespace-only / empty string is an authoring error (it would silently fall back
+    to the file default and hide a typo), so it fails loudly rather than defaulting.
+    """
+
+    if raw_area is None:
+        return default_area
+    if not isinstance(raw_area, str):
+        raise ValueError(f"golden item {qid!r} has non-string area={raw_area!r}")
+    normalised = raw_area.strip().lower()
+    if not normalised:
+        raise ValueError(
+            f"golden item {qid!r} has a blank 'area' (whitespace-only); "
+            "omit the key to inherit the file default or give a real area."
+        )
+    return normalised
 
 
 def _check_unique_ids(questions: list[GoldenQuestion]) -> None:

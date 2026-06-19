@@ -17,6 +17,7 @@ retrieval, so a real source can still surface.
 
 from __future__ import annotations
 
+import re
 from typing import Any
 
 from packages.agents.state import LegalResearchState
@@ -24,7 +25,12 @@ from packages.legal_types.enums import LegalArea
 
 # Weighted evidence keywords per area. Highly discriminant terms (proper to a single
 # code/area) score 2; ambiguous shared terms score 1 so they only break otherwise-equal
-# ties. Substrings are matched, so stems like "tributár" cover declensions offline.
+# ties. Matching is boundary-aware: a leading word boundary (\b) is required before each
+# term, so a generic token like "contrato" cannot be stolen by an unrelated longer word
+# and "licitação" no longer matches inside "solicitação". The trailing edge is left open
+# so stems still cover declensions offline ("tributár" → "tributária"/"tributário",
+# "empregad" → "empregado"/"empregada"). Multi-word phrases ("contrato de trabalho",
+# "servidor público") keep matching as phrases anchored at the first token.
 _AREA_KEYWORDS: dict[LegalArea, dict[str, int]] = {
     LegalArea.CONSUMER: {
         "consumidor": 2,
@@ -120,6 +126,10 @@ _AREA_KEYWORDS: dict[LegalArea, dict[str, int]] = {
     },
     LegalArea.LABOR: {
         "clt": 2,
+        # Strong labor phrase: "contrato de trabalho" must beat the generic civil
+        # "contrato" so a CLT question is not filtered to legal_area=civil (loses CLT
+        # chunks). The "trabalh" stem already scores too, reinforcing labor.
+        "contrato de trabalho": 2,
         "empregad": 2,
         "empregador": 2,
         "trabalhador": 2,
@@ -246,8 +256,20 @@ IN_SCOPE_AREAS: frozenset[LegalArea] = frozenset(
 )
 
 
-def _score_area(question: str, keywords: dict[str, int]) -> int:
-    return sum(weight for kw, weight in keywords.items() if kw in question)
+def _matches(term: str, normalized: str) -> bool:
+    """Boundary-aware term match: a leading word boundary, open trailing edge.
+
+    The leading ``\\b`` stops a generic token ("contrato", "licitação") from matching
+    inside a longer word ("solicitação"); the open trailing edge keeps stems usable for
+    offline declensions ("tributár" → "tributária"). Multi-word phrases anchor at the
+    first token. ``term`` is trusted vocabulary but escaped defensively.
+    """
+
+    return re.search(r"\b" + re.escape(term), normalized) is not None
+
+
+def _score_area(normalized: str, keywords: dict[str, int]) -> int:
+    return sum(weight for kw, weight in keywords.items() if _matches(kw, normalized))
 
 
 def _out_of_scope_match(normalized: str) -> LegalArea | None:
@@ -255,11 +277,12 @@ def _out_of_scope_match(normalized: str) -> LegalArea | None:
 
     Terms proper to a regime without corpus prevail over incidental in-scope keywords
     (§2.2): on a tie/conflict we prefer refusal to leaking. ``administrative`` is reported
-    as-is; every other corpus-less regime collapses to ``unknown``.
+    as-is; every other corpus-less regime collapses to ``unknown``. Matching is
+    boundary-aware so "licitação" no longer fires inside "solicitação".
     """
 
     for term, area in _OUT_OF_SCOPE_TERMS.items():
-        if term in normalized:
+        if _matches(term, normalized):
             return area
     return None
 
@@ -283,6 +306,25 @@ def classify_area(question: str) -> LegalArea:
     if scored[best_area] == 0:
         return LegalArea.UNKNOWN
     return best_area
+
+
+def matched_out_of_scope_regime(question: str) -> bool:
+    """True when a corpus-less legal-regime term is explicitly matched.
+
+    Distinguishes the two cases ``classify_area`` collapses into ``unknown`` (§2.2):
+    a deterministic out-of-scope hit (a term proper to a regime with NO ingested
+    corpus — administrative/previdenciário/empresarial/propriedade industrial/
+    ambiental/eleitoral/internacional/marítimo) versus a plain no-evidence ``unknown``
+    (an in-corpus question whose keywords simply missed). Only the former must
+    pre-refuse before retrieval, independent of the embedding provider; the latter
+    must proceed to retrieval so a real source can still surface.
+
+    Pure and deterministic. ``administrative`` resolves to the enum but is still a
+    corpus-less regime, so it counts as a match here even though ``is_in_scope``
+    handles its caveat path separately.
+    """
+
+    return _out_of_scope_match(question.lower()) is not None
 
 
 def is_in_scope(area: LegalArea) -> bool:

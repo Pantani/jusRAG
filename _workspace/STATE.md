@@ -333,3 +333,47 @@ Agente: eval. Disparada após "seguir com pendências e débitos técnicos".
 - [ ] eval-real com LLM REAL (openai/ollama) para validar que o CitationAuditor recusa claims factuais sem suporte (ex.: alíquota IRPF) — único guard para o grupo-2; não testável aqui (ollama down; openai custa ~US$0.30-0.50 na chave do usuário; .env tem chave mas exige confirmação de gasto).
 - [ ] Reindex real (Qdrant + openai/local) pelo usuário com credenciais.
 - [ ] eval-real local (sentence-transformers) full: retrieval mede; LLM end-to-end CPU inviável.
+
+## Fase 14.E — Fixes de review do PR #3 (CodeRabbit + Codex) (2026-06-19, sessão 12 cont.)
+
+Agentes: ingestion, agentic, answer, legal-domain, retrieval, eval. Orquestrador: CI workflow + docs.
+
+### CI fix (orquestrador)
+
+`.github/workflows/ci.yml`: adicionado `python -m apps.worker.jobs.ingest_codes` aos dois jobs
+(lint+test e eval). Causa da falha de CI: o corpus multi-área (statutes_chunks.jsonl, gitignored)
+não era regenerado no CI — só CDC+case_law. Agora os 3 ingests rodam antes dos testes.
+
+### Bugs reais corrigidos (review)
+
+- ingestion (CRÍTICO): regex `_ARTICLE_RE` com `[º°o]?`+IGNORECASE comia o "O" inicial dos caputs
+  ("Art. 10. O fornecedor" → "fornecedor"). ~1117 artigos corrompidos no seed (CDC+7 códigos).
+  Fix: `(?-i:o)` casa só "o" ASCII ordinal. Seed regenerado; caputs minúscula 1117→14 (14 pré-existentes
+  distintos). Regressão pinada. Novos sha: cdc 6291d06c…, statutes (pós leading-O) → ver 14_ingestion_leading_o_fix.
+- ingestion: `_render_article("1-A")` → "1º-A" (ordinal antes do hífen). dotted article (`1.238`):
+  campo `article` agora match-token dotless ("1238"), display com ponto só no texto → exact_citation_match 0→1.
+- ingestion: teste pesado (HTML vendado completo) movido tests/unit → tests/integration (regra §8).
+- agentic: `_score_area`/`_out_of_scope_match` com boundary-match `\b` (licitação não casa solicitação;
+  pena≠apenas; iss≠permissão). Empate civil/labor: "contrato de trabalho":2 → labor.
+- agentic: novo sinal explícito `matched_out_of_scope_regime(question)` — distingue regime corpusless
+  casado (recusa determinística) de UNKNOWN sem-evidência (prossegue).
+- answer: `_is_out_of_scope` tri-estado consumindo o sinal — regime casado → recusa §2.2 determinística;
+  UNKNOWN sem-evidência → prossegue (corrige falso-negativo in-corpus "inventário"); administrative → recusa.
+- legal-domain: hierarchy `tier_for_statute` estrito — norm_type fora de `_FEDERAL_LAW_NORMS`/constituicao
+  → UNKNOWN (0.10), não 0.95. retrieval: `legal_ranker.authority_for_payload` espelha (reusa `_FEDERAL_LAW_NORMS`).
+- eval: golden.py `_resolve_area` (strip/lower, rejeita whitespace-only); citation_eval serializa `area`;
+  test_anti_overfit fixture module-scoped. Regimes corpusless restaurados ao golden OOS (recusam determinístico);
+  débito eval-real caiu 32→19 (só grounding-dependentes: tax sub-tópico + regimes não cobertos por _OUT_OF_SCOPE_TERMS).
+
+### Itens NÃO corrigidos (decisão consciente / pendência documentada)
+
+- Markdown MD022/MD031 nos _workspace/14_*.md (resumos efêmeros de agente): não-bloqueante (CI não roda
+  markdownlint); corrigido só em CONTRACTS.md (contrato vivo). Demais: skip documentado nas threads.
+- xfail(strict) `guarda-cc-1583`: regressão real de LARGURA DE SÍNTESE do answer (artigo certo recuperado
+  no top-5, mas síntese fake puxa ruído de vizinhança que o auditor barra → recusa conservadora). Dono: answer.
+  Pinado, não mascarado. Pendência v1.4.
+- Regimes OOS menos comuns (eleitoral, autoral, CADE, migração, registro civil) não em `_OUT_OF_SCOPE_TERMS`
+  → caem em UNKNOWN-sem-evidência, ficam no eval-real-debt; backstop = CitationAuditor sobre LLM real.
+  NÃO perseguir enumeração infinita de regimes (= overfit por outro nome). Pendência: validação eval-real.
+
+### Gate pós-fixes (a confirmar pelo baseline combinado do orquestrador)

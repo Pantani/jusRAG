@@ -81,11 +81,11 @@ def tier_for_statute(chunk: LegalChunk) -> AuthorityTier:
     if norm in {"constituicao", "constituição"}:
         return AuthorityTier.CONSTITUTION
     # decreto_lei recepcionado tem força de lei federal (CP/CPP/CLT), assim como
-    # lei / lei_complementar / medida_provisoria. Explícito por robustez (§39).
+    # lei / lei_complementar / medida_provisoria. Lista autoritativa (§39).
     if norm in _FEDERAL_LAW_NORMS:
         return AuthorityTier.FEDERAL_LAW
-    if norm:
-        return AuthorityTier.FEDERAL_LAW
+    # Qualquer outro norm_type (typo, infralegal como "portaria"/"decreto", ou
+    # vazio) NÃO recebe força de lei federal: cai em UNKNOWN (0.10), não 0.95.
     return AuthorityTier.UNKNOWN
 
 

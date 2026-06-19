@@ -15,6 +15,7 @@ from packages.agents.classify_area import (
     IN_SCOPE_AREAS,
     classify_area,
     is_in_scope,
+    matched_out_of_scope_regime,
     run_classify_area,
 )
 from packages.agents.state import LegalResearchState
@@ -104,6 +105,29 @@ def test_generic_brand_term_does_not_leak_consumer_to_out_of_scope() -> None:
     assert classify_area("o consumidor pode trocar produto de outra marca") is LegalArea.CONSUMER
 
 
+def test_substring_oos_term_does_not_false_positive_on_longer_word() -> None:
+    # Regression (Codex BUG 1): "licitação" must NOT match inside "solicitação".
+    # A legitimate consumer question stays consumer instead of being refused as
+    # administrative before retrieval (§2.2 in reverse: never refuse what the corpus
+    # covers).
+    assert classify_area("solicitação de reembolso ao fornecedor") is LegalArea.CONSUMER
+    assert is_in_scope(LegalArea.CONSUMER)
+    # A genuine licitação question still resolves to administrative (out of scope).
+    assert classify_area("licitação para contratação de servidor") is LegalArea.ADMINISTRATIVE
+    assert not is_in_scope(LegalArea.ADMINISTRATIVE)
+
+
+def test_contrato_de_trabalho_resolves_to_labor_not_civil() -> None:
+    # Regression (Codex BUG 2): generic civil "contrato" must not steal a CLT query,
+    # which would filter legal_area=civil and drop the CLT chunks.
+    assert classify_area("contrato de trabalho") is LegalArea.LABOR
+    assert classify_area("rescisão do contrato de trabalho") is LegalArea.LABOR
+    assert is_in_scope(LegalArea.LABOR)
+    # Legitimate civil contract framings stay civil — no regression on the civil side.
+    assert classify_area("contrato de locação") is LegalArea.CIVIL
+    assert classify_area("contrato e obrigação de indenização por dano moral") is LegalArea.CIVIL
+
+
 def test_unknown_when_no_evidence() -> None:
     assert classify_area("qual o melhor restaurante da cidade?") is LegalArea.UNKNOWN
     assert not is_in_scope(LegalArea.UNKNOWN)
@@ -136,3 +160,68 @@ def test_in_scope_area_has_no_caveat() -> None:
     for q in ("fato gerador do ICMS", "homicídio culposo", "FGTS e aviso prévio"):
         update = run_classify_area(LegalResearchState(run_id="r", question=q))
         assert "caveats" not in update
+
+
+# ---------------------------------------------------------------------------
+# matched_out_of_scope_regime: explicit OOS signal vs. no-evidence unknown (§2.2)
+# ---------------------------------------------------------------------------
+
+
+@pytest.mark.parametrize(
+    "question",
+    [
+        "Como registrar marca no INPI?",
+        "requisitos do licenciamento ambiental",
+        "aposentadoria por tempo de contribuição",
+        "regras de licitação para servidor público",
+        "pedido de recuperação judicial da sociedade limitada",
+        "registro de candidatura no processo eleitoral",
+        "extradição de estrangeiro e naturalização",
+        "transporte marítimo de cargas",
+        "ação de improbidade contra agente público",
+    ],
+)
+def test_matched_oos_regime_true_for_corpusless_terms(question: str) -> None:
+    """A term proper to a corpus-less regime is a deterministic OOS hit (§2.2)."""
+
+    assert matched_out_of_scope_regime(question) is True
+
+
+@pytest.mark.parametrize(
+    "question",
+    [
+        # In-corpus question whose keywords missed → unknown WITHOUT a regime hit:
+        # it must proceed to retrieval, not pre-refuse.
+        "Quais os ritos do procedimento de arrolamento de bens do falecido?",
+        # In-scope questions never match a regime term.
+        "vício do produto e direito de arrependimento",
+        "fato gerador do ICMS",
+        "homicídio culposo",
+        "FGTS e aviso prévio",
+        "usucapião extraordinária de imóvel",
+    ],
+)
+def test_matched_oos_regime_false_when_no_regime_term(question: str) -> None:
+    assert matched_out_of_scope_regime(question) is False
+
+
+def test_no_evidence_unknown_is_not_an_oos_regime() -> None:
+    """The enxuta inventário formulation lands on unknown but matches no regime."""
+
+    q = "Quais os ritos do procedimento de arrolamento de bens do falecido?"
+    assert classify_area(q) == LegalArea.UNKNOWN
+    assert matched_out_of_scope_regime(q) is False
+
+
+@pytest.mark.parametrize(
+    "question",
+    [
+        # Held-out corpus-less regimes invented to confirm domain vocabulary, not
+        # overfit to golden enunciados.
+        "concurso público para o cargo de auditor",  # administrative
+        "benefício previdenciário por incapacidade",  # previdenciário
+        "ato administrativo e seus atributos de presunção",  # administrative
+    ],
+)
+def test_matched_oos_regime_held_out(question: str) -> None:
+    assert matched_out_of_scope_regime(question) is True

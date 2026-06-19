@@ -533,9 +533,9 @@ Todas as peças do inquérito policial serão, num
 só processado, reduzidas a escrito ou datilografadas e, neste caso, rubricadas pela
 autoridade.
 
-## Art. 10.
+## Art. 10
 
-inquérito deverá terminar no prazo de 10 dias, se o
+O inquérito deverá terminar no prazo de 10 dias, se o
 
 indiciado tiver sido preso em flagrante, ou estiver preso preventivamente, contado o
 prazo, nesta hipótese, a partir do dia em que se executar a ordem de prisão, ou no prazo
@@ -551,19 +551,19 @@ que não tiverem sido inquiridas, mencionando o lugar onde possam ser encontrada
 indiciado estiver solto, a autoridade poderá requerer ao juiz a devolução dos autos,
 para ulteriores diligências, que serão realizadas no prazo marcado pelo juiz.
 
-## Art. 11.
+## Art. 11
 
-s instrumentos do crime, bem como os objetos que interessarem à
+Os instrumentos do crime, bem como os objetos que interessarem à
 
 prova, acompanharão os autos do inquérito.
 
-## Art. 12.
+## Art. 12
 
-inquérito policial acompanhará a denúncia ou queixa, sempre
+O inquérito policial acompanhará a denúncia ou queixa, sempre
 
 que servir de base a uma ou outra.
 
-## Art. 13.
+## Art. 13
 
 Incumbirá ainda à autoridade policial:
 
@@ -579,7 +579,7 @@ IV - representar acerca da prisão preventiva.
 
 ## Art. 13-A
 
-. Nos crimes previstos nos
+Nos crimes previstos nos
 
 arts. 148,
 149
@@ -616,7 +616,7 @@ judiciária responsável pela investigação.
 
 ## Art. 13-B
 
-. Se necessário à prevenção e à repressão
+Se necessário à prevenção e à repressão
 
 dos crimes relacionados ao tráfico de pessoas, o membro do Ministério Público ou
 o delegado de polícia poderão requisitar, mediante autorização judicial, às
@@ -670,15 +670,13 @@ suspeitos do delito em curso, com imediata comunicação ao juiz.
 (Incluído pela Lei nº 13.344, de 2016)
 (Vigência)
 
-## Art. 14.
+## Art. 14
 
-ofendido, ou seu representante legal, e o indiciado poderão
+O ofendido, ou seu representante legal, e o indiciado poderão
 
 requerer qualquer diligência, que será realizada, ou não, a juízo da autoridade.
 
 ## Art. 14-A
-
-.
 
 Nos casos em que servidores vinculados às instituições dispostas no
 art.
@@ -753,33 +751,33 @@ Garantia da Lei e da Ordem.
 Lei nº 13.964, de 2019)
 (Vigência)
 
-## Art. 15.
+## Art. 15
 
 Se o indiciado for menor, ser-lhe-á nomeado curador pela
 
 autoridade policial.
 
-## Art. 16.
+## Art. 16
 
-Ministério Público não poderá requerer a devolução do
+O Ministério Público não poderá requerer a devolução do
 
 inquérito à autoridade policial, senão para novas diligências, imprescindíveis ao
 oferecimento da denúncia.
 
-## Art. 17.
+## Art. 17
 
 A autoridade policial não poderá mandar arquivar autos de
 
 inquérito.
 
-## Art. 18.
+## Art. 18
 
 Depois de ordenado o arquivamento do inquérito pela
 
 autoridade judiciária, por falta de base para a denúncia, a autoridade policial poderá
 proceder a novas pesquisas, se de outras provas tiver notícia.
 
-## Art. 19.
+## Art. 19
 
 Nos crimes em que não couber ação pública, os autos do
 
@@ -787,7 +785,7 @@ inquérito serão remetidos ao juízo competente, onde aguardarão a iniciativa 
 ofendido ou de seu representante legal, ou serão entregues ao requerente, se o pedir,
 mediante traslado.
 
-## Art. 20.
+## Art. 20
 
 A autoridade assegurará no inquérito o sigilo necessário à
 
@@ -799,7 +797,7 @@ anotações referentes a instauração de inquérito contra os requerentes.
 (Redação dada pela Lei nº
 12.681, de 2012)
 
-## Art. 21.
+## Art. 21
 
 A incomunicabilidade do indiciado dependerá sempre de despacho
 
@@ -814,7 +812,7 @@ artigo 89, inciso III, do
 Estatuto da Ordem dos Advogados do Brasil (Lei n. 4.215, de 27 de abril de 1963)
 (Redação dada pela Lei nº 5.010, de 30.5.1966)
 
-## Art. 22.
+## Art. 22
 
 No Distrito Federal e nas comarcas em que houver mais de uma
 
@@ -824,7 +822,7 @@ independentemente de precatórias ou requisições, e bem assim providenciará, 
 compareça a autoridade competente, sobre qualquer fato que ocorra em sua presença,
 noutra circunscrição.
 
-## Art. 23.
+## Art. 23
 
 Ao fazer a remessa dos autos do inquérito ao juiz competente, a
 
@@ -834,7 +832,7 @@ relativos à infração penal e à pessoa do indiciado.
 
 # TÍTULO III
 
-## Art. 24.
+## Art. 24
 
 Nos crimes de ação pública, esta será promovida por denúncia
 
@@ -851,20 +849,20 @@ cônjuge, ascendente, descendente ou irmão. (Parágrafo
 do patrimônio ou interesse da União, Estado e Município, a ação penal será pública.
 (Incluído pela Lei nº 8.699, de 27.8.1993)
 
-## Art. 25.
+## Art. 25
 
 A representação será irretratável, depois de oferecida a
 
 denúncia.
 
-## Art. 26.
+## Art. 26
 
 A ação penal, nas contravenções, será iniciada com o auto de
 
 prisão em flagrante ou por meio de portaria expedida pela autoridade judiciária ou
 policial.
 
-## Art. 27.
+## Art. 27
 
 Qualquer pessoa do povo poderá provocar
 
@@ -872,7 +870,7 @@ a iniciativa do Ministério Público, nos casos em que caiba a ação pública,
 fornecendo-lhe, por escrito, informações sobre o fato e a autoria e indicando o tempo, o
 lugar e os elementos de convicção.
 
-## Art. 28.
+## Art. 28
 
 Ordenado o arquivamento do inquérito policial ou de quaisquer elementos
 informativos da mesma natureza, o órgão do Ministério Público comunicará
@@ -907,8 +905,6 @@ Lei nº 13.964, de 2019)
 (Vigência)
 
 ## Art. 28-A
-
-.
 
 Não sendo caso de arquivamento e tendo o investigado confessado formal e
 circunstancialmente a prática de infração penal sem violência ou grave
@@ -1109,7 +1105,7 @@ persecução penal, o investigado poderá requerer a remessa dos autos a
 Lei nº 13.964, de 2019)
 (Vigência)
 
-## Art. 29.
+## Art. 29
 
 Será admitida ação privada nos crimes
 
@@ -1118,20 +1114,20 @@ Público aditar a queixa, repudiá-la e oferecer denúncia substitutiva, intervi
 os termos do processo, fornecer elementos de prova, interpor recurso e, a todo tempo, no
 caso de negligência do querelante, retomar a ação como parte principal.
 
-## Art. 30.
+## Art. 30
 
 Ao ofendido ou a quem tenha qualidade
 
 para representá-lo caberá intentar a ação privada.
 
-## Art. 31.
+## Art. 31
 
 No caso de morte do ofendido ou quando declarado ausente por
 
 decisão judicial, o direito de oferecer queixa ou prosseguir na ação passará ao
 cônjuge, ascendente, descendente ou irmão.
 
-## Art. 32.
+## Art. 32
 
 Nos crimes de ação privada, o juiz, a requerimento da parte que
 
@@ -1144,7 +1140,7 @@ ou da família.
 § 2o Será prova suficiente de pobreza o atestado da
 autoridade policial em cuja circunscrição residir o ofendido.
 
-## Art. 33.
+## Art. 33
 
 Se o ofendido for menor de 18 anos, ou mentalmente
 
@@ -1153,20 +1149,20 @@ deste com os daquele, o direito de queixa poderá ser exercido por curador espec
 nomeado, de ofício ou a requerimento do Ministério Público, pelo juiz competente para o
 processo penal.
 
-## Art. 34.
+## Art. 34
 
 Se o ofendido for menor de 21 e maior de 18
 
 anos, o direito de queixa poderá ser exercido por ele ou por seu representante
 legal.
 
-## Art. 35.
+## Art. 35
 
 (Revogado
 
 pela Lei nº 9.520, de 27.11.1997)
 
-## Art. 36.
+## Art. 36
 
 Se comparecer mais de uma pessoa com direito de queixa, terá
 
@@ -1174,7 +1170,7 @@ preferência o cônjuge, e, em seguida, o parente mais próximo na ordem de enum
 constante do art. 31, podendo, entretanto, qualquer delas prosseguir na ação, caso o
 querelante desista da instância ou a abandone.
 
-## Art. 37.
+## Art. 37
 
 As fundações, associações ou sociedades legalmente
 
@@ -1182,7 +1178,7 @@ constituídas poderão exercer a ação penal, devendo ser representadas por que
 respectivos contratos ou estatutos designarem ou, no silêncio destes, pelos seus
 diretores ou sócios-gerentes.
 
-## Art. 38.
+## Art. 38
 
 Salvo disposição em contrário, o ofendido, ou seu
 
@@ -1195,9 +1191,9 @@ Parágrafo único. Verificar-se-á a decadência do direito de queixa ou
 representação, dentro do mesmo prazo, nos casos dos arts. 24, parágrafo único, e
 31.
 
-## Art. 39.
+## Art. 39
 
-direito de representação poderá ser exercido, pessoalmente
+O direito de representação poderá ser exercido, pessoalmente
 
 ou por procurador com poderes especiais, mediante declaração, escrita ou oral, feita ao
 juiz, ao órgão do Ministério Público, ou à autoridade policial.
@@ -1222,14 +1218,14 @@ inquérito.
 inquérito, se com a representação forem oferecidos elementos que o habilitem a promover
 a ação penal, e, neste caso, oferecerá a denúncia no prazo de quinze dias.
 
-## Art. 40.
+## Art. 40
 
 Quando, em autos ou papéis de que conhecerem, os juízes ou
 
 tribunais verificarem a existência de crime de ação pública, remeterão ao Ministério
 Público as cópias e os documentos necessários ao oferecimento da denúncia.
 
-## Art. 41.
+## Art. 41
 
 A denúncia ou queixa conterá a exposição do fato criminoso,
 
@@ -1237,17 +1233,17 @@ com todas as suas circunstâncias, a qualificação do acusado ou esclarecimento
 quais se possa identificá-lo, a classificação do crime e, quando necessário, o rol das
 testemunhas.
 
-## Art. 42.
+## Art. 42
 
-Ministério Público não poderá desistir da ação penal.
+O Ministério Público não poderá desistir da ação penal.
 
-## Art. 43.
+## Art. 43
 
 (Revogado pela Lei
 
 nº 11.719, de 2008).
 
-## Art. 44.
+## Art. 44
 
 A queixa poderá ser dada por procurador com poderes especiais,
 
@@ -1255,16 +1251,16 @@ devendo constar do instrumento do mandato o nome do querelante e a menção do f
 criminoso, salvo quando tais esclarecimentos dependerem de diligências que devem ser
 previamente requeridas no juízo criminal.
 
-## Art. 45.
+## Art. 45
 
 A queixa, ainda quando a ação penal for privativa do ofendido,
 
 poderá ser aditada pelo Ministério Público, a quem caberá intervir em todos os termos
 subseqüentes do processo.
 
-## Art. 46.
+## Art. 46
 
-prazo para oferecimento da denúncia,
+O prazo para oferecimento da denúncia,
 
 estando o réu preso, será de 5 dias, contado da data em que o órgão do
 Ministério Público receber os autos do inquérito policial, e de 15 dias, se o
@@ -1281,7 +1277,7 @@ tiver recebido as peças de informações ou a representação
 e, se este não se pronunciar dentro do tríduo, entender-se-á que não tem o que aditar,
 prosseguindo-se nos demais termos do processo.
 
-## Art. 47.
+## Art. 47
 
 Se o Ministério Público julgar necessários maiores
 
@@ -1289,19 +1285,19 @@ esclarecimentos e documentos complementares ou novos elementos de convicção, d
 requisitá-los, diretamente, de quaisquer autoridades ou funcionários que devam ou possam
 fornecê-los.
 
-## Art. 48.
+## Art. 48
 
 A queixa contra qualquer dos autores do crime obrigará ao
 
 processo de todos, e o Ministério Público velará pela sua indivisibilidade.
 
-## Art. 49.
+## Art. 49
 
 A renúncia ao exercício do direito de queixa, em relação a um
 
 dos autores do crime, a todos se estenderá.
 
-## Art. 50.
+## Art. 50
 
 A renúncia expressa constará de declaração assinada pelo
 
@@ -1311,13 +1307,13 @@ Parágrafo único. A renúncia do representante legal do menor que houver
 completado 18 (dezoito) anos não privará este do direito de queixa, nem a renúncia do
 último excluirá o direito do primeiro.
 
-## Art. 51.
+## Art. 51
 
-perdão concedido a um dos querelados aproveitará a todos, sem
+O perdão concedido a um dos querelados aproveitará a todos, sem
 
 que produza, todavia, efeito em relação ao que o recusar.
 
-## Art. 52.
+## Art. 52
 
 Se o querelante for menor de 21 e maior de 18
 
@@ -1325,38 +1321,38 @@ anos, o direito de perdão poderá ser exercido por ele ou por seu representante
 legal, mas o perdão concedido por um, havendo oposição do outro, não produzirá
 efeito.
 
-## Art. 53.
+## Art. 53
 
 Se o querelado for mentalmente enfermo ou retardado mental e não
 
 tiver representante legal, ou colidirem os interesses deste com os do querelado, a
 aceitação do perdão caberá ao curador que o juiz Ihe nomear.
 
-## Art. 54.
+## Art. 54
 
 Se o querelado for menor de 21 anos, observar-se-á,
 
 quanto à aceitação do perdão, o disposto no art. 52.
 
-## Art. 55.
+## Art. 55
 
-perdão poderá ser aceito por procurador com poderes
+O perdão poderá ser aceito por procurador com poderes
 
 especiais.
 
-## Art. 56.
+## Art. 56
 
 Aplicar-se-á ao perdão extraprocessual expresso o disposto no
 
 art. 50.
 
-## Art. 57.
+## Art. 57
 
 A renúncia tácita e o perdão tácito admitirão todos os meios
 
 de prova.
 
-## Art. 58.
+## Art. 58
 
 Concedido o perdão, mediante declaração expressa nos autos, o
 
@@ -1365,14 +1361,14 @@ tempo, ser cientificado de que o seu silêncio importará aceitação.
 
 Parágrafo único. Aceito o perdão, o juiz julgará extinta a punibilidade.
 
-## Art. 59.
+## Art. 59
 
 A aceitação do perdão fora do processo constará de
 
 declaração assinada pelo querelado, por seu representante legal ou procurador com
 poderes especiais.
 
-## Art. 60.
+## Art. 60
 
 Nos casos em que somente se procede mediante queixa,
 
@@ -1393,7 +1389,7 @@ condenação nas alegações finais;
 IV - quando, sendo o querelante pessoa jurídica, esta se extinguir sem deixar
 sucessor.
 
-## Art. 61.
+## Art. 61
 
 Em qualquer fase do processo, o juiz, se reconhecer extinta a
 
@@ -1405,7 +1401,7 @@ e, se o julgar conveniente, concederá o prazo de cinco dias para a prova, profe
 a decisão dentro de cinco dias ou reservando-se para apreciar a matéria na sentença
 final.
 
-## Art. 62.
+## Art. 62
 
 No caso de morte do acusado, o juiz somente à vista da certidão
 
@@ -1413,7 +1409,7 @@ de óbito, e depois de ouvido o Ministério Público, declarará extinta a punib
 
 # TÍTULO IV
 
-## Art. 63.
+## Art. 63
 
 Transitada em julgado a sentença condenatória, poderão
 
@@ -1429,7 +1425,7 @@ deste Código sem prejuízo da liquidação para a apuração do dano efetivamen
 sofrido. (Incluído pela Lei
 nº 11.719, de 2008).
 
-## Art. 64.
+## Art. 64
 
 Sem prejuízo do disposto no artigo anterior, a
 
@@ -1439,7 +1435,7 @@ crime e, se for caso, contra o responsável civil. (Vide Lei nº 5.970, de 1973)
 Parágrafo único. Intentada a ação penal, o juiz da ação civil poderá
 suspender o curso desta, até o julgamento definitivo daquela.
 
-## Art. 65.
+## Art. 65
 
 Faz coisa julgada no cível a sentença penal que reconhecer ter
 
@@ -1447,14 +1443,14 @@ sido o ato praticado em estado de necessidade, em legítima defesa, em estrito c
 de dever legal ou no exercício regular de direito. (Vide ADPF
 779)
 
-## Art. 66.
+## Art. 66
 
 Não obstante a sentença absolutória no juízo criminal, a
 
 ação civil poderá ser proposta quando não tiver sido, categoricamente, reconhecida a
 inexistência material do fato.
 
-## Art. 67.
+## Art. 67
 
 Não impedirão igualmente a propositura da ação civil:
 
@@ -1465,7 +1461,7 @@ II - a decisão que julgar extinta a punibilidade;
 III - a sentença absolutória que decidir que o fato imputado não constitui
 crime.
 
-## Art. 68.
+## Art. 68
 
 Quando o titular do direito à reparação do dano for pobre
 
@@ -1475,7 +1471,7 @@ requerimento, pelo Ministério Público.
 
 # TÍTULO V
 
-## Art. 69.
+## Art. 69
 
 Determinará a competência jurisdicional:
 
@@ -1495,7 +1491,7 @@ VII - a prerrogativa de função.
 
 # CAPÍTULO I
 
-## Art. 70.
+## Art. 70
 
 A competência será, de regra, determinada pelo lugar em que se
 
@@ -1525,7 +1521,7 @@ competência firmar-se-á pela prevenção.
 (Incluído pela Lei nº
 14.155, de 2021)
 
-## Art. 71.
+## Art. 71
 
 Tratando-se de infração continuada ou permanente, praticada em
 
@@ -1533,7 +1529,7 @@ território de duas ou mais jurisdições, a competência firmar-se-á pela prev
 
 # CAPÍTULO II
 
-## Art. 72.
+## Art. 72
 
 Não sendo conhecido o lugar da infração, a competência
 
@@ -1545,7 +1541,7 @@ competência firmar-se-á pela prevenção.
 § 2o Se o réu não tiver residência certa ou for
 ignorado o seu paradeiro, será competente o juiz que primeiro tomar conhecimento do fato.
 
-## Art. 73.
+## Art. 73
 
 Nos casos de exclusiva ação privada, o querelante poderá
 
@@ -1554,7 +1550,7 @@ infração.
 
 # CAPÍTULO III
 
-## Art. 74.
+## Art. 74
 
 A competência pela natureza da infração será regulada pelas
 
@@ -1582,7 +1578,7 @@ presidente caberá proferir a sentença (art. 492, § 2o).
 
 # CAPÍTULO IV
 
-## Art. 75.
+## Art. 75
 
 A precedência da distribuição fixará a competência quando,
 
@@ -1594,7 +1590,7 @@ denúncia ou queixa prevenirá a da ação penal.
 
 # CAPÍTULO V
 
-## Art. 76.
+## Art. 76
 
 A competência será determinada pela conexão:
 
@@ -1608,7 +1604,7 @@ as outras, ou para conseguir impunidade ou vantagem em relação a qualquer dela
 III - quando a prova de uma infração ou de qualquer de suas circunstâncias
 elementares influir na prova de outra infração.
 
-## Art. 77.
+## Art. 77
 
 A competência será determinada pela continência quando:
 
@@ -1618,7 +1614,7 @@ II - no caso de infração cometida nas condições previstas nos
 arts. 51,
 § 1o, 53, segunda parte, e 54 do Código Penal.
 
-## Art. 78.
+## Art. 78
 
 Na determinação da competência por conexão ou
 
@@ -1647,7 +1643,7 @@ maior graduação; (Redação dada pela Lei nº 263, de 23.2.1948)
 
 IV - no concurso entre a jurisdição comum e a especial, prevalecerá esta. (Redação dada pela Lei nº 263, de 23.2.1948)
 
-## Art. 79.
+## Art. 79
 
 A conexão e a continência importarão unidade de processo e
 
@@ -1664,7 +1660,7 @@ em relação a algum co-réu, sobrevier o caso previsto no art. 152.
 se houver co-réu foragido que não possa ser julgado à revelia, ou ocorrer a hipótese
 do art. 461.
 
-## Art. 80.
+## Art. 80
 
 Será facultativa a separação dos processos quando as
 
@@ -1672,7 +1668,7 @@ infrações tiverem sido praticadas em circunstâncias de tempo ou de lugar dife
 ou, quando pelo excessivo número de acusados e para não Ihes prolongar a prisão
 provisória, ou por outro motivo relevante, o juiz reputar conveniente a separação.
 
-## Art. 81.
+## Art. 81
 
 Verificada a reunião dos processos por conexão ou
 
@@ -1685,7 +1681,7 @@ conexão ou continência, o juiz, se vier a desclassificar a infração ou impro
 absolver o acusado, de maneira que exclua a competência do júri, remeterá o processo ao
 juízo competente.
 
-## Art. 82.
+## Art. 82
 
 Se, não obstante a conexão ou continência, forem instaurados
 
@@ -1696,7 +1692,7 @@ de unificação das penas.
 
 # CAPÍTULO VI
 
-## Art. 83.
+## Art. 83
 
 Verificar-se-á a competência por prevenção toda vez que,
 
@@ -1708,7 +1704,7 @@ relativa, ainda que anterior ao oferecimento da denúncia ou da queixa (arts. 70
 
 # CAPÍTULO VII
 
-## Art. 84.
+## Art. 84
 
 A competência pela prerrogativa de função é do Supremo
 
@@ -1726,7 +1722,7 @@ ADIN nº 2797)
 (Vide
 ADIN nº 2797)
 
-## Art. 85.
+## Art. 85
 
 Nos processos por crime contra a honra, em que forem querelantes
 
@@ -1734,7 +1730,7 @@ as pessoas que a Constituição sujeita à jurisdição do Supremo Tribunal Fede
 Tribunais de Apelação, àquele ou a estes caberá o julgamento, quando oposta e admitida
 a exceção da verdade.
 
-## Art. 86.
+## Art. 86
 
 Ao Supremo Tribunal Federal competirá, privativamente, processar
 
@@ -1749,7 +1745,7 @@ III - o procurador-geral da República, os desembargadores dos Tribunais de
 Apelação, os ministros do Tribunal de Contas e os embaixadores e ministros
 diplomáticos, nos crimes comuns e de responsabilidade.
 
-## Art. 87.
+## Art. 87
 
 Competirá, originariamente, aos Tribunais de Apelação o
 
@@ -1759,7 +1755,7 @@ instância inferior e órgãos do Ministério Público.
 
 # CAPÍTULO VIII
 
-## Art. 88.
+## Art. 88
 
 No processo por crimes praticados fora do território brasileiro,
 
@@ -1767,25 +1763,25 @@ será competente o juízo da Capital do Estado onde houver por último residido 
 Se este nunca tiver residido no Brasil, será competente o juízo da Capital da
 República.
 
-## Art. 89.
+## Art. 89
 
-s crimes cometidos em qualquer embarcação nas águas
+Os crimes cometidos em qualquer embarcação nas águas
 
 territoriais da República, ou nos rios e lagos fronteiriços, bem como a bordo de
 embarcações nacionais, em alto-mar, serão processados e julgados pela justiça do
 primeiro porto brasileiro em que tocar a embarcação, após o crime, ou, quando se
 afastar do País, pela do último em que houver tocado.
 
-## Art. 90.
+## Art. 90
 
-s crimes praticados a bordo de aeronave nacional, dentro do
+Os crimes praticados a bordo de aeronave nacional, dentro do
 
 espaço aéreo correspondente ao território brasileiro, ou ao alto-mar, ou a bordo de
 aeronave estrangeira, dentro do espaço aéreo correspondente ao território nacional,
 serão processados e julgados pela justiça da comarca em cujo território se verificar o
 pouso após o crime, ou pela da comarca de onde houver partido a aeronave.
 
-## Art. 91.
+## Art. 91
 
 Quando incerta e não se determinar de acordo com as normas
 
@@ -1795,7 +1791,7 @@ estabelecidas nos arts. 89 e 90, a competência se firmará pela prevenção. (R
 
 # CAPÍTULO I
 
-## Art. 92.
+## Art. 92
 
 Se a decisão sobre a existência da infração depender da
 
@@ -1808,7 +1804,7 @@ Parágrafo único. Se for o crime de ação pública, o Ministério Público,
 quando necessário, promoverá a ação civil ou prosseguirá na que tiver sido iniciada,
 com a citação dos interessados.
 
-## Art. 93.
+## Art. 93
 
 Se o reconhecimento da existência da infração penal depender
 
@@ -1831,7 +1827,7 @@ recurso.
 pública, incumbirá ao Ministério Público intervir imediatamente na causa cível, para
 o fim de promover-lhe o rápido andamento.
 
-## Art. 94.
+## Art. 94
 
 A suspensão do curso da ação penal, nos casos dos artigos
 
@@ -1839,7 +1835,7 @@ anteriores, será decretada pelo juiz, de ofício ou a requerimento das partes.
 
 # CAPÍTULO II
 
-## Art. 95.
+## Art. 95
 
 Poderão ser opostas as exceções de:
 
@@ -1853,27 +1849,27 @@ IV - ilegitimidade de parte;
 
 V - coisa julgada.
 
-## Art. 96.
+## Art. 96
 
 A argüição de suspeição precederá a qualquer outra, salvo
 
 quando fundada em motivo superveniente.
 
-## Art. 97.
+## Art. 97
 
-juiz que espontaneamente afirmar suspeição deverá fazê-lo
+O juiz que espontaneamente afirmar suspeição deverá fazê-lo
 
 por escrito, declarando o motivo legal, e remeterá imediatamente o processo ao seu
 substituto, intimadas as partes.
 
-## Art. 98.
+## Art. 98
 
 Quando qualquer das partes pretender recusar o juiz, deverá
 
 fazê-lo em petição assinada por ela própria ou por procurador com poderes especiais,
 aduzindo as suas razões acompanhadas de prova documental ou do rol de testemunhas.
 
-## Art. 99.
+## Art. 99
 
 Se reconhecer a suspeição, o juiz sustará a marcha do
 
@@ -1881,7 +1877,7 @@ processo, mandará juntar aos autos a petição do recusante com os documentos q
 instruam, e por despacho se declarará suspeito, ordenando a remessa dos autos ao
 substituto.
 
-## Art. 100.
+## Art. 100
 
 Não aceitando a suspeição, o juiz mandará autuar em apartado
 
@@ -1897,7 +1893,7 @@ alegações.
 § 2o Se a suspeição for de manifesta improcedência, o
 juiz ou relator a rejeitará liminarmente.
 
-## Art. 101.
+## Art. 101
 
 Julgada procedente a suspeição, ficarão nulos os atos do
 
@@ -1905,14 +1901,14 @@ processo principal, pagando o juiz as custas, no caso de erro inescusável; reje
 evidenciando-se a malícia do excipiente, a este será imposta a multa de duzentos
 mil-réis a dois contos de réis.
 
-## Art. 102.
+## Art. 102
 
 Quando a parte contrária reconhecer a procedência da
 
 argüição, poderá ser sustado, a seu requerimento, o processo principal, até que se
 julgue o incidente da suspeição.
 
-## Art. 103.
+## Art. 103
 
 No Supremo Tribunal Federal e nos Tribunais de Apelação, o
 
@@ -1937,34 +1933,34 @@ pelo tribunal pleno, funcionando como relator o presidente.
 § 5o Se o recusado for o presidente do tribunal, o relator
 será o vice-presidente.
 
-## Art. 104.
+## Art. 104
 
 Se for argüida a suspeição do órgão do Ministério
 
 Público, o juiz, depois de ouvi-lo, decidirá, sem recurso, podendo antes admitir a
 produção de provas no prazo de três dias.
 
-## Art. 105.
+## Art. 105
 
 As partes poderão também argüir de suspeitos os peritos, os
 
 intérpretes e os serventuários ou funcionários de justiça, decidindo o juiz de plano e
 sem recurso, à vista da matéria alegada e prova imediata.
 
-## Art. 106.
+## Art. 106
 
 A suspeição dos jurados deverá ser argüida oralmente,
 
 decidindo de plano do presidente do Tribunal do Júri, que a rejeitará se, negada pelo
 recusado, não for imediatamente comprovada, o que tudo constará da ata.
 
-## Art. 107.
+## Art. 107
 
 Não se poderá opor suspeição às autoridades policiais nos
 
 atos do inquérito, mas deverão elas declarar-se suspeitas, quando ocorrer motivo legal.
 
-## Art. 108.
+## Art. 108
 
 A exceção de incompetência do juízo poderá ser oposta,
 
@@ -1977,14 +1973,14 @@ anteriores, o processo prosseguirá.
 § 2o Recusada a incompetência, o juiz continuará no
 feito, fazendo tomar por termo a declinatória, se formulada verbalmente.
 
-## Art. 109.
+## Art. 109
 
 Se em qualquer fase do processo o juiz reconhecer motivo que o
 
 torne incompetente, declará-lo-á nos autos, haja ou não alegação da parte,
 prosseguindo-se na forma do artigo anterior.
 
-## Art. 110.
+## Art. 110
 
 Nas exceções de litispendência, ilegitimidade de parte e
 
@@ -1997,7 +1993,7 @@ exceções, deverá fazê-lo numa só petição ou articulado.
 § 2o A exceção de coisa julgada somente poderá ser oposta
 em relação ao fato principal, que tiver sido objeto da sentença.
 
-## Art. 111.
+## Art. 111
 
 As exceções serão processadas em autos apartados e não
 
@@ -2005,9 +2001,9 @@ suspenderão, em regra, o andamento da ação penal.
 
 # CAPÍTULO III
 
-## Art. 112.
+## Art. 112
 
-juiz, o órgão do Ministério Público, os serventuários ou
+O juiz, o órgão do Ministério Público, os serventuários ou
 
 funcionários de justiça e os peritos ou intérpretes abster-se-ão de servir no
 processo, quando houver incompatibilidade ou impedimento legal, que declararão nos autos.
@@ -2016,13 +2012,13 @@ pelas partes, seguindo-se o processo estabelecido para a exceção de suspeiçã
 
 # CAPÍTULO IV
 
-## Art. 113.
+## Art. 113
 
 As questões atinentes à competência resolver-se-ão não só
 
 pela exceção própria, como também pelo conflito positivo ou negativo de jurisdição.
 
-## Art. 114.
+## Art. 114
 
 Haverá conflito de jurisdição:
 
@@ -2032,9 +2028,9 @@ incompetentes, para conhecer do mesmo fato criminoso;
 II - quando entre elas surgir controvérsia sobre unidade de juízo, junção ou
 separação de processos.
 
-## Art. 115.
+## Art. 115
 
-conflito poderá ser suscitado:
+O conflito poderá ser suscitado:
 
 I - pela parte interessada;
 
@@ -2043,9 +2039,9 @@ dissídio;
 
 III - por qualquer dos juízes ou tribunais em causa.
 
-## Art. 116.
+## Art. 116
 
-s juízes e tribunais, sob a forma de representação, e a
+Os juízes e tribunais, sob a forma de representação, e a
 
 parte interessada, sob a de requerimento, darão parte escrita e circunstanciada do
 conflito, perante o tribunal competente, expondo os fundamentos e juntando os documentos
@@ -2072,21 +2068,21 @@ feito depender de diligência.
 remetidas, para a sua execução, às autoridades contra as quais tiver sido levantado o
 conflito ou que o houverem suscitado.
 
-## Art. 117.
+## Art. 117
 
-Supremo Tribunal Federal, mediante avocatória, restabelecerá
+O Supremo Tribunal Federal, mediante avocatória, restabelecerá
 
 a sua jurisdição, sempre que exercida por qualquer dos juízes ou tribunais inferiores.
 
 # CAPÍTULO V
 
-## Art. 118.
+## Art. 118
 
 Antes de transitar em julgado a sentença final, as coisas
 
 apreendidas não poderão ser restituídas enquanto interessarem ao processo.
 
-## Art. 119.
+## Art. 119
 
 As coisas a que se referem os
 
@@ -2094,7 +2090,7 @@ arts. 74 e 100 do Código Penal
 não poderão ser restituídas, mesmo depois de transitar em julgado a sentença final,
 salvo se pertencerem ao lesado ou a terceiro de boa-fé.
 
-## Art. 120.
+## Art. 120
 
 A restituição, quando cabível, poderá ser ordenada pela
 
@@ -2121,13 +2117,13 @@ de depositário ou do próprio terceiro que as detinha, se for pessoa idônea.
 avaliadas e levadas a leilão público, depositando-se o dinheiro apurado, ou entregues ao
 terceiro que as detinha, se este for pessoa idônea e assinar termo de responsabilidade.
 
-## Art. 121.
+## Art. 121
 
 No caso de apreensão de coisa adquirida com os proventos da
 
 infração, aplica-se o disposto no art. 133 e seu parágrafo.
 
-## Art. 122.
+## Art. 122
 
 Sem
 
@@ -2141,7 +2137,7 @@ Parágrafo
 (Redação dada
 pela Lei nº 13.964, de 2019)
 
-## Art. 123.
+## Art. 123
 
 Fora dos casos previstos nos artigos anteriores, se dentro no
 
@@ -2150,9 +2146,9 @@ final, condenatória ou absolutória, os objetos apreendidos não forem reclamad
 pertencerem ao réu, serão vendidos em leilão, depositando-se o saldo à disposição do
 juízo de ausentes.
 
-## Art. 124.
+## Art. 124
 
-s
+Os
 
 instrumentos do crime, cuja perda em favor da União for decretada, e as coisas
 confiscadas, de acordo com o disposto no art. 100
@@ -2160,8 +2156,6 @@ do Código Penal, serão inutilizados ou recolhidos a museu criminal, se
 houver interesse na sua conservação.
 
 ## Art. 124-A
-
-.
 
 Na hipótese de decretação de perdimento de obras de arte ou de outros
 bens de relevante valor cultural ou artístico, se o crime não tiver
@@ -2171,42 +2165,42 @@ vítima determinada, poderá haver destinação dos bens a museus públicos.
 
 # CAPÍTULO VI
 
-## Art. 125.
+## Art. 125
 
 Caberá o seqüestro dos bens imóveis, adquiridos pelo
 
 indiciado com os proventos da infração, ainda que já tenham sido transferidos a
 terceiro.
 
-## Art. 126.
+## Art. 126
 
 Para a decretação do seqüestro, bastará a existência de
 
 indícios veementes da proveniência ilícita dos bens.
 
-## Art. 127.
+## Art. 127
 
-juiz, de ofício, a requerimento do Ministério Público ou do
+O juiz, de ofício, a requerimento do Ministério Público ou do
 
 ofendido, ou mediante representação da autoridade policial, poderá ordenar o
 seqüestro, em qualquer fase do processo ou ainda antes de oferecida a denúncia ou
 queixa.
 
-## Art. 128.
+## Art. 128
 
 Realizado o seqüestro, o juiz ordenará a sua inscrição no
 
 Registro de Imóveis.
 
-## Art. 129.
+## Art. 129
 
-seqüestro autuar-se-á em apartado e admitirá embargos de
+O seqüestro autuar-se-á em apartado e admitirá embargos de
 
 terceiro.
 
-## Art. 130.
+## Art. 130
 
-seqüestro poderá ainda ser embargado:
+O seqüestro poderá ainda ser embargado:
 
 I - pelo acusado, sob o fundamento de não terem os bens sido adquiridos com os
 proventos da infração;
@@ -2217,9 +2211,9 @@ sob o fundamento de tê-los adquirido de boa-fé.
 Parágrafo único. Não poderá ser pronunciada decisão nesses embargos antes
 de passar em julgado a sentença condenatória.
 
-## Art. 131.
+## Art. 131
 
-seqüestro será levantado:
+O seqüestro será levantado:
 
 I - se a ação penal não for intentada no prazo de sessenta dias, contado
 da data em que ficar concluída a diligência;
@@ -2231,14 +2225,14 @@ Código Penal;
 III - se for julgada extinta a punibilidade ou absolvido o réu, por sentença
 transitada em julgado.
 
-## Art. 132.
+## Art. 132
 
 Proceder-se-á ao seqüestro dos bens móveis se, verificadas as
 
 condições previstas no art. 126, não for cabível a medida regulada no
 Capítulo Xl do Título Vll deste Livro.
 
-## Art. 133.
+## Art. 133
 
 Transitada em julgado a sentença condenatória, o juiz, de ofício ou a
 requerimento do interessado ou do Ministério Público, determinará a
@@ -2261,7 +2255,7 @@ Lei nº 13.964, de 2019)
 
 ## Art. 133-A
 
-. O
+O
 
 juiz poderá autorizar, constatado o interesse público, a utilização de
 bem sequestrado, apreendido ou sujeito a qualquer medida assecuratória
@@ -2305,14 +2299,14 @@ propriedade ao órgão público beneficiário ao qual foi custodiado o bem.
 (Incluído pela
 Lei nº 13.964, de 2019)
 
-## Art. 134.
+## Art. 134
 
 A hipoteca legal sobre os imóveis do indiciado poderá ser
 
 requerida pelo ofendido em qualquer fase do processo, desde que haja certeza da infração
 e indícios suficientes da autoria.
 
-## Art. 135.
+## Art. 135
 
 Pedida a especialização mediante requerimento, em que a parte
 
@@ -2345,16 +2339,16 @@ das partes não se conformar com o arbitramento anterior à sentença condenató
 em títulos de dívida pública, pelo valor de sua cotação em Bolsa, o juiz poderá
 deixar de mandar proceder à inscrição da hipoteca legal.
 
-## Art. 136.
+## Art. 136
 
-arresto do imóvel poderá ser
+O arresto do imóvel poderá ser
 
 decretado de início, revogando-se, porém, se no prazo de 15 (quinze) dias não
 for promovido o processo de inscrição da hipoteca legal.
 (Redação dada pela Lei nº
 11.435, de 2006)
 
-## Art. 137.
+## Art. 137
 
 Se o responsável não possuir
 
@@ -2370,46 +2364,46 @@ deterioráveis, proceder-se-á na forma do § 5o do art. 120.
 § 2o Das rendas dos bens móveis poderão ser fornecidos
 recursos arbitrados pelo juiz, para a manutenção do indiciado e de sua família.
 
-## Art. 138.
+## Art. 138
 
-processo de especialização
+O processo de especialização
 
 da hipoteca e do arresto correrão em auto apartado.
 (Redação dada pela Lei nº
 11.435, de 2006).
 
-## Art. 139.
+## Art. 139
 
-depósito e a administração dos
+O depósito e a administração dos
 
 bens arrestados ficarão sujeitos ao regime do processo civil.
 (Redação dada pela Lei nº
 11.435, de 2006).
 
-## Art. 140.
+## Art. 140
 
 As garantias do ressarcimento do dano alcançarão também as
 
 despesas processuais e as penas pecuniárias, tendo preferência sobre estas a reparação
 do dano ao ofendido.
 
-## Art. 141.
+## Art. 141
 
-arresto será levantado ou
+O arresto será levantado ou
 
 cancelada a hipoteca, se, por sentença irrecorrível, o réu for absolvido ou
 julgada extinta a punibilidade.
 (Redação dada pela Lei nº
 11.435, de 2006).
 
-## Art. 142.
+## Art. 142
 
 Caberá ao Ministério Público promover as medidas
 
 estabelecidas nos arts. 134 e 137, se houver interesse da Fazenda Pública, ou se o
 ofendido for pobre e o requerer.
 
-## Art. 143.
+## Art. 143
 
 Passando
 
@@ -2418,9 +2412,9 @@ remetidos ao juiz do cível (art. 63).
 (Redação dada pela Lei nº
 11.435, de 2006).
 
-## Art. 144.
+## Art. 144
 
-s interessados ou, nos casos do
+Os interessados ou, nos casos do
 
 art. 142, o Ministério
 Público poderão requerer no juízo cível, contra o responsável civil, as medidas
@@ -2429,7 +2423,7 @@ previstas nos arts. 134, 136 e
 
 ## Art. 144-A
 
-. O juiz determinará a alienação antecipada para preservação do
+O juiz determinará a alienação antecipada para preservação do
 
 valor dos bens sempre que estiverem sujeitos a qualquer grau de deterioração
 ou depreciação, ou quando houver dificuldade para sua manutenção. (Incluído
@@ -2483,7 +2477,7 @@ Lei nº 12.694, de 2012)
 
 # CAPÍTULO VII
 
-## Art. 145.
+## Art. 145
 
 Argüida, por escrito, a falsidade de documento constante dos
 
@@ -2502,19 +2496,19 @@ IV - se reconhecida a falsidade por decisão irrecorrível, mandará
 desentranhar o documento e remetê-lo, com os autos do processo incidente, ao Ministério
 Público.
 
-## Art. 146.
+## Art. 146
 
 A argüição de falsidade, feita por procurador, exige poderes
 
 especiais.
 
-## Art. 147.
+## Art. 147
 
-juiz poderá, de ofício, proceder à verificação da
+O juiz poderá, de ofício, proceder à verificação da
 
 falsidade.
 
-## Art. 148.
+## Art. 148
 
 Qualquer que seja a decisão, não fará coisa julgada em
 
@@ -2522,7 +2516,7 @@ prejuízo de ulterior processo penal ou civil.
 
 # CAPÍTULO VIII
 
-## Art. 149.
+## Art. 149
 
 Quando houver dúvida sobre a integridade mental do acusado, o
 
@@ -2537,7 +2531,7 @@ inquérito, mediante representação da autoridade policial ao juiz competente.
 exame, ficando suspenso o processo, se já iniciada a ação penal, salvo quanto às
 diligências que possam ser prejudicadas pelo adiamento.
 
-## Art. 150.
+## Art. 150
 
 Para o efeito do exame, o acusado, se estiver preso, será
 
@@ -2550,14 +2544,14 @@ dias, salvo se os peritos demonstrarem a necessidade de maior prazo.
 § 2o Se não houver prejuízo para a marcha do processo, o
 juiz poderá autorizar sejam os autos entregues aos peritos, para facilitar o exame.
 
-## Art. 151.
+## Art. 151
 
 Se os peritos concluírem que o acusado era, ao tempo da
 
 infração, irresponsável nos termos do art. 22 do Código Penal, o processo
 prosseguirá, com a presença do curador.
 
-## Art. 152.
+## Art. 152
 
 Se se verificar que a doença mental sobreveio à infração o
 
@@ -2572,13 +2566,13 @@ acusado em manicômio judiciário ou em outro estabelecimento adequado.
 restabeleça o acusado, ficando-lhe assegurada a faculdade de reinquirir as testemunhas
 que houverem prestado depoimento sem a sua presença.
 
-## Art. 153.
+## Art. 153
 
-incidente da insanidade mental processar-se-á em auto
+O incidente da insanidade mental processar-se-á em auto
 
 apartado, que só depois da apresentação do laudo, será apenso ao processo principal.
 
-## Art. 154.
+## Art. 154
 
 Se a insanidade mental sobrevier no curso da execução da pena,
 
@@ -2588,9 +2582,9 @@ observar-se-á o disposto no art. 682.
 
 # CAPÍTULO I
 
-## Art. 155.
+## Art. 155
 
-juiz formará sua convicção pela livre apreciação da prova
+O juiz formará sua convicção pela livre apreciação da prova
 
 produzida em contraditório judicial, não podendo fundamentar sua decisão
 exclusivamente nos elementos informativos colhidos na investigação, ressalvadas
@@ -2603,7 +2597,7 @@ restrições estabelecidas na lei civil.
 (Incluído pela Lei nº
 11.690, de 2008)
 
-## Art. 156.
+## Art. 156
 
 A prova da alegação incumbirá a quem a fizer, sendo, porém,
 
@@ -2622,7 +2616,7 @@ realização de diligências para dirimir dúvida sobre ponto relevante.
 (Incluído pela Lei nº
 11.690, de 2008)
 
-## Art. 157.
+## Art. 157
 
 São inadmissíveis, devendo ser desentranhadas do processo, as provas
 
@@ -2668,7 +2662,7 @@ ADI 6.300)
 
 # CAPÍTULO II
 
-## Art. 158.
+## Art. 158
 
 Quando a infração deixar vestígios, será indispensável o exame de
 
@@ -2691,8 +2685,6 @@ idoso ou pessoa com deficiência.
 Lei nº 13.721, de 2018)
 
 ## Art. 158-A
-
-.
 
 Considera-se cadeia de custódia o conjunto de todos os procedimentos
 utilizados para manter e documentar a história cronológica do vestígio
@@ -2722,7 +2714,7 @@ Lei nº 13.964, de 2019)
 
 ## Art. 158-B
 
-. A
+A
 
 cadeia de custódia compreende o rastreamento do vestígio nas seguintes
 etapas:
@@ -2807,7 +2799,7 @@ Lei nº 13.964, de 2019)
 
 ## Art. 158-C
 
-. A
+A
 
 coleta dos vestígios deverá ser realizada preferencialmente por perito
 oficial, que dará o encaminhamento necessário para a central de
@@ -2833,7 +2825,7 @@ Lei nº 13.964, de 2019)
 
 ## Art. 158-D
 
-. O
+O
 
 recipiente para acondicionamento do vestígio será determinado pela
 natureza do material.
@@ -2875,8 +2867,6 @@ Lei nº 13.964, de 2019)
 
 ## Art. 158-E
 
-.
-
 Todos os Institutos de Criminalística deverão ter uma central de
 custódia destinada à guarda e controle dos vestígios, e sua gestão deve
 ser vinculada diretamente ao órgão central de perícia oficial de
@@ -2915,8 +2905,6 @@ Lei nº 13.964, de 2019)
 
 ## Art. 158-F
 
-.
-
 Após a realização da perícia, o material deverá ser devolvido à central
 de custódia, devendo nela permanecer.
 (Incluído pela
@@ -2931,9 +2919,9 @@ perícia oficial de natureza criminal.
 (Incluído pela
 Lei nº 13.964, de 2019)
 
-## Art. 159.
+## Art. 159
 
-exame de corpo de delito e
+O exame de corpo de delito e
 
 outras perícias serão realizados por perito oficial, portador de diploma de
 curso superior. (Redação
@@ -2997,9 +2985,9 @@ assistente técnico.
 (Incluído pela Lei nº
 11.690, de 2008)
 
-## Art. 160.
+## Art. 160
 
-s peritos elaborarão o laudo pericial,
+Os peritos elaborarão o laudo pericial,
 
 onde descreverão minuciosamente o que examinarem, e responderão aos
 quesitos formulados. (Redação dada pela Lei nº 8.862, de
@@ -3010,13 +2998,13 @@ Parágrafo
 prazo ser prorrogado, em casos excepcionais, a requerimento dos peritos.
 (Redação dada pela Lei nº 8.862, de 28.3.1994)
 
-## Art. 161.
+## Art. 161
 
-exame de corpo de delito poderá ser feito em qualquer dia e a
+O exame de corpo de delito poderá ser feito em qualquer dia e a
 
 qualquer hora.
 
-## Art. 162.
+## Art. 162
 
 A autópsia será feita pelo menos seis horas depois do óbito, salvo se
 
@@ -3028,7 +3016,7 @@ do cadáver, quando não houver infração penal que apurar, ou quando as lesõe
 externas permitirem precisar a causa da morte e não houver necessidade de exame
 interno para a verificação de alguma circunstância relevante.
 
-## Art. 163.
+## Art. 163
 
 Em caso de exumação para exame cadavérico, a autoridade providenciará
 
@@ -3041,21 +3029,21 @@ quem indique a sepultura, ou de encontrar-se o cadáver em lugar não destinado 
 inumações, a autoridade procederá às pesquisas necessárias, o que tudo constará
 do auto.
 
-## Art. 164.
+## Art. 164
 
-s cadáveres serão sempre fotografados na posição em que forem
+Os cadáveres serão sempre fotografados na posição em que forem
 
 encontrados, bem como, na medida do possível, todas as lesões externas e
 vestígios deixados no local do crime. (Redação dada pela Lei nº 8.862, de 28.3.1994)
 
-## Art. 165.
+## Art. 165
 
 Para representar as lesões encontradas no cadáver, os peritos, quando
 
 possível, juntarão ao laudo do exame provas fotográficas, esquemas ou desenhos,
 devidamente rubricados.
 
-## Art. 166.
+## Art. 166
 
 Havendo dúvida sobre a identidade do cadáver exumado, proceder-se-á
 
@@ -3067,13 +3055,13 @@ indicações.
 Parágrafo único. Em qualquer caso, serão arrecadados e autenticados todos os
 objetos encontrados, que possam ser úteis para a identificação do cadáver.
 
-## Art. 167.
+## Art. 167
 
 Não sendo possível o exame de corpo de delito, por haverem
 
 desaparecido os vestígios, a prova testemunhal poderá suprir-lhe a falta.
 
-## Art. 168.
+## Art. 168
 
 Em caso de lesões corporais, se o primeiro exame pericial tiver sido
 
@@ -3092,7 +3080,7 @@ contado da data do crime.
 § 3o A falta de exame complementar poderá ser suprida pela
 prova testemunhal.
 
-## Art. 169.
+## Art. 169
 
 Para o efeito de exame do local onde houver sido
 
@@ -3106,14 +3094,14 @@ coisas e discutirão, no relatório, as conseqüências dessas alterações na
 dinâmica dos fatos. (Incluído pela
 Lei nº 8.862, de 28.3.1994)
 
-## Art. 170.
+## Art. 170
 
 Nas perícias de laboratório, os peritos guardarão material suficiente
 
 para a eventualidade de nova perícia. Sempre que conveniente, os laudos serão
 ilustrados com provas fotográficas, ou microfotográficas, desenhos ou esquemas.
 
-## Art. 171.
+## Art. 171
 
 Nos crimes cometidos com destruição ou rompimento de obstáculo a
 
@@ -3121,7 +3109,7 @@ subtração da coisa, ou por meio de escalada, os peritos, além de descrever os
 vestígios, indicarão com que instrumentos, por que meios e em que época presumem
 ter sido o fato praticado.
 
-## Art. 172.
+## Art. 172
 
 Proceder-se-á, quando necessário, à avaliação de coisas destruídas,
 
@@ -3131,7 +3119,7 @@ Parágrafo único. Se impossível a avaliação direta, os peritos procederão �
 avaliação por meio dos elementos existentes nos autos e dos que resultarem de
 diligências.
 
-## Art. 173.
+## Art. 173
 
 No caso de incêndio, os peritos verificarão a causa e o lugar em que
 
@@ -3139,7 +3127,7 @@ houver começado, o perigo que dele tiver resultado para a vida ou para o
 patrimônio alheio, a extensão do dano e o seu valor e as demais circunstâncias
 que interessarem à elucidação do fato.
 
-## Art. 174.
+## Art. 174
 
 No exame para o reconhecimento de escritos, por comparação de letra,
 
@@ -3162,19 +3150,19 @@ estiver ausente a pessoa, mas em lugar certo, esta última diligência poderá s
 feita por precatória, em que se consignarão as palavras que a pessoa será
 intimada a escrever.
 
-## Art. 175.
+## Art. 175
 
 Serão sujeitos a exame os instrumentos empregados para a prática da
 
 infração, a fim de se Ihes verificar a natureza e a eficiência.
 
-## Art. 176.
+## Art. 176
 
 A autoridade e as partes poderão formular quesitos até o ato da
 
 diligência.
 
-## Art. 177.
+## Art. 177
 
 No exame por precatória, a nomeação dos peritos far-se-á no juízo
 
@@ -3184,14 +3172,14 @@ nomeação poderá ser feita pelo juiz deprecante.
 Parágrafo único. Os quesitos do juiz e das partes serão transcritos na
 precatória.
 
-## Art. 178.
+## Art. 178
 
 No caso do
 
 art. 159, o exame será requisitado pela autoridade ao
 diretor da repartição, juntando-se ao processo o laudo assinado pelos peritos.
 
-## Art. 179.
+## Art. 179
 
 No caso do
 
@@ -3202,7 +3190,7 @@ pela autoridade.
 Parágrafo único. No caso do art. 160, parágrafo único, o laudo, que poderá ser
 datilografado, será subscrito e rubricado em suas folhas por todos os peritos.
 
-## Art. 180.
+## Art. 180
 
 Se houver divergência entre os peritos, serão consignadas no auto do
 
@@ -3210,7 +3198,7 @@ exame as declarações e respostas de um e de outro, ou cada um redigirá
 separadamente o seu laudo, e a autoridade nomeará um terceiro; se este divergir
 de ambos, a autoridade poderá mandar proceder a novo exame por outros peritos.
 
-## Art. 181.
+## Art. 181
 
 No caso de inobservância de formalidades, ou no caso de omissões,
 
@@ -3221,19 +3209,19 @@ formalidade, complementar ou esclarecer o laudo. (Redação dada pela Lei nº 8.
 Parágrafo único. A autoridade poderá também ordenar que se proceda a novo
 exame, por outros peritos, se julgar conveniente.
 
-## Art. 182.
+## Art. 182
 
-juiz não ficará adstrito ao laudo, podendo aceitá-lo
+O juiz não ficará adstrito ao laudo, podendo aceitá-lo
 
 ou rejeitá-lo, no todo ou em parte.
 
-## Art. 183.
+## Art. 183
 
 Nos crimes em que não couber ação pública, observar-se-á o disposto
 
 no art. 19.
 
-## Art. 184.
+## Art. 184
 
 Salvo o caso de exame de corpo de delito, o juiz ou a autoridade
 
@@ -3242,9 +3230,9 @@ esclarecimento da verdade.
 
 # CAPÍTULO III
 
-## Art. 185.
+## Art. 185
 
-acusado que comparecer perante a autoridade judiciária, no curso do
+O acusado que comparecer perante a autoridade judiciária, no curso do
 
 processo penal, será qualificado e interrogado na presença de seu defensor,
 constituído ou nomeado. (Redação dada
@@ -3340,7 +3328,7 @@ eventual responsável pelos cuidados dos filhos, indicado pela pessoa presa
 (Incluído pela Lei nº
 13.257, de 2016)
 
-## Art. 186.
+## Art. 186
 
 Depois de devidamente qualificado e cientificado do inteiro teor da
 
@@ -3354,9 +3342,9 @@ silêncio, que não importará em confissão, não poderá ser interpretado em
 prejuízo da defesa. (Incluído pela Lei
 nº 10.792, de 1º.12.2003)
 
-## Art. 187.
+## Art. 187
 
-interrogatório será constituído de duas partes: sobre a pessoa do
+O interrogatório será constituído de duas partes: sobre a pessoa do
 
 acusado e sobre os fatos. (Redação
 dada pela Lei nº 10.792, de 1º.12.2003)
@@ -3411,7 +3399,7 @@ VIII - se tem algo
 mais a alegar em sua defesa. (Incluído
 pela Lei nº 10.792, de 1º.12.2003)
 
-## Art. 188.
+## Art. 188
 
 Após proceder ao interrogatório, o juiz indagará das partes se restou
 
@@ -3419,14 +3407,14 @@ algum fato para ser esclarecido, formulando as perguntas correspondentes se o
 entender pertinente e relevante.
 (Redação dada pela Lei nº 10.792, de 1º.12.2003)
 
-## Art. 189.
+## Art. 189
 
 Se o interrogando negar a acusação, no todo ou em parte, poderá
 
 prestar esclarecimentos e indicar provas. (Redação dada pela Lei nº 10.792, de
 1º.12.2003)
 
-## Art. 190.
+## Art. 190
 
 Se confessar a autoria, será perguntado sobre os motivos e
 
@@ -3434,15 +3422,15 @@ circunstâncias do fato e se outras pessoas concorreram para a infração, e qua
 sejam. (Redação dada pela Lei nº
 10.792, de 1º.12.2003)
 
-## Art. 191.
+## Art. 191
 
 Havendo mais de um acusado, serão interrogados separadamente.
 
 (Redação dada pela Lei nº 10.792, de 1º.12.2003)
 
-## Art. 192.
+## Art. 192
 
-interrogatório do mudo, do surdo ou do surdo-mudo será feito pela
+O interrogatório do mudo, do surdo ou do surdo-mudo será feito pela
 
 forma seguinte: (Redação dada pela Lei
 nº 10.792, de 1º.12.2003)
@@ -3467,21 +3455,21 @@ e sob compromisso, pessoa habilitada a entendê-lo.
 (Redação dada pela Lei nº 10.792, de
 1º.12.2003)
 
-## Art. 193.
+## Art. 193
 
 Quando o interrogando não falar a língua nacional, o interrogatório
 
 será feito por meio de intérprete. (Redação dada pela Lei nº 10.792, de
 1º.12.2003)
 
-## Art. 195.
+## Art. 195
 
 Se o interrogado não souber escrever, não puder ou não quiser assinar,
 
 tal fato será consignado no termo. (Redação dada pela Lei nº 10.792, de
 1º.12.2003)
 
-## Art. 196.
+## Art. 196
 
 A todo tempo o juiz poderá proceder a novo interrogatório de ofício ou
 
@@ -3490,27 +3478,27 @@ a pedido fundamentado de qualquer das partes. (Redação dada pela Lei nº 10.79
 
 # CAPÍTULO IV
 
-## Art. 197.
+## Art. 197
 
-valor da confissão se aferirá pelos critérios adotados para os
+O valor da confissão se aferirá pelos critérios adotados para os
 
 outros elementos de prova, e para a sua apreciação o juiz deverá confrontá-la
 com as demais provas do processo, verificando se entre ela e estas existe
 compatibilidade ou concordância.
 
-## Art. 198.
+## Art. 198
 
-silêncio do acusado não importará confissão, mas poderá constituir
+O silêncio do acusado não importará confissão, mas poderá constituir
 
 elemento para a formação do convencimento do juiz.
 
-## Art. 199.
+## Art. 199
 
 A confissão, quando feita fora do interrogatório, será tomada por
 
 termo nos autos, observado o disposto no art. 195.
 
-## Art. 200.
+## Art. 200
 
 A confissão será divisível e retratável, sem prejuízo do livre
 
@@ -3518,7 +3506,7 @@ convencimento do juiz, fundado no exame das provas em conjunto.
 
 # CAPÍTULO V
 
-## Art. 201.
+## Art. 201
 
 Sempre que possível, o ofendido será qualificado e
 
@@ -3573,11 +3561,11 @@ respeito para evitar sua exposição aos meios de comunicação.
 
 # CAPÍTULO VI
 
-## Art. 202.
+## Art. 202
 
 Toda pessoa poderá ser testemunha.
 
-## Art. 203.
+## Art. 203
 
 A testemunha fará, sob palavra de honra, a promessa de dizer a
 
@@ -3588,23 +3576,23 @@ relações com qualquer delas, e relatar o que souber, explicando sempre as raz�
 de sua ciência ou as circunstâncias pelas quais possa avaliar-se de sua
 credibilidade.
 
-## Art. 204.
+## Art. 204
 
-depoimento será prestado oralmente, não sendo permitido à
+O depoimento será prestado oralmente, não sendo permitido à
 
 testemunha trazê-lo por escrito.
 
 Parágrafo único. Não será vedada à testemunha, entretanto, breve consulta a
 apontamentos.
 
-## Art. 205.
+## Art. 205
 
 Se ocorrer dúvida sobre a identidade da testemunha, o juiz procederá
 
 à verificação pelos meios ao seu alcance, podendo, entretanto, tomar-lhe o
 depoimento desde logo.
 
-## Art. 206.
+## Art. 206
 
 A testemunha não poderá eximir-se da obrigação de depor. Poderão,
 
@@ -3613,14 +3601,14 @@ reta, o cônjuge, ainda que desquitado, o irmão e o pai, a mãe, ou o filho
 adotivo do acusado, salvo quando não for possível, por outro modo, obter-se ou
 integrar-se a prova do fato e de suas circunstâncias.
 
-## Art. 207.
+## Art. 207
 
 São proibidas de depor as pessoas que, em razão de função,
 
 ministério, ofício ou profissão, devam guardar segredo, salvo se, desobrigadas
 pela parte interessada, quiserem dar o seu testemunho.
 
-## Art. 208.
+## Art. 208
 
 Não se deferirá o compromisso a que alude o
 
@@ -3628,9 +3616,9 @@ art. 203 aos doentes e
 deficientes mentais e aos menores de 14 (quatorze) anos, nem às pessoas a que se
 refere o art. 206.
 
-## Art. 209.
+## Art. 209
 
-juiz, quando julgar necessário, poderá ouvir outras testemunhas,
+O juiz, quando julgar necessário, poderá ouvir outras testemunhas,
 
 além das indicadas pelas partes.
 
@@ -3640,7 +3628,7 @@ a que as testemunhas se referirem.
 § 2o Não será computada como testemunha a pessoa que nada
 souber que interesse à decisão da causa.
 
-## Art. 210.
+## Art. 210
 
 As testemunhas serão inquiridas cada uma de per si, de
 
@@ -3655,7 +3643,7 @@ incomunicabilidade das testemunhas.
 (Incluído pela Lei nº
 11.690, de 2008)
 
-## Art. 211.
+## Art. 211
 
 Se o juiz, ao pronunciar sentença final, reconhecer que alguma
 
@@ -3667,7 +3655,7 @@ juiz, no caso de proferir decisão na audiência (art. 538, § 2o),
 o tribunal (art. 561), ou o conselho de sentença, após a votação dos quesitos,
 poderão fazer apresentar imediatamente a testemunha à autoridade policial.
 
-## Art. 212.
+## Art. 212
 
 As perguntas serão formuladas pelas partes diretamente à
 
@@ -3682,13 +3670,13 @@ complementar a inquirição.
 (Incluído pela Lei nº
 11.690, de 2008)
 
-## Art. 213.
+## Art. 213
 
-juiz não permitirá que a testemunha manifeste suas apreciações
+O juiz não permitirá que a testemunha manifeste suas apreciações
 
 pessoais, salvo quando inseparáveis da narrativa do fato.
 
-## Art. 214.
+## Art. 214
 
 Antes de iniciado o depoimento, as partes poderão contraditar a
 
@@ -3697,22 +3685,22 @@ parcialidade, ou indigna de fé. O juiz fará consignar a contradita ou argüiç
 a resposta da testemunha, mas só excluirá a testemunha ou não Ihe deferirá
 compromisso nos casos previstos nos arts. 207 e 208.
 
-## Art. 215.
+## Art. 215
 
 Na redação do depoimento, o juiz deverá cingir-se, tanto quanto
 
 possível, às expressões usadas pelas testemunhas, reproduzindo fielmente as suas
 frases.
 
-## Art. 216.
+## Art. 216
 
-depoimento da testemunha será reduzido a termo, assinado por ela,
+O depoimento da testemunha será reduzido a termo, assinado por ela,
 
 pelo juiz e pelas partes. Se a testemunha não souber assinar, ou não puder
 fazê-lo, pedirá a alguém que o faça por ela, depois de lido na presença de
 ambos.
 
-## Art. 217.
+## Art. 217
 
 Se o juiz verificar que a presença do réu poderá causar
 
@@ -3729,7 +3717,7 @@ determinaram.
 (Incluído pela Lei nº
 11.690, de 2008)
 
-## Art. 218.
+## Art. 218
 
 Se, regularmente intimada, a testemunha deixar de
 
@@ -3737,24 +3725,24 @@ comparecer sem motivo justificado, o juiz poderá requisitar à autoridade
 policial a sua apresentação ou determinar seja conduzida por oficial de justiça,
 que poderá solicitar o auxílio da força pública.
 
-## Art. 219.
+## Art. 219
 
-juiz poderá aplicar à testemunha faltosa a multa prevista no
+O juiz poderá aplicar à testemunha faltosa a multa prevista no
 
 art.
 453, sem prejuízo do processo penal por crime de desobediência, e condená-la ao
 pagamento das custas da diligência. (Redação dada pela Lei nº
 6.416, de 24.5.1977)
 
-## Art. 220.
+## Art. 220
 
 As pessoas impossibilitadas, por enfermidade ou por velhice, de
 
 comparecer para depor, serão inquiridas onde estiverem.
 
-## Art. 221.
+## Art. 221
 
-Presidente e o Vice-Presidente da República, os senadores e
+O Presidente e o Vice-Presidente da República, os senadores e
 
 deputados federais, os ministros de Estado, os governadores de Estados e
 Territórios, os secretários de Estado, os prefeitos do Distrito Federal e dos
@@ -3782,7 +3770,7 @@ a expedição do mandado ser imediatamente comunicada ao chefe da repartição e
 que servirem, com indicação do dia e da hora marcados.
 (Incluído pela Lei nº 6.416, de 24.5.1977)
 
-## Art. 222.
+## Art. 222
 
 A testemunha que morar fora da jurisdição do juiz será inquirida pelo
 
@@ -3804,7 +3792,7 @@ inclusive, durante a realização da audiência de instrução e julgamento.
 
 ## Art. 222-A
 
-. As cartas rogatórias só serão expedidas
+As cartas rogatórias só serão expedidas
 
 se demonstrada previamente a sua imprescindibilidade, arcando a parte requerente
 com os custos de envio.
@@ -3817,7 +3805,7 @@ e 2o
 do art. 222 deste Código.
 (Incluído pela Lei nº 11.900, de 2009)
 
-## Art. 223.
+## Art. 223
 
 Quando a testemunha não conhecer a língua nacional, será nomeado
 
@@ -3826,14 +3814,14 @@ intérprete para traduzir as perguntas e respostas.
 Parágrafo único. Tratando-se de mudo, surdo ou surdo-mudo, proceder-se-á na
 conformidade do art. 192.
 
-## Art. 224.
+## Art. 224
 
 As testemunhas comunicarão ao juiz, dentro de um ano, qualquer
 
 mudança de residência, sujeitando-se, pela simples omissão, às penas do
 não-comparecimento.
 
-## Art. 225.
+## Art. 225
 
 Se qualquer testemunha houver de ausentar-se, ou, por enfermidade ou
 
@@ -3843,7 +3831,7 @@ tomar-lhe antecipadamente o depoimento.
 
 # CAPÍTULO VII
 
-## Art. 226.
+## Art. 226
 
 Quando houver necessidade de fazer-se o reconhecimento de pessoa,
 
@@ -3868,13 +3856,13 @@ testemunhas presenciais.
 Parágrafo único. O disposto no no III deste artigo não terá
 aplicação na fase da instrução criminal ou em plenário de julgamento.
 
-## Art. 227.
+## Art. 227
 
 No reconhecimento de objeto, proceder-se-á com as cautelas
 
 estabelecidas no artigo anterior, no que for aplicável.
 
-## Art. 228.
+## Art. 228
 
 Se várias forem as pessoas chamadas a efetuar o reconhecimento de
 
@@ -3883,7 +3871,7 @@ comunicação entre elas.
 
 # CAPÍTULO VIII
 
-## Art. 229.
+## Art. 229
 
 A acareação será admitida entre acusados, entre acusado e testemunha,
 
@@ -3894,7 +3882,7 @@ circunstâncias relevantes.
 Parágrafo único. Os acareados serão reperguntados, para que expliquem os pontos
 de divergências, reduzindo-se a termo o ato de acareação.
 
-## Art. 230.
+## Art. 230
 
 Se ausente alguma testemunha, cujas declarações divirjam das de
 
@@ -3909,13 +3897,13 @@ prejudicial ao processo e o juiz a entenda conveniente.
 
 # CAPÍTULO IX
 
-## Art. 231.
+## Art. 231
 
 Salvo os casos expressos em lei, as partes poderão apresentar
 
 documentos em qualquer fase do processo.
 
-## Art. 232.
+## Art. 232
 
 Consideram-se documentos quaisquer escritos, instrumentos ou papéis,
 
@@ -3924,7 +3912,7 @@ públicos ou particulares.
 Parágrafo único. À fotografia do documento, devidamente autenticada, se dará o
 mesmo valor do original.
 
-## Art. 233.
+## Art. 233
 
 As cartas particulares, interceptadas ou obtidas por meios
 
@@ -3934,35 +3922,35 @@ Parágrafo único. As cartas poderão ser exibidas em juízo pelo respectivo
 destinatário, para a defesa de seu direito, ainda que não haja consentimento do
 signatário.
 
-## Art. 234.
+## Art. 234
 
 Se o juiz tiver notícia da existência de documento relativo a ponto
 
 relevante da acusação ou da defesa, providenciará, independentemente de
 requerimento de qualquer das partes, para sua juntada aos autos, se possível.
 
-## Art. 235.
+## Art. 235
 
 A letra e firma dos documentos particulares serão submetidas a exame
 
 pericial, quando contestada a sua autenticidade.
 
-## Art. 236.
+## Art. 236
 
-s documentos em língua estrangeira, sem prejuízo de sua juntada
+Os documentos em língua estrangeira, sem prejuízo de sua juntada
 
 imediata, serão, se necessário, traduzidos por tradutor público, ou, na falta,
 por pessoa idônea nomeada pela autoridade.
 
-## Art. 237.
+## Art. 237
 
 As públicas-formas só terão valor quando conferidas com o original,
 
 em presença da autoridade.
 
-## Art. 238.
+## Art. 238
 
-s documentos originais, juntos a processo findo, quando não exista
+Os documentos originais, juntos a processo findo, quando não exista
 
 motivo relevante que justifique a sua conservação nos autos, poderão, mediante
 requerimento, e ouvido o Ministério Público, ser entregues à parte que os
@@ -3970,7 +3958,7 @@ produziu, ficando traslado nos autos.
 
 # CAPÍTULO X
 
-## Art. 239.
+## Art. 239
 
 Considera-se indício a circunstância conhecida e provada, que, tendo
 
@@ -3979,7 +3967,7 @@ outras circunstâncias.
 
 # CAPÍTULO XI
 
-## Art. 240.
+## Art. 240
 
 A busca será domiciliar ou pessoal.
 
@@ -4011,21 +3999,21 @@ suspeita de que alguém oculte consigo arma proibida ou objetos mencionados nas
 letras b
 a f e letra h do parágrafo anterior.
 
-## Art. 241.
+## Art. 241
 
 Quando a própria autoridade policial ou judiciária não a realizar
 
 pessoalmente, a busca domiciliar deverá ser precedida da expedição de mandado.
 
-## Art. 242.
+## Art. 242
 
 A busca poderá ser determinada de ofício ou a requerimento de
 
 qualquer das partes.
 
-## Art. 243.
+## Art. 243
 
-mandado de busca deverá:
+O mandado de busca deverá:
 
 I - indicar, o mais precisamente possível, a casa em que será realizada a
 diligência e o nome do respectivo proprietário ou morador; ou, no caso de busca
@@ -4042,7 +4030,7 @@ mandado de busca.
 § 2o Não será permitida a apreensão de documento em poder do
 defensor do acusado, salvo quando constituir elemento do corpo de delito.
 
-## Art. 244.
+## Art. 244
 
 A busca pessoal independerá de mandado, no caso de prisão ou quando
 
@@ -4050,7 +4038,7 @@ houver fundada suspeita de que a pessoa esteja na posse de arma proibida ou de
 objetos ou papéis que constituam corpo de delito, ou quando a medida for
 determinada no curso de busca domiciliar.
 
-## Art. 245.
+## Art. 245
 
 As buscas domiciliares serão executadas de dia, salvo se o morador
 
@@ -4082,7 +4070,7 @@ imediatamente apreendida e posta sob custódia da autoridade ou de seus agentes.
 circunstanciado, assinando-o com duas testemunhas presenciais, sem prejuízo do
 disposto no § 4o.
 
-## Art. 246.
+## Art. 246
 
 Aplicar-se-á também o disposto no artigo anterior, quando se tiver de
 
@@ -4090,25 +4078,25 @@ proceder a busca em compartimento habitado ou em aposento ocupado de habitação
 coletiva ou em compartimento não aberto ao público, onde alguém exercer
 profissão ou atividade.
 
-## Art. 247.
+## Art. 247
 
 Não sendo encontrada a pessoa ou coisa procurada, os motivos da
 
 diligência serão comunicados a quem tiver sofrido a busca, se o requerer.
 
-## Art. 248.
+## Art. 248
 
 Em casa habitada, a busca será feita de modo que não moleste os
 
 moradores mais do que o indispensável para o êxito da diligência.
 
-## Art. 249.
+## Art. 249
 
 A busca em mulher será feita por outra mulher, se não importar
 
 retardamento ou prejuízo da diligência.
 
-## Art. 250.
+## Art. 250
 
 A autoridade ou seus agentes poderão penetrar no território de
 
@@ -4136,16 +4124,16 @@ diligência.
 
 # CAPÍTULO I
 
-## Art. 251.
+## Art. 251
 
 Ao juiz incumbirá prover à regularidade do processo e manter a ordem
 
 no curso dos respectivos atos, podendo, para tal fim, requisitar a força
 pública.
 
-## Art. 252.
+## Art. 252
 
-juiz não poderá exercer jurisdição no processo em que:
+O juiz não poderá exercer jurisdição no processo em que:
 
 I - tiver funcionado seu cônjuge ou parente, consangüíneo ou afim, em linha reta
 ou colateral até o terceiro grau, inclusive, como defensor ou advogado, órgão do
@@ -4161,16 +4149,16 @@ IV - ele próprio ou seu cônjuge ou parente, consangüíneo ou afim em linha re
 ou colateral até o terceiro grau, inclusive, for parte ou diretamente
 interessado no feito.
 
-## Art. 253.
+## Art. 253
 
 Nos juízos coletivos, não poderão servir no mesmo processo os juízes
 
 que forem entre si parentes, consangüíneos ou afins, em linha reta ou colateral
 até o terceiro grau, inclusive.
 
-## Art. 254.
+## Art. 254
 
-juiz dar-se-á por suspeito, e, se não o fizer, poderá ser recusado
+O juiz dar-se-á por suspeito, e, se não o fizer, poderá ser recusado
 
 por qualquer das partes:
 
@@ -4190,16 +4178,16 @@ V - se for credor ou devedor, tutor ou curador, de qualquer das partes;
 Vl - se for sócio, acionista ou administrador de sociedade interessada no
 processo.
 
-## Art. 255.
+## Art. 255
 
-impedimento ou suspeição decorrente de parentesco por afinidade
+O impedimento ou suspeição decorrente de parentesco por afinidade
 
 cessará pela dissolução do casamento que Ihe tiver dado causa, salvo sobrevindo
 descendentes; mas, ainda que dissolvido o casamento sem descendentes, não
 funcionará como juiz o sogro, o padrasto, o cunhado, o genro ou enteado de quem
 for parte no processo.
 
-## Art. 256.
+## Art. 256
 
 A suspeição não poderá ser declarada nem reconhecida, quando a parte
 
@@ -4207,7 +4195,7 @@ injuriar o juiz ou de propósito der motivo para criá-la.
 
 # CAPÍTULO II
 
-## Art. 257.
+## Art. 257
 
 Ao Ministério Público cabe:
 
@@ -4223,9 +4211,9 @@ II - fiscalizar a execução da lei.
 (Incluído pela Lei
 nº 11.719, de 2008).
 
-## Art. 258.
+## Art. 258
 
-s órgãos do Ministério Público não funcionarão nos processos em que
+Os órgãos do Ministério Público não funcionarão nos processos em que
 
 o juiz ou qualquer das partes for seu cônjuge, ou parente, consangüíneo ou afim,
 em linha reta ou colateral, até o terceiro grau, inclusive, e a eles se
@@ -4234,7 +4222,7 @@ impedimentos dos juízes.
 
 # CAPÍTULO III
 
-## Art. 259.
+## Art. 259
 
 A impossibilidade de identificação do acusado com o seu verdadeiro
 
@@ -4244,7 +4232,7 @@ execução da sentença, se for descoberta a sua qualificação, far-se-á a
 retificação, por termo, nos autos, sem prejuízo da validade dos atos
 precedentes.
 
-## Art. 260.
+## Art. 260
 
 Se o acusado não atender à intimação para o interrogatório,
 
@@ -4256,7 +4244,7 @@ autoridade poderá mandar conduzi-lo à sua presença.
 Parágrafo único. O mandado conterá, além da ordem de condução, os requisitos
 mencionados no art. 352, no que Ihe for aplicável.
 
-## Art. 261.
+## Art. 261
 
 Nenhum acusado, ainda que ausente ou foragido, será processado ou
 
@@ -4267,11 +4255,11 @@ dativo, será sempre exercida através de manifestação fundamentada.
 (Incluído pela Lei nº 10.792, de
 1º.12.2003)
 
-## Art. 262.
+## Art. 262
 
 Ao acusado menor dar-se-á curador.
 
-## Art. 263.
+## Art. 263
 
 Se o acusado não o tiver, ser-lhe-á nomeado defensor pelo juiz,
 
@@ -4281,16 +4269,16 @@ si mesmo defender-se, caso tenha habilitação.
 Parágrafo único. O acusado, que não for pobre, será obrigado a pagar os
 honorários do defensor dativo, arbitrados pelo juiz.
 
-## Art. 264.
+## Art. 264
 
 Salvo motivo relevante, os advogados e solicitadores serão obrigados,
 
 sob pena de multa de cem a quinhentos mil-réis, a prestar seu patrocínio aos
 acusados, quando nomeados pelo Juiz.
 
-## Art. 265.
+## Art. 265
 
-defensor não poderá abandonar o processo sem justo
+O defensor não poderá abandonar o processo sem justo
 
 motivo, previamente comunicado ao juiz, sob pena de responder por
 infração disciplinar perante o órgão correicional competente.
@@ -4316,13 +4304,13 @@ advogado dativo para a sua defesa.
 (Incluído pela Lei
 nº 14.752, de 2023)
 
-## Art. 266.
+## Art. 266
 
 A constituição de defensor independerá de instrumento de mandato, se
 
 o acusado o indicar por ocasião do interrogatório.
 
-## Art. 267.
+## Art. 267
 
 Nos termos do art. 252, não funcionarão como defensores os parentes
 
@@ -4330,26 +4318,26 @@ do juiz.
 
 # CAPÍTULO IV
 
-## Art. 268.
+## Art. 268
 
 Em todos os termos da ação pública, poderá intervir, como assistente
 
 do Ministério Público, o ofendido ou seu representante legal, ou, na falta,
 qualquer das pessoas mencionadas no Art. 31.
 
-## Art. 269.
+## Art. 269
 
-assistente será admitido enquanto não passar em julgado a sentença
+O assistente será admitido enquanto não passar em julgado a sentença
 
 e receberá a causa no estado em que se achar.
 
-## Art. 270.
+## Art. 270
 
-co-réu no mesmo processo não poderá intervir como assistente do
+O co-réu no mesmo processo não poderá intervir como assistente do
 
 Ministério Público.
 
-## Art. 271.
+## Art. 271
 
 Ao assistente será permitido propor meios de prova, requerer
 
@@ -4366,13 +4354,13 @@ intimação do assistente, quando este, intimado, deixar de comparecer a qualque
 dos atos da instrução ou do julgamento, sem motivo de força maior devidamente
 comprovado.
 
-## Art. 272.
+## Art. 272
 
-Ministério Público será ouvido previamente sobre a admissão do
+O Ministério Público será ouvido previamente sobre a admissão do
 
 assistente.
 
-## Art. 273.
+## Art. 273
 
 Do despacho que admitir, ou não, o assistente, não caberá recurso,
 
@@ -4380,7 +4368,7 @@ devendo, entretanto, constar dos autos o pedido e a decisão.
 
 # CAPÍTULO V
 
-## Art. 274.
+## Art. 274
 
 As prescrições sobre suspeição dos juízes estendem-se aos
 
@@ -4388,19 +4376,19 @@ serventuários e funcionários da justiça, no que Ihes for aplicável.
 
 # CAPÍTULO VI
 
-## Art. 275.
+## Art. 275
 
-perito, ainda quando não oficial, estará sujeito à disciplina
+O perito, ainda quando não oficial, estará sujeito à disciplina
 
 judiciária.
 
-## Art. 276.
+## Art. 276
 
 As partes não intervirão na nomeação do perito.
 
-## Art. 277.
+## Art. 277
 
-perito nomeado pela autoridade será obrigado a aceitar o encargo,
+O perito nomeado pela autoridade será obrigado a aceitar o encargo,
 
 sob pena de multa de cem a quinhentos mil-réis, salvo escusa atendível.
 
@@ -4414,13 +4402,13 @@ provada imediatamente:
   c) não der o laudo, ou concorrer para que a perícia não seja feita, nos prazos
 estabelecidos.
 
-## Art. 278.
+## Art. 278
 
 No caso de não-comparecimento do perito, sem justa causa, a
 
 autoridade poderá determinar a sua condução.
 
-## Art. 279.
+## Art. 279
 
 Não poderão ser peritos:
 
@@ -4433,21 +4421,21 @@ sobre o objeto da perícia;
 
 III - os analfabetos e os menores de 21 anos.
 
-## Art. 280.
+## Art. 280
 
 É extensivo aos peritos, no que Ihes for aplicável, o disposto sobre
 
 suspeição dos juízes.
 
-## Art. 281.
+## Art. 281
 
-s intérpretes são, para todos os efeitos, equiparados aos peritos.
+Os intérpretes são, para todos os efeitos, equiparados aos peritos.
 
 # TÍTULO IX
 
 # CAPÍTULO I
 
-## Art. 282.
+## Art. 282
 
 As medidas cautelares previstas neste Título deverão ser
 
@@ -4514,7 +4502,7 @@ caso concreto, de forma individualizada.
 (Redação dada
 pela Lei nº 13.964, de 2019)
 
-## Art. 283.
+## Art. 283
 
 Ninguém poderá ser preso senão em flagrante delito ou por ordem escrita
 e fundamentada da autoridade judiciária competente, em decorrência de
@@ -4536,14 +4524,14 @@ respeitadas as restrições relativas à inviolabilidade do domicílio.
 (Incluído pela Lei
 nº 12.403, de 2011).
 
-## Art. 284.
+## Art. 284
 
 Não
 
 será permitido o emprego de força, salvo a indispensável no caso de resistência
 ou de tentativa de fuga do preso.
 
-## Art. 285.
+## Art. 285
 
 A
 
@@ -4567,7 +4555,9 @@ valor da fiança arbitrada, quando afiançável a infração;
   e) será dirigido
 a quem tiver qualidade para dar-lhe execução.
 
-## Art. 286.
+## Art. 286
+
+O
 
 mandado será passado em duplicata, e o executor entregará ao preso, logo depois
 da prisão, um dos exemplares com declaração do dia, hora e lugar da diligência.
@@ -4575,7 +4565,7 @@ Da entrega deverá o preso passar recibo no outro exemplar; se recusar, não
 souber ou não puder escrever, o fato será mencionado em declaração, assinada por
 duas testemunhas.
 
-## Art. 287.
+## Art. 287
 
 Se
 
@@ -4586,7 +4576,7 @@ custódia.
 (Redação dada pela Lei nº
 13.964, de 2019)
 
-## Art. 288.
+## Art. 288
 
 Ninguém será recolhido à prisão, sem que seja exibido o mandado ao
 
@@ -4598,7 +4588,7 @@ Parágrafo
 único. O recibo poderá ser passado no próprio exemplar do mandado, se este for
 o documento exibido.
 
-## Art. 289.
+## Art. 289
 
 Quando o acusado estiver no território nacional, fora da
 
@@ -4627,7 +4617,7 @@ nº 12.403, de 2011).
 
 ## Art. 289-A
 
-. O juiz competente providenciará o imediato registro do mandado de
+O juiz competente providenciará o imediato registro do mandado de
 
 prisão em banco de dados mantido pelo Conselho Nacional de Justiça para essa
 finalidade.
@@ -4681,7 +4671,7 @@ deste artigo.
 (Incluído pela Lei nº
 12.403, de 2011).
 
-## Art. 290.
+## Art. 290
 
 Se o
 
@@ -4706,14 +4696,14 @@ Quando as autoridades locais tiverem fundadas razões para duvidar da
 legitimidade da pessoa do executor ou da legalidade do mandado que apresentar,
 poderão pôr em custódia o réu, até que fique esclarecida a dúvida.
 
-## Art. 291.
+## Art. 291
 
 A
 
 prisão em virtude de mandado entender-se-á feita desde que o executor,
 fazendo-se conhecer do réu, Ihe apresente o mandado e o intime a acompanhá-lo.
 
-## Art. 292.
+## Art. 292
 
 Se
 
@@ -4729,7 +4719,7 @@ o período de puerpério imediato.
 (Redação dada pela Lei nº 13.434,
 de 2017)
 
-## Art. 293.
+## Art. 293
 
 Se o
 
@@ -4745,14 +4735,14 @@ Parágrafo
 único. O morador que se recusar a entregar o réu oculto em sua casa será levado
 à presença da autoridade, para que se proceda contra ele como for de direito.
 
-## Art. 294.
+## Art. 294
 
 No
 
 caso de prisão em flagrante, observar-se-á o disposto no artigo anterior, no que
 for aplicável.
 
-## Art. 295.
+## Art. 295
 
 Serão recolhidos a quartéis ou a prisão
 
@@ -4831,14 +4821,14 @@ especial não será transportado juntamente com o preso comum.
 direitos e deveres do preso especial serão os mesmos do preso comum.
 (Incluído pela Lei nº 10.258, de 11.7.2001)
 
-## Art. 296.
+## Art. 296
 
-s
+Os
 
 inferiores e praças de pré, onde for possível, serão recolhidos à prisão, em
 estabelecimentos militares, de acordo com os respectivos regulamentos.
 
-## Art. 297.
+## Art. 297
 
 Para
 
@@ -4846,11 +4836,11 @@ o cumprimento de mandado expedido pela autoridade judiciária, a autoridade
 policial poderá expedir tantos outros quantos necessários às diligências,
 devendo neles ser fielmente reproduzido o teor do mandado original.
 
-## Art. 298.
+## Art. 298
 
 (Revogado pela Lei nº 12.403, de 2011).
 
-## Art. 299.
+## Art. 299
 
 A captura poderá ser requisitada, à vista de mandado judicial,
 
@@ -4858,7 +4848,7 @@ por qualquer meio de comunicação, tomadas pela autoridade, a quem se fizer a
 requisição, as precauções necessárias para averiguar a autenticidade desta.
 (Redação dada pela Lei nº 12.403, de 2011).
 
-## Art. 300.
+## Art. 300
 
 As pessoas presas provisoriamente ficarão separadas das que já estiverem
 definitivamente condenadas, nos termos da lei de execução penal. (Redação
@@ -4873,7 +4863,7 @@ disposição das autoridades competentes.
 
 ## Art. 300-A
 
-. O investigado por crimes contra a dignidade sexual,
+O investigado por crimes contra a dignidade sexual,
 
 quando preso cautelarmente, e o condenado pelos mesmos crimes
 deverão ser submetidos obrigatoriamente à identificação do perfil
@@ -4885,13 +4875,13 @@ estabelecimento prisional.
 
 # CAPÍTULO II
 
-## Art. 301.
+## Art. 301
 
 Qualquer do povo poderá e as autoridades policiais e seus agentes
 
 deverão prender quem quer que seja encontrado em flagrante delito.
 
-## Art. 302.
+## Art. 302
 
 Considera-se em flagrante delito quem:
 
@@ -4905,13 +4895,13 @@ pessoa, em situação que faça presumir ser autor da infração;
 IV - é encontrado, logo depois, com instrumentos, armas, objetos ou papéis que
 façam presumir ser ele autor da infração.
 
-## Art. 303.
+## Art. 303
 
 Nas infrações permanentes, entende-se o agente em flagrante delito
 
 enquanto não cessar a permanência.
 
-## Art. 304.
+## Art. 304
 
 Apresentado o preso à autoridade competente, ouvirá
 
@@ -4945,13 +4935,13 @@ pela pessoa presa.
 (Incluído pela Lei nº
 13.257, de 2016)
 
-## Art. 305.
+## Art. 305
 
 Na falta ou no impedimento do escrivão, qualquer pessoa designada
 
 pela autoridade lavrará o auto, depois de prestado o compromisso legal.
 
-## Art. 306.
+## Art. 306
 
 A prisão de qualquer pessoa e o
 
@@ -4974,7 +4964,7 @@ da prisão, o nome do condutor e os das testemunhas.
 (Redação dada pela
 Lei nº 12.403, de 2011).
 
-## Art. 307.
+## Art. 307
 
 Quando o fato for praticado em presença da autoridade, ou contra
 
@@ -4985,19 +4975,19 @@ testemunhas e remetido imediatamente ao juiz a quem couber tomar
 conhecimento do fato delituoso, se não o for a autoridade que houver
 presidido o auto.
 
-## Art. 308.
+## Art. 308
 
 Não havendo autoridade no lugar em que se tiver efetuado a prisão, o
 
 preso será logo apresentado à do lugar mais próximo.
 
-## Art. 309.
+## Art. 309
 
 Se o réu se livrar solto, deverá ser posto em liberdade, depois de
 
 lavrado o auto de prisão em flagrante.
 
-## Art. 310.
+## Art. 310
 
 Após receber
 o auto de prisão em flagrante, no prazo máximo de até 24 (vinte e quatro)
@@ -5166,8 +5156,6 @@ trouxer excessivo risco à segurança social ou à segurança física do detido.
 
 ## Art. 310-A
 
-.
-
 No caso de prisão em flagrante por crime praticado
 com violência ou grave ameaça contra a pessoa, por crime contra a dignidade
 sexual ou por crime praticado por agente em relação ao qual existam elementos
@@ -5199,7 +5187,7 @@ de 2025)
 
 # CAPÍTULO III
 
-## Art. 311.
+## Art. 311
 
 Em
 
@@ -5210,7 +5198,7 @@ autoridade policial.
 (Redação dada pela
 Lei nº 13.964, de 2019)
 
-## Art. 312.
+## Art. 312
 
 A
 
@@ -5271,7 +5259,7 @@ instrução criminal e à aplicação da lei penal, conforme o caso.
 (Incluído pela Leinº 15.272,
 de 2025)
 
-## Art. 313.
+## Art. 313
 
 Nos termos do art. 312 deste Código, será admitida a decretação da prisão
 preventiva: (Redação
@@ -5321,7 +5309,7 @@ investigação criminal ou da apresentação ou recebimento de denúncia.
 (Incluído pela Lei nº
 13.964, de 2019)
 
-## Art. 314.
+## Art. 314
 
 A prisão preventiva em nenhum caso será decretada se o juiz
 
@@ -5333,7 +5321,7 @@ do art. 23 do Decreto-Lei no
 (Redação dada pela Lei nº
 12.403, de 2011).
 
-## Art. 315.
+## Art. 315
 
 A
 
@@ -5392,7 +5380,9 @@ a superação do entendimento.
 (Incluído pela
 Lei nº 13.964, de 2019)
 
-## Art. 316.
+## Art. 316
+
+O
 
 juiz poderá, de ofício ou a pedido das partes, revogar a prisão
 preventiva se, no correr da investigação ou do processo, verificar a
@@ -5415,13 +5405,13 @@ Lei nº 13.964, de 2019) (Vigência)
 
 # CAPÍTULO IV — DA PRISÃO DOMICILIAR (Redação dada pela Lei nº 12.403, de 2011).
 
-## Art. 317.
+## Art. 317
 
 A prisão domiciliar consiste no recolhimento do indiciado ou acusado em sua
 residência, só podendo dela ausentar-se com autorização judicial.
 (Redação dada pela Lei nº 12.403, de 2011).
 
-## Art. 318.
+## Art. 318
 
 Poderá o juiz substituir a prisão preventiva pela
 
@@ -5463,7 +5453,7 @@ nº 12.403, de 2011).
 
 ## Art. 318-A
 
-. A prisão preventiva imposta à mulher gestante
+A prisão preventiva imposta à mulher gestante
 
 ou que for mãe ou responsável por crianças ou pessoas com deficiência será
 substituída por prisão domiciliar, desde que:
@@ -5482,7 +5472,7 @@ nº 13.769, de 2018).
 
 ## Art. 318-B
 
-. A substituição de que tratam os arts. 318 e
+A substituição de que tratam os arts. 318 e
 
 318-A poderá ser efetuada sem prejuízo da aplicação concomitante das medidas
 alternativas previstas no art. 319 deste Código.
@@ -5491,7 +5481,7 @@ nº 13.769, de 2018).
 
 # CAPÍTULO V
 
-## Art. 319.
+## Art. 319
 
 São medidas cautelares diversas da prisão: (Redação
 
@@ -5565,7 +5555,7 @@ Título, podendo ser cumulada com outras medidas cautelares.
 (Incluído pela Lei
 nº 12.403, de 2011).
 
-## Art. 320.
+## Art. 320
 
 A proibição de ausentar-se do País será comunicada pelo
 
@@ -5577,7 +5567,7 @@ Lei nº 12.403, de 2011).
 
 # CAPÍTULO VI
 
-## Art. 321.
+## Art. 321
 
 Ausentes os requisitos que autorizam a decretação da prisão preventiva, o juiz
 deverá conceder liberdade provisória, impondo, se for o caso, as medidas
@@ -5593,7 +5583,7 @@ II -
 (revogado).
 (Revogado pela Lei nº 12.403, de 2011).
 
-## Art. 322.
+## Art. 322
 
 A autoridade policial somente poderá conceder fiança nos casos de infração cuja
 pena privativa de liberdade máxima não seja superior a 4 (quatro) anos.
@@ -5606,7 +5596,7 @@ oito) horas.
 (Redação dada pela Lei nº
 12.403, de 2011).
 
-## Art. 323.
+## Art. 323
 
 Não será concedida fiança:
 (Redação
@@ -5635,7 +5625,7 @@ V -
 (Revogado pela Lei nº
 12.403, de 2011).
 
-## Art. 324.
+## Art. 324
 
 Não será, igualmente, concedida fiança:
 (Redação
@@ -5657,9 +5647,9 @@ IV - quando presentes os motivos
 que autorizam a decretação da prisão preventiva (art. 312).
 (Redação dada pela Lei nº 12.403, de 2011).
 
-## Art. 325.
+## Art. 325
 
-valor da fiança será fixado pela autoridade que a
+O valor da fiança será fixado pela autoridade que a
 
 conceder nos seguintes limites: (Redação
 dada pela Lei nº 12.403, de 2011).
@@ -5721,7 +5711,7 @@ III - (revogado).
 (Revogado pela Lei
 nº 12.403, de 2011).
 
-## Art. 326.
+## Art. 326
 
 Para
 
@@ -5730,7 +5720,7 @@ infração, as condições pessoais de fortuna e vida pregressa do acusado, as
 circunstâncias indicativas de sua periculosidade, bem como a importância
 provável das custas do processo, até final julgamento.
 
-## Art. 327.
+## Art. 327
 
 A
 
@@ -5739,16 +5729,16 @@ todas as vezes que for intimado para atos do inquérito e da instrução crimina
 para o julgamento. Quando o réu não comparecer, a fiança será havida como
 quebrada.
 
-## Art. 328.
+## Art. 328
 
-réu
+O réu
 
 afiançado não poderá, sob pena de quebramento da fiança, mudar de residência,
 sem prévia permissão da autoridade processante, ou ausentar-se por mais de 8
 (oito) dias de sua residência, sem comunicar àquela autoridade o lugar onde será
 encontrado.
 
-## Art. 329.
+## Art. 329
 
 Nos
 
@@ -5763,7 +5753,7 @@ Parágrafo
 obrigações e da sanção previstas nos arts. 327 e
 328, o que constará dos autos.
 
-## Art. 330.
+## Art. 330
 
 A
 
@@ -5780,7 +5770,9 @@ Quando a fiança consistir em caução de títulos da dívida pública, o valor 
 determinado pela sua cotação em Bolsa, e, sendo nominativos, exigir-se-á prova
 de que se acham livres de ônus.
 
-## Art. 331.
+## Art. 331
+
+O
 
 valor em que consistir a fiança será recolhido à repartição arrecadadora federal
 ou estadual, ou entregue ao depositário público, juntando-se aos autos os
@@ -5792,7 +5784,7 @@ entregue ao escrivão ou pessoa abonada, a critério da autoridade, e dentro de
 três dias dar-se-á ao valor o destino que Ihe assina este artigo, o que tudo
 constará do termo de fiança.
 
-## Art. 332.
+## Art. 332
 
 Em
 
@@ -5801,14 +5793,14 @@ que presidir ao respectivo auto, e, em caso de prisão por mandado, o juiz que o
 houver expedido, ou a autoridade judiciária ou policial a quem tiver sido
 requisitada a prisão.
 
-## Art. 333.
+## Art. 333
 
 Depois de prestada a fiança, que será concedida independentemente de
 
 audiência do Ministério Público, este terá vista do
 processo a fim de requerer o que julgar conveniente.
 
-## Art. 334.
+## Art. 334
 
 A fiança poderá ser prestada enquanto não transitar em julgado a
 
@@ -5816,7 +5808,7 @@ sentença condenatória.
 (Redação dada pela Lei nº
 12.403, de 2011).
 
-## Art. 335.
+## Art. 335
 
 Recusando ou retardando a autoridade policial a concessão da
 
@@ -5824,7 +5816,7 @@ fiança, o preso, ou alguém por ele, poderá prestá-la, mediante simples peti�
 perante o juiz competente, que decidirá em 48 (quarenta e oito) horas.
 (Redação dada pela Lei nº 12.403, de 2011).
 
-## Art. 336.
+## Art. 336
 
 O dinheiro ou objetos dados como fiança servirão ao pagamento das custas, da
 indenização do dano, da prestação pecuniária e da multa, se o réu for
@@ -5839,7 +5831,7 @@ condenatória (art.
 (Redação dada pela Lei nº
 12.403, de 2011).
 
-## Art. 337.
+## Art. 337
 
 Se a fiança for declarada sem efeito ou passar em julgado
 
@@ -5848,21 +5840,21 @@ valor que a constituir, atualizado, será restituído sem desconto, salvo o
 disposto no parágrafo único do art. 336 deste Código.
 (Redação dada pela Lei nº 12.403, de 2011).
 
-## Art. 338.
+## Art. 338
 
 A
 
 fiança que se reconheça não ser cabível na espécie será cassada em qualquer fase
 do processo.
 
-## Art. 339.
+## Art. 339
 
 Será
 
 também cassada a fiança quando reconhecida a existência de delito inafiançável,
 no caso de inovação na classificação do delito.
 
-## Art. 340.
+## Art. 340
 
 Será
 
@@ -5882,7 +5874,7 @@ Parágrafo
 único. A fiança ficará sem efeito e o réu será recolhido à prisão, quando, na
 conformidade deste artigo, não for reforçada.
 
-## Art. 341.
+## Art. 341
 
 Julgar-se-á quebrada a fiança quando o acusado: (Redação
 dada pela Lei nº 12.403, de 2011).
@@ -5912,22 +5904,22 @@ dolosa.
 (Incluído pela Lei nº
 12.403, de 2011).
 
-## Art. 342.
+## Art. 342
 
 Se
 
 vier a ser reformado o julgamento em que se declarou quebrada a fiança, esta
 subsistirá em todos os seus efeitos
 
-## Art. 343.
+## Art. 343
 
-quebramento injustificado da fiança importará na perda de
+O quebramento injustificado da fiança importará na perda de
 
 metade do seu valor, cabendo ao juiz decidir sobre a imposição de outras medidas
 cautelares ou, se for o caso, a decretação da prisão preventiva.
 (Redação dada pela Lei nº 12.403, de 2011).
 
-## Art. 344.
+## Art. 344
 
 Entender-se-á perdido, na totalidade, o valor da fiança, se,
 
@@ -5936,7 +5928,7 @@ definitivamente imposta.
 (Redação dada pela Lei nº
 12.403, de 2011).
 
-## Art. 345.
+## Art. 345
 
 No caso de perda da fiança, o seu valor, deduzidas as custas e
 
@@ -5945,7 +5937,7 @@ penitenciário, na forma da lei.
 (Redação dada pela Lei nº
 12.403, de 2011).
 
-## Art. 346.
+## Art. 346
 
 No caso de quebramento de fiança, feitas as deduções previstas
 
@@ -5954,28 +5946,28 @@ penitenciário, na forma da lei.
 (Redação dada pela Lei nº
 12.403, de 2011).
 
-## Art. 347.
+## Art. 347
 
 Não
 
 ocorrendo a hipótese do art. 345, o saldo será entregue a quem houver prestado a
 fiança, depois de deduzidos os encargos a que o réu estiver obrigado.
 
-## Art. 348.
+## Art. 348
 
 Nos
 
 casos em que a fiança tiver sido prestada por meio de hipoteca, a execução será
 promovida no juízo cível pelo órgão do Ministério Público.
 
-## Art. 349.
+## Art. 349
 
 Se a
 
 fiança consistir em pedras, objetos ou metais preciosos, o juiz determinará a
 venda por leiloeiro ou corretor.
 
-## Art. 350.
+## Art. 350
 
 Nos casos em que couber fiança, o juiz, verificando a situação econômica do
 preso, poderá conceder-lhe liberdade provisória, sujeitando-o às obrigações
@@ -5995,7 +5987,7 @@ Código.
 
 ## Art. 350-A
 
-. Constatada a existência de indícios da prática de crime
+Constatada a existência de indícios da prática de crime
 
 contra a dignidade sexual, o juiz poderá aplicar, de imediato, ao
 autor, em conjunto ou separadamente, as seguintes medidas protetivas
@@ -6101,7 +6093,7 @@ Lei nº 15.280, de 2025)
 
 ## Art. 350-B
 
-. Em qualquer fase da investigação policial ou do
+Em qualquer fase da investigação policial ou do
 
 processo penal, a pedido da autoridade policial, do Ministério
 Público ou da vítima, o juiz poderá determinar a proibição do autor
@@ -6116,15 +6108,15 @@ Lei nº 15.280, de 2025)
 
 # CAPÍTULO I
 
-## Art. 351.
+## Art. 351
 
 A citação inicial far-se-á por mandado, quando o réu estiver no
 
 território sujeito à jurisdição do juiz que a houver ordenado.
 
-## Art. 352.
+## Art. 352
 
-mandado de citação indicará:
+O mandado de citação indicará:
 
 I - o nome do juiz;
 
@@ -6140,13 +6132,13 @@ VI - o juízo e o lugar, o dia e a hora em que o réu deverá comparecer;
 
 VII - a subscrição do escrivão e a rubrica do juiz.
 
-## Art. 353.
+## Art. 353
 
 Quando o réu estiver fora do território da jurisdição do juiz
 
 processante, será citado mediante precatória.
 
-## Art. 354.
+## Art. 354
 
 A precatória indicará:
 
@@ -6158,7 +6150,7 @@ Ill - o fim para que é feita a citação, com todas as especificações;
 
 IV - o juízo do lugar, o dia e a hora em que o réu deverá comparecer.
 
-## Art. 355.
+## Art. 355
 
 A precatória será devolvida ao juiz deprecante, independentemente de
 
@@ -6173,14 +6165,14 @@ efetivação da diligência, desde que haja tempo para fazer-se a citação.
 para não ser citado, a precatória será imediatamente devolvida, para o fim
 previsto no art. 362.
 
-## Art. 356.
+## Art. 356
 
 Se houver urgência, a precatória, que conterá em resumo os requisitos
 
 enumerados no art. 354, poderá ser expedida por via telegráfica, depois de
 reconhecida a firma do juiz, o que a estação expedidora mencionará.
 
-## Art. 357.
+## Art. 357
 
 São requisitos da citação por mandado:
 
@@ -6190,31 +6182,31 @@ mencionarão dia e hora da citação;
 II - declaração do oficial, na certidão, da entrega da contrafé, e sua aceitação
 ou recusa.
 
-## Art. 358.
+## Art. 358
 
 A citação do militar far-se-á por intermédio do chefe do respectivo
 
 serviço.
 
-## Art. 359.
+## Art. 359
 
-dia designado para funcionário público comparecer em juízo, como
+O dia designado para funcionário público comparecer em juízo, como
 
 acusado, será notificado assim a ele como ao chefe de sua repartição.
 
-## Art. 360.
+## Art. 360
 
 Se o réu estiver preso, será pessoalmente citado. (Redação dada pela Lei nº 10.792, de
 
 1º.12.2003)
 
-## Art. 361.
+## Art. 361
 
 Se o réu não for encontrado, será citado por edital, com o prazo de
 
 15 (quinze) dias.
 
-## Art. 362.
+## Art. 362
 
 Verificando que o réu se oculta
 
@@ -6231,9 +6223,9 @@ não comparecer, ser-lhe-á nomeado defensor dativo.
 (Incluído pela Lei
 nº 11.719, de 2008).
 
-## Art. 363.
+## Art. 363
 
-processo terá completada a sua formação quando realizada a
+O processo terá completada a sua formação quando realizada a
 
 citação do acusado.
 (Redação
@@ -6268,7 +6260,7 @@ seguintes deste Código.
 (Incluído pela Lei
 nº 11.719, de 2008).
 
-## Art. 364.
+## Art. 364
 
 No caso do artigo anterior, no I, o prazo será
 
@@ -6276,9 +6268,9 @@ fixado pelo juiz entre 15 (quinze) e 90 (noventa) dias, de acordo com as
 circunstâncias, e, no caso de no II, o prazo será de trinta
 dias.
 
-## Art. 365.
+## Art. 365
 
-edital de citação indicará:
+O edital de citação indicará:
 
 I - o nome do juiz que a determinar;
 
@@ -6298,7 +6290,7 @@ certificada pelo oficial que a tiver feito e a publicação provada por exemplar
 do jornal ou certidão do escrivão, da qual conste a página do jornal com a data
 da publicação.
 
-## Art. 366.
+## Art. 366
 
 Se o acusado, citado por edital, não comparecer, nem constituir
 
@@ -6314,15 +6306,15 @@ pela Lei nº 11.719, de 2008).
 (Revogado
 pela Lei nº 11.719, de 2008).
 
-## Art. 367.
+## Art. 367
 
-processo seguirá sem a presença do acusado que, citado ou intimado
+O processo seguirá sem a presença do acusado que, citado ou intimado
 
 pessoalmente para qualquer ato, deixar de comparecer sem motivo justificado, ou,
 no caso de mudança de residência, não comunicar o novo endereço ao juízo.
 (Redação dada pela Lei nº 9.271, de 17.4.1996)
 
-## Art. 368.
+## Art. 368
 
 Estando o acusado no estrangeiro, em lugar sabido, será citado
 
@@ -6330,14 +6322,14 @@ mediante carta rogatória, suspendendo-se o curso do prazo de prescrição até 
 seu cumprimento.
 (Redação dada pela Lei nº 9.271, de 17.4.1996)
 
-## Art. 369.
+## Art. 369
 
 As citações que houverem de ser feitas em legações estrangeiras serão efetuadas
 mediante carta rogatória. (Redação dada pela Lei nº 9.271, de 17.4.1996)
 
 # CAPÍTULO II
 
-## Art. 370.
+## Art. 370
 
 Nas intimações dos acusados, das testemunhas e demais pessoas que
 
@@ -6364,13 +6356,13 @@ A intimação pessoal, feita pelo escrivão, dispensará a aplicação a que alu
 A intimação do Ministério Público e do defensor nomeado será pessoal.
 (Incluído pela Lei nº 9.271, de 17.4.1996)
 
-## Art. 371.
+## Art. 371
 
 Será admissível a intimação por despacho na petição em que for
 
 requerida, observado o disposto no art. 357.
 
-## Art. 372.
+## Art. 372
 
 Adiada, por qualquer motivo, a instrução criminal, o juiz marcará
 
@@ -6379,7 +6371,7 @@ prosseguimento, do que se lavrará termo nos autos.
 
 # TÍTULO XI
 
-## Art. 373.
+## Art. 373
 
 A aplicação provisória de interdições de direitos poderá ser
 
@@ -6406,7 +6398,7 @@ necessárias para a sua execução, na forma do disposto no
 Capítulo III do Título
 II do Livro IV.
 
-## Art. 374.
+## Art. 374
 
 Não caberá recurso do despacho ou da parte da sentença que decretar
 
@@ -6423,26 +6415,26 @@ recorrível;
 III - se aplicadas na decisão a que se refere o no III do
 artigo anterior, pela sentença condenatória recorrível.
 
-## Art. 375.
+## Art. 375
 
-despacho que aplicar, provisoriamente, substituir ou revogar
+O despacho que aplicar, provisoriamente, substituir ou revogar
 
 interdição de direito, será fundamentado.
 
-## Art. 376.
+## Art. 376
 
 A decisão que impronunciar ou absolver o réu fará cessar a aplicação
 
 provisória da interdição anteriormente determinada.
 
-## Art. 377.
+## Art. 377
 
 Transitando em julgado a sentença condenatória, serão executadas
 
 somente as interdições nela aplicadas ou que derivarem da imposição da pena
 principal.
 
-## Art. 378.
+## Art. 378
 
 A aplicação provisória de medida de segurança obedecerá ao disposto
 
@@ -6462,7 +6454,7 @@ IV - decretada a medida, atender-se-á ao disposto no
 Título V do Livro IV, no
 que for aplicável.
 
-## Art. 379.
+## Art. 379
 
 Transitando em julgado a sentença, observar-se-á, quanto à execução
 
@@ -6470,7 +6462,7 @@ das medidas de segurança definitivamente aplicadas, o disposto no
 Título V do
 Livro IV.
 
-## Art. 380.
+## Art. 380
 
 A aplicação provisória de medida de segurança obstará a concessão de
 
@@ -6478,7 +6470,7 @@ fiança, e tornará sem efeito a anteriormente concedida.
 
 # TÍTULO XII
 
-## Art. 381.
+## Art. 381
 
 A sentença conterá:
 
@@ -6495,16 +6487,16 @@ V - o dispositivo;
 
 VI - a data e a assinatura do juiz.
 
-## Art. 382.
+## Art. 382
 
 Qualquer das partes poderá, no prazo de 2 (dois) dias, pedir ao juiz
 
 que declare a sentença, sempre que nela houver obscuridade, ambigüidade,
 contradição ou omissão.
 
-## Art. 383.
+## Art. 383
 
-juiz, sem modificar a descrição
+O juiz, sem modificar a descrição
 
 do fato contida na denúncia ou queixa, poderá atribuir-lhe definição jurídica
 diversa, ainda que, em conseqüência, tenha de aplicar pena mais grave.
@@ -6522,7 +6514,7 @@ outro juízo, a este serão encaminhados os autos.
 (Incluído pela Lei
 nº 11.719, de 2008).
 
-## Art. 384.
+## Art. 384
 
 Encerrada a instrução probatória, se entender cabível nova
 
@@ -6568,16 +6560,16 @@ prosseguirá.
 (Incluído pela Lei
 nº 11.719, de 2008).
 
-## Art. 385.
+## Art. 385
 
 Nos crimes de ação pública, o juiz poderá proferir sentença
 
 condenatória, ainda que o Ministério Público tenha opinado pela absolvição, bem
 como reconhecer agravantes, embora nenhuma tenha sido alegada.
 
-## Art. 386.
+## Art. 386
 
-juiz absolverá o réu, mencionando a causa na parte dispositiva,
+O juiz absolverá o réu, mencionando a causa na parte dispositiva,
 
 desde que reconheça:
 
@@ -6617,9 +6609,9 @@ cautelares e provisoriamente aplicadas;
 
 III - aplicará medida de segurança, se cabível.
 
-## Art. 387.
+## Art. 387
 
-juiz, ao proferir sentença condenatória:
+O juiz, ao proferir sentença condenatória:
 
 (Vide Lei nº 11.719, de 2008)
 
@@ -6667,34 +6659,34 @@ determinação do regime inicial de pena privativa de liberdade.
 (Incluído pela Lei nº
 12.736, de 2012)
 
-## Art. 388.
+## Art. 388
 
 A sentença poderá ser datilografada e neste caso o juiz a rubricará
 
 em todas as folhas.
 
-## Art. 389.
+## Art. 389
 
 A sentença será publicada em mão do escrivão, que lavrará nos autos o
 
 respectivo termo, registrando-a em livro especialmente destinado a esse fim.
 
-## Art. 390.
+## Art. 390
 
-escrivão, dentro de três dias após a publicação, e sob pena de
+O escrivão, dentro de três dias após a publicação, e sob pena de
 
 suspensão de cinco dias, dará conhecimento da sentença ao órgão do Ministério
 Público.
 
-## Art. 391.
+## Art. 391
 
-querelante ou o assistente será intimado da sentença, pessoalmente
+O querelante ou o assistente será intimado da sentença, pessoalmente
 
 ou na pessoa de seu advogado. Se nenhum deles for encontrado no lugar da sede do
 juízo, a intimação será feita mediante edital com o prazo de 10 dias, afixado no
 lugar de costume.
 
-## Art. 392.
+## Art. 392
 
 A intimação da sentença será feita:
 
@@ -6726,7 +6718,7 @@ nos outros casos.
 no edital, salvo se, no curso deste, for feita a intimação por qualquer das
 outras formas estabelecidas neste artigo.
 
-## Art. 393.
+## Art. 393
 
 (Revogado pela Lei nº 12.403, de 2011).
 
@@ -6736,9 +6728,9 @@ outras formas estabelecidas neste artigo.
 
 # CAPÍTULO I
 
-## Art. 394.
+## Art. 394
 
-procedimento será comum ou especial.
+O procedimento será comum ou especial.
 
 (Redação
 dada pela Lei nº 11.719, de 2008).
@@ -6790,7 +6782,7 @@ nº 11.719, de 2008).
 
 ## Art. 394-A
 
-. Os processos que apurem a prática de crime
+Os processos que apurem a prática de crime
 
 hediondo ou violência contra a mulher terão prioridade de tramitação em todas as
 instâncias.
@@ -6809,7 +6801,7 @@ ação.
 (Incluído pela Lei nº
 14.994, de 2024)
 
-## Art. 395.
+## Art. 395
 
 A denúncia ou queixa será rejeitada
 
@@ -6833,7 +6825,7 @@ pela Lei nº 11.719, de 2008).
 Parágrafo único. (Revogado).
 (Incluído pela Lei nº 11.719, de 2008).
 
-## Art. 396.
+## Art. 396
 
 Nos procedimentos ordinário e sumário, oferecida a denúncia
 
@@ -6851,7 +6843,7 @@ Lei nº 11.719, de 2008).
 
 ## Art. 396-A
 
-. Na resposta, o acusado poderá
+Na resposta, o acusado poderá
 
 argüir preliminares e alegar tudo o que interesse à sua defesa, oferecer
 documentos e justificações, especificar as provas pretendidas e arrolar
@@ -6872,7 +6864,7 @@ dias.
 (Incluído pela Lei
 nº 11.719, de 2008).
 
-## Art. 397.
+## Art. 397
 
 Após o cumprimento do disposto no art. 396-A, e parágrafos,
 
@@ -6898,12 +6890,12 @@ IV - extinta a punibilidade do agente.
 (Incluído pela Lei
 nº 11.719, de 2008).
 
-## Art. 398.
+## Art. 398
 
 (Revogado pela Lei nº
 11.719, de 2008).
 
-## Art. 399.
+## Art. 399
 
 Recebida a
 denúncia ou queixa, o juiz designará dia e hora para a audiência,
@@ -6923,7 +6915,7 @@ proferir a sentença.
 (Incluído pela Lei
 nº 11.719, de 2008).
 
-## Art. 400.
+## Art. 400
 
 Na audiência de instrução e julgamento, a ser realizada no
 
@@ -6949,7 +6941,7 @@ de prévio requerimento das partes.
 
 ## Art. 400-A
 
-. Na
+Na
 
 audiência de instrução e julgamento, e, em especial, nas que apurem crimes
 contra a dignidade sexual, todas as partes e demais sujeitos processuais
@@ -6972,7 +6964,7 @@ da vítima ou de testemunhas.
 (Incluído pela Lei nº
 14.245, de 2021)
 
-## Art. 401.
+## Art. 401
 
 Na instrução poderão ser inquiridas até 8 (oito) testemunhas
 
@@ -6992,7 +6984,7 @@ deste Código.
 (Incluído pela Lei
 nº 11.719, de 2008).
 
-## Art. 402.
+## Art. 402
 
 Produzidas as provas, ao final da audiência, o Ministério Público, o
 
@@ -7000,7 +6992,7 @@ querelante e o assistente e, a seguir, o acusado poderão requerer diligências
 cuja necessidade se origine de circunstâncias ou fatos apurados na instrução.
 (Redação dada pela Lei nº 11.719, de 2008).
 
-## Art. 403.
+## Art. 403
 
 Não havendo requerimento de diligências, ou sendo
 
@@ -7028,9 +7020,9 @@ prazo de 10 (dez) dias para proferir a sentença.
 (Incluído pela Lei
 nº 11.719, de 2008).
 
-## Art. 404.
+## Art. 404
 
-rdenado diligência considerada imprescindível, de ofício ou
+Ordenado diligência considerada imprescindível, de ofício ou
 
 a requerimento da parte, a audiência será concluída sem as alegações
 finais.
@@ -7044,7 +7036,7 @@ proferirá a sentença.
 (Incluído pela Lei
 nº 11.719, de 2008).
 
-## Art. 405.
+## Art. 405
 
 Do ocorrido em audiência será lavrado termo em livro
 
@@ -7071,9 +7063,9 @@ nº 11.719, de 2008).
 
 ### Seção I
 
-## Art. 406.
+## Art. 406
 
-juiz,
+O juiz,
 
 ao receber a denúncia ou a queixa, ordenará a citação do acusado para responder
 a acusação, por escrito, no prazo de 10 (dez) dias.
@@ -7100,7 +7092,7 @@ qualificando-as e requerendo sua intimação, quando necessário.
 (Incluído pela Lei nº
 11.689, de 2008)
 
-## Art. 407.
+## Art. 407
 
 As exceções
 
@@ -7108,7 +7100,7 @@ serão processadas em apartado, nos termos dos arts. 95 a 112 deste Código.
 (Redação dada pela Lei nº
 11.689, de 2008)
 
-## Art. 408.
+## Art. 408
 
 Não apresentada
 
@@ -7117,7 +7109,7 @@ a resposta no prazo legal, o juiz nomeará defensor para oferecê-la em até 10
 (Redação dada pela Lei nº
 11.689, de 2008)
 
-## Art. 409.
+## Art. 409
 
 Apresentada a
 
@@ -7126,16 +7118,16 @@ documentos, em 5 (cinco) dias.
 (Redação dada pela Lei nº
 11.689, de 2008)
 
-## Art. 410.
+## Art. 410
 
-juiz determinará a inquirição das testemunhas e a
+O juiz determinará a inquirição das testemunhas e a
 
 realização das diligências requeridas pelas partes, no prazo máximo de
 10 (dez) dias.
 (Redação dada pela Lei nº
 11.689, de 2008)
 
-## Art. 411.
+## Art. 411
 
 Na audiência de instrução, proceder-se-á à tomada de declarações
 
@@ -7198,9 +7190,9 @@ conclusos.
 (Incluído pela Lei nº
 11.689, de 2008)
 
-## Art. 412.
+## Art. 412
 
-procedimento será concluído no prazo
+O procedimento será concluído no prazo
 
 máximo de 90 (noventa) dias.
 (Redação dada pela Lei nº
@@ -7208,9 +7200,9 @@ máximo de 90 (noventa) dias.
 
 ### Seção II
 
-## Art. 413.
+## Art. 413
 
-juiz, fundamentadamente, pronunciará o acusado, se
+O juiz, fundamentadamente, pronunciará o acusado, se
 
 convencido da materialidade do fato e da existência de indícios
 suficientes de autoria ou de participação.
@@ -7239,7 +7231,7 @@ medidas previstas no Título IX do Livro I deste Código.
 (Incluído pela Lei nº
 11.689, de 2008)
 
-## Art. 414.
+## Art. 414
 
 Não se convencendo da materialidade do fato ou da existência
 
@@ -7253,9 +7245,9 @@ poderá ser formulada nova denúncia ou queixa se houver prova nova.
 (Incluído pela Lei nº
 11.689, de 2008)
 
-## Art. 415.
+## Art. 415
 
-juiz, fundamentadamente, absolverá desde logo o acusado,
+O juiz, fundamentadamente, absolverá desde logo o acusado,
 
 quando:
 (Redação dada pela Lei nº
@@ -7288,7 +7280,7 @@ for a única tese defensiva.
 (Incluído pela Lei nº
 11.689, de 2008)
 
-## Art. 416.
+## Art. 416
 
 Contra a sentença de impronúncia ou de absolvição sumária
 
@@ -7296,7 +7288,7 @@ caberá apelação.
 (Redação dada pela Lei nº
 11.689, de 2008)
 
-## Art. 417.
+## Art. 417
 
 Se houver indícios de autoria ou de participação de outras
 
@@ -7306,15 +7298,15 @@ o acusado, determinará o retorno dos autos ao Ministério Público, por 15
 (Redação dada pela Lei nº
 11.689, de 2008)
 
-## Art. 418.
+## Art. 418
 
-juiz poderá dar ao fato definição jurídica diversa da
+O juiz poderá dar ao fato definição jurídica diversa da
 
 constante da acusação, embora o acusado fique sujeito a pena mais grave.
 (Redação dada pela Lei nº
 11.689, de 2008)
 
-## Art. 419.
+## Art. 419
 
 Quando o juiz se convencer, em discordância com a acusação,
 
@@ -7329,7 +7321,7 @@ disposição deste ficará o acusado preso.
 (Incluído pela Lei nº
 11.689, de 2008)
 
-## Art. 420.
+## Art. 420
 
 A intimação da decisão de pronúncia será feita:
 
@@ -7352,7 +7344,7 @@ for encontrado.
 (Incluído pela Lei nº
 11.689, de 2008)
 
-## Art. 421.
+## Art. 421
 
 Preclusa a decisão de pronúncia, os autos serão encaminhados
 
@@ -7373,7 +7365,7 @@ juiz para decisão.
 
 ### Seção III
 
-## Art. 422.
+## Art. 422
 
 Ao receber os autos, o presidente
 
@@ -7385,7 +7377,7 @@ juntar documentos e requerer diligência.
 (Redação dada pela Lei nº
 11.689, de 2008)
 
-## Art. 423.
+## Art. 423
 
 Deliberando sobre os requerimentos de provas a serem
 
@@ -7404,7 +7396,7 @@ pauta da reunião do Tribunal do Júri.
 (Incluído pela Lei nº
 11.689, de 2008)
 
-## Art. 424.
+## Art. 424
 
 Quando a lei local de organização judiciária não atribuir ao
 
@@ -7422,7 +7414,7 @@ julgamento.
 
 ### Seção IV
 
-## Art. 425.
+## Art. 425
 
 Anualmente, serão alistados pelo presidente do Tribunal do
 
@@ -7451,7 +7443,7 @@ a função de jurado.
 (Incluído pela Lei nº
 11.689, de 2008)
 
-## Art. 426.
+## Art. 426
 
 A lista geral dos jurados, com
 
@@ -7494,7 +7486,7 @@ obrigatoriamente, completada.
 
 ### Seção V
 
-## Art. 427.
+## Art. 427
 
 Se o interesse da ordem pública o reclamar ou houver dúvida
 
@@ -7531,9 +7523,9 @@ durante ou após a realização de julgamento anulado.
 (Incluído pela Lei nº
 11.689, de 2008)
 
-## Art. 428.
+## Art. 428
 
-desaforamento também poderá ser determinado, em razão do
+O desaforamento também poderá ser determinado, em razão do
 
 comprovado excesso de serviço, ouvidos o juiz presidente e a parte
 contrária, se o julgamento não puder ser realizado no prazo de 6 (seis)
@@ -7557,7 +7549,7 @@ requerer ao Tribunal que determine a imediata realização do julgamento.
 
 ### Seção VI
 
-## Art. 429.
+## Art. 429
 
 Salvo motivo relevante que autorize alteração na ordem dos
 
@@ -7593,16 +7585,16 @@ adiado.
 (Redação dada pela Lei nº
 11.689, de 2008)
 
-## Art. 430.
+## Art. 430
 
-assistente somente será admitido se tiver requerido sua
+O assistente somente será admitido se tiver requerido sua
 
 habilitação até 5 (cinco) dias antes da data da sessão na qual pretenda
 atuar.
 (Redação dada pela Lei nº
 11.689, de 2008)
 
-## Art. 431.
+## Art. 431
 
 Estando o processo em ordem, o juiz presidente mandará
 
@@ -7615,7 +7607,7 @@ Código.
 
 ### Seção VII
 
-## Art. 432.
+## Art. 432
 
 Em seguida à organização da pauta, o juiz presidente
 
@@ -7625,9 +7617,9 @@ designados, o sorteio dos jurados que atuarão na reunião periódica.
 (Redação dada pela Lei nº
 11.689, de 2008)
 
-## Art. 433.
+## Art. 433
 
-sorteio, presidido pelo juiz, far-se-á a portas abertas,
+O sorteio, presidido pelo juiz, far-se-á a portas abertas,
 
 cabendo-lhe retirar as cédulas até completar o número de 25 (vinte e
 cinco) jurados, para a reunião periódica ou extraordinária.
@@ -7650,9 +7642,9 @@ novamente incluído para as reuniões futuras.
 (Incluído pela Lei nº
 11.689, de 2008)
 
-## Art. 434.
+## Art. 434
 
-s jurados sorteados serão convocados pelo correio ou por
+Os jurados sorteados serão convocados pelo correio ou por
 
 qualquer outro meio hábil para comparecer no dia e hora designados para
 a reunião, sob as penas da lei.
@@ -7664,7 +7656,7 @@ transcritos os arts. 436 a 446 deste Código.
 (Incluído pela Lei nº
 11.689, de 2008)
 
-## Art. 435.
+## Art. 435
 
 Serão afixados na porta do edifício do Tribunal do Júri a
 
@@ -7676,9 +7668,9 @@ julgamento.
 
 ### Seção VIII
 
-## Art. 436.
+## Art. 436
 
-serviço do júri é obrigatório. O alistamento compreenderá
+O serviço do júri é obrigatório. O alistamento compreenderá
 
 os cidadãos maiores de 18 (dezoito) anos de notória idoneidade.
 (Redação dada pela Lei nº
@@ -7697,7 +7689,7 @@ critério do juiz, de acordo com a condição econômica do jurado.
 (Incluído pela Lei nº
 11.689, de 2008)
 
-## Art. 437.
+## Art. 437
 
 Estão isentos do serviço do júri:
 
@@ -7748,7 +7740,7 @@ X  aqueles que o requererem, demonstrando justo impedimento.
 (Incluído pela Lei nº
 11.689, de 2008)
 
-## Art. 438.
+## Art. 438
 
 A recusa ao serviço do júri fundada em convicção religiosa,
 
@@ -7771,16 +7763,16 @@ atendendo aos princípios da proporcionalidade e da razoabilidade.
 (Incluído pela Lei nº
 11.689, de 2008)
 
-## Art. 439.
+## Art. 439
 
-exercício efetivo da função de
+O exercício efetivo da função de
 
 jurado constituirá serviço público relevante e estabelecerá presunção de
 idoneidade moral.
 (Redação dada pela
 Lei nº 12.403, de 2011).
 
-## Art. 440.
+## Art. 440
 
 Constitui também direito do jurado, na condição do
 
@@ -7791,7 +7783,7 @@ bem como nos casos de promoção funcional ou remoção voluntária.
 (Redação dada pela Lei nº
 11.689, de 2008)
 
-## Art. 441.
+## Art. 441
 
 Nenhum desconto será feito nos vencimentos ou salário do
 
@@ -7799,7 +7791,7 @@ jurado sorteado que comparecer à sessão do júri.
 (Redação dada pela Lei nº
 11.689, de 2008)
 
-## Art. 442.
+## Art. 442
 
 Ao jurado que, sem causa legítima, deixar de comparecer no
 
@@ -7809,7 +7801,7 @@ critério do juiz, de acordo com a sua condição econômica.
 (Redação dada pela Lei nº
 11.689, de 2008)
 
-## Art. 443.
+## Art. 443
 
 Somente será aceita escusa fundada em motivo relevante
 
@@ -7818,24 +7810,24 @@ maior, até o momento da chamada dos jurados.
 (Redação dada pela Lei nº
 11.689, de 2008)
 
-## Art. 444.
+## Art. 444
 
-jurado somente será dispensado por decisão motivada do juiz
+O jurado somente será dispensado por decisão motivada do juiz
 
 presidente, consignada na ata dos trabalhos.
 (Redação dada pela Lei nº
 11.689, de 2008)
 
-## Art. 445.
+## Art. 445
 
-jurado, no exercício da função ou a pretexto de exercê-la,
+O jurado, no exercício da função ou a pretexto de exercê-la,
 
 será responsável criminalmente nos mesmos termos em que o são os juízes
 togados.
 (Redação dada pela Lei nº
 11.689, de 2008)
 
-## Art. 446.
+## Art. 446
 
 Aos suplentes, quando convocados, serão aplicáveis os
 
@@ -7846,9 +7838,9 @@ de responsabilidade penal prevista no art. 445 deste Código.
 
 ### Seção IX
 
-## Art. 447.
+## Art. 447
 
-Tribunal do Júri é composto por 1 (um) juiz togado, seu
+O Tribunal do Júri é composto por 1 (um) juiz togado, seu
 
 presidente e por 25 (vinte e cinco) jurados que serão sorteados dentre
 os alistados, 7 (sete) dos quais constituirão o Conselho de Sentença em
@@ -7856,7 +7848,7 @@ cada sessão de julgamento.
 (Redação dada pela Lei nº
 11.689, de 2008)
 
-## Art. 448.
+## Art. 448
 
 São impedidos de servir no mesmo Conselho:
 
@@ -7897,7 +7889,7 @@ os impedimentos, a suspeição e as incompatibilidades dos juízes togados.
 (Incluído pela Lei nº
 11.689, de 2008)
 
-## Art. 449.
+## Art. 449
 
 Não poderá servir o jurado que:
 
@@ -7920,7 +7912,7 @@ acusado
 (Incluído pela Lei nº
 11.689, de 2008)
 
-## Art. 450.
+## Art. 450
 
 Dos impedidos entre si por parentesco ou relação de
 
@@ -7928,18 +7920,18 @@ convivência, servirá o que houver sido sorteado em primeiro lugar.
 (Redação dada pela Lei nº
 11.689, de 2008)
 
-## Art. 451.
+## Art. 451
 
-s jurados excluídos por impedimento, suspeição ou
+Os jurados excluídos por impedimento, suspeição ou
 
 incompatibilidade serão considerados para a constituição do número legal
 exigível para a realização da sessão.
 (Redação dada pela Lei nº
 11.689, de 2008)
 
-## Art. 452.
+## Art. 452
 
-mesmo Conselho de Sentença poderá conhecer de mais de um
+O mesmo Conselho de Sentença poderá conhecer de mais de um
 
 processo, no mesmo dia, se as partes o aceitarem, hipótese em que seus
 integrantes deverão prestar novo compromisso.
@@ -7948,16 +7940,16 @@ integrantes deverão prestar novo compromisso.
 
 ### Seção X
 
-## Art. 453.
+## Art. 453
 
-Tribunal do Júri reunir-se-á
+O Tribunal do Júri reunir-se-á
 
 para as sessões de instrução e julgamento nos períodos e na forma
 estabelecida pela lei local de organização judiciária.
 (Redação dada pela Lei nº
 11.689, de 2008)
 
-## Art. 454.
+## Art. 454
 
 Até o momento de abertura dos trabalhos da sessão, o
 
@@ -7967,7 +7959,7 @@ deliberações.
 (Redação dada pela Lei nº
 11.689, de 2008)
 
-## Art. 455.
+## Art. 455
 
 Se o Ministério Público não comparecer, o juiz
 
@@ -7982,7 +7974,7 @@ designada para a nova sessão.
 (Incluído pela Lei nº
 11.689, de 2008)
 
-## Art. 456.
+## Art. 456
 
 Se a falta, sem escusa legítima, for do advogado do
 
@@ -8005,9 +7997,9 @@ será adiado para o primeiro dia desimpedido, observado o prazo mínimo de
 (Incluído pela Lei nº
 11.689, de 2008)
 
-## Art. 457.
+## Art. 457
 
-julgamento não será adiado pelo não comparecimento
+O julgamento não será adiado pelo não comparecimento
 
 do acusado solto, do assistente ou do advogado do querelante, que tiver
 sido regularmente intimado.
@@ -8028,7 +8020,7 @@ seu defensor.
 (Incluído pela Lei nº
 11.689, de 2008)
 
-## Art. 458.
+## Art. 458
 
 Se a testemunha, sem justa causa, deixar de
 
@@ -8038,7 +8030,7 @@ do art. 436 deste Código.
 (Redação dada pela Lei nº
 11.689, de 2008)
 
-## Art. 459.
+## Art. 459
 
 Aplicar-se-á às testemunhas a serviço do Tribunal do
 
@@ -8046,7 +8038,7 @@ Júri o disposto no art. 441 deste Código.
 (Redação dada pela Lei nº
 11.689, de 2008)
 
-## Art. 460.
+## Art. 460
 
 Antes de constituído o Conselho de Sentença, as testemunhas
 
@@ -8055,9 +8047,9 @@ outras.
 (Redação dada pela Lei nº
 11.689, de 2008)
 
-## Art. 461.
+## Art. 461
 
-julgamento não será adiado
+O julgamento não será adiado
 
 se a testemunha deixar de comparecer, salvo se uma das partes tiver
 requerido a sua intimação por mandado, na oportunidade de que trata o
@@ -8078,7 +8070,7 @@ for certificado por oficial de justiça.
 (Incluído pela Lei nº
 11.689, de 2008)
 
-## Art. 462.
+## Art. 462
 
 Realizadas as diligências referidas nos
 
@@ -8089,7 +8081,7 @@ escrivão proceda à chamada deles.
 (Redação dada pela Lei nº
 11.689, de 2008)
 
-## Art. 463.
+## Art. 463
 
 Comparecendo, pelo menos, 15 (quinze) jurados, o juiz
 
@@ -8108,7 +8100,7 @@ suspeição serão computados para a constituição do número legal.
 (Incluído pela Lei nº
 11.689, de 2008)
 
-## Art. 464.
+## Art. 464
 
 Não havendo o número referido no art. 463 deste
 
@@ -8117,16 +8109,16 @@ necessários, e designar-se-á nova data para a sessão do júri.
 (Redação dada pela Lei nº
 11.689, de 2008)
 
-## Art. 465.
+## Art. 465
 
-s nomes dos suplentes serão consignados em ata,
+Os nomes dos suplentes serão consignados em ata,
 
 remetendo-se o expediente de convocação, com observância do disposto nos
 arts. 434 e 435 deste Código.
 (Redação dada pela Lei nº
 11.689, de 2008)
 
-## Art. 466.
+## Art. 466
 
 Antes do sorteio dos membros do Conselho de Sentença,
 
@@ -8148,7 +8140,7 @@ autos pelo oficial de justiça.
 (Redação dada pela Lei nº
 11.689, de 2008)
 
-## Art. 467.
+## Art. 467
 
 Verificando que se encontram na urna as cédulas
 
@@ -8157,7 +8149,7 @@ dentre eles para a formação do Conselho de Sentença.
 (Redação dada pela Lei nº
 11.689, de 2008)
 
-## Art. 468.
+## Art. 468
 
 À medida que as cédulas forem sendo retiradas da urna,
 
@@ -8173,7 +8165,7 @@ os jurados remanescentes.
 (Incluído pela Lei nº
 11.689, de 2008)
 
-## Art. 469.
+## Art. 469
 
 Se forem 2 (dois) ou mais os acusados, as recusas poderão ser feitas por
 um só defensor.
@@ -8193,7 +8185,7 @@ preferência disposto no art. 429 deste Código.
 (Incluído pela Lei nº
 11.689, de 2008)
 
-## Art. 470.
+## Art. 470
 
 Desacolhida a argüição de impedimento, de suspeição ou
 
@@ -8204,7 +8196,7 @@ decisão.
 (Redação dada pela Lei nº
 11.689, de 2008)
 
-## Art. 471.
+## Art. 471
 
 Se, em conseqüência do impedimento, suspeição,
 
@@ -8216,7 +8208,7 @@ deste Código.
 (Redação dada pela Lei nº
 11.689, de 2008)
 
-## Art. 472.
+## Art. 472
 
 Formado o Conselho de Sentença, o presidente,
 
@@ -8241,7 +8233,7 @@ julgaram admissível a acusação e do relatório do processo.
 
 ### Seção XI
 
-## Art. 473.
+## Art. 473
 
 Prestado o compromisso pelos jurados, será iniciada a
 
@@ -8271,7 +8263,7 @@ ou não repetíveis.
 (Incluído pela Lei nº
 11.689, de 2008)
 
-## Art. 474.
+## Art. 474
 
 A seguir será o acusado interrogado, se estiver presente, na
 
@@ -8300,8 +8292,6 @@ testemunhas ou à garantia da integridade física dos presentes.
 
 ## Art. 474-A
 
-.
-
 Durante a instrução em plenário, todas as partes e demais sujeitos processuais
 presentes no ato deverão respeitar a dignidade da vítima, sob pena de
 responsabilização civil, penal e administrativa, cabendo ao juiz presidente
@@ -8321,9 +8311,9 @@ da vítima ou de testemunhas.
 (Incluído pela Lei nº
 14.245, de 2021)
 
-## Art. 475.
+## Art. 475
 
-registro dos depoimentos e do interrogatório será feito
+O registro dos depoimentos e do interrogatório será feito
 
 pelos meios ou recursos de gravação magnética, eletrônica, estenotipia
 ou técnica similar, destinada a obter maior fidelidade e celeridade na
@@ -8336,7 +8326,7 @@ Parágrafo único. A transcrição do registro, após feita a degravação, cons
 
 ### Seção XII
 
-## Art. 476.
+## Art. 476
 
 Encerrada a instrução, será concedida a palavra ao Ministério
 
@@ -8368,9 +8358,9 @@ plenário.
 (Incluído pela Lei nº
 11.689, de 2008)
 
-## Art. 477.
+## Art. 477
 
-tempo destinado à acusação e à defesa será de uma hora e
+O tempo destinado à acusação e à defesa será de uma hora e
 
 meia para cada, e de uma hora para a réplica e outro tanto para a
 tréplica.
@@ -8391,7 +8381,7 @@ deste artigo.
 (Incluído pela Lei nº
 11.689, de 2008)
 
-## Art. 478.
+## Art. 478
 
 Durante os debates as partes não poderão, sob pena de
 
@@ -8410,7 +8400,7 @@ requerimento, em seu prejuízo.
 (Incluído pela Lei nº
 11.689, de 2008)
 
-## Art. 479.
+## Art. 479
 
 Durante o julgamento não será permitida a leitura de
 
@@ -8428,7 +8418,7 @@ apreciação e julgamento dos jurados.
 (Incluído pela Lei nº
 11.689, de 2008)
 
-## Art. 480.
+## Art. 480
 
 A acusação, a defesa e os jurados poderão, a qualquer momento
 
@@ -8456,7 +8446,7 @@ juiz presidente.
 (Incluído pela Lei nº
 11.689, de 2008)
 
-## Art. 481.
+## Art. 481
 
 Se a verificação de qualquer fato, reconhecida como essencial
 
@@ -8475,9 +8465,9 @@ técnicos, no prazo de 5 (cinco) dias.
 
 ### Seção XIII
 
-## Art. 482.
+## Art. 482
 
-Conselho de Sentença será questionado sobre matéria de fato
+O Conselho de Sentença será questionado sobre matéria de fato
 
 e se o acusado deve ser absolvido.
 (Redação dada pela Lei nº
@@ -8492,9 +8482,9 @@ interrogatório e das alegações das partes.
 (Incluído pela Lei nº
 11.689, de 2008)
 
-## Art. 483.
+## Art. 483
 
-s quesitos serão formulados na seguinte ordem, indagando
+Os quesitos serão formulados na seguinte ordem, indagando
 
 sobre:
 (Redação dada pela Lei nº
@@ -8575,7 +8565,7 @@ acusado, os quesitos serão formulados em séries distintas.
 (Incluído pela Lei nº
 11.689, de 2008)
 
-## Art. 484.
+## Art. 484
 
 A seguir, o presidente lerá os quesitos e indagará das partes
 
@@ -8589,7 +8579,7 @@ aos jurados o significado de cada quesito.
 (Redação dada pela Lei nº
 11.689, de 2008)
 
-## Art. 485.
+## Art. 485
 
 Não havendo dúvida a ser esclarecida, o juiz presidente, os
 
@@ -8614,7 +8604,7 @@ inconvenientemente.
 (Incluído pela Lei nº
 11.689, de 2008)
 
-## Art. 486.
+## Art. 486
 
 Antes de proceder-se à votação de cada quesito, o juiz
 
@@ -8624,7 +8614,7 @@ sim, 7 (sete) a palavra não.
 (Redação dada pela Lei nº
 11.689, de 2008)
 
-## Art. 487.
+## Art. 487
 
 Para assegurar o sigilo do voto, o oficial de justiça
 
@@ -8633,7 +8623,7 @@ não utilizadas.
 (Redação dada pela Lei nº
 11.689, de 2008)
 
-## Art. 488.
+## Art. 488
 
 Após a resposta, verificados os votos e as cédulas não
 
@@ -8647,7 +8637,7 @@ cédulas não utilizadas.
 (Incluído pela Lei nº
 11.689, de 2008)
 
-## Art. 489.
+## Art. 489
 
 As decisões do Tribunal do Júri serão tomadas por maioria de
 
@@ -8655,7 +8645,7 @@ votos.
 (Redação dada pela Lei nº
 11.689, de 2008)
 
-## Art. 490.
+## Art. 490
 
 Se a resposta a qualquer dos quesitos estiver em contradição
 
@@ -8671,7 +8661,7 @@ declarará, dando por finda a votação.
 (Incluído pela Lei nº
 11.689, de 2008)
 
-## Art. 491.
+## Art. 491
 
 Encerrada a votação, será o termo a que se refere o
 
@@ -8682,7 +8672,7 @@ deste Código assinado pelo presidente, pelos jurados e pelas partes.
 
 ### Seção XIV
 
-## Art. 492.
+## Art. 492
 
 Em seguida, o presidente proferirá sentença que:
 
@@ -8800,7 +8790,7 @@ peças necessárias à compreensão da controvérsia.
 (Incluído pela
 Lei nº 13.964, de 2019)
 
-## Art. 493.
+## Art. 493
 
 A sentença será lida em plenário
 
@@ -8810,7 +8800,7 @@ pelo presidente antes de encerrada a sessão de instrução e julgamento.
 
 ### Seção XV
 
-## Art. 494.
+## Art. 494
 
 De cada sessão de julgamento o escrivão lavrará ata, assinada
 
@@ -8818,7 +8808,7 @@ pelo presidente e pelas partes.
 (Redação dada pela Lei nº
 11.689, de 2008)
 
-## Art. 495.
+## Art. 495
 
 A ata descreverá fielmente todas as ocorrências, mencionando
 
@@ -8903,7 +8893,7 @@ da sentença.
 (Redação dada pela Lei nº
 11.689, de 2008)
 
-## Art. 496.
+## Art. 496
 
 A falta da ata sujeitará o responsável a sanções
 
@@ -8913,7 +8903,7 @@ administrativa e penal.
 
 ### Seção XVI
 
-## Art. 497.
+## Art. 497
 
 São atribuições do juiz presidente do Tribunal do Júri, além
 
@@ -8985,29 +8975,29 @@ minutos para cada aparte requerido, que serão acrescidos ao tempo desta
 
 # CAPÍTULO III
 
-## Art. 498.
+## Art. 498
 
 (Revogado pela Lei
 
 nº 11.719, de 2008).
 
-## Art. 499.
+## Art. 499
 
 (Revogado pela Lei
 
 nº 11.719, de 2008).
 
-## Art. 500.
+## Art. 500
 
 (Revogado
 
 pela Lei nº 11.719, de 2008).
 
-## Art. 501.
+## Art. 501
 
 (Revogado pela Lei nº 11.719, de 2008).
 
-## Art. 502.
+## Art. 502
 
 (Revogado pela Lei nº
 11.719, de 2008).
@@ -9016,68 +9006,68 @@ pela Lei nº 11.719, de 2008).
 
 # CAPÍTULO I
 
-## Art. 503.
+## Art. 503
 
 (Revogado
 
 pela Lei nº 11.101, de 2005)
 
-## Art. 504.
+## Art. 504
 
 (Revogado
 
 pela Lei nº 11.101, de 2005)
 
-## Art. 505.
+## Art. 505
 
 (Revogado
 pela Lei nº 11.101, de 2005)
 
-## Art. 506.
+## Art. 506
 
 (Revogado
 pela Lei nº 11.101, de 2005)
 
-## Art. 507.
+## Art. 507
 
 (Revogado
 pela Lei nº 11.101, de 2005)
 
-## Art. 508.
+## Art. 508
 
 (Revogado pela Lei nº 11.101, de 2005)
 
-## Art. 509.
+## Art. 509
 
 (Revogado
 pela Lei nº 11.101, de 2005)
 
-## Art. 510.
+## Art. 510
 
 (Revogado
 pela Lei nº 11.101, de 2005)
 
-## Art. 511.
+## Art. 511
 
 (Revogado pela Lei nº 11.101, de 2005)
 
-## Art. 512.
+## Art. 512
 
 (Revogado pela Lei nº 11.101,
 de 2005)
 
 # CAPÍTULO II
 
-## Art. 513.
+## Art. 513
 
-s crimes de responsabilidade dos funcionários públicos, cujo
+Os crimes de responsabilidade dos funcionários públicos, cujo
 
 processo e julgamento competirão aos juízes de direito, a queixa ou a denúncia
 será instruída com documentos ou justificação que façam presumir a existência do
 delito ou com declaração fundamentada da impossibilidade de apresentação de
 qualquer dessas provas.
 
-## Art. 514.
+## Art. 514
 
 Nos crimes afiançáveis, estando a denúncia ou queixa em devida forma,
 
@@ -9088,7 +9078,7 @@ Parágrafo único. Se não for conhecida a residência do acusado, ou este se ac
 fora da jurisdição do juiz, ser-lhe-á nomeado defensor, a quem caberá apresentar
 a resposta preliminar.
 
-## Art. 515.
+## Art. 515
 
 No caso previsto no artigo anterior, durante o prazo concedido para a
 
@@ -9098,20 +9088,20 @@ acusado ou por seu defensor.
 Parágrafo único. A resposta poderá ser instruída com documentos e
 justificações.
 
-## Art. 516.
+## Art. 516
 
-juiz rejeitará a queixa ou denúncia, em despacho fundamentado, se
+O juiz rejeitará a queixa ou denúncia, em despacho fundamentado, se
 
 convencido, pela resposta do acusado ou do seu defensor, da inexistência do
 crime ou da improcedência da ação.
 
-## Art. 517.
+## Art. 517
 
 Recebida a denúncia ou a queixa, será o acusado citado, na forma
 
 estabelecida no Capítulo I do Título X do Livro I.
 
-## Art. 518.
+## Art. 518
 
 Na instrução criminal e nos demais termos do processo, observar-se-á
 
@@ -9120,7 +9110,7 @@ III, Título I, deste Livro.
 
 # CAPÍTULO III
 
-## Art. 519.
+## Art. 519
 
 No processo por crime de calúnia ou injúria, para o qual não haja
 
@@ -9129,26 +9119,26 @@ Capítulos
 I e III, Titulo I, deste Livro, com as modificações constantes dos artigos
 seguintes.
 
-## Art. 520.
+## Art. 520
 
 Antes de receber a queixa, o juiz oferecerá às partes oportunidade
 
 para se reconciliarem, fazendo-as comparecer em juízo e ouvindo-as,
 separadamente, sem a presença dos seus advogados, não se lavrando termo.
 
-## Art. 521.
+## Art. 521
 
 Se depois de ouvir o querelante e o querelado, o juiz achar provável
 
 a reconciliação, promoverá entendimento entre eles, na sua presença.
 
-## Art. 522.
+## Art. 522
 
 No caso de reconciliação, depois de assinado pelo querelante o termo
 
 da desistência, a queixa será arquivada.
 
-## Art. 523.
+## Art. 523
 
 Quando for oferecida a exceção da verdade ou da notoriedade do fato
 
@@ -9158,7 +9148,7 @@ prazo, em substituição às primeiras, ou para completar o máximo legal.
 
 # CAPÍTULO IV
 
-## Art. 524.
+## Art. 524
 
 No processo e julgamento dos crimes contra a propriedade imaterial,
 
@@ -9166,20 +9156,20 @@ observar-se-á o disposto nos Capítulos I e
 III do Título I deste Livro, com as
 modificações constantes dos artigos seguintes.
 
-## Art. 525.
+## Art. 525
 
 No caso de haver o crime deixado vestígio, a queixa ou a denúncia não
 
 será recebida se não for instruída com o exame pericial dos objetos que
 constituam o corpo de delito.
 
-## Art. 526.
+## Art. 526
 
 Sem a prova de direito à ação, não será recebida a queixa, nem
 
 ordenada qualquer diligência preliminarmente requerida pelo ofendido.
 
-## Art. 527.
+## Art. 527
 
 A diligência de busca ou de apreensão será realizada por dois peritos
 
@@ -9191,13 +9181,13 @@ Parágrafo único. O requerente da diligência poderá impugnar o laudo contrár
 apreensão, e o juiz ordenará que esta se efetue, se reconhecer a improcedência
 das razões aduzidas pelos peritos.
 
-## Art. 528.
+## Art. 528
 
 Encerradas as diligências, os autos serão conclusos ao juiz para
 
 homologação do laudo.
 
-## Art. 529.
+## Art. 529
 
 Nos crimes de ação privativa do ofendido, não será admitida queixa
 
@@ -9208,7 +9198,7 @@ Parágrafo único. Será dada vista ao Ministério Público dos autos de busca e
 apreensão requeridas pelo ofendido, se o crime for de ação pública e não tiver
 sido oferecida queixa no prazo fixado neste artigo.
 
-## Art. 530.
+## Art. 530
 
 Se ocorrer prisão em flagrante e o réu não for posto em liberdade, o
 
@@ -9216,14 +9206,14 @@ prazo a que se refere o artigo anterior será de 8 (oito) dias.
 
 ## Art. 530-A
 
-. O disposto nos arts. 524 a 530 será aplicável aos crimes em que se
+O disposto nos arts. 524 a 530 será aplicável aos crimes em que se
 
 proceda mediante queixa.
 (Incluído pela Lei nº 10.695, de 1º.7.2003)
 
 ## Art. 530-B
 
-. Nos
+Nos
 
 casos das infrações previstas nos §§ 1o,
 2o
@@ -9236,7 +9226,7 @@ prática do ilícito . (Incluído pela Lei nº 10.695, de
 
 ## Art. 530-C
 
-. Na
+Na
 
 ocasião da apreensão será lavrado termo, assinado por 2 (duas) ou mais
 testemunhas, com a descrição de todos os bens apreendidos e informações sobre
@@ -9246,8 +9236,6 @@ suas origens, o qual deverá integrar o inquérito policial ou o processo.
 
 ## Art. 530-D
 
-.
-
 Subseqüente à apreensão, será realizada, por perito oficial, ou, na falta deste,
 por pessoa tecnicamente habilitada, perícia sobre todos os bens apreendidos e
 elaborado o laudo que deverá integrar o inquérito policial ou o processo. (Incluído pela Lei nº 10.695, de
@@ -9255,7 +9243,7 @@ elaborado o laudo que deverá integrar o inquérito policial ou o processo. (Inc
 
 ## Art. 530-E
 
-. Os
+Os
 
 titulares de direito de autor e os que lhe são conexos serão os fiéis
 depositários de todos os bens apreendidos, devendo colocá-los à disposição do
@@ -9263,8 +9251,6 @@ juiz quando do ajuizamento da ação.
 (Incluído pela Lei nº 10.695, de 1º.7.2003)
 
 ## Art. 530-F
-
-.
 
 Ressalvada a possibilidade de se preservar o corpo de delito, o juiz poderá
 determinar, a requerimento da vítima, a destruição da produção ou reprodução
@@ -9275,7 +9261,7 @@ ilícito. (Incluído pela Lei nº
 
 ## Art. 530-G
 
-. O
+O
 
 juiz, ao prolatar a sentença condenatória, poderá determinar a destruição dos
 bens ilicitamente produzidos ou reproduzidos e o perdimento dos equipamentos
@@ -9289,7 +9275,7 @@ canais de comércio. (Incluído pela Lei nº 10.695, de
 
 ## Art. 530-H
 
-. As
+As
 
 associações de titulares de direitos de autor e os que lhes são conexos poderão,
 em seu próprio nome, funcionar como assistente da acusação nos crimes previstos
@@ -9300,7 +9286,7 @@ associados.
 
 ## Art. 530-I
 
-. Nos
+Nos
 
 crimes em que caiba ação penal pública incondicionada ou condicionada,
 observar-se-ão as normas constantes dos arts. 530-B, 530-C, 530-D, 530-E, 530-F,
@@ -9310,7 +9296,7 @@ nº 10.695, de 1º.7.2003)
 
 # CAPÍTULO V
 
-## Art. 531.
+## Art. 531
 
 Na audiência de instrução e
 
@@ -9323,7 +9309,7 @@ procedendo-se, finalmente, ao debate.
 (Redação dada pela Lei nº
 11.719, de 2008).
 
-## Art. 532.
+## Art. 532
 
 Na instrução, poderão ser inquiridas até 5 (cinco)
 
@@ -9331,7 +9317,7 @@ testemunhas arroladas pela acusação e 5 (cinco) pela defesa.
 (Redação dada pela
 Lei nº 11.719, de 2008).
 
-## Art. 533.
+## Art. 533
 
 Aplica-se ao procedimento sumário o disposto nos parágrafos
 
@@ -9352,7 +9338,7 @@ nº 11.719, de 2008).
 (Revogado pela Lei nº
 11.719, de 2008).
 
-## Art. 534.
+## Art. 534
 
 As alegações finais serão orais,
 
@@ -9375,7 +9361,7 @@ manifestação da defesa.
 (Incluído pela Lei
 nº 11.719, de 2008).
 
-## Art. 535.
+## Art. 535
 
 Nenhum ato será adiado, salvo
 
@@ -9392,7 +9378,7 @@ nº 11.719, de 2008).
 (Revogado pela Lei nº
 11.719, de 2008).
 
-## Art. 536.
+## Art. 536
 
 A testemunha que comparecer será inquirida,
 
@@ -9401,12 +9387,12 @@ estabelecida no art. 531 deste Código.
 (Redação dada pela Lei nº
 11.719, de 2008).
 
-## Art. 537.
+## Art. 537
 
 (Revogado pela Lei nº
 11.719, de 2008).
 
-## Art. 538.
+## Art. 538
 
 Nas infrações penais de menor potencial ofensivo, quando o juizado
 
@@ -9431,20 +9417,20 @@ nº 11.719, de 2008).
 (Revogado pela Lei nº
 11.719, de 2008).
 
-## Art. 539.
+## Art. 539
 
 (Revogado pela Lei nº 11.719, de 2008).
 
-## Art. 540.
+## Art. 540
 
 (Revogado pela Lei nº
 11.719, de 2008).
 
 # CAPÍTULO VI
 
-## Art. 541.
+## Art. 541
 
-s autos originais de processo penal extraviados ou destruídos, em
+Os autos originais de processo penal extraviados ou destruídos, em
 
 primeira ou segunda instância, serão restaurados.
 
@@ -9467,16 +9453,16 @@ edital, com o prazo de dez dias, para o processo de restauração dos autos.
 § 3o Proceder-se-á à restauração na primeira instância, ainda
 que os autos se tenham extraviado na segunda.
 
-## Art. 542.
+## Art. 542
 
 No dia designado, as partes serão ouvidas, mencionando-se em termo
 
 circunstanciado os pontos em que estiverem acordes e a exibição e a conferência
 das certidões e mais reproduções do processo apresentadas e conferidas.
 
-## Art. 543.
+## Art. 543
 
-juiz determinará as diligências necessárias para a restauração,
+O juiz determinará as diligências necessárias para a restauração,
 
 observando-se o seguinte:
 
@@ -9497,7 +9483,7 @@ tenham nele funcionado;
 V - o Ministério Público e as partes poderão oferecer testemunhas e produzir
 documentos, para provar o teor do processo extraviado ou destruído.
 
-## Art. 544.
+## Art. 544
 
 Realizadas as diligências que, salvo motivo de força maior, deverão
 
@@ -9507,26 +9493,26 @@ Parágrafo único. No curso do processo, e depois de subirem os autos conclusos
 para sentença, o juiz poderá, dentro em cinco dias, requisitar de autoridades ou
 de repartições todos os esclarecimentos para a restauração.
 
-## Art. 545.
+## Art. 545
 
-s selos e as taxas judiciárias, já pagos nos autos originais, não
+Os selos e as taxas judiciárias, já pagos nos autos originais, não
 
 serão novamente cobrados.
 
-## Art. 546.
+## Art. 546
 
-s causadores de extravio de autos responderão pelas custas, em
+Os causadores de extravio de autos responderão pelas custas, em
 
 dobro, sem prejuízo da responsabilidade criminal.
 
-## Art. 547.
+## Art. 547
 
 Julgada a restauração, os autos respectivos valerão pelos originais.
 
 Parágrafo único. Se no curso da restauração aparecerem os autos originais,
 nestes continuará o processo, apensos a eles os autos da restauração.
 
-## Art. 548.
+## Art. 548
 
 Até à decisão que julgue restaurados os autos, a sentença
 
@@ -9536,7 +9522,7 @@ cumprindo a pena, ou de registro que torne a sua existência inequívoca.
 
 # CAPÍTULO VII
 
-## Art. 549.
+## Art. 549
 
 Se a autoridade policial tiver conhecimento de fato que, embora não
 
@@ -9545,20 +9531,20 @@ constituindo infração penal, possa determinar a aplicação de medida de segur
 27), deverá proceder a inquérito, a fim de apurá-lo e averiguar todos os
 elementos que possam interessar à verificação da periculosidade do agente.
 
-## Art. 550.
+## Art. 550
 
-processo será promovido pelo Ministério Público, mediante
+O processo será promovido pelo Ministério Público, mediante
 
 requerimento que conterá a exposição sucinta do fato, as suas circunstâncias e
 todos os elementos em que se fundar o pedido.
 
-## Art. 551.
+## Art. 551
 
-juiz, ao deferir o requerimento, ordenará a intimação do
+O juiz, ao deferir o requerimento, ordenará a intimação do
 
 interessado para comparecer em juízo, a fim de ser interrogado.
 
-## Art. 552.
+## Art. 552
 
 Após o interrogatório ou dentro do prazo de dois dias, o interessado
 
@@ -9566,14 +9552,14 @@ ou seu defensor poderá oferecer alegações.
 
 Parágrafo único. O juiz nomeará defensor ao interessado que não o tiver.
 
-## Art. 553.
+## Art. 553
 
-Ministério Público, ao fazer o requerimento inicial, e a defesa, no
+O Ministério Público, ao fazer o requerimento inicial, e a defesa, no
 
 prazo estabelecido no artigo anterior, poderão requerer exames, diligências e
 arrolar até três testemunhas.
 
-## Art. 554.
+## Art. 554
 
 Após o prazo de defesa ou a realização dos exames e diligências
 
@@ -9586,7 +9572,7 @@ Parágrafo único. Se o juiz não se julgar habilitado a proferir a decisão,
 designará, desde logo, outra audiência, que se realizará dentro de cinco dias,
 para publicar a sentença.
 
-## Art. 555.
+## Art. 555
 
 Quando, instaurado processo por infração penal, o juiz, absolvendo ou
 
@@ -9598,14 +9584,14 @@ art. 27 do Código Penal, aplicar-lhe-á, se for caso, medida de segurança.
 
 # CAPÍTULO I
 
-## Art. 556.
+## Art. 556
 
 a Art. 560
 (Revogado pela Lei nº 8.658, de 26.5.1993)
 
 # CAPÍTULO II
 
-## Art. 561.
+## Art. 561
 
 e Art. 562.
 
@@ -9615,13 +9601,13 @@ e Art. 562.
 
 # TÍTULO I
 
-## Art. 563.
+## Art. 563
 
 Nenhum ato será declarado nulo, se da nulidade não resultar prejuízo
 
 para a acusação ou para a defesa.
 
-## Art. 564.
+## Art. 564
 
 A nulidade ocorrerá nos seguintes casos:
 
@@ -9686,39 +9672,39 @@ Parágrafo único. Ocorrerá ainda a nulidade, por deficiência dos
 quesitos ou das suas respostas, e contradição entre estas.
 (Incluído pela Lei nº 263, de 23.2.1948)
 
-## Art. 565.
+## Art. 565
 
 Nenhuma das partes poderá argüir nulidade a que haja dado causa, ou
 
 para que tenha concorrido, ou referente a formalidade cuja observância só à
 parte contrária interesse.
 
-## Art. 566.
+## Art. 566
 
 Não será declarada a nulidade de ato processual que não houver
 
 influído na apuração da verdade substancial ou na decisão da causa.
 
-## Art. 567.
+## Art. 567
 
 A incompetência do juízo anula somente os atos decisórios, devendo o
 
 processo, quando for declarada a nulidade, ser remetido ao juiz competente.
 
-## Art. 568.
+## Art. 568
 
 A nulidade por ilegitimidade do representante da parte poderá ser a
 
 todo tempo sanada, mediante ratificação dos atos processuais.
 
-## Art. 569.
+## Art. 569
 
 As omissões da denúncia ou da queixa, da representação, ou, nos
 
 processos das contravenções penais, da portaria ou do auto de prisão em
 flagrante, poderão ser supridas a todo o tempo, antes da sentença final.
 
-## Art. 570.
+## Art. 570
 
 A falta ou a nulidade da citação, da intimação ou notificação estará
 
@@ -9727,7 +9713,7 @@ declare que o faz para o único fim de argüi-la. O juiz ordenará, todavia, a
 suspensão ou o adiamento do ato, quando reconhecer que a
 irregularidade poderá prejudicar direito da parte.
 
-## Art. 571.
+## Art. 571
 
 As nulidades deverão ser argüidas:
 
@@ -9760,7 +9746,7 @@ ou logo depois de anunciado o julgamento do recurso e apregoadas as partes;
 VIII - as do julgamento em plenário, em audiência ou em sessão do tribunal, logo
 depois de ocorrerem.
 
-## Art. 572.
+## Art. 572
 
 As nulidades previstas no
 
@@ -9774,9 +9760,9 @@ II - se, praticado por outra forma, o ato tiver atingido o seu fim;
 
 III - se a parte, ainda que tacitamente, tiver aceito os seus efeitos.
 
-## Art. 573.
+## Art. 573
 
-s atos, cuja nulidade não tiver sido sanada, na forma dos artigos
+Os atos, cuja nulidade não tiver sido sanada, na forma dos artigos
 
 anteriores, serão renovados ou retificados.
 
@@ -9790,9 +9776,9 @@ ela se estende.
 
 # CAPÍTULO I
 
-## Art. 574.
+## Art. 574
 
-s recursos serão voluntários, excetuando-se os seguintes casos, em
+Os recursos serão voluntários, excetuando-se os seguintes casos, em
 
 que deverão ser interpostos, de ofício, pelo juiz:
 
@@ -9802,31 +9788,31 @@ II - da que absolver desde logo o réu com fundamento na existência de
 circunstância que exclua o crime ou isente o réu de pena, nos termos do
 art. 411.
 
-## Art. 575.
+## Art. 575
 
 Não serão prejudicados os recursos que, por erro, falta ou omissão
 
 dos funcionários, não tiverem seguimento ou não forem apresentados dentro do
 prazo.
 
-## Art. 576.
+## Art. 576
 
-Ministério Público não poderá desistir de recurso que haja
+O Ministério Público não poderá desistir de recurso que haja
 
 interposto.
 
-## Art. 577.
+## Art. 577
 
-recurso poderá ser interposto pelo Ministério Público, ou pelo
+O recurso poderá ser interposto pelo Ministério Público, ou pelo
 
 querelante, ou pelo réu, seu procurador ou seu defensor.
 
 Parágrafo único. Não se admitirá, entretanto, recurso da parte que não tiver
 interesse na reforma ou modificação da decisão.
 
-## Art. 578.
+## Art. 578
 
-recurso será interposto por petição ou por termo nos autos,
+O recurso será interposto por petição ou por termo nos autos,
 
 assinado pelo recorrente ou por seu representante.
 
@@ -9841,7 +9827,7 @@ certificará no termo da juntada a data da entrega.
 suspensão por dez a trinta dias, fará conclusos os autos ao juiz, até o dia
 seguinte ao último do prazo.
 
-## Art. 579.
+## Art. 579
 
 Salvo a hipótese de má-fé, a parte não será prejudicada pela
 
@@ -9851,7 +9837,7 @@ Parágrafo único. Se o juiz, desde logo, reconhecer a impropriedade do recurso
 interposto pela parte, mandará processá-lo de acordo com o rito do recurso
 cabível.
 
-## Art. 580.
+## Art. 580
 
 No caso de concurso de agentes (Código
 
@@ -9861,7 +9847,7 @@ outros.
 
 # CAPÍTULO II
 
-## Art. 581.
+## Art. 581
 
 Caberá recurso, no sentido estrito, da decisão, despacho ou sentença:
 
@@ -9940,7 +9926,7 @@ dos ns. V, X e XIV.
 Parágrafo único. O recurso, no caso do no XIV, será para o
 presidente do Tribunal de Apelação.
 
-## Art. 583.
+## Art. 583
 
 Subirão nos próprios autos os recursos:
 
@@ -9954,9 +9940,9 @@ Parágrafo único. O recurso da pronúncia subirá em traslado, quando, havendo
 dois ou mais réus, qualquer deles se conformar com a decisão ou todos não
 tiverem sido ainda intimados da pronúncia.
 
-## Art. 584.
+## Art. 584
 
-s recursos terão efeito suspensivo nos casos de perda da fiança, de
+Os recursos terão efeito suspensivo nos casos de perda da fiança, de
 
 concessão de livramento condicional e dos ns. XV, XVII e XXIV do art. 581.
 
@@ -9981,20 +9967,20 @@ irreparável ou de difícil reparação, durante a tramitação.
 (Incluído pela Lei nº
 15.358, de 2026)
 
-## Art. 585.
+## Art. 585
 
-réu não poderá recorrer da pronúncia senão depois de preso, salvo
+O réu não poderá recorrer da pronúncia senão depois de preso, salvo
 
 se prestar fiança, nos casos em que a lei a admitir.
 
-## Art. 586.
+## Art. 586
 
-recurso voluntário poderá ser interposto no prazo de cinco dias.
+O recurso voluntário poderá ser interposto no prazo de cinco dias.
 
 Parágrafo único. No caso do art. 581, XIV, o prazo será de vinte dias, contado
 da data da publicação definitiva da lista de jurados.
 
-## Art. 587.
+## Art. 587
 
 Quando o recurso houver de subir por instrumento, a parte indicará,
 
@@ -10006,7 +9992,7 @@ cinco dias, e dele constarão sempre a decisão recorrida, a certidão de sua
 intimação, se por outra forma não for possível verificar-se a oportunidade do
 recurso, e o termo de interposição.
 
-## Art. 588.
+## Art. 588
 
 Dentro de dois dias, contados da interposição do recurso, ou do dia
 
@@ -10017,7 +10003,7 @@ prazo.
 Parágrafo único. Se o recorrido for o réu, será intimado do prazo na pessoa do
 defensor.
 
-## Art. 589.
+## Art. 589
 
 Com a resposta do recorrido ou sem ela, será o recurso concluso ao
 
@@ -10029,20 +10015,20 @@ por simples petição, poderá recorrer da nova decisão, se couber recurso, nã
 sendo mais lícito ao juiz modificá-la. Neste caso, independentemente de novos
 arrazoados, subirá o recurso nos próprios autos ou em traslado.
 
-## Art. 590.
+## Art. 590
 
 Quando for impossível ao escrivão extrair o traslado no prazo da lei,
 
 poderá o juiz prorrogá-lo até o dobro.
 
-## Art. 591.
+## Art. 591
 
-s recursos serão apresentados ao juiz ou tribunal ad quem,
+Os recursos serão apresentados ao juiz ou tribunal ad quem,
 
 dentro de cinco dias da publicação da resposta do juiz a quo, ou
 entregues ao Correio dentro do mesmo prazo.
 
-## Art. 592.
+## Art. 592
 
 Publicada a decisão do juiz ou do tribunal ad quem, deverão os
 
@@ -10050,7 +10036,7 @@ autos ser devolvidos, dentro de cinco dias, ao juiz a quo.
 
 # CAPÍTULO III
 
-## Art. 593.
+## Art. 593
 
 Caberá apelação no prazo de 5 (cinco) dias: (Redação dada pela Lei nº 263, de
 
@@ -10115,16 +10101,16 @@ ainda que somente de parte da decisão se recorra.
 (Parágrafo único renumerado pela Lei nº
 263, de 23.2.1948)
 
-## Art. 594.
+## Art. 594
 
 (Revogado pela Lei nº
 11.719, de 2008).
 
-## Art. 595.
+## Art. 595
 
 (Revogado pela Lei nº 12.403, de 2011).
 
-## Art. 596.
+## Art. 596
 
 A apelação da sentença absolutória não impedirá que o réu seja posto
 
@@ -10136,7 +10122,7 @@ Parágrafo
 provisoriamente. (Redação dada pela Lei nº 5.941, de
 22.11.1973)
 
-## Art. 597.
+## Art. 597
 
 A apelação de sentença condenatória terá efeito suspensivo, salvo o
 
@@ -10144,7 +10130,7 @@ disposto no art. 393, a aplicação provisória de interdições de direitos e d
 medidas de segurança (arts. 374 e 378), e o caso de suspensão condicional de
 pena.
 
-## Art. 598.
+## Art. 598
 
 Nos crimes de competência do Tribunal do Júri, ou do juiz singular,
 
@@ -10156,13 +10142,13 @@ porém, efeito suspensivo.
 Parágrafo único. O prazo para interposição desse recurso será de quinze dias e
 correrá do dia em que terminar o do Ministério Público.
 
-## Art. 599.
+## Art. 599
 
 As apelações poderão ser interpostas quer em relação a todo o
 
 julgado, quer em relação a parte dele.
 
-## Art. 600.
+## Art. 600
 
 Assinado o termo de apelação, o apelante e, depois dele, o apelado
 
@@ -10184,7 +10170,7 @@ remetidos ao tribunal ad quem onde será aberta vista às partes, observados os
 prazos legais, notificadas as partes pela publicação oficial. (Incluído pela Lei nº
 4.336, de 1º.6.1964)
 
-## Art. 601.
+## Art. 601
 
 Findos os prazos para razões, os autos serão remetidos à instância
 
@@ -10200,48 +10186,48 @@ vencimento do prazo para a apresentação das do apelado.
 § 2o As despesas do traslado correrão por conta de quem o
 solicitar, salvo se o pedido for de réu pobre ou do Ministério Público.
 
-## Art. 602.
+## Art. 602
 
-s autos serão, dentro dos prazos do artigo anterior, apresentados ao
+Os autos serão, dentro dos prazos do artigo anterior, apresentados ao
 
 tribunal ad quem ou entregues ao Correio, sob registro.
 
-## Art. 603.
+## Art. 603
 
 A apelação subirá nos autos originais e, a não ser no Distrito Federal
 
 e nas comarcas que forem sede de Tribunal de Apelação, ficará em cartório
 traslado dos termos essenciais do processo referidos no art. 564, n. III.
 
-## Art. 604.
+## Art. 604
 
 (Revogado pela Lei nº 263, de 23.2.1948)
 
-## Art. 605.
+## Art. 605
 
 (Revogado pela Lei nº 263, de 23.2.1948)
 
-## Art. 606.
+## Art. 606
 
 (Revogado pela Lei nº 263, de 23.2.1948)
 
 # CAPÍTULO IV
 
-## Art. 607.
+## Art. 607
 
 (Revogado pela Lei nº
 11.689, de 2008)
 
-## Art. 608.
+## Art. 608
 
 (Revogado pela Lei nº
 11.689, de 2008)
 
 # CAPÍTULO V
 
-## Art. 609.
+## Art. 609
 
-s recursos, apelações e embargos serão julgados pelos Tribunais de
+Os recursos, apelações e embargos serão julgados pelos Tribunais de
 
 Justiça, câmaras ou turmas criminais, de acordo com a competência estabelecida
 nas leis de organização judiciária.
@@ -10256,7 +10242,7 @@ art. 613. Se o desacordo for parcial, os embargos serão restritos à matéria
 objeto de divergência. (Incluído
 pela Lei nº 1.720-B, de 3.11.1952)
 
-## Art. 610.
+## Art. 610
 
 Nos recursos em sentido estrito, com exceção do de habeas corpus,
 
@@ -10271,13 +10257,13 @@ feito e, em seguida, o presidente concederá, pelo prazo de 10 (dez) minutos, a
 palavra aos advogados ou às partes que a solicitarem e ao procurador-geral,
 quando o requerer, por igual prazo.
 
-## Art. 612.
+## Art. 612
 
-s recursos de habeas corpus, designado o relator, serão
+Os recursos de habeas corpus, designado o relator, serão
 
 julgados na primeira sessão.
 
-## Art. 613.
+## Art. 613
 
 As apelações interpostas das sentenças proferidas em processos por
 
@@ -10291,15 +10277,15 @@ II - os prazos serão ampliados ao dobro;
 
 III - o tempo para os debates será de um quarto de hora.
 
-## Art. 614.
+## Art. 614
 
 No caso de impossibilidade de observância de qualquer dos prazos
 
 marcados nos arts. 610 e 613, os motivos da demora serão declarados nos autos.
 
-## Art. 615.
+## Art. 615
 
-tribunal decidirá por maioria de votos.
+O tribunal decidirá por maioria de votos.
 
 § 1º Em todos os julgamentos em matéria penal ou processual penal em
 órgãos colegiados, havendo empate, prevalecerá a decisão mais
@@ -10314,30 +10300,30 @@ tomado sem a totalidade dos integrantes do colegiado.
 sessão seguinte à do julgamento, ou no prazo de duas sessões, pelo juiz
 incumbido de lavrá-lo.
 
-## Art. 616.
+## Art. 616
 
 No julgamento das apelações poderá o tribunal, câmara ou turma
 
 proceder a novo interrogatório do acusado, reinquirir testemunhas ou determinar
 outras diligências.
 
-## Art. 617.
+## Art. 617
 
-tribunal, câmara ou turma atenderá nas suas decisões ao disposto
+O tribunal, câmara ou turma atenderá nas suas decisões ao disposto
 
 nos arts. 383, 386 e
 387, no que for aplicável, não podendo, porém, ser agravada
 a pena, quando somente o réu houver apelado da sentença.
 
-## Art. 618.
+## Art. 618
 
-s regimentos dos Tribunais de Apelação estabelecerão as normas
+Os regimentos dos Tribunais de Apelação estabelecerão as normas
 
 complementares para o processo e julgamento dos recursos e apelações.
 
 # CAPÍTULO VI
 
-## Art. 619.
+## Art. 619
 
 Aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou
 
@@ -10345,9 +10331,9 @@ turmas, poderão ser opostos embargos de declaração, no prazo de dois dias
 contados da sua publicação, quando houver na sentença ambiguidade, obscuridade,
 contradição ou omissão.
 
-## Art. 620.
+## Art. 620
 
-s embargos de declaração serão deduzidos em requerimento de que
+Os embargos de declaração serão deduzidos em requerimento de que
 
 constem os pontos em que o acórdão é ambíguo, obscuro, contraditório ou omisso.
 
@@ -10359,7 +10345,7 @@ o relator indeferirá desde logo o requerimento.
 
 # CAPÍTULO VII
 
-## Art. 621.
+## Art. 621
 
 A revisão dos processos findos será admitida:
 
@@ -10373,7 +10359,7 @@ III - quando, após a sentença, se descobrirem novas provas de inocência do
 condenado ou de circunstância que determine ou autorize diminuição especial da
 pena.
 
-## Art. 622.
+## Art. 622
 
 A revisão poderá ser requerida em qualquer tempo, antes da extinção
 
@@ -10382,14 +10368,14 @@ da pena ou após.
 Parágrafo único. Não será admissível a reiteração do pedido, salvo se fundado
 em novas provas.
 
-## Art. 623.
+## Art. 623
 
 A revisão poderá ser pedida pelo próprio réu ou por procurador
 
 legalmente habilitado ou, no caso de morte do réu, pelo cônjuge, ascendente,
 descendente ou irmão.
 
-## Art. 624.
+## Art. 624
 
 As revisões criminais serão processadas e julgadas:
 
@@ -10419,9 +10405,9 @@ Nos tribunais onde houver quatro ou mais câmaras ou turmas criminais, poderão
 ser constituídos dois ou mais grupos de câmaras ou turmas para o julgamento de
 revisão, obedecido o que for estabelecido no respectivo regimento interno. (Incluído pelo Decreto-lei nº 504, de 18.3.1969)
 
-## Art. 625.
+## Art. 625
 
-requerimento será distribuído a um relator e a um revisor, devendo
+O requerimento será distribuído a um relator e a um revisor, devendo
 
 funcionar como relator um desembargador que não tenha pronunciado decisão em
 qualquer fase do processo.
@@ -10447,7 +10433,7 @@ abrir-se-á vista dos autos ao procurador-geral, que dará parecer no prazo de d
 dias. Em seguida, examinados os autos, sucessivamente, em igual prazo, pelo
 relator e revisor, julgar-se-á o pedido na sessão que o presidente designar.
 
-## Art. 626.
+## Art. 626
 
 Julgando procedente a revisão, o tribunal poderá alterar a
 
@@ -10457,29 +10443,29 @@ processo.
 Parágrafo único. De qualquer maneira, não poderá ser agravada a pena imposta
 pela decisão revista.
 
-## Art. 627.
+## Art. 627
 
 A absolvição implicará o restabelecimento de todos os direitos
 
 perdidos em virtude da condenação, devendo o tribunal, se for caso, impor a
 medida de segurança cabível.
 
-## Art. 628.
+## Art. 628
 
-s regimentos internos dos Tribunais de Apelação estabelecerão as
+Os regimentos internos dos Tribunais de Apelação estabelecerão as
 
 normas complementares para o processo e julgamento das revisões criminais.
 
-## Art. 629.
+## Art. 629
 
 À vista da certidão do acórdão que cassar a sentença condenatória, o
 
 juiz mandará juntá-la imediatamente aos autos, para inteiro cumprimento da
 decisão.
 
-## Art. 630.
+## Art. 630
 
-tribunal, se o interessado o requerer, poderá reconhecer o direito
+O tribunal, se o interessado o requerer, poderá reconhecer o direito
 
 a uma justa indenização pelos prejuízos sofridos.
 
@@ -10495,7 +10481,7 @@ próprio impetrante, como a confissão ou a ocultação de prova em seu poder;
 
   b) se a acusação houver sido meramente privada.
 
-## Art. 631.
+## Art. 631
 
 Quando, no curso da revisão, falecer a pessoa, cuja condenação tiver
 
@@ -10503,43 +10489,45 @@ de ser revista, o presidente do tribunal nomeará curador para a defesa.
 
 # CAPÍTULO VIII
 
-## Art. 632.
+## Art. 632
 
 (Revogado pela Lei nº
 3.396, de 2.6.1958):
 
-## Art. 633.
-
-(Revogado pela Lei nº
-
-3.396, de 2.6.1958):
-
-## Art. 634.
+## Art. 633
 
 (Revogado pela Lei nº
 
 3.396, de 2.6.1958):
 
-## Art. 635.
+## Art. 634
 
 (Revogado pela Lei nº
 
 3.396, de 2.6.1958):
 
-## Art. 636.
+## Art. 635
 
 (Revogado pela Lei nº
 
 3.396, de 2.6.1958):
 
-## Art. 637.
+## Art. 636
 
-recurso extraordinário não tem efeito suspensivo, e uma vez
+(Revogado pela Lei nº
+
+3.396, de 2.6.1958):
+
+## Art. 637
+
+O recurso extraordinário não tem efeito suspensivo, e uma vez
 
 arrazoados pelo recorrido os autos do traslado, os originais baixarão à primeira
 instância, para a execução da sentença.
 
-## Art. 638.
+## Art. 638
+
+O
 
 recurso extraordinário e o recurso especial serão processados e julgados
 no Supremo Tribunal Federal e no Superior Tribunal de Justiça na forma
@@ -10550,7 +10538,7 @@ respectivos regimentos internos.
 
 # CAPÍTULO IX
 
-## Art. 639.
+## Art. 639
 
 Dar-se-á carta testemunhável:
 
@@ -10559,7 +10547,7 @@ I - da decisão que denegar o recurso;
 II - da que, admitindo embora o recurso, obstar à sua expedição e seguimento
 para o juízo ad quem.
 
-## Art. 640.
+## Art. 640
 
 A carta testemunhável será requerida ao escrivão, ou ao secretário do
 
@@ -10567,17 +10555,17 @@ tribunal, conforme o caso, nas quarenta e oito horas seguintes ao despacho que
 denegar o recurso, indicando o requerente as peças do processo que deverão ser
 trasladadas.
 
-## Art. 641.
+## Art. 641
 
-escrivão, ou o secretário do tribunal, dará recibo da petição à
+O escrivão, ou o secretário do tribunal, dará recibo da petição à
 
 parte e, no prazo máximo de cinco dias, no caso de recurso no sentido estrito,
 ou de sessenta dias, no caso de recurso extraordinário, fará entrega da carta,
 devidamente conferida e concertada.
 
-## Art. 642.
+## Art. 642
 
-escrivão, ou o secretário do tribunal, que se negar a dar o recibo,
+O escrivão, ou o secretário do tribunal, que se negar a dar o recibo,
 
 ou deixar de entregar, sob qualquer pretexto, o instrumento, será suspenso por
 trinta dias. O juiz, ou o presidente do Tribunal de Apelação, em face de
@@ -10588,7 +10576,7 @@ tribunal
 ad quem, que avocará os autos, para o efeito do julgamento do recurso e
 imposição da pena.
 
-## Art. 643.
+## Art. 643
 
 Extraído e autuado o instrumento, observar-se-á o disposto nos
 
@@ -10596,26 +10584,26 @@ arts.
 588 a 592, no caso de recurso em sentido estrito, ou o processo estabelecido
 para o recurso extraordinário, se deste se tratar.
 
-## Art. 644.
+## Art. 644
 
-tribunal, câmara ou turma a que competir o julgamento da carta, se
+O tribunal, câmara ou turma a que competir o julgamento da carta, se
 
 desta tomar conhecimento, mandará processar o recurso, ou, se estiver
 suficientemente instruída, decidirá logo, de meritis.
 
-## Art. 645.
+## Art. 645
 
-processo da carta testemunhável na instância superior seguirá o
+O processo da carta testemunhável na instância superior seguirá o
 
 processo do recurso denegado.
 
-## Art. 646.
+## Art. 646
 
 A carta testemunhável não terá efeito suspensivo.
 
 # CAPÍTULO X
 
-## Art. 647.
+## Art. 647
 
 Dar-se-á habeas corpus sempre que alguém sofrer ou se achar na
 
@@ -10624,7 +10612,7 @@ salvo nos casos de punição disciplinar.
 
 ## Art. 647-A
 
-. No âmbito de sua competência jurisdicional, qualquer
+No âmbito de sua competência jurisdicional, qualquer
 
 autoridade judicial poderá expedir de ofício ordem de habeas
 corpus, individual ou coletivo, quando, no curso de qualquer
@@ -10641,7 +10629,7 @@ ou o recurso em que veiculado o pedido de cessação de coação ilegal.
 (Incluído pela
 Lei nº 14.836, de 2024)
 
-## Art. 648.
+## Art. 648
 
 A coação considerar-se-á ilegal:
 
@@ -10660,14 +10648,14 @@ VI - quando o processo for manifestamente nulo;
 
 VII - quando extinta a punibilidade.
 
-## Art. 649.
+## Art. 649
 
-juiz ou o tribunal, dentro dos limites da sua jurisdição, fará
+O juiz ou o tribunal, dentro dos limites da sua jurisdição, fará
 
 passar imediatamente a ordem impetrada, nos casos em que tenha cabimento, seja
 qual for a autoridade coatora.
 
-## Art. 650.
+## Art. 650
 
 Competirá conhecer, originariamente, do pedido de habeas corpus:
 
@@ -10688,21 +10676,21 @@ pertencente à Fazenda Pública, alcançados ou omissos em fazer o seu recolhime
 nos prazos legais, salvo se o pedido for acompanhado de prova de quitação ou de
 depósito do alcance verificado, ou se a prisão exceder o prazo legal.
 
-## Art. 651.
+## Art. 651
 
 A concessão do habeas corpus não obstará, nem porá termo ao
 
 processo, desde que este não esteja em conflito com os fundamentos daquela.
 
-## Art. 652.
+## Art. 652
 
 Se o habeas corpus for concedido em virtude de nulidade do
 
 processo, este será renovado.
 
-## Art. 653.
+## Art. 653
 
-rdenada a soltura do paciente em virtude de habeas corpus,
+Ordenada a soltura do paciente em virtude de habeas corpus,
 
 será condenada nas custas a autoridade que, por má-fé ou evidente abuso de
 poder, tiver determinado a coação.
@@ -10710,9 +10698,9 @@ poder, tiver determinado a coação.
 Parágrafo único. Neste caso, será remetida ao Ministério Público cópia das
 peças necessárias para ser promovida a responsabilidade da autoridade.
 
-## Art. 654.
+## Art. 654
 
-habeas corpus poderá ser impetrado por qualquer pessoa, em
+O habeas corpus poderá ser impetrado por qualquer pessoa, em
 
 seu favor ou de outrem, bem como pelo Ministério Público.
 
@@ -10731,9 +10719,9 @@ puder escrever, e a designação das respectivas residências.
 ofício ordem de habeas corpus, quando no curso de processo
 verificarem que alguém sofre ou está na iminência de sofrer coação ilegal.
 
-## Art. 655.
+## Art. 655
 
-carcereiro ou o diretor da prisão, o escrivão, o oficial de justiça
+O carcereiro ou o diretor da prisão, o escrivão, o oficial de justiça
 
 ou a autoridade judiciária ou policial que embaraçar ou procrastinar a expedição
 de ordem de habeas corpus, as informações sobre a causa da prisão, a
@@ -10743,7 +10731,7 @@ As multas serão impostas pelo juiz do tribunal que julgar o habeas corpus,
 salvo quando se tratar de autoridade judiciária, caso em que caberá ao Supremo
 Tribunal Federal ou ao Tribunal de Apelação impor as multas.
 
-## Art. 656.
+## Art. 656
 
 Recebida a petição de habeas corpus, o juiz, se julgar
 
@@ -10754,7 +10742,7 @@ Parágrafo único. Em caso de desobediência, será expedido mandado de prisão
 contra o detentor, que será processado na forma da lei, e o juiz providenciará
 para que o paciente seja tirado da prisão e apresentado em juízo.
 
-## Art. 657.
+## Art. 657
 
 Se o paciente estiver preso, nenhum motivo escusará a sua
 
@@ -10769,17 +10757,17 @@ III - se o comparecimento não tiver sido determinado pelo juiz ou pelo tribunal
 Parágrafo único. O juiz poderá ir ao local em que o paciente se encontrar, se
 este não puder ser apresentado por motivo de doença.
 
-## Art. 658.
+## Art. 658
 
-detentor declarará à ordem de quem o paciente estiver preso.
+O detentor declarará à ordem de quem o paciente estiver preso.
 
-## Art. 659.
+## Art. 659
 
 Se o juiz ou o tribunal verificar que já cessou a violência ou coação
 
 ilegal, julgará prejudicado o pedido.
 
-## Art. 660.
+## Art. 660
 
 Efetuadas as diligências, e interrogado o paciente, o juiz decidirá,
 
@@ -10811,7 +10799,7 @@ da sede do juízo ou do tribunal que conceder a ordem, o alvará de soltura ser�
 expedido pelo telégrafo, se houver, observadas as formalidades estabelecidas no
 art. 289, parágrafo único, in fine, ou por via postal.
 
-## Art. 661.
+## Art. 661
 
 Em caso de competência originária do Tribunal de Apelação, a petição
 
@@ -10819,7 +10807,7 @@ de habeas corpus será apresentada ao secretário, que a enviará
 imediatamente ao presidente do tribunal, ou da câmara criminal, ou da turma, que
 estiver reunida, ou primeiro tiver de reunir-se.
 
-## Art. 662.
+## Art. 662
 
 Se a petição contiver os requisitos do
 
@@ -10828,7 +10816,7 @@ o presidente, se necessário, requisitará da autoridade indicada como coatora
 informações por escrito. Faltando, porém, qualquer daqueles requisitos, o
 presidente mandará preenchê-lo, logo que Ihe for apresentada a petição.
 
-## Art. 663.
+## Art. 663
 
 As diligências do artigo anterior não serão ordenadas, se o
 
@@ -10836,7 +10824,7 @@ presidente entender que o habeas corpus deva ser indeferido in limine.
 Nesse caso, levará a petição ao tribunal, câmara ou turma, para que delibere a
 respeito.
 
-## Art. 664.
+## Art. 664
 
 Recebidas as informações, ou dispensadas, o habeas corpus
 
@@ -10847,9 +10835,9 @@ Parágrafo único. A decisão será tomada por maioria de votos. Havendo empate,
 o presidente não tiver tomado parte na votação, proferirá voto de desempate; no
 caso contrário, prevalecerá a decisão mais favorável ao paciente.
 
-## Art. 665.
+## Art. 665
 
-secretário do tribunal lavrará a ordem que, assinada pelo
+O secretário do tribunal lavrará a ordem que, assinada pelo
 
 presidente do tribunal, câmara ou turma, será dirigida, por ofício ou telegrama,
 ao detentor, ao carcereiro ou autoridade que exercer ou ameaçar exercer o
@@ -10858,14 +10846,14 @@ constrangimento.
 Parágrafo único. A ordem transmitida por telegrama obedecerá ao disposto no
 art. 289, parágrafo único, in fine.
 
-## Art. 666.
+## Art. 666
 
-s regimentos dos Tribunais de Apelação estabelecerão as normas
+Os regimentos dos Tribunais de Apelação estabelecerão as normas
 
 complementares para o processo e julgamento do pedido de habeas corpus de
 sua competência originária.
 
-## Art. 667.
+## Art. 667
 
 No processo e julgamento do habeas corpus de competência
 
@@ -10878,7 +10866,7 @@ regimento interno do tribunal estabelecer as regras complementares.
 
 # TÍTULO I
 
-## Art. 668.
+## Art. 668
 
 A execução, onde não houver juiz especial, incumbirá ao juiz da
 
@@ -10887,7 +10875,7 @@ sentença, ou, se a decisão for do Tribunal do Júri, ao seu presidente.
 Parágrafo único. Se a decisão for de tribunal superior, nos casos de sua
 competência originária, caberá ao respectivo presidente prover-lhe a execução.
 
-## Art. 669.
+## Art. 669
 
 Só depois de passar em julgado, será exeqüível a sentença, salvo:
 
@@ -10898,18 +10886,18 @@ II - quando absolutória, para o fim de imediata soltura do réu, desde que não
 proferida em processo por crime a que a lei comine pena de reclusão, no máximo,
 por tempo igual ou superior a oito anos.
 
-## Art. 670.
+## Art. 670
 
 No caso de decisão absolutória confirmada ou proferida em grau de
 
 apelação, incumbirá ao relator fazer expedir o alvará de soltura, de que dará
 imediatamente conhecimento ao juiz de primeira instância.
 
-## Art. 671.
+## Art. 671
 
-s incidentes da execução serão resolvidos pelo respectivo juiz.
+Os incidentes da execução serão resolvidos pelo respectivo juiz.
 
-## Art. 672.
+## Art. 672
 
 Computar-se-á na pena privativa da liberdade o tempo:
 
@@ -10919,7 +10907,7 @@ II - de prisão provisória no Brasil ou no estrangeiro;
 
 III - de internação em hospital ou manicômio.
 
-## Art. 673.
+## Art. 673
 
 Verificado que o réu, pendente a apelação por ele interposta, já
 
@@ -10933,7 +10921,7 @@ houver apelado da sentença condenatória.
 
 # CAPÍTULO I
 
-## Art. 674.
+## Art. 674
 
 Transitando em julgado a sentença que impuser pena privativa de
 
@@ -10943,7 +10931,7 @@ expedição de carta de guia para o cumprimento da pena.
 Parágrafo único. Na hipótese do art. 82, última parte, a expedição da carta de
 guia será ordenada pelo juiz competente para a soma ou unificação das penas.
 
-## Art. 675.
+## Art. 675
 
 No caso de ainda não ter sido expedido mandado de prisão, por
 
@@ -10962,7 +10950,7 @@ o disposto na legislação relativa aos militares, ser expedida ordem para sua
 imediata remoção para prisão comum, até que se verifique a expedição de carta de
 guia para o cumprimento da pena.
 
-## Art. 676.
+## Art. 676
 
 A carta de guia, extraída pelo escrivão e assinada pelo juiz, que a
 
@@ -10982,42 +10970,42 @@ estiver cumprindo outra, só depois de terminada a execução desta será aquela
 executada. Retificar-se-á a carta de guia sempre que sobrevenha modificação
 quanto ao início da execução ou ao tempo de duração da pena.
 
-## Art. 677.
+## Art. 677
 
 Da carta de guia e seus aditamentos se remeterá cópia ao Conselho
 
 Penitenciário.
 
-## Art. 678.
+## Art. 678
 
-diretor do estabelecimento, em que o réu tiver de cumprir a pena,
+O diretor do estabelecimento, em que o réu tiver de cumprir a pena,
 
 passará recibo da carta de guia para juntar-se aos autos do processo.
 
-## Art. 679.
+## Art. 679
 
 As cartas de guia serão registradas em livro especial, segundo a
 
 ordem cronológica do recebimento, fazendo-se no curso da execução as anotações
 necessárias.
 
-## Art. 680.
+## Art. 680
 
 Computar-se-á no tempo da pena o período em que o condenado, por
 
 sentença irrecorrível, permanecer preso em estabelecimento diverso do destinado
 ao cumprimento dela.
 
-## Art. 681.
+## Art. 681
 
 Se impostas cumulativamente penas privativas da liberdade, será
 
 executada primeiro a de reclusão, depois a de detenção e por último a de prisão
 simples.
 
-## Art. 682.
+## Art. 682
 
-sentenciado a que sobrevier doença mental, verificada por perícia
+O sentenciado a que sobrevier doença mental, verificada por perícia
 
 médica, será internado em manicômio judiciário, ou, à falta, em outro
 estabelecimento adequado, onde Ihe seja assegurada a custódia.
@@ -11032,22 +11020,22 @@ restante da pena e não houver sido imposta medida de segurança detentiva, o
 indivíduo terá o destino aconselhado pela sua enfermidade, feita a devida
 comunicação ao juiz de incapazes.
 
-## Art. 683.
+## Art. 683
 
-diretor da prisão a que o réu tiver sido recolhido provisoriamente
+O diretor da prisão a que o réu tiver sido recolhido provisoriamente
 
 ou em cumprimento de pena comunicará imediatamente ao juiz o óbito, a fuga ou a
 soltura do detido ou sentenciado para que fique constando dos autos.
 
 Parágrafo único. A certidão de óbito acompanhará a comunicação.
 
-## Art. 684.
+## Art. 684
 
 A recaptura do réu evadido não depende de prévia ordem judicial e
 
 poderá ser efetuada por qualquer pessoa.
 
-## Art. 685.
+## Art. 685
 
 Cumprida ou extinta a pena, o condenado será posto, imediatamente, em
 
@@ -11059,7 +11047,7 @@ condenado será removido para estabelecimento adequado (art. 762).
 
 # CAPÍTULO II
 
-## Art. 686.
+## Art. 686
 
 A pena de multa será paga dentro em 10 dias após haver transitado em
 
@@ -11068,9 +11056,9 @@ julgado a sentença que a impuser.
 Parágrafo único. Se interposto recurso da sentença, esse prazo será contado do
 dia em que o juiz ordenar o cumprimento da decisão da superior instância.
 
-## Art. 687.
+## Art. 687
 
-juiz poderá, desde que o condenado o requeira:
+O juiz poderá, desde que o condenado o requeira:
 
 I - prorrogar o prazo do pagamento da multa até três meses, se as circunstâncias
 justificarem essa prorrogação;
@@ -11091,7 +11079,7 @@ em valor monetário, devolvendo-se ao condenado o que exceder à satisfação da
 multa e das custas processuais. (Redação
 dada pela Lei nº 6.416, de 24.5.1977)
 
-## Art. 688.
+## Art. 688
 
 Findo o decêndio ou a prorrogação sem que o condenado efetue o
 
@@ -11136,7 +11124,7 @@ federal, como receita do selo penitenciário.
 § 4o As quantias descontadas em folha de pagamento de
 funcionário federal constituirão renda do selo penitenciário.
 
-## Art. 689.
+## Art. 689
 
 A multa será convertida, à razão de dez mil-réis por dia, em detenção
 
@@ -11164,9 +11152,9 @@ Na hipótese do inciso II deste artigo, a conversão será feita pelo valor das
 parcelas não pagas.
 (Incluído pela Lei nº 6.416, de 24.5.1977)
 
-## Art. 690.
+## Art. 690
 
-juiz tornará sem efeito a conversão, expedindo alvará de soltura ou
+O juiz tornará sem efeito a conversão, expedindo alvará de soltura ou
 
 cassando a ordem de prisão, se o condenado, em qualquer tempo:
 
@@ -11179,28 +11167,28 @@ caução, será ouvido o Ministério Público dentro do prazo de dois dias.
 
 # CAPÍTULO III
 
-## Art. 691.
+## Art. 691
 
-juiz dará à autoridade administrativa competente conhecimento da
+O juiz dará à autoridade administrativa competente conhecimento da
 
 sentença transitada em julgado, que impuser ou de que resultar a perda da função
 pública ou a incapacidade temporária para investidura em função pública ou para
 exercício de profissão ou atividade.
 
-## Art. 692.
+## Art. 692
 
 No caso de incapacidade temporária ou permanente para o exercício do
 
 pátrio poder, da tutela ou da curatela, o juiz providenciará para que sejam
 acautelados, no juízo competente, a pessoa e os bens do menor ou do interdito.
 
-## Art. 693.
+## Art. 693
 
 A incapacidade permanente ou temporária para o exercício da
 
 autoridade marital ou do pátrio poder será averbada no registro civil.
 
-## Art. 694.
+## Art. 694
 
 As penas acessórias consistentes em interdições de direitos serão
 
@@ -11208,7 +11196,7 @@ comunicadas ao Instituto de Identificação e Estatística ou estabelecimento
 congênere, figurarão na folha de antecedentes do condenado e serão mencionadas
 no rol de culpados.
 
-## Art. 695.
+## Art. 695
 
 Iniciada a execução das interdições temporárias (art. 72,
 
@@ -11220,9 +11208,9 @@ providências determinadas nos artigos anteriores.
 
 # CAPÍTULO I
 
-## Art. 696.
+## Art. 696
 
-juiz poderá suspender, por tempo não inferior a 2 (dois) nem
+O juiz poderá suspender, por tempo não inferior a 2 (dois) nem
 
 superior a 6 (seis) anos, a execução das penas de reclusão e de detenção que não
 excedam a 2 (dois) anos, ou, por tempo não inferior a 1 (um) nem superior a 3
@@ -11240,15 +11228,15 @@ Parágrafo único. Processado o beneficiário por outro crime ou contravenção,
 considerar-se-á prorrogado o prazo da suspensão da pena até o julgamento
 definitivo.
 
-## Art. 697.
+## Art. 697
 
-juiz ou tribunal, na decisão que aplicar pena privativa da liberdade
+O juiz ou tribunal, na decisão que aplicar pena privativa da liberdade
 
 não superior a 2 (dois) anos, deverá pronunciar-se, motivadamente, sobre a
 suspensão condicional, quer a conceda quer a denegue.
 (Redação dada pela Lei nº 6.416, de 24.5.1977)
 
-## Art. 698.
+## Art. 698
 
 Concedida a suspensão, o juiz especificará as condições a que fica
 
@@ -11314,39 +11302,39 @@ apresentar-se imediatamente.
 (Incluído pela
 Lei nº 6.416, de 24.5.1977)
 
-## Art. 699.
+## Art. 699
 
 No caso de condenação pelo Tribunal do Júri, a suspensão condicional
 
 da pena competirá ao seu presidente.
 
-## Art. 700.
+## Art. 700
 
 A suspensão não compreende a multa, as penas acessórias, os efeitos
 
 da condenação nem as custas.
 
-## Art. 701.
+## Art. 701
 
-juiz, ao conceder a suspensão, fixará, tendo em conta as condições
+O juiz, ao conceder a suspensão, fixará, tendo em conta as condições
 
 econômicas ou profissionais do réu, o prazo para o pagamento, integral ou em
 prestações, das custas do processo e taxa penitenciária.
 
-## Art. 702.
+## Art. 702
 
 Em caso de co-autoria, a suspensão poderá ser concedida a uns e
 
 negada a outros réus.
 
-## Art. 703.
+## Art. 703
 
-juiz que conceder a suspensão lerá ao réu, em audiência, a sentença
+O juiz que conceder a suspensão lerá ao réu, em audiência, a sentença
 
 respectiva, e o advertirá das conseqüências de nova infração penal e da
 transgressão das obrigações impostas.
 
-## Art. 704.
+## Art. 704
 
 Quando for concedida a suspensão pela superior instância, a esta
 
@@ -11354,7 +11342,7 @@ caberá estabelecer-lhe as condições, podendo a audiência ser presidida por
 qualquer membro do tribunal ou câmara, pelo juiz do processo ou por outro
 designado pelo presidente do tribunal ou câmara.
 
-## Art. 705.
+## Art. 705
 
 Se, intimado pessoalmente ou por edital com prazo de 20 dias, o réu
 
@@ -11362,13 +11350,13 @@ não comparecer à audiência a que se refere o art. 703, a suspensão ficará s
 efeito e será executada imediatamente a pena, salvo prova de justo impedimento,
 caso em que será marcada nova audiência.
 
-## Art. 706.
+## Art. 706
 
 A suspensão também ficará sem efeito se, em virtude de recurso, for
 
 aumentada a pena de modo que exclua a concessão do benefício. (Redação dada pela Lei nº 6.416, de 24.5.1977)
 
-## Art. 707.
+## Art. 707
 
 A suspensão será revogada se o beneficiário:
 
@@ -11393,7 +11381,7 @@ condições ou, ainda, prorrogar o período da suspensão até o máximo, se ess
 limite não foi o fixado. (Redação dada pela
 Lei nº 6.416, de 24.5.1977)
 
-## Art. 708.
+## Art. 708
 
 Expirado o prazo de suspensão ou a prorrogação, sem que tenha
 
@@ -11403,7 +11391,7 @@ extinta.
 Parágrafo único. O juiz, quando julgar necessário, requisitará, antes do
 julgamento, nova folha de antecedentes do beneficiário.
 
-## Art. 709.
+## Art. 709
 
 A condenação será inscrita, com a nota de suspensão, em livros
 
@@ -11425,9 +11413,9 @@ em interdição de direitos.
 
 # CAPÍTULO II
 
-## Art. 710.
+## Art. 710
 
-livramento condicional poderá ser concedido ao condenado a pena
+O livramento condicional poderá ser concedido ao condenado a pena
 
 privativa da liberdade igual ou superior a 2 (dois) anos, desde que se
 verifiquem as condições seguintes:
@@ -11449,7 +11437,7 @@ dano causado pela infração, salvo impossibilidade de fazê-lo.
 (Redação
 dada pela Lei nº 6.416, de 24.5.1977)
 
-## Art. 711.
+## Art. 711
 
 As penas que correspondem a infrações diversas podem somar-se, para
 
@@ -11457,25 +11445,25 @@ efeito do livramento.
 (Redação dada pela Lei
 nº 6.416, de 24.5.1977)
 
-## Art. 712.
+## Art. 712
 
-livramento condicional poderá
+O livramento condicional poderá
 
 ser concedido mediante requerimento do sentenciado, de seu cônjuge ou de parente
 em linha reta, ou por proposta do diretor do estabelecimento penal, ou por
 iniciativa do Conselho Penitenciário. (Redação dada pelo
 Decreto-lei nº 6.109, de 16.12.1943)
 
-## Art. 713.
+## Art. 713
 
 As condições de admissibilidade, conveniência e oportunidade da
 
 concessão do livramento serão verificadas pelo Conselho Penitenciário, a cujo
 parecer não ficará, entretanto, adstrito o juiz.
 
-## Art. 714.
+## Art. 714
 
-diretor do estabelecimento penal remeterá ao Conselho Penitenciário
+O diretor do estabelecimento penal remeterá ao Conselho Penitenciário
 
 minucioso relatório sobre:
 
@@ -11498,7 +11486,7 @@ Parágrafo único. O relatório será, dentro do prazo de quinze dias, remetido 
 Conselho, com o prontuário do sentenciado, e, na falta, o Conselho opinará
 livremente, comunicando à autoridade competente a omissão do diretor da prisão.
 
-## Art. 715.
+## Art. 715
 
 Se tiver sido imposta medida de segurança detentiva, o livramento não
 
@@ -11508,7 +11496,7 @@ sentenciado, a cessação da periculosidade.
 Parágrafo único. Consistindo a medida de segurança em internação em casa de
 custódia e tratamento, proceder-se-á a exame mental do sentenciado.
 
-## Art. 716.
+## Art. 716
 
 A petição ou a proposta de livramento será remetida ao juiz ou ao
 
@@ -11522,13 +11510,13 @@ diligências e requisitar os autos do processo.
 proposta, com o ofício ou documento que a acompanhar, aos autos do processo, e
 proferirá sua decisão, previamente ouvido o Ministério Público.
 
-## Art. 717.
+## Art. 717
 
 Na ausência da condição prevista no art. 710, I, o
 
 requerimento será liminarmente indeferido. (Redação dada pela Lei nº 6.416, de 24.5.1977)
 
-## Art. 718.
+## Art. 718
 
 Deferido o pedido, o juiz, ao especificar as condições a que ficará
 
@@ -11548,9 +11536,9 @@ O liberado será advertido da obrigação de apresentar-se imediatamente à
 autoridade judiciária e à entidade de observação cautelar e proteção.
 Redação dada pela Lei nº 6.416, de 24.5.1977)
 
-## Art. 719.
+## Art. 719
 
-livramento ficará também subordinado à
+O livramento ficará também subordinado à
 
 obrigação de pagamento das custas do processo e da taxa penitenciária, salvo
 caso de insolvência comprovada.
@@ -11559,27 +11547,27 @@ Parágrafo único. O juiz poderá fixar o prazo para o pagamento integral ou em
 prestações, tendo em consideração as condições econômicas ou profissionais do
 liberado.
 
-## Art. 720.
+## Art. 720
 
 A forma de pagamento da multa, ainda não paga
 
 pelo liberando, será determinada de acordo com o disposto no art. 688.
 
-## Art. 721.
+## Art. 721
 
 Reformada a sentença denegatória do livramento,
 
 os autos baixarão ao juiz da primeira instância, a fim de que determine as
 condições que devam ser impostas ao liberando.
 
-## Art. 722.
+## Art. 722
 
 Concedido o livramento, será expedida carta de
 
 guia, com a cópia integral da sentença em duas vias, remetendo-se uma ao diretor
 do estabelecimento penal e outra ao presidente do Conselho Penitenciário.
 
-## Art. 723.
+## Art. 723
 
 A cerimônia do livramento condicional será
 
@@ -11602,7 +11590,7 @@ souber ou não puder escrever.
 
 § 2o Desse termo, se remeterá cópia ao juiz do processo.
 
-## Art. 724.
+## Art. 724
 
 Ao sair da prisão o liberado, ser-lhe-á
 
@@ -11632,7 +11620,7 @@ possam identificá-lo.
 Na caderneta e no salvo-conduto deve haver espaço para consignar o cumprimento
 das condições referidas no art. 718. (Incluído pela Lei nº 6.416, de 24.5.1977)
 
-## Art. 725.
+## Art. 725
 
 A observação cautelar e proteção realizadas por serviço social
 
@@ -11658,16 +11646,16 @@ prevista nos arts. 730 e 731.
 (Redação dada
 pela Lei nº 6.416, de 24.5.1977)
 
-## Art. 726.
+## Art. 726
 
 Revogar-se-á o livramento condicional, se o liberado vier, por crime
 
 ou contravenção, a ser condenado por sentença irrecorrível a pena privativa de
 liberdade.
 
-## Art. 727.
+## Art. 727
 
-juiz pode, também, revogar o livramento, se o liberado deixar de
+O juiz pode, também, revogar o livramento, se o liberado deixar de
 
 cumprir qualquer das obrigações constantes da sentença, de observar proibições
 inerentes à pena acessória ou for irrecorrivelmente condenado, por crime, à pena
@@ -11680,7 +11668,7 @@ exacerbar as condições.
 (Incluído pela Lei nº
 6.416, de 24.5.1977)
 
-## Art. 728.
+## Art. 728
 
 Se a revogação for motivada por infração penal anterior à vigência do
 
@@ -11688,14 +11676,14 @@ livramento, computar-se-á no tempo da pena o período em que esteve solto o
 liberado, sendo permitida, para a concessão de novo livramento, a soma do tempo
 das duas penas.
 
-## Art. 729.
+## Art. 729
 
 No caso de revogação por outro motivo, não se computará na pena o
 
 tempo em que esteve solto o liberado, e tampouco se concederá, em relação à
 mesma pena, novo livramento.
 
-## Art. 730.
+## Art. 730
 
 A revogação do livramento será decretada mediante representação do
 
@@ -11703,9 +11691,9 @@ Conselho Penitenciário, ou a requerimento do Ministério Público, ou de ofíci
 pelo juiz, que, antes, ouvirá o liberado, podendo ordenar diligências e permitir
 a produção de prova, no prazo de cinco dias. (Redação dada pela Lei nº 6.416, de 24.5.1977)
 
-## Art. 731.
+## Art. 731
 
-juiz, de ofício, a requerimento do Ministério Público, ou mediante
+O juiz, de ofício, a requerimento do Ministério Público, ou mediante
 
 representação do Conselho Penitenciário, poderá modificar as condições ou normas
 de conduta especificadas na sentença, devendo a respectiva decisão ser lida ao
@@ -11716,7 +11704,7 @@ e 2o do mesmo artigo.
 (Redação
 dada pela Lei nº 6.416, de 24.5.1977)
 
-## Art. 732.
+## Art. 732
 
 Praticada pelo liberado nova infração, o juiz ou o tribunal poderá
 
@@ -11724,9 +11712,9 @@ ordenar a sua prisão, ouvido o Conselho Penitenciário, suspendendo o curso do
 livramento condicional, cuja revogação ficará, entretanto, dependendo da decisão
 final no novo processo.
 
-## Art. 733.
+## Art. 733
 
-juiz, de ofício, ou a requerimento do interessado, do Ministério
+O juiz, de ofício, ou a requerimento do interessado, do Ministério
 
 Público, ou do Conselho Penitenciário, julgará extinta a pena privativa de
 liberdade, se expirar o prazo do livramento sem revogação, ou na hipótese do
@@ -11736,7 +11724,7 @@ artigo anterior, for o liberado absolvido por sentença irrecorrível.
 
 # CAPÍTULO I
 
-## Art. 734.
+## Art. 734
 
 A graça poderá ser provocada por petição do condenado, de qualquer
 
@@ -11744,16 +11732,16 @@ pessoa do povo, do Conselho Penitenciário, ou do Ministério Público, ressalva
 entretanto, ao Presidente da República, a faculdade de concedê-la
 espontaneamente.
 
-## Art. 735.
+## Art. 735
 
 A petição de graça, acompanhada dos documentos com que o impetrante a
 
 instruir, será remetida ao ministro da Justiça por intermédio do Conselho
 Penitenciário.
 
-## Art. 736.
+## Art. 736
 
-Conselho Penitenciário, à vista dos autos do
+O Conselho Penitenciário, à vista dos autos do
 
 processo, e depois de ouvir o diretor do estabelecimento penal a que estiver
 recolhido o condenado, fará, em relatório, a narração do fato criminoso,
@@ -11762,7 +11750,7 @@ petição e exporá os antecedentes do condenado e seu procedimento depois de
 preso, opinando sobre o mérito do pedido.
 (Vide Lei nº 7.417, de 1985)
 
-## Art. 737.
+## Art. 737
 
 Processada no Ministério da Justiça, com os documentos e o relatório
 
@@ -11770,31 +11758,31 @@ do Conselho Penitenciário, a petição subirá a despacho do Presidente da
 República, a quem serão presentes os autos do processo ou a certidão de qualquer
 de suas peças, se ele o determinar.
 
-## Art. 738.
+## Art. 738
 
 Concedida a graça e junta aos autos cópia do decreto, o juiz
 
 declarará extinta a pena ou penas, ou ajustará a execução aos termos do decreto,
 no caso de redução ou comutação de pena.
 
-## Art. 739.
+## Art. 739
 
-condenado poderá recusar a comutação da pena.
+O condenado poderá recusar a comutação da pena.
 
-## Art. 740.
+## Art. 740
 
-s autos da petição de graça serão arquivados no Ministério da
+Os autos da petição de graça serão arquivados no Ministério da
 
 Justiça.
 
-## Art. 741.
+## Art. 741
 
 Se o réu for beneficiado por indulto, o juiz, de ofício ou a
 
 requerimento do interessado, do Ministério Público ou por iniciativa do Conselho
 Penitenciário, providenciará de acordo com o disposto no art. 738.
 
-## Art. 742.
+## Art. 742
 
 Concedida a anistia após transitar em julgado a sentença
 
@@ -11803,7 +11791,7 @@ Público ou por iniciativa do Conselho Penitenciário, declarará extinta a pena
 
 # CAPÍTULO II
 
-## Art. 743.
+## Art. 743
 
 A reabilitação será requerida ao juiz da condenação, após o decurso
 
@@ -11812,9 +11800,9 @@ reincidente, contados do dia em que houver terminado a execução da pena
 principal ou da medida de segurança detentiva, devendo o requerente indicar as
 comarcas em que haja residido durante aquele tempo.
 
-## Art. 744.
+## Art. 744
 
-requerimento será instruído com:
+O requerimento será instruído com:
 
 I - certidões comprobatórias de não ter o requerente respondido, nem estar
 respondendo a processo penal, em qualquer das comarcas em que houver residido
@@ -11831,38 +11819,38 @@ IV - quaisquer outros documentos que sirvam como prova de sua regeneração;
 V - prova de haver ressarcido o dano causado pelo crime ou persistir a
 impossibilidade de fazê-lo.
 
-## Art. 745.
+## Art. 745
 
-juiz poderá ordenar as diligências necessárias para apreciação do
+O juiz poderá ordenar as diligências necessárias para apreciação do
 
 pedido, cercando-as do sigilo possível e, antes da decisão final, ouvirá o
 Ministério Público.
 
-## Art. 746.
+## Art. 746
 
 Da decisão que conceder a reabilitação haverá recurso de ofício.
 
-## Art. 747.
+## Art. 747
 
 A reabilitação, depois de sentença irrecorrível, será comunicada ao
 
 Instituto de Identificação e Estatística ou repartição congênere.
 
-## Art. 748.
+## Art. 748
 
 A condenação ou condenações anteriores não serão mencionadas na folha
 
 de antecedentes do reabilitado, nem em certidão extraída dos livros do juízo,
 salvo quando requisitadas por juiz criminal.
 
-## Art. 749.
+## Art. 749
 
 Indeferida a reabilitação, o condenado não poderá renovar o pedido
 
 senão após o decurso de dois anos, salvo se o indeferimento tiver resultado de
 falta ou insuficiência de documentos.
 
-## Art. 750.
+## Art. 750
 
 A revogação de reabilitação (Código Penal, art. 120) será decretada
 
@@ -11870,7 +11858,7 @@ pelo juiz, de ofício ou a requerimento do Ministério Público.
 
 # TÍTULO V
 
-## Art. 751.
+## Art. 751
 
 Durante a execução da pena ou durante o tempo em que a ela se furtar
 
@@ -11889,7 +11877,7 @@ do condenado;
 II - tendo sido, expressamente, excluída na sentença a periculosidade do
 condenado, novos fatos demonstrarem ser ele perigoso.
 
-## Art. 752.
+## Art. 752
 
 Poderá ser imposta medida de segurança, depois de transitar em
 
@@ -11901,14 +11889,14 @@ como no da letra b, se tiver sido alegada a periculosidade;
 
 II - no caso da letra c do no I do mesmo artigo.
 
-## Art. 753.
+## Art. 753
 
 Ainda depois de transitar em julgado a sentença absolutória, poderá
 
 ser imposta a medida de segurança, enquanto não decorrido tempo equivalente ao
 da sua duração mínima, a indivíduo que a lei presuma perigoso.
 
-## Art. 754.
+## Art. 754
 
 A aplicação da medida de segurança, nos casos previstos nos
 
@@ -11917,7 +11905,7 @@ e 752, competirá ao juiz da execução da pena, e, no caso do
 art. 753, ao juiz da
 sentença.
 
-## Art. 755.
+## Art. 755
 
 A imposição da medida de segurança, nos casos dos
 
@@ -11928,7 +11916,7 @@ Parágrafo único. O diretor do estabelecimento penal, que tiver conhecimento de
 fatos indicativos da periculosidade do condenado a quem não tenha sido imposta
 medida de segurança, deverá logo comunicá-los ao juiz.
 
-## Art. 756.
+## Art. 756
 
 Nos casos do
 
@@ -11936,7 +11924,7 @@ no I, a e b, do
 art. 751, e no I do art. 752, poderá ser dispensada nova
 audiência do condenado.
 
-## Art. 757.
+## Art. 757
 
 Nos casos do
 
@@ -11955,13 +11943,13 @@ requerido pelo Ministério Público.
 § 3o Findo o prazo de provas, o juiz proferirá a sentença
 dentro de três dias.
 
-## Art. 758.
+## Art. 758
 
 A execução da medida de segurança incumbirá ao juiz da execução da
 
 sentença.
 
-## Art. 759.
+## Art. 759
 
 No caso do
 
@@ -11969,7 +11957,7 @@ art. 753, o juiz ouvirá o curador já nomeado ou que então
 nomear, podendo mandar submeter o condenado a exame mental, internando-o, desde
 logo, em estabelecimento adequado.
 
-## Art. 760.
+## Art. 760
 
 Para a verificação da periculosidade, no caso do
 
@@ -11978,7 +11966,7 @@ do art. 78 do Código Penal, observar-se-á o disposto no
 art. 757, no que for
 aplicável.
 
-## Art. 761.
+## Art. 761
 
 Para a providência determinada no
 
@@ -11987,7 +11975,7 @@ se as sentenças forem proferidas por juízes diferentes, será competente o jui
 que tiver sentenciado por último ou a autoridade de jurisdição prevalente no
 caso do art. 82.
 
-## Art. 762.
+## Art. 762
 
 A ordem de internação, expedida para executar-se medida de segurança
 
@@ -11999,15 +11987,15 @@ II - o teor da decisão que tiver imposto a medida de segurança;
 
 III - a data em que terminará o prazo mínimo da internação.
 
-## Art. 763.
+## Art. 763
 
 Se estiver solto o internando, expedir-se-á mandado de captura, que
 
 será cumprido por oficial de justiça ou por autoridade policial.
 
-## Art. 764.
+## Art. 764
 
-trabalho nos estabelecimentos referidos no
+O trabalho nos estabelecimentos referidos no
 
 art. 88, § 1o, III, do Código
 Penal, será educativo e remunerado, de modo que assegure ao internado meios
@@ -12018,22 +12006,22 @@ de subsistência, quando cessar a internação.
 § 2o Nos outros estabelecimentos, o trabalho dependerá das
 condições pessoais do internado.
 
-## Art. 765.
+## Art. 765
 
 A quarta parte do salário caberá ao Estado ou, no Distrito Federal e
 
 nos Territórios, à União, e o restante será depositado em nome do internado ou,
 se este preferir, entregue à sua família.
 
-## Art. 766.
+## Art. 766
 
 A internação das mulheres será feita em estabelecimento próprio ou em
 
 seção especial.
 
-## Art. 767.
+## Art. 767
 
-juiz fixará as normas de conduta que serão observadas durante a
+O juiz fixará as normas de conduta que serão observadas durante a
 
 liberdade vigiada.
 
@@ -12060,26 +12048,26 @@ espetáculos ou diversões públicas.
 § 3o Será entregue ao indivíduo sujeito à liberdade vigiada
 uma caderneta, de que constarão as obrigações impostas.
 
-## Art. 768.
+## Art. 768
 
 As obrigações estabelecidas na sentença serão comunicadas à
 
 autoridade policial.
 
-## Art. 769.
+## Art. 769
 
 A vigilância será exercida discretamente, de modo que não prejudique
 
 o indivíduo a ela sujeito.
 
-## Art. 770.
+## Art. 770
 
 Mediante representação da autoridade incumbida da vigilância, a
 
 requerimento do Ministério Público ou de ofício, poderá o juiz modificar as
 normas fixadas ou estabelecer outras.
 
-## Art. 771.
+## Art. 771
 
 Para execução do exílio local, o juiz comunicará sua decisão à
 
@@ -12095,19 +12083,19 @@ policial providencie a fim de que o infrator siga imediatamente para o lugar de
 residência por ele escolhido, e oficiará à autoridade policial desse lugar,
 observando-se o disposto no art. 768.
 
-## Art. 772.
+## Art. 772
 
 A proibição de freqüentar determinados lugares será comunicada pelo
 
 juiz à autoridade policial, que Ihe dará conhecimento de qualquer transgressão.
 
-## Art. 773.
+## Art. 773
 
 A medida de fechamento de estabelecimento ou de interdição de
 
 associação será comunicada pelo juiz à autoridade policial, para que a execute.
 
-## Art. 774.
+## Art. 774
 
 Nos casos do parágrafo único do
 
@@ -12115,7 +12103,7 @@ art. 83 do Código Penal, ou quando a
 transgressão de uma medida de segurança importar a imposição de outra,
 observar-se-á o disposto no art. 757, no que for aplicável.
 
-## Art. 775.
+## Art. 775
 
 A cessação ou não da periculosidade se verificará ao fim do prazo
 
@@ -12154,7 +12142,7 @@ medida de segurança;
 VIII - ouvidas as partes ou realizadas as diligências a que se refere o número
 anterior o juiz proferirá a sua decisão, no prazo de três dias.
 
-## Art. 776.
+## Art. 776
 
 Nos exames sucessivos a que se referem o
 
@@ -12162,7 +12150,7 @@ Nos exames sucessivos a que se referem o
 § 2o do art. 81 do Código Penal, observar-se-á, no que
 Ihes for aplicável, o disposto no artigo anterior.
 
-## Art. 777.
+## Art. 777
 
 Em qualquer tempo, ainda durante o prazo mínimo de duração da medida
 
@@ -12181,16 +12169,16 @@ no
 IV do mesmo artigo, prosseguindo de acordo com o disposto nos outros incisos do
 citado artigo.
 
-## Art. 778.
+## Art. 778
 
 Transitando em julgado a sentença de revogação, o juiz expedirá ordem
 
 para a desinternação, quando se tratar de medida detentiva, ou para que cesse a
 vigilância ou a proibição, nos outros casos.
 
-## Art. 779.
+## Art. 779
 
-confisco dos instrumentos e produtos do crime, no caso previsto no
+O confisco dos instrumentos e produtos do crime, no caso previsto no
 
 art. 100 do Código Penal, será decretado no despacho de arquivamento do
 inquérito, na sentença de impronúncia ou na sentença absolutória.
@@ -12201,7 +12189,7 @@ inquérito, na sentença de impronúncia ou na sentença absolutória.
 
 # CAPÍTULO I
 
-## Art. 780.
+## Art. 780
 
 Sem prejuízo de convenções ou tratados, aplicar-se-á o disposto neste
 
@@ -12209,28 +12197,28 @@ Título à homologação de sentenças penais estrangeiras e à expedição e ao
 cumprimento de cartas rogatórias para citações, inquirições e outras diligências
 necessárias à instrução de processo penal.
 
-## Art. 781.
+## Art. 781
 
 As sentenças estrangeiras não serão homologadas, nem as cartas
 
 rogatórias cumpridas, se contrárias à ordem pública e aos bons costumes.
 
-## Art. 782.
+## Art. 782
 
-trânsito, por via diplomática, dos documentos apresentados
+O trânsito, por via diplomática, dos documentos apresentados
 
 constituirá prova bastante de sua autenticidade.
 
 # CAPÍTULO II
 
-## Art. 783.
+## Art. 783
 
 As cartas rogatórias serão, pelo respectivo juiz, remetidas ao
 
 Ministro da Justiça, a fim de ser pedido o seu cumprimento, por via diplomática,
 às autoridades estrangeiras competentes.
 
-## Art. 784.
+## Art. 784
 
 As cartas rogatórias emanadas de autoridades estrangeiras competentes
 
@@ -12255,7 +12243,7 @@ quem incumbirá o pagamento das despesas.
 § 4o Ficará sempre na secretaria do Supremo Tribunal Federal
 cópia da carta rogatória.
 
-## Art. 785.
+## Art. 785
 
 Concluídas as diligências, a carta rogatória será devolvida ao
 
@@ -12263,9 +12251,9 @@ presidente do Supremo Tribunal Federal, por intermédio do presidente do Tribuna
 de Apelação, o qual, antes de devolvê-la, mandará completar qualquer diligência
 ou sanar qualquer nulidade.
 
-## Art. 786.
+## Art. 786
 
-despacho que conceder o exequatur marcará, para o
+O despacho que conceder o exequatur marcará, para o
 
 cumprimento da diligência, prazo razoável, que poderá ser excedido, havendo
 justa causa, ficando esta consignada em ofício dirigido ao presidente do Supremo
@@ -12273,7 +12261,7 @@ Tribunal Federal, juntamente com a carta rogatória.
 
 # CAPÍTULO III
 
-## Art. 787.
+## Art. 787
 
 As sentenças estrangeiras deverão ser previamente homologadas pelo
 
@@ -12281,7 +12269,7 @@ Supremo Tribunal Federal para que produzam os efeitos do
 art. 7o
 do Código Penal.
 
-## Art. 788.
+## Art. 788
 
 A sentença penal estrangeira será homologada, quando a aplicação da
 
@@ -12300,9 +12288,9 @@ IV - estar devidamente autenticada por cônsul brasileiro;
 
 V - estar acompanhada de tradução, feita por tradutor público.
 
-## Art. 789.
+## Art. 789
 
-procurador-geral da República, sempre que tiver conhecimento da
+O procurador-geral da República, sempre que tiver conhecimento da
 
 existência de sentença penal estrangeira, emanada de Estado que tenha com o
 Brasil tratado de extradição e que haja imposto medida de segurança pessoal ou
@@ -12341,9 +12329,9 @@ aplicação da medida de segurança ou da pena acessória, observadas as disposi
 do Título II, Capítulo III, e
 Título V do Livro IV deste Código.
 
-## Art. 790.
+## Art. 790
 
-interessado na execução de sentença penal estrangeira, para a
+O interessado na execução de sentença penal estrangeira, para a
 
 reparação do dano, restituição e outros efeitos civis, poderá requerer ao
 Supremo Tribunal Federal a sua homologação, observando-se o que a respeito
@@ -12351,14 +12339,14 @@ prescreve o Código de Processo Civil.
 
 # LIVRO VI
 
-## Art. 791.
+## Art. 791
 
 Em todos os juízos e tribunais do crime, além das audiências e
 
 sessões ordinárias, haverá as extraordinárias, de acordo com as necessidades do
 rápido andamento dos feitos.
 
-## Art. 792.
+## Art. 792
 
 As audiências, sessões e os atos processuais serão, em regra,
 
@@ -12376,7 +12364,7 @@ presentes.
 de necessidade, poderão realizar-se na residência do juiz, ou em outra casa por
 ele especialmente designada.
 
-## Art. 793.
+## Art. 793
 
 Nas audiências e nas sessões, os advogados, as partes, os escrivães e
 
@@ -12387,7 +12375,7 @@ processo.
 Parágrafo único. Nos atos da instrução criminal, perante os juízes singulares,
 os advogados poderão requerer sentados.
 
-## Art. 794.
+## Art. 794
 
 A polícia das audiências e das sessões compete aos respectivos juízes
 
@@ -12395,22 +12383,22 @@ ou ao presidente do tribunal, câmara, ou turma, que poderão determinar o que f
 conveniente à manutenção da ordem. Para tal fim, requisitarão força pública, que
 ficará exclusivamente à sua disposição.
 
-## Art. 795.
+## Art. 795
 
-s espectadores das audiências ou das sessões não poderão
+Os espectadores das audiências ou das sessões não poderão
 
 manifestar-se.
 
 Parágrafo único. O juiz ou o presidente fará retirar da sala os desobedientes,
 que, em caso de resistência, serão presos e autuados.
 
-## Art. 796.
+## Art. 796
 
-s atos de instrução ou julgamento prosseguirão com a assistência do
+Os atos de instrução ou julgamento prosseguirão com a assistência do
 
 defensor, se o réu se portar inconvenientemente.
 
-## Art. 797.
+## Art. 797
 
 Excetuadas as sessões de julgamento, que não serão marcadas para
 
@@ -12419,7 +12407,7 @@ período de férias, em domingos e dias feriados. Todavia, os julgamentos
 iniciados em dia útil não se interromperão pela superveniência de feriado ou
 domingo.
 
-## Art. 798.
+## Art. 798
 
 Todos os prazos correrão em cartório e serão contínuos e
 
@@ -12450,7 +12438,7 @@ despacho.
 
 ## Art. 798-A
 
-. Suspende-se o curso do prazo processual nos
+Suspende-se o curso do prazo processual nos
 
 dias compreendidos entre 20 de dezembro e 20 de janeiro, inclusive, salvo nos
 seguintes casos:
@@ -12481,16 +12469,16 @@ hipóteses dos incisos I, II e III do caput deste artigo.
 (Incluído pela Lei nº
 14.365, de 2022)
 
-## Art. 799.
+## Art. 799
 
-escrivão, sob pena de multa de cinqüenta a quinhentos mil-réis e,
+O escrivão, sob pena de multa de cinqüenta a quinhentos mil-réis e,
 
 na reincidência, suspensão até 30 (trinta) dias, executará dentro do prazo de
 dois dias os atos determinados em lei ou ordenados pelo juiz.
 
-## Art. 800.
+## Art. 800
 
-s juízes singulares darão seus despachos e decisões dentro dos
+Os juízes singulares darão seus despachos e decisões dentro dos
 
 prazos seguintes, quando outros não estiverem estabelecidos:
 
@@ -12513,7 +12501,7 @@ juiz exceder por igual tempo os prazos a ele fixados neste Código.
 do Ministério Público no dia em que assinar termo de conclusão ou de vista
 estará sujeito à sanção estabelecida no art. 799.
 
-## Art. 801.
+## Art. 801
 
 Findos os respectivos prazos, os juízes e os órgãos do Ministério
 
@@ -12521,9 +12509,9 @@ Público, responsáveis pelo retardamento, perderão tantos dias de vencimentos
 quantos forem os excedidos. Na contagem do tempo de serviço, para o efeito de
 promoção e aposentadoria, a perda será do dobro dos dias excedidos.
 
-## Art. 802.
+## Art. 802
 
-desconto referido no artigo antecedente far-se-á à vista da
+O desconto referido no artigo antecedente far-se-á à vista da
 
 certidão do escrivão do processo ou do secretário do tribunal, que deverão, de
 ofício, ou a requerimento de qualquer interessado, remetê-la às repartições
@@ -12531,25 +12519,25 @@ encarregadas do pagamento e da contagem do tempo de serviço, sob pena de
 incorrerem, de pleno direito, na multa de quinhentos mil-réis, imposta por
 autoridade fiscal.
 
-## Art. 803.
+## Art. 803
 
 Salvo nos casos expressos em lei, é proibida a retirada de autos do
 
 cartório, ainda que em confiança, sob pena de responsabilidade do escrivão.
 
-## Art. 804.
+## Art. 804
 
 A sentença ou o acórdão, que julgar a ação, qualquer incidente ou
 
 recurso, condenará nas custas o vencido.
 
-## Art. 805.
+## Art. 805
 
 As custas serão contadas e cobradas de acordo com os regulamentos
 
 expedidos pela União e pelos Estados.
 
-## Art. 806.
+## Art. 806
 
 Salvo o caso do
 
@@ -12568,20 +12556,20 @@ deserção do recurso interposto.
 realizar-se em virtude do não-pagamento de custas não implicará a nulidade do
 processo, se a prova de pobreza do acusado só posteriormente foi feita.
 
-## Art. 807.
+## Art. 807
 
-disposto no artigo anterior não obstará à faculdade atribuída ao
+O disposto no artigo anterior não obstará à faculdade atribuída ao
 
 juiz de determinar de ofício inquirição de testemunhas ou outras diligências.
 
-## Art. 808.
+## Art. 808
 
 Na falta ou impedimento do escrivão e seu substituto, servirá pessoa
 
 idônea, nomeada pela autoridade, perante quem prestará compromisso, lavrando o
 respectivo termo.
 
-## Art. 809.
+## Art. 809
 
 A estatística judiciária criminal, a cargo do Instituto de
 
@@ -12632,13 +12620,13 @@ acompanhará o processo, e, depois de passar em julgado a sentença definitiva,
 lançados os dados finais, será enviada ao referido Instituto ou repartição
 congênere.
 
-## Art. 810.
+## Art. 810
 
 Este Código entrará em vigor no dia 1o
 
 de janeiro de 1942.
 
-## Art. 811.
+## Art. 811
 
 Revogam-se as disposições em contrário.
 

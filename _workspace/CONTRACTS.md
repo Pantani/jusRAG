@@ -64,9 +64,11 @@ vinculante/STF RG), stj_repetitive 0.90, stj_summary 0.88, stj_case_law 0.75, tj
 doctrine 0.40, blog 0.20, unknown 0.10.
 `tier_for_statute` mapeia `norm_type`→tier: `constituicao`→CONSTITUTION (1.00);
 `_FEDERAL_LAW_NORMS = {lei, lei_complementar, decreto_lei, medida_provisoria}`→FEDERAL_LAW (0.95).
-**decreto_lei (CP/CPP/CLT) cai em FEDERAL_LAW, não em tier infralegal** (Fase A). Demais norm não-vazios
-→FEDERAL_LAW; vazio→UNKNOWN. `legal_ranker.authority_for_payload` (dono: retrieval) já espelha:
-norm não-vazio≠constituição → FEDERAL_LAW, logo decreto_lei já resolve 0.95 sem alteração lá.
+**decreto_lei (CP/CPP/CLT) cai em FEDERAL_LAW, não em tier infralegal** (Fase A). Regra ESTRITA:
+APENAS `norm_type ∈ _FEDERAL_LAW_NORMS`→FEDERAL_LAW (0.95). Qualquer outro valor não-vazio
+(typo, infralegal como `portaria`/`decreto`) e vazio→UNKNOWN (0.10) — `_FEDERAL_LAW_NORMS` é
+autoritativo, não permissivo (PR #3 / CodeRabbit). `legal_ranker.authority_for_payload`
+(dono: retrieval) deve espelhar a MESMA whitelist estrita.
 Helpers: `weight_for(tier)`, `tier_for_statute(chunk)`, `tier_for_case_law(doc)`,
 `authority_weight_for_chunk(chunk)`, `authority_weight_for_doc_type(doc_type)`.
 
@@ -443,18 +445,34 @@ via `make_embedding_provider`/`make_llm_provider` (selectors).
 
 `packages/answer/answer_writer.py` importa o classificador de área PURO e determinístico de
 `packages/agents/classify_area.py`:
+
 - `classify_area(question: str) -> LegalArea`
 - `is_in_scope(area: LegalArea) -> bool` (pertinência em `IN_SCOPE_AREAS`)
+- `matched_out_of_scope_regime(question: str) -> bool` (True quando um termo de regime
+  jurídico SEM corpus foi casado — administrative/previdenciário/empresarial/ambiental/
+  marca-INPI/eleitoral/etc.; distingue OOS determinístico de UNKNOWN sem-evidência)
 
-Gate de escopo do `AnswerWriter` (`_is_out_of_scope`) = `not is_in_scope(classify_area(q))`.
-Racional (rework Fase 14): a lista fechada `_OOS_KEYWORDS` fazia overfit do golden e quebrava
-nos dois sentidos. Sinal principled = classe-de-área + ausência de corpus: área fora de
-`IN_SCOPE_AREAS` (administrative/unknown) não tem corpus → recusa segura §2.2. Áreas in-scope
-delegam o grounding ao retrieval + CitationAuditor, nunca a keywords. O lado answer NÃO deve
-duplicar a lista de keywords do classificador (reintroduziria o overfit). Mudança na assinatura
-ou em `IN_SCOPE_AREAS` exige coordenação com o answer.
+Gate de escopo do `AnswerWriter` (`_is_out_of_scope`), forma final (revisão PR #3):
+
+```python
+if matched_out_of_scope_regime(q):        # regime corpusless casado → recusa §2.2 determinística
+    return True
+area = classify_area(q)
+if area is LegalArea.UNKNOWN:             # sem evidência → prossegue ao retrieval (fonte real pode surgir)
+    return False
+return not is_in_scope(area)             # administrative (classe definida fora de escopo) → recusa
+```
+
+Racional: a lista fechada `_OOS_KEYWORDS` fazia overfit do golden e quebrava nos dois sentidos.
+O sinal principled separa três casos: (1) regime corpusless casado → recusa determinística
+(independe de embedding, §2.2); (2) UNKNOWN sem-evidência → prossegue (senão recusava in-corpus
+que erra keyword, ex.: "inventário judicial"); (3) área definida fora de `IN_SCOPE_AREAS`
+(administrative) → recusa. Áreas in-scope delegam o grounding ao retrieval + CitationAuditor.
+O answer NÃO duplica a lista de keywords do classificador (reintroduziria overfit). Mudança em
+`classify_area`/`is_in_scope`/`matched_out_of_scope_regime`/`IN_SCOPE_AREAS` exige coordenação.
 
 ### Limitação conhecida (dono: agentic / auditor)
+
 Sub-tópico genuinamente fora do corpus DENTRO de uma área in-scope (ex.: alíquota de IRPF,
 ITCMD estadual, ICMS específico — área `tax`, mas o CTN é norma geral e não traz alíquotas)
 vaza o gate de escopo por design (área in-scope defere ao grounding). Medição Fase 14.D com
@@ -463,7 +481,9 @@ correto é o CitationAuditor a nível de claim sobre um LLM real. NÃO endurecer
 keywords de sub-tópico (overfit). Pendência de validação: eval-real com LLM real.
 
 ## AnswerWriter output (§30)
+
 `{short_answer, legal_basis[], case_law[], caveats[], sources[], not_legal_advice: true, audit}`
 
 ## CitationAuditor output (§31)
+
 `{citation_coverage, unsupported_legal_claim_rate, unsupported_claims[], passed}`

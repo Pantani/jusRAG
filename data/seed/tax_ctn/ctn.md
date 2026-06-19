@@ -169,14 +169,14 @@ disposto na alínea a do inciso IV aplica-se, exclusivamente, aos serviços pró
 pessoas jurídicas de direito público a que se refere este artigo, e inerentes aos seus
 objetivos.
 
-## Art. 10.
+## Art. 10
 
 É vedado à União instituir tributo que não seja uniforme em todo o território
 
 nacional, ou que importe distinção ou preferência em favor de determinado Estado ou
 Município.
 
-## Art. 11.
+## Art. 11
 
 É vedado aos Estados, ao Distrito Federal e aos Municípios estabelecer diferença
 tributária entre bens de qualquer natureza, em razão da sua procedência ou do seu
@@ -184,17 +184,17 @@ destino.
 
 ### SEÇÃO II
 
-## Art. 12.
+## Art. 12
 
-disposto na alínea a do inciso IV do art. 9º, observado o disposto nos seus §§
+O disposto na alínea a do inciso IV do art. 9º, observado o disposto nos seus §§
 
 1º e 2º, é extensivo às autarquias criadas pela União, pelos Estados, pelo Distrito
 Federal ou pelos Municípios, tão-somente no que se refere ao patrimônio, à renda ou
 aos serviços vinculados às suas finalidades essenciais, ou delas decorrentes.
 
-## Art. 13.
+## Art. 13
 
-disposto na alínea a do inciso IV do art. 9º não se aplica aos serviços
+O disposto na alínea a do inciso IV do art. 9º não se aplica aos serviços
 
 públicos concedidos, cujo tratamento tributário é estabelecido pelo poder concedente,
 no que se refere aos tributos de sua competência, ressalvado o que dispõe o parágrafo
@@ -204,9 +204,9 @@ Parágrafo único. Mediante lei especial e tendo em vista o interêsse comum, a 
 instituir isenção de tributos federais, estaduais e municipais para os serviços
 públicos que conceder, observado o disposto no § 1º do art. 9º.
 
-## Art. 14.
+## Art. 14
 
-disposto na alínea c do inciso IV do art. 9º é subordinado à
+O disposto na alínea c do inciso IV do art. 9º é subordinado à
 
 observância dos seguintes requisitos pelas entidades nêle referidas:
 
@@ -230,7 +230,7 @@ serviços a que se refere a alínea c do inciso IV do art. 9º são exclusivamen
 diretamente relacionados com os objetivos institucionais das entidades de que trata este
 artigo, previstos nos respectivos estatutos ou atos constitutivos.
 
-## Art. 15.
+## Art. 15
 
 Somente a União, nos seguintes casos excepcionais, pode instituir empréstimos
 
@@ -253,18 +253,18 @@ de seu resgate, observando, no que for aplicável, o disposto nesta lei.
 
 # CAPÍTULO I
 
-## Art. 16.
+## Art. 16
 
 Imposto é o tributo cuja obrigação tem por fato gerador uma situação independente
 
 de qualquer atividade estatal específica, relativa ao contribuinte.
 
-## Art. 17.
+## Art. 17
 
 Os impostos componentes do sistema tributário nacional são exclusivamente os que constam
 dêste Título, com as competências e limitações nele previstas.
 
-## Art. 18.
+## Art. 18
 
 Compete:
 
@@ -278,7 +278,7 @@ os impostos atribuídos aos Estados e aos Municípios.
 
 ## Art. 18-A
 
-. Para
+Para
 
 fins da incidência do imposto de que trata o inciso II do caput do art.
 155 da Constituição Federal, os combustíveis, o gás natural, a energia elétrica,
@@ -308,13 +308,13 @@ III -
 
 ### Seção I
 
-## Art. 19.
+## Art. 19
 
-impôsto, de competência da União, sôbre a importação de produtos estrangeiros
+O impôsto, de competência da União, sôbre a importação de produtos estrangeiros
 
 tem como fato gerador a entrada dêstes no território nacional.
 
-## Art. 20.
+## Art. 20
 
 A base de cálculo do impôsto é:
 
@@ -330,14 +330,14 @@ III -
 quando se trate de produto apreendido ou abandonado, levado a leilão, o preço da
 arrematação.
 
-## Art. 21.
+## Art. 21
 
-Poder Executivo pode, nas condições e nos limites estabelecidos em lei, alterar as
+O Poder Executivo pode, nas condições e nos limites estabelecidos em lei, alterar as
 
 alíquotas ou as bases de cálculo do impôsto, a fim de ajustá-lo aos objetivos da
 política cambial e do comércio exterior.
 
-## Art. 22.
+## Art. 22
 
 Contribuinte do impôsto é:
 
@@ -349,14 +349,14 @@ arrematante de produtos apreendidos ou abandonados.
 
 ### Seção II
 
-## Art. 23.
+## Art. 23
 
-impôsto, de competência da União, sôbre a exportação, para o estrangeiro, de
+O impôsto, de competência da União, sôbre a exportação, para o estrangeiro, de
 
 produtos nacionais ou nacionalizados tem como fato gerador a saída dêstes do território
 nacional.
 
-## Art. 24.
+## Art. 24
 
 A base de cálculo do impôsto é:
 
@@ -372,24 +372,24 @@ porto ou lugar da saída do produto, deduzidos os tributos diretamente incidente
 operação de exportação e, nas vendas efetuadas a prazo superior aos correntes no
 mercado internacional o custo do financiamento.
 
-## Art. 25.
+## Art. 25
 
 A lei pode adotar como base de cálculo a parcela do valor ou do preço, referidos no
 
 artigo anterior, excedente de valor básico, fixado de acordo com os critérios e dentro
 dos limites por ela estabelecidos.
 
-## Art. 26.
+## Art. 26
 
 O Poder Executivo pode, nas condições e nos limites estabelecidos em lei, alterar as
 alíquotas ou as bases de cálculo do impôsto, a fim de ajustá-los aos objetivos da
 política cambial e do comércio exterior.
 
-## Art. 27.
+## Art. 27
 
 Contribuinte do impôsto é o exportador ou quem a lei a êle equiparar.
 
-## Art. 28.
+## Art. 28
 
 A receita líquida do impôsto destina-se à formação de reservas monetárias, na
 
@@ -399,19 +399,19 @@ forma da lei.
 
 ### Seção I
 
-## Art. 29.
+## Art. 29
 
-impôsto, de competência da União, sobre a propriedade
+O impôsto, de competência da União, sobre a propriedade
 
 territorial rural tem como fato gerador a propriedade, o domínio útil ou a posse de
 imóvel por natureza, como definido na lei civil, localizado fora da zona urbana do
 Município.
 
-## Art. 30.
+## Art. 30
 
 A base do cálculo do impôsto é o valor fundiário.
 
-## Art. 31.
+## Art. 31
 
 Contribuinte do impôsto é o proprietário do imóvel, o titular de
 
@@ -419,9 +419,9 @@ seu domínio útil, ou o seu possuidor a qualquer título.
 
 ### Seção II
 
-## Art. 32.
+## Art. 32
 
-impôsto, de competência dos Municípios, sôbre a propriedade
+O impôsto, de competência dos Municípios, sôbre a propriedade
 
 predial e territorial urbana tem como fato gerador a propriedade, o domínio útil ou a
 posse de bem imóvel por natureza ou por acessão física, como definido na lei civil,
@@ -454,7 +454,7 @@ constantes de loteamentos aprovados pelos órgãos competentes, destinados à ha
 à indústria ou ao comércio, mesmo que localizados fora das zonas definidas nos têrmos
 do parágrafo anterior.
 
-## Art. 33.
+## Art. 33
 
 A base do cálculo do impôsto é o valor venal do imóvel.
 
@@ -462,14 +462,14 @@ Parágrafo único. Na determinação da base de cálculo, não se considera o va
 bens móveis mantidos, em caráter permanente ou temporário, no imóvel, para efeito de
 sua utilização, exploração, aformoseamento ou comodidade.
 
-## Art. 34.
+## Art. 34
 
 Contribuinte do impôsto é o proprietário do imóvel, o titular do seu domínio útil, ou
 o seu possuidor a qualquer título.
 
 ### Seção III
 
-## Art. 35.
+## Art. 35
 
 O Imposto sobre a Transmissão Inter vivos, por Ato Oneroso, de Bens
 Imóveis e de Direitos a Eles Relativos, de competência dos Municípios e do
@@ -500,11 +500,11 @@ Parágrafo único. (Revogado).
 
 ## Art. 35-A
 
-. (VETADO).
+(VETADO).
 
 (Incluído pela Lei Complementar nº 227, de 2026)
 
-## Art. 36.
+## Art. 36
 
 Ressalvado o disposto no artigo seguinte, o impôsto não incide sôbre a transmissão
 
@@ -521,9 +521,9 @@ outra.
 Parágrafo único. O impôsto não incide sôbre a transmissão aos mesmos alienantes, dos
 bens e direitos adquiridos na forma do inciso I dêste artigo, em decorrência da sua desincorporação do patrimônio da pessoa jurídica a que foram conferidos.
 
-## Art. 37.
+## Art. 37
 
-disposto no artigo anterior não se aplica quando a pessoa jurídica adquirente
+O disposto no artigo anterior não se aplica quando a pessoa jurídica adquirente
 
 tenha como atividade preponderante a venda ou locação de propriedade imobiliária ou a
 cessão de direitos relativos à sua aquisição.
@@ -547,7 +547,7 @@ termos da lei vigente à data da aquisição, sôbre o valor do bem ou direito n
 disposto neste artigo não se aplica à transmissão de bens ou direitos, quando realizada
 em conjunto com a da totalidade do patrimônio da pessoa jurídica alienante.
 
-## Art. 38.
+## Art. 38
 
 A base de cálculo do imposto é o valor venal dos bens ou direitos transmitidos.
 
@@ -603,33 +603,33 @@ municipal ou distrital.
 (Incluído
 pela Lei Complementar nº 227, de 2026)
 
-## Art. 39.
+## Art. 39
 
 (Revogado pela Lei Complementar nº 227, de 2026)
 
-## Art. 40.
+## Art. 40
 
-montante do impôsto é dedutível do devido à União, a título do impôsto de que
+O montante do impôsto é dedutível do devido à União, a título do impôsto de que
 
 trata o art. 43, sôbre o provento decorrente da mesma transmissão.
 
-## Art. 41.
+## Art. 41
 
-imposto compete ao Município da situação do bem, ou ao Distrito Federal.
+O imposto compete ao Município da situação do bem, ou ao Distrito Federal.
 
 (Redação dada pela Lei Complementar nº 227, de
 2026)
 
-## Art. 42.
+## Art. 42
 
 Contribuinte do impôsto é qualquer das partes na operação tributada, como dispuser a
 lei.
 
 ### Seção IV
 
-## Art. 43.
+## Art. 43
 
-impôsto, de competência da União, sôbre a renda e proventos de
+O impôsto, de competência da União, sôbre a renda e proventos de
 
 qualquer natureza tem como fato gerador a aquisição da disponibilidade econômica ou
 jurídica:
@@ -649,13 +649,13 @@ jurídica ou nacionalidade da fonte, da origem e da forma de percepção. (Inclu
 rendimento oriundos do exterior, a lei estabelecerá as condições e o momento em que se
 dará sua disponibilidade, para fins de incidência do imposto referido neste artigo. (Incluído pela Lcp nº 104, de 2001)
 
-## Art. 44.
+## Art. 44
 
 A base de cálculo do impôsto é o montante, real, arbitrado ou presumido, da
 
 renda ou dos proventos tributáveis.
 
-## Art. 45.
+## Art. 45
 
 Contribuinte do impôsto é o titular da disponibilidade a que se refere o artigo 43, sem
 prejuízo de atribuir a lei essa condição ao possuidor, a qualquer título, dos bens
@@ -669,9 +669,9 @@ caibam.
 
 ### Seção I
 
-## Art. 46.
+## Art. 46
 
-impôsto, de competência da União, sôbre produtos industrializados tem como fato
+O impôsto, de competência da União, sôbre produtos industrializados tem como fato
 
 gerador:
 
@@ -688,7 +688,7 @@ Parágrafo único. Para os efeitos deste impôsto, considera-se industrializado 
 que tenha sido submetido a qualquer operação que lhe modifique a natureza ou a
 finalidade, ou o aperfeiçoe para o consumo.
 
-## Art. 47.
+## Art. 47
 
 A base de cálculo do impôsto é:
 
@@ -718,11 +718,11 @@ similar, no mercado atacadista da praça do remetente;
 III - no
 caso do inciso III do artigo anterior, o preço da arrematação.
 
-## Art. 48.
+## Art. 48
 
-impôsto é seletivo em função da essencialidade dos produtos.
+O impôsto é seletivo em função da essencialidade dos produtos.
 
-## Art. 49.
+## Art. 49
 
 O impôsto é não-cumulativo, dispondo a lei de forma que o montante devido resulte da
 diferença a maior, em determinado período, entre o impôsto referente aos produtos
@@ -731,7 +731,7 @@ saídos do estabelecimento e o pago relativamente aos produtos nêle entrados.
 Parágrafo único. O saldo verificado, em determinado período, em favor do contribuinte
 transfere-se para o período ou períodos seguintes.
 
-## Art. 50.
+## Art. 50
 
 Os produtos sujeitos ao impôsto, quando remetidos de um para outro Estado, ou do ou para o
 Distrito Federal, serão acompanhados de nota fiscal de modêlo especial, emitida em
@@ -739,7 +739,7 @@ séries próprias e contendo, além dos elementos necessários ao contrôle fisc
 dados indispensáveis à elaboração da estatística do comércio por cabotagem e demais
 vias internas.
 
-## Art. 51.
+## Art. 51
 
 Contribuinte do impôsto é:
 
@@ -771,7 +771,7 @@ Complementar nº 31, de 1966)
 
 ### Seção IV
 
-## Art. 63.
+## Art. 63
 
 O impôsto, de competência da União, sôbre operações de crédito, câmbio e
 seguro, e sôbre operações relativas a títulos e valôres mobiliários tem como fato
@@ -797,7 +797,7 @@ Parágrafo único. A incidência definida no inciso I
 exclui a definida no inciso IV, e reciprocamente, quanto à emissão, ao pagamento ou
 resgate do título representativo de uma mesma operação de crédito.
 
-## Art. 64.
+## Art. 64
 
 A base de cálculo do impôsto é:
 
@@ -823,28 +823,28 @@ determinar a lei;
   c) no
 pagamento ou resgate, o preço.
 
-## Art. 65.
+## Art. 65
 
-Poder Executivo pode, nas condições e nos limites estabelecidos em lei, alterar as
+O Poder Executivo pode, nas condições e nos limites estabelecidos em lei, alterar as
 
 alíquotas ou as bases de cálculo do impôsto, a fim de ajustá-lo aos objetivos da
 política monetária.
 
-## Art. 66.
+## Art. 66
 
 Contribuinte do impôsto é qualquer das partes na operação tributada, como dispuser a
 lei.
 
-## Art. 67.
+## Art. 67
 
 A receita líquida do impôsto destina-se à formação de reservas monetárias, na forma da
 lei.
 
 ### Seção V
 
-## Art. 68.
+## Art. 68
 
-impôsto, de competência da União, sôbre serviços de transportes e comunicações
+O impôsto, de competência da União, sôbre serviços de transportes e comunicações
 
 tem como fato gerador:
 
@@ -859,11 +859,11 @@ recebimento, por qualquer processo, de mensagens escritas, faladas ou visuais, s
 quando os pontos de transmissão e de recebimento se situem no território de um mesmo
 Município e a mensagem em curso não possa ser captada fora dêsse território.
 
-## Art. 69.
+## Art. 69
 
 A base de cálculo do impôsto é o preço do serviço.
 
-## Art. 70.
+## Art. 70
 
 Contribuinte do impôsto é o prestador do serviço.
 
@@ -877,9 +877,9 @@ de 1968
 
 ### Seção I
 
-## Art. 74.
+## Art. 74
 
-impôsto, de competência da União, sôbre operações relativas a combustíveis,
+O impôsto, de competência da União, sôbre operações relativas a combustíveis,
 
 lubrificantes, energia elétrica e minerais do País tem como fato gerador:
 
@@ -907,7 +907,7 @@ impôsto incide, uma só vez sôbre uma das operações previstas em cada inciso
 artigo, como dispuser a lei, e exclui quaisquer outros tributos, sejam quais forem sua
 natureza ou competência, incidentes sôbre aquelas operações.
 
-## Art. 75.
+## Art. 75
 
 A lei observará o disposto neste Título relativamente:
 
@@ -923,7 +923,7 @@ seja sôbre a distribuição.
 
 ### Seção II
 
-## Art. 76.
+## Art. 76
 
 Na iminência ou no caso de guerra externa, a União pode instituir, temporariamente,
 
@@ -932,7 +932,7 @@ gradativamente, no prazo máximo de cinco anos, contados da celebração da paz.
 
 # TÍTULO IV
 
-## Art. 77.
+## Art. 77
 
 As taxas cobradas pela União, pelos Estados, pelo Distrito
 
@@ -944,7 +944,7 @@ posto à sua disposição.
 Parágrafo único. A taxa não pode ter base de cálculo ou fato gerador idênticos aos
 que correspondam a impôsto nem ser calculada em função do capital das emprêsas. (Vide Ato Complementar nº 34, de 1967)
 
-## Art. 78.
+## Art. 78
 
 Considera-se poder de polícia atividade da administração
 
@@ -961,9 +961,9 @@ desempenhado pelo órgão competente nos limites da lei aplicável, com observâ
 processo legal e, tratando-se de atividade que a lei tenha como discricionária, sem abuso
 ou desvio de poder.
 
-## Art. 79.
+## Art. 79
 
-s serviços públicos a que se refere o art. 77 consideram-se:
+Os serviços públicos a que se refere o art. 77 consideram-se:
 
 I -
 utilizados pelo contribuinte:
@@ -983,7 +983,7 @@ III -
 divisíveis, quando suscetíveis de utilização, separadamente, por parte de cada um dos
 seus usuários.
 
-## Art. 80.
+## Art. 80
 
 Para efeito de instituição e cobrança de taxas, consideram-se compreendidas no
 
@@ -994,7 +994,7 @@ competem a cada uma dessas pessoas de direito público.
 
 # TÍTULO V
 
-## Art. 81.
+## Art. 81
 
 A contribuição de melhoria cobrada pela União, pelos Estados, pelo Distrito Federal
 
@@ -1003,7 +1003,7 @@ fazer face ao custo de obras públicas de que decorra valorização imobiliária
 como limite total a despesa realizada e como limite individual o acréscimo de valor que
 da obra resultar para cada imóvel beneficiado.
 
-## Art. 82.
+## Art. 82
 
 A lei relativa à contribuição de melhoria observará os seguintes requisitos mínimos:
 
@@ -1047,8 +1047,6 @@ integraram o respectivo cálculo.
 # TÍTULO V-A
 
 ## Art. 82-A
-
-.
 
 Os
 Municípios e o Distrito Federal poderão instituir contribuição, na forma das
@@ -1101,7 +1099,7 @@ pela Lei Complementar nº 227, de 2026)
 
 # CAPÍTULO I
 
-## Art. 83.
+## Art. 83
 
 Sem prejuízo das demais disposições dêste Título, os Estados e Municípios que
 
@@ -1115,7 +1113,7 @@ sôbre o fumo e bebidas alcoólicas.
 Parágrafo único. O processo das distribuições previstas neste artigo será regulado
 nos convênios nêle referidos.
 
-## Art. 84.
+## Art. 84
 
 A lei federal pode cometer aos Estados, ao Distrito Federal ou aos Municípios o
 
@@ -1128,7 +1126,7 @@ respectivos Municípios.
 
 # CAPÍTULO II
 
-## Art. 85.
+## Art. 85
 
 Serão distribuídos pela União:
 
@@ -1165,7 +1163,7 @@ arrecadação. (Suspensa a execução pela RSF nº 337, de
 
 ### Seção I — Constituição dos Fundos
 
-## Art. 86.
+## Art. 86
 
 (Revogado pela Lei Complementar nº 143, de 2013)
 (Produção de efeito)
@@ -1176,7 +1174,7 @@ Art.
 
 ### Seção II — Critério de Distribuição do Fundo de Participação dos Estados
 
-## Art. 88.
+## Art. 88
 
 (Revogado pela Lei Complementar nº 143, de 2013)
 (Produção de efeito)
@@ -1185,9 +1183,9 @@ Art.
 (Revogado pela Lei Complementar nº 143, de 2013)
 (Produção de efeito)
 
-## Art. 90.
+## Art. 90
 
-fator representativo do inverso da renda per capita, a que se refere o inciso II do
+O fator representativo do inverso da renda per capita, a que se refere o inciso II do
 
 art. 88, será estabelecido da seguinte forma:
 
@@ -1197,7 +1195,7 @@ média do País.
 
 ### SEÇÃO III
 
-## Art. 91.
+## Art. 91
 
 Do Fundo de Participação dos Municípios a que se refere o
 
@@ -1233,9 +1231,9 @@ Complementar nº 91, de 1997)
 
 ### Seção IV
 
-## Art. 92.
+## Art. 92
 
-Tribunal de Contas da
+O Tribunal de Contas da
 
 União comunicará ao Banco do Brasil S.A., conforme os prazos a seguir
 especificados, os coeficientes individuais de participação nos fundos previstos
@@ -1263,21 +1261,21 @@ a criação de novo Estado a ser implantado no exercício subsequente.
 (Incluído pela Lei Complementar nº 143, de 2013)
 (Produção de efeito)
 
-## Art. 93.
+## Art. 93
 
 (Revogado pela Lei Complementar nº 143, de 2013)
 (Produção de efeito)
 
 ### Seção V — Comprovação da Aplicação das Quotas Estaduais e Municipais
 
-## Art. 94.
+## Art. 94
 
 (Revogado pela Lei Complementar nº 143, de 2013)
 (Produção de efeito)
 
 # CAPÍTULO IV — Impôsto sôbre Operações Relativas a Combustíveis, Lubrificantes, Energia Elétrica e Minerais do País
 
-## Art. 95.
+## Art. 95
 
 (Revogado pela Lei Complementar nº 143, de 2013)
 (Produção de efeito)
@@ -1291,7 +1289,7 @@ Parágrafo único. (Revogado pelo Ato Complementar nº 35, de 1967)
 
 ### Seção I
 
-## Art. 96.
+## Art. 96
 
 A expressão "legislação tributária" compreende as leis, os tratados e as
 
@@ -1300,7 +1298,7 @@ em parte, sôbre tributos e relações jurídicas a eles pertinentes.
 
 ### Seção II
 
-## Art. 97.
+## Art. 97
 
 Sòmente a lei pode estabelecer:
 
@@ -1335,12 +1333,14 @@ em torná-lo mais oneroso.
 Não constitui majoração de tributo, para os fins do disposto no inciso II dêste artigo,
 a atualização do valor monetário da respectiva base de cálculo.
 
-## Art. 98.
+## Art. 98
 
 Os tratados e as convenções internacionais revogam ou modificam a legislação
 tributária interna, e serão observados pela que lhes sobrevenha.
 
-## Art. 99.
+## Art. 99
+
+O
 
 conteúdo e o alcance dos decretos restringem-se aos das leis em função das quais sejam
 expedidos, determinados com observância das regras de interpretação estabelecidas nesta
@@ -1348,7 +1348,7 @@ Lei.
 
 ### Seção III
 
-## Art. 100.
+## Art. 100
 
 São normas complementares das leis, dos tratados e das
 
@@ -1374,14 +1374,14 @@ de cálculo do tributo.
 
 # CAPÍTULO II
 
-## Art. 101.
+## Art. 101
 
 A vigência, no espaço e no tempo, da legislação tributária rege-se pelas
 
 disposições legais aplicáveis às normas jurídicas em geral, ressalvado o previsto
 neste Capítulo.
 
-## Art. 102.
+## Art. 102
 
 A legislação tributária dos Estados, do Distrito Federal e dos
 
@@ -1389,7 +1389,7 @@ Municípios vigora, no País, fora dos respectivos territórios, nos limites em 
 reconheçam extraterritorialidade os convênios de que participem, ou do que disponham
 esta ou outras leis de normas gerais expedidas pela União.
 
-## Art. 103.
+## Art. 103
 
 Salvo disposição em contrário, entram em vigor:
 
@@ -1404,7 +1404,7 @@ decisões a que se refere o inciso II do art. 100, quanto a seus efeitos normati
 III - os
 convênios a que se refere o inciso IV do art. 100, na data nêles prevista.
 
-## Art. 104.
+## Art. 104
 
 Entram em vigor no primeiro dia do exercício seguinte àquele em que ocorra a sua
 
@@ -1422,14 +1422,14 @@ contribuinte, e observado o disposto no artigo 178.
 
 # CAPÍTULO III
 
-## Art. 105.
+## Art. 105
 
 A legislação tributária aplica-se imediatamente aos fatos geradores futuros e aos
 
 pendentes, assim entendidos aquêles cuja ocorrência tenha tido início mas não esteja
 completa nos têrmos do artigo 116.
 
-## Art. 106.
+## Art. 106
 
 A
 
@@ -1453,11 +1453,11 @@ lhe comine penalidade menos severa que a prevista na lei vigente ao tempo da sua
 
 # CAPÍTULO IV
 
-## Art. 107.
+## Art. 107
 
 A legislação tributária será interpretada conforme o disposto neste Capítulo.
 
-## Art. 108.
+## Art. 108
 
 Na ausência de disposição expressa, a autoridade competente para aplicar a legislação
 tributária utilizará sucessivamente, na ordem indicada:
@@ -1480,21 +1480,21 @@ emprêgo da analogia não poderá resultar na exigência de tributo não previst
 § 2º O
 emprêgo da eqüidade não poderá resultar na dispensa do pagamento de tributo devido.
 
-## Art. 109.
+## Art. 109
 
-s princípios gerais de direito privado utilizam-se para pesquisa da definição, do
+Os princípios gerais de direito privado utilizam-se para pesquisa da definição, do
 
 conteúdo e do alcance de seus institutos, conceitos e formas, mas não para definição
 dos respectivos efeitos tributários.
 
-## Art. 110.
+## Art. 110
 
 A lei tributária não pode alterar a definição, o conteúdo e o alcance de institutos,
 conceitos e formas de direito privado, utilizados, expressa ou implicitamente, pela
 Constituição Federal, pelas Constituições dos Estados, ou pelas Leis Orgânicas do
 Distrito Federal ou dos Municípios, para definir ou limitar competências tributárias.
 
-## Art. 111.
+## Art. 111
 
 Interpreta-se literalmente a legislação tributária que disponha sôbre:
 
@@ -1507,7 +1507,7 @@ outorga de isenção;
 III -
 dispensa do cumprimento de obrigações tributárias acessórias.
 
-## Art. 112.
+## Art. 112
 
 A lei tributária que define infrações, ou lhe comina penalidades, interpreta-se da
 
@@ -1530,7 +1530,7 @@ natureza da penalidade aplicável, ou à sua graduação.
 
 # CAPÍTULO I
 
-## Art. 113.
+## Art. 113
 
 A obrigação tributária é principal ou acessória.
 
@@ -1550,19 +1550,19 @@ obrigação principal relativamente à penalidade pecuniária.
 
 # CAPÍTULO II
 
-## Art. 114.
+## Art. 114
 
 Fato gerador da obrigação principal é a situação definida em lei como
 
 necessária e suficiente à sua ocorrência.
 
-## Art. 115.
+## Art. 115
 
 Fato gerador da obrigação acessória é qualquer situação que, na forma da
 legislação aplicável, impõe a prática ou a abstenção de ato que não configure
 obrigação principal.
 
-## Art. 116.
+## Art. 116
 
 Salvo disposição de lei em contrário, considera-se ocorrido o
 
@@ -1582,7 +1582,7 @@ negócios jurídicos praticados com a finalidade de dissimular a ocorrência do 
 gerador do tributo ou a natureza dos elementos constitutivos da obrigação tributária,
 observados os procedimentos a serem estabelecidos em lei ordinária. (Incluído pela Lcp nº 104, de 2001)
 
-## Art. 117.
+## Art. 117
 
 Para os efeitos do inciso II do artigo anterior e salvo disposição de lei em
 
@@ -1595,7 +1595,7 @@ II -
 sendo resolutória a condição, desde o momento da prática do ato ou da celebração do
 negócio.
 
-## Art. 118.
+## Art. 118
 
 A definição legal do fato gerador é interpretada abstraindo-se:
 
@@ -1608,13 +1608,13 @@ efeitos dos fatos efetivamente ocorridos.
 
 # CAPÍTULO III
 
-## Art. 119.
+## Art. 119
 
 Sujeito ativo da obrigação é a pessoa jurídica de direito público, titular da
 
 competência para exigir o seu cumprimento.
 
-## Art. 120.
+## Art. 120
 
 Salvo disposição de lei em contrário, a pessoa jurídica de direito público, que se
 constituir pelo desmembramento territorial de outra, sub-roga-se nos direitos desta, cuja
@@ -1624,7 +1624,7 @@ legislação tributária aplicará até que entre em vigor a sua própria.
 
 ### Seção I
 
-## Art. 121.
+## Art. 121
 
 Sujeito passivo da obrigação principal é a pessoa obrigada ao pagamento de tributo
 
@@ -1640,13 +1640,13 @@ II -
 responsável, quando, sem revestir a condição de contribuinte, sua obrigação decorra
 de disposição expressa de lei.
 
-## Art. 122.
+## Art. 122
 
 Sujeito passivo da obrigação acessória é a pessoa obrigada às prestações que
 
 constituam o seu objeto.
 
-## Art. 123.
+## Art. 123
 
 Salvo disposições de lei em contrário, as convenções particulares, relativas à
 
@@ -1656,7 +1656,7 @@ correspondentes.
 
 ### Seção II
 
-## Art. 124.
+## Art. 124
 
 São solidàriamente obrigadas:
 
@@ -1668,7 +1668,7 @@ II - as pessoas expressamente designadas por lei.
 Parágrafo único. A solidariedade referida neste artigo não comporta benefício de
 ordem.
 
-## Art. 125.
+## Art. 125
 
 Salvo disposição de lei em contrário, são os seguintes os efeitos da
 
@@ -1688,7 +1688,7 @@ aos demais.
 
 ### Seção III
 
-## Art. 126.
+## Art. 126
 
 A capacidade tributária passiva independe:
 
@@ -1706,7 +1706,7 @@ econômica ou profissional.
 
 ### Seção IV
 
-## Art. 127.
+## Art. 127
 
 Na falta de eleição, pelo contribuinte ou responsável, de domicílio tributário,
 
@@ -1739,7 +1739,7 @@ parágrafo anterior.
 
 ### Seção I
 
-## Art. 128.
+## Art. 128
 
 Sem prejuízo do disposto neste capítulo, a lei pode atribuir de
 
@@ -1750,15 +1750,15 @@ obrigação.
 
 ### Seção II
 
-## Art. 129.
+## Art. 129
 
-disposto nesta Seção aplica-se por igual aos créditos tributários
+O disposto nesta Seção aplica-se por igual aos créditos tributários
 
 definitivamente constituídos ou em curso de constituição à data dos atos nela
 referidos, e aos constituídos posteriormente aos mesmos atos, desde que relativos a
 obrigações tributárias surgidas até a referida data.
 
-## Art. 130.
+## Art. 130
 
 Os créditos tributários relativos a impostos cujo fato gerador seja a propriedade, o
 domínio útil ou a posse de bens imóveis, e bem assim os relativos a taxas pela
@@ -1769,7 +1769,7 @@ de sua quitação.
 Parágrafo único. No caso de arrematação em hasta pública, a sub-rogação ocorre
 sôbre o respectivo preço.
 
-## Art. 131.
+## Art. 131
 
 São pessoalmente responsáveis:
 
@@ -1786,7 +1786,7 @@ do quinhão do legado ou da meação;
 III - o
 espólio, pelos tributos devidos pelo de cujus até a data da abertura da sucessão.
 
-## Art. 132.
+## Art. 132
 
 A pessoa jurídica de direito privado que resultar de fusão, transformação ou
 
@@ -1798,7 +1798,7 @@ jurídicas de direito privado, quando a exploração da respectiva atividade sej
 continuada por qualquer sócio remanescente, ou seu espólio, sob a mesma ou outra razão
 social, ou sob firma individual.
 
-## Art. 133.
+## Art. 133
 
 A pessoa natural ou jurídica de direito privado que adquirir de outra, por qualquer
 
@@ -1847,7 +1847,7 @@ ou de créditos que preferem ao tributário.
 
 ### Seção III
 
-## Art. 134.
+## Art. 134
 
 Nos casos de impossibilidade de exigência do cumprimento da
 
@@ -1879,7 +1879,7 @@ sócios, no caso de liquidação de sociedade de pessoas.
 Parágrafo único. O disposto neste artigo só se aplica, em matéria de penalidades, às
 de caráter moratório.
 
-## Art. 135.
+## Art. 135
 
 São pessoalmente responsáveis pelos créditos correspondentes a obrigações
 
@@ -1897,14 +1897,14 @@ diretores, gerentes ou representantes de pessoas jurídicas de direito privado.
 
 ### Seção IV
 
-## Art. 136.
+## Art. 136
 
 Salvo disposição de lei em contrário, a responsabilidade por infrações da
 
 legislação tributária independe da intenção do agente ou do responsável e da
 efetividade, natureza e extensão dos efeitos do ato.
 
-## Art. 137.
+## Art. 137
 
 A responsabilidade é pessoal ao agente:
 
@@ -1929,7 +1929,7 @@ mandatários, prepostos ou empregados, contra seus mandantes, preponentes ou emp
 diretores, gerentes ou representantes de pessoas jurídicas de direito privado, contra
 estas.
 
-## Art. 138.
+## Art. 138
 
 A responsabilidade é excluída pela denúncia espontânea da
 
@@ -1945,19 +1945,19 @@ infração.
 
 # CAPÍTULO I
 
-## Art. 139.
+## Art. 139
 
-crédito tributário decorre da obrigação principal e tem a mesma natureza desta.
+O crédito tributário decorre da obrigação principal e tem a mesma natureza desta.
 
-## Art. 140.
+## Art. 140
 
 As circunstâncias que modificam o crédito tributário, sua extensão ou seus efeitos, ou
 as garantias ou os privilégios a êle atribuídos, ou que excluem sua exigibilidade não
 afetam a obrigação tributária que lhe deu origem.
 
-## Art. 141.
+## Art. 141
 
-crédito tributário
+O crédito tributário
 
 regularmente constituído sòmente se modifica ou extingue, ou tem sua exigibilidade
 suspensa ou excluída, nos casos previstos nesta lei, fora dos quais não podem ser
@@ -1968,7 +1968,7 @@ as respectivas garantias.
 
 ### Seção I
 
-## Art. 142.
+## Art. 142
 
 Compete privativamente à autoridade administrativa constituir o
 
@@ -1980,16 +1980,16 @@ sujeito passivo e, sendo caso, propor a aplicação da penalidade cabível.
 Parágrafo único. A atividade administrativa de lançamento é vinculada e obrigatória,
 sob pena de responsabilidade funcional.
 
-## Art. 143.
+## Art. 143
 
 Salvo disposição de lei em contrário, quando o valor tributário esteja expresso
 
 em moeda estrangeira, no lançamento far-se-á sua conversão em moeda nacional ao câmbio
 do dia da ocorrência do fato gerador da obrigação.
 
-## Art. 144.
+## Art. 144
 
-lançamento reporta-se à data da ocorrência do fato gerador da obrigação e
+O lançamento reporta-se à data da ocorrência do fato gerador da obrigação e
 
 rege-se pela lei então vigente, ainda que posteriormente modificada ou revogada.
 
@@ -2005,9 +2005,9 @@ disposto neste artigo não se aplica aos impostos lançados por períodos certos
 desde que a respectiva lei fixe expressamente a data em que o fato gerador se considera
 ocorrido.
 
-## Art. 145.
+## Art. 145
 
-lançamento regularmente notificado ao sujeito passivo só pode ser alterado em
+O lançamento regularmente notificado ao sujeito passivo só pode ser alterado em
 
 virtude de:
 
@@ -2020,7 +2020,7 @@ recurso de ofício;
 III -
 iniciativa de ofício da autoridade administrativa, nos casos previstos no artigo 149.
 
-## Art. 146.
+## Art. 146
 
 A modificação introduzida, de ofício ou em conseqüência de decisão
 
@@ -2030,9 +2030,9 @@ mesmo sujeito passivo, quanto a fato gerador ocorrido posteriormente à sua intr
 
 ### Seção II
 
-## Art. 147.
+## Art. 147
 
-lançamento é efetuado com base na declaração do sujeito passivo ou de terceiro,
+O lançamento é efetuado com base na declaração do sujeito passivo ou de terceiro,
 
 quando um ou outro, na forma da legislação tributária, presta à autoridade
 administrativa informações sôbre matéria de fato, indispensáveis à sua efetivação.
@@ -2046,7 +2046,7 @@ antes de notificado o lançamento.
 erros contidos na declaração e apuráveis pelo seu exame serão retificados de ofício
 pela autoridade administrativa a que competir a revisão daquela.
 
-## Art. 148.
+## Art. 148
 
 Quando o cálculo do tributo tenha por base, ou tome em consideração, o valor ou o
 
@@ -2056,9 +2056,9 @@ mereçam fé as declarações ou os esclarecimentos prestados, ou os documentos 
 pelo sujeito passivo ou pelo terceiro legalmente obrigado, ressalvada, em caso de
 contestação, avaliação contraditória, administrativa ou judicial.
 
-## Art. 149.
+## Art. 149
 
-lançamento é efetuado e revisto de ofício pela autoridade
+O lançamento é efetuado e revisto de ofício pela autoridade
 
 administrativa nos seguintes casos:
 
@@ -2101,9 +2101,9 @@ essencial.
 Parágrafo único. A revisão do lançamento só pode ser iniciada enquanto não extinto o
 direito da Fazenda Pública.
 
-## Art. 150.
+## Art. 150
 
-lançamento por homologação, que ocorre quanto aos tributos
+O lançamento por homologação, que ocorre quanto aos tributos
 
 cuja legislação atribua ao sujeito passivo o dever de antecipar o pagamento sem prévio
 exame da autoridade administrativa, opera-se pelo ato em que a referida autoridade,
@@ -2129,7 +2129,7 @@ crédito, salvo se comprovada a ocorrência de dolo, fraude ou simulação.
 
 ### Seção I
 
-## Art. 151.
+## Art. 151
 
 Suspendem a exigibilidade do crédito tributário:
 
@@ -2155,7 +2155,7 @@ conseqüentes.
 
 ### Seção II
 
-## Art. 152.
+## Art. 152
 
 A moratória somente pode ser concedida:
 
@@ -2178,7 +2178,7 @@ Parágrafo único. A lei concessiva de moratória pode circunscrever expressamen
 aplicabilidade à determinada região do território da pessoa jurídica de direito
 público que a expedir, ou a determinada classe ou categoria de sujeitos passivos.
 
-## Art. 153.
+## Art. 153
 
 A lei que conceda moratória em caráter geral ou autorize sua concessão em caráter
 
@@ -2205,7 +2205,7 @@ caso de concessão em caráter individual;
 garantias que devem ser fornecidas pelo beneficiado no caso de concessão em caráter
 individual.
 
-## Art. 154.
+## Art. 154
 
 Salvo disposição de lei em contrária, a moratória sòmente abrange os créditos
 
@@ -2216,7 +2216,7 @@ sujeito passivo.
 Parágrafo único. A moratória não aproveita aos casos de dolo, fraude ou simulação do
 sujeito passivo ou do terceiro em benefício daquele.
 
-## Art. 155.
+## Art. 155
 
 A concessão da moratória em caráter individual não gera direito adquirido e será
 
@@ -2238,7 +2238,7 @@ antes de prescrito o referido direito.
 
 ## Art. 155-A
 
-. O parcelamento será concedido na forma e condição
+O parcelamento será concedido na forma e condição
 
 estabelecidas em lei específica. (Incluído pela Lcp nº 104, de
 2001)
@@ -2265,7 +2265,7 @@ parcelamento inferior ao concedido pela lei federal específica.
 
 ### Seção I
 
-## Art. 156.
+## Art. 156
 
 Extinguem o crédito tributário:
 
@@ -2312,11 +2312,11 @@ o disposto nos artigos 144 e 149.
 
 ### Seção II
 
-## Art. 157.
+## Art. 157
 
 A imposição de penalidade não ilide o pagamento integral do crédito tributário.
 
-## Art. 158.
+## Art. 158
 
 O pagamento de um crédito não importa em presunção de pagamento:
 
@@ -2326,13 +2326,13 @@ quando parcial, das prestações em que se decomponha;
 II -
 quando total, de outros créditos referentes ao mesmo ou a outros tributos.
 
-## Art. 159.
+## Art. 159
 
 Quando a legislação tributária não dispuser a respeito, o pagamento é efetuado
 
 na repartição competente do domicílio do sujeito passivo.
 
-## Art. 160.
+## Art. 160
 
 Quando a legislação tributária não fixar o tempo do pagamento, o vencimento do
 crédito ocorre trinta dias depois da data em que se considera o sujeito passivo
@@ -2341,7 +2341,7 @@ notificado do lançamento.
 Parágrafo único. A legislação tributária pode conceder desconto pela antecipação do
 pagamento, nas condições que estabeleça.
 
-## Art. 161.
+## Art. 161
 
 O crédito não integralmente pago no vencimento é acrescido de juros de mora, seja qual
 fôr o motivo determinante da falta, sem prejuízo da imposição das penalidades cabíveis
@@ -2355,9 +2355,9 @@ calculados à taxa de um por cento ao mês.
 disposto neste artigo não se aplica na pendência de consulta formulada pelo devedor
 dentro do prazo legal para pagamento do crédito.
 
-## Art. 162.
+## Art. 162
 
-pagamento é efetuado:
+O pagamento é efetuado:
 
 I - em
 moeda corrente, cheque ou vale postal;
@@ -2386,7 +2386,7 @@ tributária, ou naquelas em que o êrro seja imputável à autoridade administra
 pagamento em papel selado ou por processo mecânico equipara-se ao pagamento em
 estampilha.
 
-## Art. 163.
+## Art. 163
 
 Existindo simultaneamente dois ou mais débitos vencidos do mesmo sujeito passivo
 
@@ -2408,7 +2408,7 @@ ordem crescente dos prazos de prescrição;
 IV - na
 ordem decrescente dos montantes.
 
-## Art. 164.
+## Art. 164
 
 A importância de crédito tributário pode ser consignada judicialmente pelo sujeito
 
@@ -2437,9 +2437,9 @@ cabíveis.
 
 ### Seção III
 
-## Art. 165.
+## Art. 165
 
-sujeito passivo tem direito, independentemente de prévio
+O sujeito passivo tem direito, independentemente de prévio
 
 protesto, à restituição total ou parcial do tributo, seja qual fôr a modalidade do seu
 pagamento, ressalvado o disposto no § 4º do art. 162, nos seguintes casos:
@@ -2458,7 +2458,7 @@ ao pagamento;
 III -
 reforma, anulação, revogação ou rescisão de decisão condenatória.
 
-## Art. 166.
+## Art. 166
 
 A restituição de tributos que comportem, por sua natureza,
 
@@ -2467,7 +2467,7 @@ assumido o referido encargo, ou, no caso de tê-lo transferido a terceiro, estar
 êste
 expressamente autorizado a recebê-la.
 
-## Art. 167.
+## Art. 167
 
 A restituição total ou parcial do tributo dá lugar à restituição, na mesma
 proporção, dos juros de mora e das penalidades pecuniárias, salvo as referentes a
@@ -2476,9 +2476,9 @@ infrações de caráter formal não prejudicadas pela causa da restituição.
 Parágrafo único. A restituição vence juros não capitalizáveis, a partir do trânsito
 em julgado da decisão definitiva que a determinar.
 
-## Art. 168.
+## Art. 168
 
-direito de pleitear a restituição extingue-se com o decurso do
+O direito de pleitear a restituição extingue-se com o decurso do
 
 prazo de 5 (cinco) anos, contados:
 
@@ -2491,7 +2491,7 @@ hipótese do inciso III do art. 165, da data em que se tornar definitiva a decis
 administrativa ou passar em julgado a decisão judicial que tenha reformado, anulado,
 revogado ou rescindido a decisão condenatória.
 
-## Art. 169.
+## Art. 169
 
 Prescreve em dois anos a ação anulatória da decisão administrativa que denegar a
 
@@ -2503,7 +2503,7 @@ validamente feita ao representante judicial da Fazenda Pública interessada.
 
 ### Seção IV
 
-## Art. 170.
+## Art. 170
 
 A lei pode, nas condições e sob as garantias que estipular, ou cuja estipulação
 
@@ -2520,13 +2520,13 @@ decorrer entre a data da compensação e a do vencimento.
 
 ## Art. 170-A
 
-. É vedada a compensação mediante o aproveitamento de
+É vedada a compensação mediante o aproveitamento de
 
 tributo, objeto de contestação judicial pelo sujeito passivo, antes do trânsito em
 julgado da respectiva decisão judicial. (Artigo incluído
 pela Lcp nº 104, de 2001)
 
-## Art. 171.
+## Art. 171
 
 A lei pode facultar, nas condições que estabeleça, aos sujeitos ativo e
 
@@ -2536,7 +2536,7 @@ importe em determinação de litígio e conseqüente extinção de crédito trib
 Parágrafo único. A lei indicará a autoridade competente para autorizar a transação em
 cada caso.
 
-## Art. 172.
+## Art. 172
 
 A lei pode autorizar a autoridade administrativa a conceder, por
 
@@ -2561,9 +2561,9 @@ condições peculiares a determinada região do território da entidade tributan
 Parágrafo único. O despacho referido neste artigo não gera direito adquirido,
 aplicando-se, quando cabível, o disposto no artigo 155.
 
-## Art. 173.
+## Art. 173
 
-direito de a Fazenda Pública constituir o crédito tributário
+O direito de a Fazenda Pública constituir o crédito tributário
 
 extingue-se após 5 (cinco) anos, contados:
 
@@ -2580,7 +2580,7 @@ definitivamente com o decurso do prazo nêle previsto, contado da data em que te
 iniciada a constituição do crédito tributário pela notificação, ao sujeito passivo,
 de qualquer medida preparatória indispensável ao lançamento.
 
-## Art. 174.
+## Art. 174
 
 A ação para a cobrança do crédito tributário prescreve em
 
@@ -2607,7 +2607,7 @@ pelo devedor.
 
 ### Seção I
 
-## Art. 175.
+## Art. 175
 
 Excluem o crédito tributário:
 
@@ -2623,7 +2623,7 @@ excluído, ou dela conseqüentes.
 
 ### Seção II
 
-## Art. 176.
+## Art. 176
 
 A isenção, ainda quando prevista em contrato, é sempre decorrente de lei que
 
@@ -2633,7 +2633,7 @@ se aplica e, sendo caso, o prazo de sua duração.
 Parágrafo único. a isenção pode ser restrita a determinada região do território da
 entidade tributante, em função de condições a ela peculiares.
 
-## Art. 177.
+## Art. 177
 
 Salvo disposição de lei em contrário, a isenção não é extensiva:
 
@@ -2651,7 +2651,7 @@ condições, pode ser revogada ou modificada por lei, a qualquer tempo, observad
 disposto no inciso III do art. 104. (Redação dada pela Lei
 Complementar nº 24, de 1975)
 
-## Art. 179.
+## Art. 179
 
 A isenção, quando não concedida em caráter geral, é efetivada, em cada caso, por
 despacho da autoridade administrativa, em requerimento com o qual o interessado faça
@@ -2670,7 +2670,7 @@ o disposto no art. 155.
 
 ### Seção III
 
-## Art. 180.
+## Art. 180
 
 A anistia abrange exclusivamente as infrações cometidas anteriormente à vigência
 
@@ -2685,7 +2685,7 @@ II -
 salvo disposição em contrário, às infrações resultantes de conluio entre duas ou
 mais pessoas naturais ou jurídicas.
 
-## Art. 181.
+## Art. 181
 
 A anistia pode ser concedida:
 
@@ -2710,7 +2710,7 @@ ela peculiares;
 condição do pagamento de tributo no prazo fixado pela lei que a conceder, ou cuja
 fixação seja atribuída pela mesma lei à autoridade administrativa.
 
-## Art. 182.
+## Art. 182
 
 A anistia, quando não concedida em caráter geral, é efetivada, em cada caso, por
 
@@ -2725,7 +2725,7 @@ aplicando-se, quando cabível, o disposto no art. 155.
 
 ### Seção I
 
-## Art. 183.
+## Art. 183
 
 A enumeração das garantias atribuídas neste Capítulo ao crédito tributário não
 
@@ -2735,7 +2735,7 @@ características do tributo a que se refiram.
 Parágrafo único. A natureza das garantias atribuídas ao crédito tributário não
 altera a natureza dêste nem a da obrigação tributária a que corresponda.
 
-## Art. 184.
+## Art. 184
 
 Sem prejuízo dos privilégios especiais sôbre determinados bens, que sejam previstos
 
@@ -2745,7 +2745,7 @@ falida, inclusive os gravados por ônus real ou cláusula de inalienabilidade ou
 impenhorabilidade, seja qual for a data da constituição do ônus ou da cláusula,
 excetuados unicamente os bens e rendas que a lei declare absolutamente impenhoráveis.
 
-## Art. 185.
+## Art. 185
 
 Presume-se fraudulenta a alienação ou oneração de bens ou rendas, ou seu
 
@@ -2759,7 +2759,7 @@ inscrita. (Redação dada pela Lcp nº 118, de 2005)
 
 ## Art. 185-A
 
-. Na hipótese de o devedor tributário, devidamente citado, não pagar nem
+Na hipótese de o devedor tributário, devidamente citado, não pagar nem
 
 apresentar bens à penhora no prazo legal e não forem encontrados bens penhoráveis, o
 juiz determinará a indisponibilidade de seus bens e direitos, comunicando a decisão,
@@ -2780,9 +2780,9 @@ discriminada dos bens e direitos cuja indisponibilidade houverem promovido.
 
 ### Seção II
 
-## Art. 186.
+## Art. 186
 
-crédito tributário prefere a qualquer outro, seja qual
+O crédito tributário prefere a qualquer outro, seja qual
 
 for sua natureza ou o tempo de sua constituição, ressalvados os créditos decorrentes da
 legislação do trabalho ou do acidente de trabalho. (Redação
@@ -2803,7 +2803,7 @@ pela Lcp nº 118, de 2005)
 III – a multa tributária prefere apenas aos créditos subordinados.
 (Incluído pela Lcp nº 118, de 2005)
 
-## Art. 187.
+## Art. 187
 
 A cobrança judicial do crédito tributário não é
 
@@ -2828,7 +2828,7 @@ III -
 Municípios, conjuntamente e pró rata.
 (Vide ADPF 357)
 
-## Art. 188.
+## Art. 188
 
 São extraconcursais os créditos tributários decorrentes
 
@@ -2844,7 +2844,7 @@ natureza e valor dos bens reservados, o representante da Fazenda Pública intere
 § 2º O
 disposto neste artigo aplica-se aos processos de concordata.
 
-## Art. 189.
+## Art. 189
 
 São pagos preferencialmente a quaisquer créditos habilitados em inventário ou
 arrolamento, ou a outros encargos do monte, os créditos tributários vencidos ou
@@ -2854,14 +2854,14 @@ inventário ou arrolamento.
 Parágrafo único. Contestado o crédito tributário, proceder-se-á na forma do disposto
 no § 1º do artigo anterior.
 
-## Art. 190.
+## Art. 190
 
 São pagos preferencialmente a quaisquer outros os créditos tributários vencidos ou
 
 vincendos, a cargo de pessoas jurídicas de direito privado em liquidação judicial ou
 voluntária, exigíveis no decurso da liquidação.
 
-## Art. 191.
+## Art. 191
 
 A extinção das obrigações do falido requer prova de
 
@@ -2870,17 +2870,17 @@ nº 118, de 2005)
 
 ## Art. 191-A
 
-. A concessão de recuperação judicial depende da apresentação da prova de
+A concessão de recuperação judicial depende da apresentação da prova de
 
 quitação de todos os tributos, observado o disposto nos arts. 151, 205 e 206 desta Lei.
 (Incluído pela Lcp nº 118, de 2005)
 
-## Art. 192.
+## Art. 192
 
 Nenhuma sentença de julgamento de partilha ou adjudicação será proferida sem prova da
 quitação de todos os tributos relativos aos bens do espólio, ou às suas rendas.
 
-## Art. 193.
+## Art. 193
 
 Salvo quando expressamente autorizado por lei, nenhum departamento da administração
 pública da União, dos Estados, do Distrito Federal, ou dos Municípios, ou sua
@@ -2893,7 +2893,7 @@ concorre.
 
 # CAPÍTULO I
 
-## Art. 194.
+## Art. 194
 
 A legislação tributária, observado o disposto nesta Lei, regulará, em caráter
 
@@ -2905,7 +2905,7 @@ Parágrafo único. A legislação a que se refere êste artigo aplica-se às pes
 naturais ou jurídicas, contribuintes ou não, inclusive às que gozem de imunidade
 tributária ou de isenção de caráter pessoal.
 
-## Art. 195.
+## Art. 195
 
 Para os efeitos da legislação tributária, não têm aplicação
 
@@ -2918,7 +2918,7 @@ fiscal e os comprovantes dos lançamentos nêles efetuados serão conservados at
 ocorra a prescrição dos créditos tributários decorrentes das operações a que se
 refiram.
 
-## Art. 196.
+## Art. 196
 
 A autoridade administrativa que proceder ou presidir a quaisquer diligências de
 
@@ -2931,7 +2931,7 @@ possível, em um dos livros fiscais exibidos; quando lavrados em separado dêles
 entregará, à pessoa sujeita à fiscalização, cópia autenticada pela autoridade a que
 se refere êste artigo.
 
-## Art. 197.
+## Art. 197
 
 Mediante intimação escrita, são obrigados a prestar à autoridade administrativa tôdas
 as informações de que disponham com relação aos bens, negócios ou atividades de
@@ -2964,7 +2964,7 @@ informações quanto a fatos sobre os quais o informante esteja legalmente obrig
 observar segredo em razão de cargo, ofício, função, ministério, atividade ou
 profissão.
 
-## Art. 198.
+## Art. 198
 
 Sem prejuízo do disposto na legislação criminal, é
 
@@ -3028,7 +3028,7 @@ de dados de natureza cadastral e patrimonial de seus administrados e
 supervisionados. (Incluído
 pela Lei Complementar nº 208, de 2024)
 
-## Art. 199.
+## Art. 199
 
 A Fazenda Pública da União e as dos Estados, do Distrito Federal
 
@@ -3040,7 +3040,7 @@ Parágrafo único. A Fazenda Pública da União, na forma
 estabelecida em tratados, acordos ou convênios, poderá permutar informações com
 Estados estrangeiros no interesse da arrecadação e da fiscalização de tributos. (Incluído pela Lcp nº 104, de 2001)
 
-## Art. 200.
+## Art. 200
 
 As autoridades administrativas federais poderão requisitar o
 
@@ -3051,7 +3051,7 @@ configure fato definido em lei como crime ou contravenção.
 
 # CAPÍTULO II
 
-## Art. 201.
+## Art. 201
 
 Constitui dívida ativa tributária a proveniente de crédito dessa natureza,
 
@@ -3062,9 +3062,9 @@ regular.
 Parágrafo único. A fluência de juros de mora não exclui, para os efeitos deste artigo,
 a liquidez do crédito.
 
-## Art. 202.
+## Art. 202
 
-termo de inscrição da dívida ativa, autenticado pela autoridade competente,
+O termo de inscrição da dívida ativa, autenticado pela autoridade competente,
 
 indicará obrigatoriamente:
 
@@ -3088,7 +3088,7 @@ caso, o número do processo administrativo de que se originar o crédito.
 Parágrafo único. A certidão conterá, além dos requisitos deste artigo, a indicação
 do livro e da folha da inscrição.
 
-## Art. 203.
+## Art. 203
 
 A omissão de quaisquer dos requisitos previstos no artigo anterior, ou o erro a eles
 
@@ -3097,7 +3097,7 @@ decorrente, mas a nulidade poderá ser sanada até a decisão de primeira instâ
 mediante substituição da certidão nula, devolvido ao sujeito passivo, acusado ou
 interessado o prazo para defesa, que somente poderá versar sobre a parte modificada.
 
-## Art. 204.
+## Art. 204
 
 A dívida regularmente inscrita goza da presunção de certeza e liquidez e tem o efeito
 de prova pré-constituída.
@@ -3107,7 +3107,7 @@ ilidida por prova inequívoca, a cargo do sujeito passivo ou do terceiro a que a
 
 # CAPÍTULO III
 
-## Art. 205.
+## Art. 205
 
 A lei poderá exigir que a prova da quitação de determinado tributo, quando
 
@@ -3120,14 +3120,14 @@ Parágrafo único. A certidão negativa será sempre expedida nos termos em que 
 requerida e será fornecida dentro de 10 (dez) dias da data da entrada do requerimento na
 repartição.
 
-## Art. 206.
+## Art. 206
 
 Tem os mesmos efeitos previstos no artigo anterior a certidão de
 
 que conste a existência de créditos não vencidos, em curso de cobrança executiva em
 que tenha sido efetivada a penhora, ou cuja exigibilidade esteja suspensa.
 
-## Art. 207.
+## Art. 207
 
 Independentemente de disposição legal permissiva, será dispensada a prova de quitação
 de tributos, ou o seu suprimento, quando se tratar de prática de ato indispensável para
@@ -3135,7 +3135,7 @@ evitar a caducidade de direito, respondendo, porém, todos os participantes no a
 tributo porventura devido, juros de mora e penalidades cabíveis, exceto as relativas a
 infrações cuja responsabilidade seja pessoal ao infrator.
 
-## Art. 208.
+## Art. 208
 
 A certidão negativa expedida com dolo ou fraude, que contenha erro contra a Fazenda
 Pública, responsabiliza pessoalmente o funcionário que a expedir, pelo crédito
@@ -3144,37 +3144,37 @@ tributário e juros de mora acrescidos.
 Parágrafo único. O disposto neste artigo não exclui a responsabilidade criminal e
 funcional que no caso couber.
 
-## Art. 209.
+## Art. 209
 
 A expressão "Fazenda Pública", quando empregada nesta Lei sem
 
 qualificação, abrange a Fazenda Pública da União, dos Estados, do Distrito Federal e
 dos Municípios.
 
-## Art. 210.
+## Art. 210
 
-s prazos fixados nesta Lei ou legislação tributária serão
+Os prazos fixados nesta Lei ou legislação tributária serão
 
 contínuos, excluindo-se na sua contagem o dia de início e incluindo-se o de vencimento.
 
 Parágrafo único. Os prazos só se iniciam ou vencem em dia de expediente
 normal na repartição em que corra o processo ou deva ser praticado o ato.
 
-## Art. 211.
+## Art. 211
 
 Incumbe ao Conselho Técnico de Economia e Finanças, do Ministério da Fazenda, prestar
 assistência técnica aos governos estaduais e municipais, com o objetivo de assegurar a
 uniforme aplicação da presente Lei.
 
-## Art. 212.
+## Art. 212
 
-s Poderes Executivos federal, estaduais e municipais expedirão, por decreto, dentro
+Os Poderes Executivos federal, estaduais e municipais expedirão, por decreto, dentro
 
 de 90 (noventa) dias da entrada em vigor desta Lei, a consolidação, em texto único, da
 legislação vigente, relativa a cada um dos tributos, repetindo-se esta providência até
 o dia 31 de janeiro de cada ano.
 
-## Art. 213.
+## Art. 213
 
 Os Estados pertencentes a uma mesma região geo-econômica celebrarão entre si convênios
 para o estabelecimento de alíquota uniforme para o imposto a que se refere o artigo 52.
@@ -3182,27 +3182,27 @@ para o estabelecimento de alíquota uniforme para o imposto a que se refere o ar
 Parágrafo único. Os Municípios de um mesmo Estado procederão igualmente, no que se
 refere à fixação da alíquota de que trata o artigo 60.
 
-## Art. 214.
+## Art. 214
 
 O Poder Executivo promoverá a realização de convênios com os Estados, para excluir ou
 limitar a incidência do imposto sobre operações relativas à circulação de
 mercadorias, no caso de exportação para o exterior.
 
-## Art. 215.
+## Art. 215
 
 A lei estadual pode autorizar o Poder Executivo a reajustar,
 
 no exercício de 1967, a alíquota de imposto a que se refere o artigo 52, dentro de
 limites e segundo critérios por ela estabelecidos.
 
-## Art. 216.
+## Art. 216
 
 O Poder Executivo proporá as medidas legislativas adequadas a possibilitar, sem
 compressão dos investimentos previstos na proposta orçamentária de 1967, o cumprimento
 do disposto no
 artigo 21 da Emenda Constitucional nº 18, de 1965.
 
-## Art. 217.
+## Art. 217
 
 As disposições desta Lei, notadamente as dos arts 17, 74, § 2º
 
@@ -3240,7 +3240,7 @@ V - das contribuições enumeradas no § 2º do art. 34 da Lei 4.863, de 29 de n
 setembro de 1966, e outras de fins sociais criadas por lei. (Incluído pelo Decreto-lei nº 27, de
 1966)
 
-## Art. 218.
+## Art. 218
 
 Esta Lei entrará em vigor, em todo o território nacional, no dia 1º de
 

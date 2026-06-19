@@ -171,7 +171,7 @@ III - a interdição por incapacidade absoluta ou relativa;
 
 IV - a sentença declaratória de ausência e de morte presumida.
 
-## Art. 10.
+## Art. 10
 
 Far-se-á averbação em registro público:
 
@@ -185,14 +185,14 @@ III -
 
 # CAPÍTULO II — Dos Direitos da Personalidade
 
-## Art. 11.
+## Art. 11
 
 Com exceção dos casos previstos em lei, os direitos da personalidade são
 
 intransmissíveis e irrenunciáveis, não podendo o seu exercício sofrer limitação
 voluntária.
 
-## Art. 12.
+## Art. 12
 
 Pode-se exigir que cesse a ameaça, ou a lesão, a direito da personalidade, e
 
@@ -202,7 +202,7 @@ Parágrafo único. Em se tratando de morto, terá legitimação para requerer a 
 prevista neste artigo o cônjuge sobrevivente, ou qualquer parente em linha reta, ou
 colateral até o quarto grau.
 
-## Art. 13.
+## Art. 13
 
 Salvo por exigência médica, é defeso o ato de disposição do próprio
 
@@ -212,7 +212,7 @@ bons costumes.
 Parágrafo único. O ato previsto neste artigo será admitido para fins de transplante,
 na forma estabelecida em lei especial.
 
-## Art. 14.
+## Art. 14
 
 É válida, com objetivo científico, ou altruístico, a disposição gratuita
 
@@ -220,34 +220,34 @@ do próprio corpo, no todo ou em parte, para depois da morte.
 
 Parágrafo único. O ato de disposição pode ser livremente revogado a qualquer tempo.
 
-## Art. 15.
+## Art. 15
 
 Ninguém pode ser constrangido a submeter-se, com risco de vida, a tratamento
 
 médico ou a intervenção cirúrgica.
 
-## Art. 16.
+## Art. 16
 
 Toda pessoa tem direito ao nome, nele compreendidos o prenome e o sobrenome.
 
-## Art. 17.
+## Art. 17
 
-nome da pessoa não pode ser empregado por outrem em publicações ou
+O nome da pessoa não pode ser empregado por outrem em publicações ou
 
 representações que a exponham ao desprezo público, ainda quando não haja intenção
 difamatória.
 
-## Art. 18.
+## Art. 18
 
 Sem autorização, não se pode usar o nome alheio em propaganda comercial.
 
-## Art. 19.
+## Art. 19
 
-pseudônimo adotado para atividades lícitas goza da proteção que se dá
+O pseudônimo adotado para atividades lícitas goza da proteção que se dá
 
 ao nome.
 
-## Art. 20.
+## Art. 20
 
 Salvo se autorizadas, ou se necessárias à administração da justiça ou à
 
@@ -261,7 +261,7 @@ comerciais.
 Parágrafo único. Em se tratando de morto ou de ausente, são partes legítimas para
 requerer essa proteção o cônjuge, os ascendentes ou os descendentes.
 
-## Art. 21.
+## Art. 21
 
 A vida privada da pessoa natural é inviolável, e o juiz, a requerimento do
 
@@ -273,7 +273,7 @@ contrário a esta norma.
 
 ### Seção I — Da Curadoria dos Bens do Ausente
 
-## Art. 22.
+## Art. 22
 
 Desaparecendo uma pessoa do seu domicílio sem dela haver notícia, se não
 
@@ -281,23 +281,23 @@ houver deixado representante ou procurador a quem caiba administrar-lhe os bens,
 requerimento de qualquer interessado ou do Ministério Público, declarará a ausência, e
 nomear-lhe-á curador.
 
-## Art. 23.
+## Art. 23
 
 Também se declarará a ausência, e se nomeará curador, quando o ausente
 
 deixar mandatário que não queira ou não possa exercer ou continuar o mandato, ou se os
 seus poderes forem insuficientes.
 
-## Art. 24.
+## Art. 24
 
-juiz, que nomear o curador, fixar-lhe-á os poderes e obrigações, conforme
+O juiz, que nomear o curador, fixar-lhe-á os poderes e obrigações, conforme
 
 as circunstâncias, observando, no que for aplicável, o disposto a respeito dos tutores e
 curadores.
 
-## Art. 25.
+## Art. 25
 
-cônjuge do ausente, sempre que não esteja separado judicialmente, ou de
+O cônjuge do ausente, sempre que não esteja separado judicialmente, ou de
 
 fato por mais de dois anos antes da declaração da ausência, será o seu legítimo
 curador.
@@ -320,14 +320,14 @@ curador.
 
 ### Seção II — Da Sucessão Provisória
 
-## Art. 26.
+## Art. 26
 
 Decorrido um ano da arrecadação dos bens do ausente, ou, se ele deixou
 
 representante ou procurador, em se passando três anos, poderão os interessados requerer
 que se declare a ausência e se abra provisoriamente a sucessão.
 
-## Art. 27.
+## Art. 27
 
 Para o efeito previsto no artigo anterior, somente se consideram interessados:
 
@@ -339,7 +339,7 @@ III - os que tiverem sobre os bens do ausente direito dependente de sua morte;
 
 IV - os credores de obrigações vencidas e não pagas.
 
-## Art. 28.
+## Art. 28
 
 A sentença que determinar a abertura da sucessão provisória só produzirá
 
@@ -360,16 +360,16 @@ dias depois de passar em julgado a sentença que mandar abrir a sucessão
 provisória, proceder-se-á à arrecadação dos bens do ausente pela forma
 estabelecida nos arts. 1.819 a 1.823.
 
-## Art. 29.
+## Art. 29
 
 Antes da partilha, o juiz, quando julgar conveniente, ordenará a conversão
 
 dos bens móveis, sujeitos a deterioração ou a extravio, em imóveis ou em títulos
 garantidos pela União.
 
-## Art. 30.
+## Art. 30
 
-s herdeiros, para se imitirem na posse dos bens do ausente, darão garantias
+Os herdeiros, para se imitirem na posse dos bens do ausente, darão garantias
 
 da restituição deles, mediante penhores ou hipotecas equivalentes aos quinhões
 respectivos.
@@ -387,22 +387,22 @@ Os ascendentes, os descendentes e o cônjuge, uma vez provada a
 sua qualidade de herdeiros, poderão, independentemente de garantia, entrar na posse dos
 bens do ausente.
 
-## Art. 31.
+## Art. 31
 
-s imóveis do ausente só se poderão alienar, não sendo por
+Os imóveis do ausente só se poderão alienar, não sendo por
 
 desapropriação, ou hipotecar, quando o ordene o juiz, para lhes evitar a ruína.
 
-## Art. 32.
+## Art. 32
 
 Empossados nos bens, os sucessores provisórios ficarão representando ativa e
 
 passivamente o ausente, de modo que contra eles correrão as ações pendentes e as que de
 futuro àquele forem movidas.
 
-## Art. 33.
+## Art. 33
 
-descendente, ascendente ou cônjuge que for sucessor provisório do ausente,
+O descendente, ascendente ou cônjuge que for sucessor provisório do ausente,
 
 fará seus todos os frutos e rendimentos dos bens que a este couberem; os outros
 sucessores, porém, deverão capitalizar metade desses frutos e rendimentos, segundo o
@@ -413,21 +413,21 @@ Parágrafo único. Se o ausente aparecer, e ficar provado que a ausência foi
 voluntária e injustificada, perderá ele, em favor do sucessor, sua parte nos frutos e
 rendimentos.
 
-## Art. 34.
+## Art. 34
 
-excluído, segundo o art. 30, da posse provisória poderá, justificando
+O excluído, segundo o art. 30, da posse provisória poderá, justificando
 
 falta de meios, requerer lhe seja entregue metade dos rendimentos do quinhão que lhe
 tocaria.
 
-## Art. 35.
+## Art. 35
 
 Se durante a posse provisória se provar a época exata do falecimento do
 
 ausente, considerar-se-á, nessa data, aberta a sucessão em favor dos herdeiros, que o
 eram àquele tempo.
 
-## Art. 36.
+## Art. 36
 
 Se o ausente aparecer, ou se lhe provar a existência, depois de estabelecida
 
@@ -437,20 +437,20 @@ dos bens a seu dono.
 
 ### Seção III — Da Sucessão Definitiva
 
-## Art. 37.
+## Art. 37
 
 Dez anos depois de passada em julgado a sentença que concede a abertura da
 
 sucessão provisória, poderão os interessados requerer a sucessão definitiva e o
 levantamento das cauções prestadas.
 
-## Art. 38.
+## Art. 38
 
 Pode-se requerer a sucessão definitiva, também, provando-se que o ausente
 
 conta oitenta anos de idade, e que de cinco datam as últimas notícias dele.
 
-## Art. 39.
+## Art. 39
 
 Regressando o ausente nos dez anos seguintes à abertura da sucessão
 
@@ -469,13 +469,13 @@ federal.
 
 # CAPÍTULO I — Disposições Gerais
 
-## Art. 40.
+## Art. 40
 
 As pessoas jurídicas são de direito público, interno ou externo, e de
 
 direito privado.
 
-## Art. 41.
+## Art. 41
 
 São pessoas jurídicas de direito público interno:
 
@@ -495,13 +495,13 @@ Parágrafo único. Salvo disposição em contrário, as pessoas jurídicas de di
 público, a que se tenha dado estrutura de direito privado, regem-se, no que couber,
 quanto ao seu funcionamento, pelas normas deste Código.
 
-## Art. 42.
+## Art. 42
 
 São pessoas jurídicas de direito público externo os Estados estrangeiros e
 
 todas as pessoas que forem regidas pelo direito internacional público.
 
-## Art. 43.
+## Art. 43
 
 As pessoas jurídicas de direito público interno são civilmente
 
@@ -509,7 +509,7 @@ responsáveis por atos dos seus agentes que nessa qualidade causem danos a terce
 ressalvado direito regressivo contra os causadores do dano, se houver, por parte destes,
 culpa ou dolo.
 
-## Art. 44.
+## Art. 44
 
 São pessoas jurídicas de direito privado:
 
@@ -556,7 +556,7 @@ conforme o disposto em lei específica.
 (Incluído
 pela Lei nº 10.825, de 22.12.2003)
 
-## Art. 45.
+## Art. 45
 
 Começa a existência legal das pessoas jurídicas de direito privado com a
 
@@ -568,9 +568,9 @@ Parágrafo único. Decai em três anos o direito de anular a constituição das 
 jurídicas de direito privado, por defeito do ato respectivo, contado o prazo da
 publicação de sua inscrição no registro.
 
-## Art. 46.
+## Art. 46
 
-registro declarará:
+O registro declarará:
 
 I - a denominação, os fins, a sede, o tempo de duração e o fundo social, quando
 houver;
@@ -587,13 +587,13 @@ V - se os membros respondem, ou não, subsidiariamente, pelas obrigações socia
 VI - as condições de extinção da pessoa jurídica e o destino do seu patrimônio,
 nesse caso.
 
-## Art. 47.
+## Art. 47
 
-brigam a pessoa jurídica os atos dos administradores, exercidos nos limites
+Obrigam a pessoa jurídica os atos dos administradores, exercidos nos limites
 
 de seus poderes definidos no ato constitutivo.
 
-## Art. 48.
+## Art. 48
 
 Se a pessoa jurídica tiver administração coletiva, as decisões se tomarão
 
@@ -605,7 +605,7 @@ simulação ou fraude.
 
 ## Art. 48-A
 
-. As pessoas jurídicas de direito privado, sem prejuízo do
+As pessoas jurídicas de direito privado, sem prejuízo do
 
 previsto em legislação especial e em seus atos constitutivos, poderão
 realizar suas assembleias gerais por meio eletrônico, inclusive para os fins
@@ -614,7 +614,7 @@ participação e de manifestação.
 (Incluído pela Lei nº
 14.382, de 2022)
 
-## Art. 49.
+## Art. 49
 
 Se a administração da pessoa jurídica vier a faltar, o juiz, a requerimento
 
@@ -622,7 +622,7 @@ de qualquer interessado, nomear-lhe-á administrador provisório.
 
 ## Art. 49-A
 
-. A pessoa jurídica não se confunde com os seus sócios,
+A pessoa jurídica não se confunde com os seus sócios,
 
 associados, instituidores ou administradores.
 (Incluído pela Lei nº
@@ -635,7 +635,7 @@ renda e inovação em benefício de todos.
 (Incluído pela Lei nº 13.874, de
 2019)
 
-## Art. 50.
+## Art. 50
 
 Em caso de abuso da personalidade jurídica, caracterizado
 
@@ -695,7 +695,7 @@ da pessoa jurídica.
 (Incluído
 pela Lei nº 13.874, de 2019)
 
-## Art. 51.
+## Art. 51
 
 Nos casos de dissolução da pessoa jurídica ou cassada a autorização para
 
@@ -712,7 +712,7 @@ no que couber, às demais pessoas jurídicas de direito privado.
 Encerrada a liquidação, promover-se-á o cancelamento da
 inscrição da pessoa jurídica.
 
-## Art. 52.
+## Art. 52
 
 Aplica-se às pessoas jurídicas, no que couber, a proteção dos direitos da
 
@@ -720,7 +720,7 @@ personalidade.
 
 # CAPÍTULO II — DAS ASSOCIAÇÕES
 
-## Art. 53.
+## Art. 53
 
 Constituem-se as associações pela união de pessoas que se organizem para
 
@@ -728,7 +728,7 @@ fins não econômicos.
 
 Parágrafo único. Não há, entre os associados, direitos e obrigações recíprocos.
 
-## Art. 54.
+## Art. 54
 
 Sob pena de nulidade, o estatuto das associações conterá:
 
@@ -753,13 +753,13 @@ administrativa e de aprovação das respectivas contas.
 (Incluído pela Lei nº 11.127, de
 2005)
 
-## Art. 55.
+## Art. 55
 
-s associados devem ter iguais direitos, mas o estatuto poderá instituir
+Os associados devem ter iguais direitos, mas o estatuto poderá instituir
 
 categorias com vantagens especiais.
 
-## Art. 56.
+## Art. 56
 
 A qualidade de associado é intransmissível, se o estatuto não dispuser o
 
@@ -772,7 +772,7 @@ de per si
 atribuição da qualidade de associado ao adquirente ou ao herdeiro, salvo disposição
 diversa do estatuto.
 
-## Art. 57.
+## Art. 57
 
 A exclusão do associado só é
 
@@ -786,14 +786,14 @@ Parágrafo único.
 (Redação dada pela Lei nº
 11.127, de 2005)
 
-## Art. 58.
+## Art. 58
 
 Nenhum associado poderá ser impedido de exercer direito ou função que lhe
 
 tenha sido legitimamente conferido, a não ser nos casos e pela forma previstos na lei ou
 no estatuto.
 
-## Art. 59.
+## Art. 59
 
 Compete privativamente à assembléia
 
@@ -816,7 +816,7 @@ eleição dos administradores.
 (Redação
 dada pela Lei nº 11.127, de 2005)
 
-## Art. 60.
+## Art. 60
 
 A convocação dos órgãos
 
@@ -825,7 +825,7 @@ direito de promovê-la.
 (Redação
 dada pela Lei nº 11.127, de 2005)
 
-## Art. 61.
+## Art. 61
 
 Dissolvida a associação, o remanescente do seu patrimônio líquido, depois
 
@@ -850,7 +850,7 @@ Distrito Federal ou da União.
 
 # CAPÍTULO III — DAS FUNDAÇÕES
 
-## Art. 62.
+## Art. 62
 
 Para criar uma fundação, o seu instituidor fará, por escritura pública ou
 
@@ -904,21 +904,21 @@ X  (VETADO).
 (Incluído pela Lei nº
 13.151, de 2015)
 
-## Art. 63.
+## Art. 63
 
 Quando insuficientes para constituir a fundação, os bens a ela destinados
 
 serão, se de outro modo não dispuser o instituidor, incorporados em outra fundação que
 se proponha a fim igual ou semelhante.
 
-## Art. 64.
+## Art. 64
 
 Constituída a fundação por negócio jurídico entre vivos, o instituidor é
 
 obrigado a transferir-lhe a propriedade, ou outro direito real, sobre os bens dotados, e,
 se não o fizer, serão registrados, em nome dela, por mandado judicial.
 
-## Art. 65.
+## Art. 65
 
 Aqueles a quem o instituidor cometer a aplicação do patrimônio, em tendo
 
@@ -930,7 +930,7 @@ Parágrafo único. Se o estatuto não for elaborado no prazo assinado pelo insti
 ou, não havendo prazo, em cento e oitenta dias, a incumbência caberá ao Ministério
 Público.
 
-## Art. 66.
+## Art. 66
 
 Velará pelas fundações o Ministério Público do Estado onde situadas.
 
@@ -945,7 +945,7 @@ encargo ao Ministério Público do Distrito Federal e Territórios.
 Se estenderem a atividade por mais de um Estado, caberá o
 encargo, em cada um deles, ao respectivo Ministério Público.
 
-## Art. 67.
+## Art. 67
 
 Para que se possa alterar o estatuto da fundação é mister que a reforma:
 
@@ -961,7 +961,7 @@ juiz supri-la, a requerimento do interessado.
 (Redação dada pela Lei nº
 13.151, de 2015)
 
-## Art. 68.
+## Art. 68
 
 Quando a alteração não houver sido aprovada por votação unânime, os
 
@@ -969,7 +969,7 @@ administradores da fundação, ao submeterem o estatuto ao órgão do Ministéri
 Público, requererão que se dê ciência à minoria vencida para impugná-la, se quiser,
 em dez dias.
 
-## Art. 69.
+## Art. 69
 
 Tornando-se ilícita, impossível ou inútil a finalidade a que visa a
 
@@ -980,19 +980,19 @@ designada pelo juiz, que se proponha a fim igual ou semelhante.
 
 # TÍTULO III — Do Domicílio
 
-## Art. 70.
+## Art. 70
 
-domicílio da pessoa natural é o lugar onde ela estabelece a sua
+O domicílio da pessoa natural é o lugar onde ela estabelece a sua
 
 residência com ânimo definitivo.
 
-## Art. 71.
+## Art. 71
 
 Se, porém, a pessoa natural tiver diversas residências, onde,
 
 alternadamente, viva, considerar-se-á domicílio seu qualquer delas.
 
-## Art. 72.
+## Art. 72
 
 É também domicílio da pessoa natural, quanto às relações concernentes à
 
@@ -1001,13 +1001,13 @@ profissão, o lugar onde esta é exercida.
 Parágrafo único. Se a pessoa exercitar profissão em lugares diversos, cada um deles
 constituirá domicílio para as relações que lhe corresponderem.
 
-## Art. 73.
+## Art. 73
 
 Ter-se-á por domicílio da pessoa natural, que não tenha residência
 
 habitual, o lugar onde for encontrada.
 
-## Art. 74.
+## Art. 74
 
 Muda-se o domicílio, transferindo a residência, com a intenção manifesta
 
@@ -1017,7 +1017,7 @@ Parágrafo único. A prova da intenção resultará do que declarar a pessoa às
 municipalidades dos lugares, que deixa, e para onde vai, ou, se tais declarações não
 fizer, da própria mudança, com as circunstâncias que a acompanharem.
 
-## Art. 75.
+## Art. 75
 
 Quanto às pessoas jurídicas, o domicílio é:
 
@@ -1043,7 +1043,7 @@ estrangeiro, haver-se-á por domicílio da pessoa jurídica, no tocante às obri
 contraídas por cada uma das suas agências, o lugar do estabelecimento, sito no Brasil, a
 que ela corresponder.
 
-## Art. 76.
+## Art. 76
 
 Têm domicílio necessário o incapaz, o servidor público, o militar, o
 
@@ -1055,14 +1055,14 @@ onde servir, e, sendo da Marinha ou da Aeronáutica, a sede do comando a que se 
 imediatamente subordinado; o do marítimo, onde o navio estiver matriculado; e o do preso,
 o lugar em que cumprir a sentença.
 
-## Art. 77.
+## Art. 77
 
-agente diplomático do Brasil, que, citado no estrangeiro, alegar
+O agente diplomático do Brasil, que, citado no estrangeiro, alegar
 
 extraterritorialidade sem designar onde tem, no país, o seu domicílio, poderá ser
 demandado no Distrito Federal ou no último ponto do território brasileiro onde o teve.
 
-## Art. 78.
+## Art. 78
 
 Nos contratos escritos, poderão os contratantes especificar domicílio onde
 
@@ -1076,13 +1076,13 @@ se exercitem e cumpram os direitos e obrigações deles resultantes.
 
 ### Seção I — Dos Bens Imóveis
 
-## Art. 79.
+## Art. 79
 
 São bens imóveis o solo e tudo quanto se lhe incorporar natural ou
 
 artificialmente.
 
-## Art. 80.
+## Art. 80
 
 Consideram-se imóveis para os efeitos legais:
 
@@ -1090,7 +1090,7 @@ I - os direitos reais sobre imóveis e as ações que os asseguram;
 
 II - o direito à sucessão aberta.
 
-## Art. 81.
+## Art. 81
 
 Não perdem o caráter de imóveis:
 
@@ -1101,13 +1101,13 @@ II - os materiais provisoriamente separados de um prédio, para nele se reempreg
 
 ### Seção II — Dos Bens Móveis
 
-## Art. 82.
+## Art. 82
 
 São móveis os bens suscetíveis de movimento próprio, ou de remoção por
 
 força alheia, sem alteração da substância ou da destinação econômico-social.
 
-## Art. 83.
+## Art. 83
 
 Consideram-se móveis para os efeitos legais:
 
@@ -1117,22 +1117,22 @@ II - os direitos reais sobre objetos móveis e as ações correspondentes;
 
 III - os direitos pessoais de caráter patrimonial e respectivas ações.
 
-## Art. 84.
+## Art. 84
 
-s materiais destinados a alguma construção, enquanto não forem empregados,
+Os materiais destinados a alguma construção, enquanto não forem empregados,
 
 conservam sua qualidade de móveis; readquirem essa qualidade os provenientes da
 demolição de algum prédio.
 
 ### Seção III — Dos Bens Fungíveis e Consumíveis
 
-## Art. 85.
+## Art. 85
 
 São fungíveis os móveis que podem substituir-se por outros da mesma
 
 espécie, qualidade e quantidade.
 
-## Art. 86.
+## Art. 86
 
 São consumíveis os bens móveis cujo uso importa destruição imediata da
 
@@ -1140,28 +1140,28 @@ própria substância, sendo também considerados tais os destinados à alienaç�
 
 ### Seção IV — Dos Bens Divisíveis
 
-## Art. 87.
+## Art. 87
 
 Bens divisíveis são os que se podem fracionar sem alteração na sua
 
 substância, diminuição considerável de valor, ou prejuízo do uso a que se destinam.
 
-## Art. 88.
+## Art. 88
 
-s bens naturalmente divisíveis podem tornar-se indivisíveis por
+Os bens naturalmente divisíveis podem tornar-se indivisíveis por
 
 determinação da lei ou por vontade das partes.
 
 ### Seção V — Dos Bens Singulares e Coletivos
 
-## Art. 89.
+## Art. 89
 
 São singulares os bens que, embora reunidos, se consideram
 
 de per si,
 independentemente dos demais.
 
-## Art. 90.
+## Art. 90
 
 Constitui universalidade de fato a pluralidade de bens singulares que,
 
@@ -1170,7 +1170,7 @@ pertinentes à mesma pessoa, tenham destinação unitária.
 Parágrafo único. Os bens que formam essa universalidade podem ser objeto de
 relações jurídicas próprias.
 
-## Art. 91.
+## Art. 91
 
 Constitui universalidade de direito o complexo de relações jurídicas, de
 
@@ -1178,32 +1178,32 @@ uma pessoa, dotadas de valor econômico.
 
 # CAPÍTULO II — Dos Bens Reciprocamente Considerados
 
-## Art. 92.
+## Art. 92
 
 Principal é o bem que existe sobre si, abstrata ou concretamente; acessório,
 
 aquele cuja existência supõe a do principal.
 
-## Art. 93.
+## Art. 93
 
 São pertenças os bens que, não constituindo partes integrantes, se
 
 destinam, de modo duradouro, ao uso, ao serviço ou ao aformoseamento de outro.
 
-## Art. 94.
+## Art. 94
 
-s negócios jurídicos que dizem respeito ao bem principal não abrangem as
+Os negócios jurídicos que dizem respeito ao bem principal não abrangem as
 
 pertenças, salvo se o contrário resultar da lei, da manifestação de vontade, ou das
 circunstâncias do caso.
 
-## Art. 95.
+## Art. 95
 
 Apesar de ainda não separados do bem principal, os frutos e produtos podem
 
 ser objeto de negócio jurídico.
 
-## Art. 96.
+## Art. 96
 
 As benfeitorias podem ser voluptuárias, úteis ou necessárias.
 
@@ -1222,7 +1222,7 @@ o
 São necessárias as que têm por fim conservar o bem ou evitar
 que se deteriore.
 
-## Art. 97.
+## Art. 97
 
 Não se consideram benfeitorias os melhoramentos ou acréscimos sobrevindos ao
 
@@ -1230,14 +1230,14 @@ bem sem a intervenção do proprietário, possuidor ou detentor.
 
 # CAPÍTULO III — Dos Bens Públicos
 
-## Art. 98.
+## Art. 98
 
 São públicos os bens do domínio nacional pertencentes às pessoas
 
 jurídicas de direito público interno; todos os outros são particulares, seja qual for a
 pessoa a que pertencerem.
 
-## Art. 99.
+## Art. 99
 
 São bens públicos:
 
@@ -1254,25 +1254,25 @@ Parágrafo único. Não dispondo a lei em contrário, consideram-se dominicais o
 pertencentes às pessoas jurídicas de direito público a que se tenha dado estrutura de
 direito privado.
 
-## Art. 100.
+## Art. 100
 
-s bens públicos de uso comum do povo e os de uso especial são
+Os bens públicos de uso comum do povo e os de uso especial são
 
 inalienáveis, enquanto conservarem a sua qualificação, na forma que a lei determinar.
 
-## Art. 101.
+## Art. 101
 
-s bens públicos dominicais podem ser alienados, observadas as exigências
+Os bens públicos dominicais podem ser alienados, observadas as exigências
 
 da lei.
 
-## Art. 102.
+## Art. 102
 
-s bens públicos não estão sujeitos a usucapião.
+Os bens públicos não estão sujeitos a usucapião.
 
-## Art. 103.
+## Art. 103
 
-uso comum dos bens públicos pode ser gratuito ou retribuído, conforme for
+O uso comum dos bens públicos pode ser gratuito ou retribuído, conforme for
 
 estabelecido legalmente pela entidade a cuja administração pertencerem.
 
@@ -1282,7 +1282,7 @@ estabelecido legalmente pela entidade a cuja administração pertencerem.
 
 # CAPÍTULO I — Disposições Gerais
 
-## Art. 104.
+## Art. 104
 
 A validade do negócio jurídico requer:
 
@@ -1292,26 +1292,26 @@ II - objeto lícito, possível, determinado ou determinável;
 
 III - forma prescrita ou não defesa em lei.
 
-## Art. 105.
+## Art. 105
 
 A incapacidade relativa de uma das partes não pode ser invocada pela outra
 
 em benefício próprio, nem aproveita aos co-interessados capazes, salvo se, neste caso,
 for indivisível o objeto do direito ou da obrigação comum.
 
-## Art. 106.
+## Art. 106
 
 A impossibilidade inicial do objeto não invalida o negócio jurídico se for
 
 relativa, ou se cessar antes de realizada a condição a que ele estiver subordinado.
 
-## Art. 107.
+## Art. 107
 
 A validade da declaração de vontade não dependerá de forma especial,
 
 senão quando a lei expressamente a exigir.
 
-## Art. 108.
+## Art. 108
 
 Não dispondo a lei em contrário, a escritura pública
 
@@ -1319,34 +1319,34 @@ Não dispondo a lei em contrário, a escritura pública
 transferência, modificação ou renúncia de direitos reais sobre imóveis de valor
 superior a trinta vezes o maior salário mínimo vigente no País.
 
-## Art. 109.
+## Art. 109
 
 No negócio jurídico celebrado com a cláusula de não valer sem instrumento
 
 público, este é da substância do ato.
 
-## Art. 110.
+## Art. 110
 
 A manifestação de vontade subsiste ainda que o seu autor haja feito a
 
 reserva mental de não querer o que manifestou, salvo se dela o destinatário tinha
 conhecimento.
 
-## Art. 111.
+## Art. 111
 
-silêncio importa anuência, quando as circunstâncias ou os usos o
+O silêncio importa anuência, quando as circunstâncias ou os usos o
 
 autorizarem, e não for necessária a declaração de vontade expressa.
 
-## Art. 112.
+## Art. 112
 
 Nas declarações de vontade se atenderá mais à intenção nelas
 
 consubstanciada do que ao sentido literal da linguagem.
 
-## Art. 113.
+## Art. 113
 
-s negócios jurídicos devem ser interpretados conforme a boa-fé e os usos
+Os negócios jurídicos devem ser interpretados conforme a boa-fé e os usos
 
 do lugar de sua celebração.
 
@@ -1383,23 +1383,23 @@ daquelas previstas em lei.
 (Incluído pela Lei nº
 13.874, de 2019)
 
-## Art. 114.
+## Art. 114
 
-s negócios jurídicos benéficos e a renúncia interpretam-se estritamente.
+Os negócios jurídicos benéficos e a renúncia interpretam-se estritamente.
 
 # CAPÍTULO II — Da Representação
 
-## Art. 115.
+## Art. 115
 
-s poderes de representação conferem-se por lei ou pelo interessado.
+Os poderes de representação conferem-se por lei ou pelo interessado.
 
-## Art. 116.
+## Art. 116
 
 A manifestação de vontade pelo representante, nos limites de seus poderes,
 
 produz efeitos em relação ao representado.
 
-## Art. 117.
+## Art. 117
 
 Salvo se o permitir a lei ou o representado, é anulável o negócio
 
@@ -1409,14 +1409,14 @@ mesmo.
 Parágrafo único. Para esse efeito, tem-se como celebrado pelo representante o
 negócio realizado por aquele em quem os poderes houverem sido subestabelecidos.
 
-## Art. 118.
+## Art. 118
 
-representante é obrigado a provar às pessoas, com quem tratar em nome do
+O representante é obrigado a provar às pessoas, com quem tratar em nome do
 
 representado, a sua qualidade e a extensão de seus poderes, sob pena de, não o fazendo,
 responder pelos atos que a estes excederem.
 
-## Art. 119.
+## Art. 119
 
 É anulável o negócio concluído pelo representante em conflito de
 
@@ -1427,22 +1427,22 @@ Parágrafo único. É de cento e oitenta dias, a contar da conclusão do negóci
 cessação da incapacidade, o prazo de decadência para pleitear-se a anulação prevista
 neste artigo.
 
-## Art. 120.
+## Art. 120
 
-s requisitos e os efeitos da representação legal são os estabelecidos nas
+Os requisitos e os efeitos da representação legal são os estabelecidos nas
 
 normas respectivas; os da representação voluntária são os da Parte Especial deste
 Código.
 
 # CAPÍTULO III — Da Condição, do Termo e do Encargo
 
-## Art. 121.
+## Art. 121
 
 Considera-se condição a cláusula que, derivando exclusivamente da vontade
 
 das partes, subordina o efeito do negócio jurídico a evento futuro e incerto.
 
-## Art. 122.
+## Art. 122
 
 São lícitas, em geral, todas as condições não contrárias à lei, à
 
@@ -1450,7 +1450,7 @@ ordem pública ou aos bons costumes; entre as condições defesas se incluem as 
 privarem de todo efeito o negócio jurídico, ou o sujeitarem ao puro arbítrio de uma das
 partes.
 
-## Art. 123.
+## Art. 123
 
 Invalidam os negócios jurídicos que lhes são subordinados:
 
@@ -1460,33 +1460,33 @@ II - as condições ilícitas, ou de fazer coisa ilícita;
 
 III - as condições incompreensíveis ou contraditórias.
 
-## Art. 124.
+## Art. 124
 
 Têm-se por inexistentes as condições impossíveis, quando resolutivas, e
 
 as de não fazer coisa impossível.
 
-## Art. 125.
+## Art. 125
 
 Subordinando-se a eficácia do negócio jurídico à condição suspensiva,
 
 enquanto esta se não verificar, não se terá adquirido o direito, a que ele visa.
 
-## Art. 126.
+## Art. 126
 
 Se alguém dispuser de uma coisa sob condição suspensiva, e, pendente esta,
 
 fizer quanto àquela novas disposições, estas não terão valor, realizada a condição,
 se com ela forem incompatíveis.
 
-## Art. 127.
+## Art. 127
 
 Se for resolutiva a condição, enquanto esta se não realizar, vigorará o
 
 negócio jurídico, podendo exercer-se desde a conclusão deste o direito por ele
 estabelecido.
 
-## Art. 128.
+## Art. 128
 
 Sobrevindo a condição resolutiva, extingue-se, para todos os efeitos, o
 
@@ -1495,7 +1495,7 @@ periódica, a sua realização, salvo disposição em contrário, não tem efic�
 quanto aos atos já praticados, desde que compatíveis com a natureza da condição
 pendente e conforme aos ditames de boa-fé.
 
-## Art. 129.
+## Art. 129
 
 Reputa-se verificada, quanto aos efeitos jurídicos, a condição cujo
 
@@ -1503,17 +1503,17 @@ implemento for maliciosamente obstado pela parte a quem desfavorecer, consideran
 contrário, não verificada a condição maliciosamente levada a efeito por aquele a quem
 aproveita o seu implemento.
 
-## Art. 130.
+## Art. 130
 
 Ao titular do direito eventual, nos casos de condição suspensiva ou
 
 resolutiva, é permitido praticar os atos destinados a conservá-lo.
 
-## Art. 131.
+## Art. 131
 
-termo inicial suspende o exercício, mas não a aquisição do direito.
+O termo inicial suspende o exercício, mas não a aquisição do direito.
 
-## Art. 132.
+## Art. 132
 
 Salvo disposição legal ou convencional em contrário, computam-se os
 
@@ -1537,7 +1537,7 @@ início, ou no imediato, se faltar exata correspondência.
 o
 Os prazos fixados por hora contar-se-ão de minuto a minuto.
 
-## Art. 133.
+## Art. 133
 
 Nos testamentos, presume-se o prazo em favor do herdeiro, e, nos contratos,
 
@@ -1545,26 +1545,26 @@ em proveito do devedor, salvo, quanto a esses, se do teor do instrumento, ou das
 circunstâncias, resultar que se estabeleceu a benefício do credor, ou de ambos os
 contratantes.
 
-## Art. 134.
+## Art. 134
 
-s negócios jurídicos entre vivos, sem prazo, são exeqüíveis desde logo,
+Os negócios jurídicos entre vivos, sem prazo, são exeqüíveis desde logo,
 
 salvo se a execução tiver de ser feita em lugar diverso ou depender de tempo.
 
-## Art. 135.
+## Art. 135
 
 Ao termo inicial e final aplicam-se, no que couber, as disposições
 
 relativas à condição suspensiva e resolutiva.
 
-## Art. 136.
+## Art. 136
 
-encargo não suspende a aquisição nem o exercício do direito, salvo
+O encargo não suspende a aquisição nem o exercício do direito, salvo
 
 quando expressamente imposto no negócio jurídico, pelo disponente, como condição
 suspensiva.
 
-## Art. 137.
+## Art. 137
 
 Considera-se não escrito o encargo ilícito ou impossível, salvo se
 
@@ -1575,16 +1575,16 @@ jurídico.
 
 ### Seção I — Do Erro ou Ignorância
 
-## Art. 138.
+## Art. 138
 
 São anuláveis os negócios jurídicos, quando as declarações de vontade
 
 emanarem de erro substancial que poderia ser percebido por pessoa de diligência normal,
 em face das circunstâncias do negócio.
 
-## Art. 139.
+## Art. 139
 
-erro é substancial quando:
+O erro é substancial quando:
 
 I - interessa à natureza do negócio, ao objeto principal da declaração, ou a alguma
 das qualidades a ele essenciais;
@@ -1595,60 +1595,60 @@ declaração de vontade, desde que tenha influído nesta de modo relevante;
 III - sendo de direito e não implicando recusa à aplicação da lei, for o motivo
 único ou principal do negócio jurídico.
 
-## Art. 140.
+## Art. 140
 
-falso motivo só vicia a declaração de vontade quando expresso como
+O falso motivo só vicia a declaração de vontade quando expresso como
 
 razão determinante.
 
-## Art. 141.
+## Art. 141
 
 A transmissão errônea da vontade por meios interpostos é anulável nos
 
 mesmos casos em que o é a declaração direta.
 
-## Art. 142.
+## Art. 142
 
-erro de indicação da pessoa ou da coisa, a que se referir a declaração
+O erro de indicação da pessoa ou da coisa, a que se referir a declaração
 
 de vontade, não viciará o negócio quando, por seu contexto e pelas circunstâncias, se
 puder identificar a coisa ou pessoa cogitada.
 
-## Art. 143.
+## Art. 143
 
-erro de cálculo apenas autoriza a retificação da declaração de
+O erro de cálculo apenas autoriza a retificação da declaração de
 
 vontade.
 
-## Art. 144.
+## Art. 144
 
-erro não prejudica a validade do negócio jurídico quando a pessoa, a
+O erro não prejudica a validade do negócio jurídico quando a pessoa, a
 
 quem a manifestação de vontade se dirige, se oferecer para executá-la na conformidade
 da vontade real do manifestante.
 
 ### Seção II — Do Dolo
 
-## Art. 145.
+## Art. 145
 
 São os negócios jurídicos anuláveis por dolo, quando este for a sua
 
 causa.
 
-## Art. 146.
+## Art. 146
 
-dolo acidental só obriga à satisfação das perdas e danos, e é
+O dolo acidental só obriga à satisfação das perdas e danos, e é
 
 acidental quando, a seu despeito, o negócio seria realizado, embora por outro modo.
 
-## Art. 147.
+## Art. 147
 
 Nos negócios jurídicos bilaterais, o silêncio intencional de uma das
 
 partes a respeito de fato ou qualidade que a outra parte haja ignorado, constitui omissão
 dolosa, provando-se que sem ela o negócio não se teria celebrado.
 
-## Art. 148.
+## Art. 148
 
 Pode também ser anulado o negócio jurídico por dolo de terceiro, se a
 
@@ -1656,15 +1656,15 @@ parte a quem aproveite dele tivesse ou devesse ter conhecimento; em caso contrá
 que subsista o negócio jurídico, o terceiro responderá por todas as perdas e danos da
 parte a quem ludibriou.
 
-## Art. 149.
+## Art. 149
 
-dolo do representante legal de uma das partes só obriga o representado a
+O dolo do representante legal de uma das partes só obriga o representado a
 
 responder civilmente até a importância do proveito que teve; se, porém, o dolo for do
 representante convencional, o representado responderá solidariamente com ele por perdas e
 danos.
 
-## Art. 150.
+## Art. 150
 
 Se ambas as partes procederem com dolo, nenhuma pode alegá-lo para anular o
 
@@ -1672,7 +1672,7 @@ negócio, ou reclamar indenização.
 
 ### Seção III — Da Coação
 
-## Art. 151.
+## Art. 151
 
 A coação, para viciar a declaração da vontade, há de ser tal que incuta
 
@@ -1682,27 +1682,27 @@ ou aos seus bens.
 Parágrafo único. Se disser respeito a pessoa não pertencente à família do
 paciente, o juiz, com base nas circunstâncias, decidirá se houve coação.
 
-## Art. 152.
+## Art. 152
 
 No apreciar a coação, ter-se-ão em conta o sexo, a idade, a condição, a
 
 saúde, o temperamento do paciente e todas as demais circunstâncias que possam influir na
 gravidade dela.
 
-## Art. 153.
+## Art. 153
 
 Não se considera coação a ameaça do exercício normal de um direito, nem
 
 o simples temor reverencial.
 
-## Art. 154.
+## Art. 154
 
 Vicia o negócio jurídico a coação exercida por terceiro, se dela tivesse
 
 ou devesse ter conhecimento a parte a que aproveite, e esta responderá solidariamente com
 aquele por perdas e danos.
 
-## Art. 155.
+## Art. 155
 
 Subsistirá o negócio jurídico, se a coação decorrer de terceiro, sem que
 
@@ -1711,7 +1711,7 @@ responderá por todas as perdas e danos que houver causado ao coacto.
 
 ### Seção IV — Do Estado de Perigo
 
-## Art. 156.
+## Art. 156
 
 Configura-se o estado de perigo quando alguém, premido da necessidade de
 
@@ -1723,9 +1723,9 @@ juiz decidirá segundo as circunstâncias.
 
 ### Seção V — Da Lesão
 
-## Art. 157.
+## Art. 157
 
-corre a lesão quando uma pessoa, sob premente necessidade, ou por
+Ocorre a lesão quando uma pessoa, sob premente necessidade, ou por
 
 inexperiência, se obriga a prestação manifestamente desproporcional ao valor da
 prestação oposta.
@@ -1742,9 +1742,9 @@ suplemento suficiente, ou se a parte favorecida concordar com a redução do pro
 
 ### Seção VI — Da Fraude Contra Credores
 
-## Art. 158.
+## Art. 158
 
-s negócios de transmissão gratuita de bens ou remissão de dívida, se os
+Os negócios de transmissão gratuita de bens ou remissão de dívida, se os
 
 praticar o devedor já insolvente, ou por eles reduzido à insolvência, ainda quando o
 ignore, poderão ser anulados pelos credores quirografários, como lesivos dos seus
@@ -1760,14 +1760,14 @@ o
 Só os credores que já o eram ao tempo daqueles atos podem
 pleitear a anulação deles.
 
-## Art. 159.
+## Art. 159
 
 Serão igualmente anuláveis os contratos onerosos do devedor insolvente,
 
 quando a insolvência for notória, ou houver motivo para ser conhecida do outro
 contratante.
 
-## Art. 160.
+## Art. 160
 
 Se o adquirente dos bens do devedor insolvente ainda não tiver pago o preço
 
@@ -1777,34 +1777,34 @@ citação de todos os interessados.
 Parágrafo único. Se inferior, o adquirente, para conservar os bens, poderá depositar
 o preço que lhes corresponda ao valor real.
 
-## Art. 161.
+## Art. 161
 
 A ação, nos casos dos arts. 158 e 159, poderá ser intentada contra o
 
 devedor insolvente, a pessoa que com ele celebrou a estipulação considerada fraudulenta,
 ou terceiros adquirentes que hajam procedido de má-fé.
 
-## Art. 162.
+## Art. 162
 
-credor quirografário, que receber do devedor insolvente o pagamento da
+O credor quirografário, que receber do devedor insolvente o pagamento da
 
 dívida ainda não vencida, ficará obrigado a repor, em proveito do acervo sobre que se
 tenha de efetuar o concurso de credores, aquilo que recebeu.
 
-## Art. 163.
+## Art. 163
 
 Presumem-se fraudatórias dos direitos dos outros credores as garantias de
 
 dívidas que o devedor insolvente tiver dado a algum credor.
 
-## Art. 164.
+## Art. 164
 
 Presumem-se, porém, de boa-fé e valem os negócios ordinários
 
 indispensáveis à manutenção de estabelecimento mercantil, rural, ou industrial, ou à
 subsistência do devedor e de sua família.
 
-## Art. 165.
+## Art. 165
 
 Anulados os negócios fraudulentos, a vantagem resultante reverterá em
 
@@ -1816,7 +1816,7 @@ na anulação da preferência ajustada.
 
 # CAPÍTULO V — Da Invalidade do Negócio Jurídico
 
-## Art. 166.
+## Art. 166
 
 É nulo o negócio jurídico quando:
 
@@ -1835,7 +1835,7 @@ VI - tiver por objetivo fraudar lei imperativa;
 VII - a lei taxativamente o declarar nulo, ou proibir-lhe a prática, sem cominar
 sanção.
 
-## Art. 167.
+## Art. 167
 
 É nulo o negócio jurídico simulado, mas subsistirá o que se dissimulou,
 
@@ -1857,7 +1857,7 @@ o
 Ressalvam-se os direitos de terceiros de boa-fé em face dos
 contraentes do negócio jurídico simulado.
 
-## Art. 168.
+## Art. 168
 
 As nulidades dos artigos antecedentes podem ser alegadas por qualquer
 
@@ -1867,20 +1867,20 @@ Parágrafo único. As nulidades devem ser pronunciadas pelo juiz, quando conhece
 negócio jurídico ou dos seus efeitos e as encontrar provadas, não lhe sendo permitido
 supri-las, ainda que a requerimento das partes.
 
-## Art. 169.
+## Art. 169
 
-negócio jurídico nulo não é suscetível de confirmação, nem
+O negócio jurídico nulo não é suscetível de confirmação, nem
 
 convalesce pelo decurso do tempo.
 
-## Art. 170.
+## Art. 170
 
 Se, porém, o negócio jurídico nulo contiver os requisitos de outro,
 
 subsistirá este quando o fim a que visavam as partes permitir supor que o teriam querido,
 se houvessem previsto a nulidade.
 
-## Art. 171.
+## Art. 171
 
 Além dos casos expressamente declarados na lei, é anulável o negócio
 
@@ -1891,45 +1891,45 @@ I - por incapacidade relativa do agente;
 II - por vício resultante de erro, dolo, coação, estado de perigo, lesão ou fraude
 contra credores.
 
-## Art. 172.
+## Art. 172
 
-negócio anulável pode ser confirmado pelas partes, salvo direito de
+O negócio anulável pode ser confirmado pelas partes, salvo direito de
 
 terceiro.
 
-## Art. 173.
+## Art. 173
 
-ato de confirmação deve conter a substância do negócio celebrado e a
+O ato de confirmação deve conter a substância do negócio celebrado e a
 
 vontade expressa de mantê-lo.
 
-## Art. 174.
+## Art. 174
 
 É escusada a confirmação expressa, quando o negócio já foi cumprido em
 
 parte pelo devedor, ciente do vício que o inquinava.
 
-## Art. 175.
+## Art. 175
 
 A confirmação expressa, ou a execução voluntária de negócio anulável,
 
 nos termos dos arts. 172 a 174, importa a extinção de todas as ações, ou exceções,
 de que contra ele dispusesse o devedor.
 
-## Art. 176.
+## Art. 176
 
 Quando a anulabilidade do ato resultar da falta de autorização de terceiro,
 
 será validado se este a der posteriormente.
 
-## Art. 177.
+## Art. 177
 
 A anulabilidade não tem efeito antes de julgada por sentença, nem se
 
 pronuncia de ofício; só os interessados a podem alegar, e aproveita exclusivamente aos
 que a alegarem, salvo o caso de solidariedade ou indivisibilidade.
 
-## Art. 178.
+## Art. 178
 
 É de quatro anos o prazo de decadência para pleitear-se a anulação do
 
@@ -1942,40 +1942,40 @@ que se realizou o negócio jurídico;
 
 III - no de atos de incapazes, do dia em que cessar a incapacidade.
 
-## Art. 179.
+## Art. 179
 
 Quando a lei dispuser que determinado ato é anulável, sem estabelecer prazo
 
 para pleitear-se a anulação, será este de dois anos, a contar da data da conclusão do
 ato.
 
-## Art. 180.
+## Art. 180
 
-menor, entre dezesseis e dezoito anos, não pode, para eximir-se de uma
+O menor, entre dezesseis e dezoito anos, não pode, para eximir-se de uma
 
 obrigação, invocar a sua idade se dolosamente a ocultou quando inquirido pela outra
 parte, ou se, no ato de obrigar-se, declarou-se maior.
 
-## Art. 181.
+## Art. 181
 
 Ninguém pode reclamar o que, por uma obrigação anulada, pagou a um
 
 incapaz, se não provar que reverteu em proveito dele a importância paga.
 
-## Art. 182.
+## Art. 182
 
 Anulado o negócio jurídico, restituir-se-ão as partes ao estado em que
 
 antes dele se achavam, e, não sendo possível restituí-las, serão indenizadas com o
 equivalente.
 
-## Art. 183.
+## Art. 183
 
 A invalidade do instrumento não induz a do negócio jurídico sempre que
 
 este puder provar-se por outro meio.
 
-## Art. 184.
+## Art. 184
 
 Respeitada a intenção das partes, a invalidade parcial de um negócio
 
@@ -1985,7 +1985,7 @@ obrigação principal.
 
 # TÍTULO II — Dos Atos Jurídicos Lícitos
 
-## Art. 185.
+## Art. 185
 
 Aos atos jurídicos lícitos, que não sejam negócios jurídicos,
 
@@ -1993,7 +1993,7 @@ aplicam-se, no que couber, as disposições do Título anterior.
 
 # TÍTULO III — Dos Atos Ilícitos
 
-## Art. 186.
+## Art. 186
 
 Aquele que, por ação ou omissão voluntária, negligência ou imprudência,
 
@@ -2004,14 +2004,14 @@ ilícito.
 (Vide ADI nº
 6792)
 
-## Art. 187.
+## Art. 187
 
 Também comete ato ilícito o titular de um direito que, ao exercê-lo,
 
 excede manifestamente os limites impostos pelo seu fim econômico ou social, pela boa-fé
 ou pelos bons costumes.
 
-## Art. 188.
+## Art. 188
 
 Não constituem atos ilícitos:
 
@@ -2031,17 +2031,17 @@ indispensável para a remoção do perigo.
 
 ### Seção I — Disposições Gerais
 
-## Art. 189.
+## Art. 189
 
 Violado o direito, nasce para o titular a pretensão, a qual se extingue,
 
 pela prescrição, nos prazos a que aludem os arts. 205 e 206.
 
-## Art. 190.
+## Art. 190
 
 A exceção prescreve no mesmo prazo em que a pretensão.
 
-## Art. 191.
+## Art. 191
 
 A renúncia da prescrição pode ser expressa ou
 
@@ -2049,28 +2049,28 @@ tácita, e só valerá, sendo feita, sem prejuízo de terceiro, depois que a pre
 se consumar; tácita é a renúncia quando se presume de fatos do interessado,
 incompatíveis com a prescrição.
 
-## Art. 192.
+## Art. 192
 
-s prazos de prescrição não podem ser alterados por acordo das partes.
+Os prazos de prescrição não podem ser alterados por acordo das partes.
 
-## Art. 193.
+## Art. 193
 
 A prescrição pode ser alegada em qualquer grau de jurisdição, pela parte
 
 a quem aproveita.
 
-## Art. 194.
+## Art. 194
 
 (Revogado pela Lei nº 11.280, de 2006)
 
-## Art. 195.
+## Art. 195
 
-s relativamente incapazes e as pessoas jurídicas têm ação contra os seus
+Os relativamente incapazes e as pessoas jurídicas têm ação contra os seus
 
 assistentes ou representantes legais, que derem causa à prescrição, ou não a alegarem
 oportunamente.
 
-## Art. 196.
+## Art. 196
 
 A prescrição iniciada contra uma pessoa continua a correr contra o seu
 
@@ -2078,7 +2078,7 @@ sucessor.
 
 ### Seção II — Das Causas que Impedem ou Suspendem a Prescrição
 
-## Art. 197.
+## Art. 197
 
 Não corre a prescrição:
 
@@ -2089,7 +2089,7 @@ II - entre ascendentes e descendentes, durante o poder familiar;
 III - entre tutelados ou curatelados e seus tutores ou curadores, durante a tutela ou
 curatela.
 
-## Art. 198.
+## Art. 198
 
 Também não corre a prescrição:
 
@@ -2102,7 +2102,7 @@ Municípios;
 
 III - contra os que se acharem servindo nas Forças Armadas, em tempo de guerra.
 
-## Art. 199.
+## Art. 199
 
 Não corre igualmente a prescrição:
 
@@ -2112,13 +2112,13 @@ II - não estando vencido o prazo;
 
 III - pendendo ação de evicção.
 
-## Art. 200.
+## Art. 200
 
 Quando a ação se originar de fato que deva ser apurado no juízo criminal,
 
 não correrá a prescrição antes da respectiva sentença definitiva.
 
-## Art. 201.
+## Art. 201
 
 Suspensa a prescrição em favor de um dos credores solidários, só
 
@@ -2126,7 +2126,7 @@ aproveitam os outros se a obrigação for indivisível.
 
 ### Seção III — Das Causas que Interrompem a Prescrição
 
-## Art. 202.
+## Art. 202
 
 A interrupção da prescrição, que somente poderá
 
@@ -2150,11 +2150,11 @@ do direito pelo devedor.
 Parágrafo único. A prescrição interrompida recomeça a correr da data do ato que a
 interrompeu, ou do último ato do processo para a interromper.
 
-## Art. 203.
+## Art. 203
 
 A prescrição pode ser interrompida por qualquer interessado.
 
-## Art. 204.
+## Art. 204
 
 A interrupção da prescrição por um credor não aproveita aos outros;
 
@@ -2180,13 +2180,13 @@ o fiador.
 
 ### Seção IV — Dos Prazos da Prescrição
 
-## Art. 205.
+## Art. 205
 
 A prescrição ocorre em dez anos, quando a lei não lhe haja fixado prazo
 
 menor.
 
-## Art. 206.
+## Art. 206
 
 Prescreve:
 
@@ -2272,7 +2272,7 @@ III - a pretensão do vencedor para haver do vencido o que despendeu em juízo.
 
 ## Art. 206-A
 
-. A prescrição intercorrente observará o mesmo prazo de
+A prescrição intercorrente observará o mesmo prazo de
 
 prescrição da pretensão, observadas as causas de impedimento, de suspensão e
 de interrupção da prescrição previstas neste Código e observado o disposto
@@ -2284,27 +2284,27 @@ art. 921 da Lei nº 13.105, de 16 de março de
 
 # CAPÍTULO II — Da Decadência
 
-## Art. 207.
+## Art. 207
 
 Salvo disposição legal em contrário, não se aplicam à decadência as
 
 normas que impedem, suspendem ou interrompem a prescrição.
 
-## Art. 208.
+## Art. 208
 
 Aplica-se à decadência o disposto nos arts. 195 e 198, inciso I.
 
-## Art. 209.
+## Art. 209
 
 É nula a renúncia à decadência fixada em lei.
 
-## Art. 210.
+## Art. 210
 
 Deve o juiz, de ofício, conhecer da decadência, quando estabelecida por
 
 lei.
 
-## Art. 211.
+## Art. 211
 
 Se a decadência for convencional, a parte a quem aproveita pode alegá-la em
 
@@ -2312,7 +2312,7 @@ qualquer grau de jurisdição, mas o juiz não pode suprir a alegação.
 
 # TÍTULO V — Da Prova
 
-## Art. 212.
+## Art. 212
 
 Salvo o negócio a que se impõe forma especial, o fato jurídico pode ser
 
@@ -2328,7 +2328,7 @@ IV - presunção;
 
 V - perícia.
 
-## Art. 213.
+## Art. 213
 
 Não tem eficácia a confissão se provém de quem não é capaz de dispor do
 
@@ -2337,13 +2337,13 @@ direito a que se referem os fatos confessados.
 Parágrafo único. Se feita a confissão por um representante, somente é eficaz nos
 limites em que este pode vincular o representado.
 
-## Art. 214.
+## Art. 214
 
 A confissão é irrevogável, mas pode ser anulada se decorreu de erro de
 
 fato ou de coação.
 
-## Art. 215.
+## Art. 215
 
 A escritura pública, lavrada em notas de tabelião, é documento dotado de
 
@@ -2396,7 +2396,7 @@ Se algum dos comparecentes não for conhecido do tabelião, nem
 puder identificar-se por documento, deverão participar do ato pelo menos duas testemunhas
 que o conheçam e atestem sua identidade.
 
-## Art. 216.
+## Art. 216
 
 Farão a mesma prova que os originais as certidões textuais de qualquer
 
@@ -2404,19 +2404,19 @@ peça judicial, do protocolo das audiências, ou de outro qualquer livro a cargo
 escrivão, sendo extraídas por ele, ou sob a sua vigilância, e por ele subscritas, assim
 como os traslados de autos, quando por outro escrivão consertados.
 
-## Art. 217.
+## Art. 217
 
 Terão a mesma força probante os traslados e as certidões, extraídos por
 
 tabelião ou oficial de registro, de instrumentos ou documentos lançados em suas notas.
 
-## Art. 218.
+## Art. 218
 
-s traslados e as certidões considerar-se-ão instrumentos públicos, se os
+Os traslados e as certidões considerar-se-ão instrumentos públicos, se os
 
 originais se houverem produzido em juízo como prova de algum ato.
 
-## Art. 219.
+## Art. 219
 
 As declarações constantes de documentos assinados presumem-se verdadeiras
 
@@ -2426,16 +2426,16 @@ Parágrafo único. Não tendo relação direta, porém, com as disposições pri
 ou com a legitimidade das partes, as declarações enunciativas não eximem os
 interessados em sua veracidade do ônus de prová-las.
 
-## Art. 220.
+## Art. 220
 
 A anuência ou a autorização de outrem, necessária à validade de um ato,
 
 provar-se-á do mesmo modo que este, e constará, sempre que se possa, do próprio
 instrumento.
 
-## Art. 221.
+## Art. 221
 
-instrumento particular, feito e assinado, ou somente assinado por quem
+O instrumento particular, feito e assinado, ou somente assinado por quem
 
 esteja na livre disposição e administração de seus bens, prova as obrigações
 convencionais de qualquer valor; mas os seus efeitos, bem como os da cessão, não se
@@ -2444,13 +2444,13 @@ operam, a respeito de terceiros, antes de registrado no registro público.
 Parágrafo único. A prova do instrumento particular pode suprir-se pelas outras de
 caráter legal.
 
-## Art. 222.
+## Art. 222
 
-telegrama, quando lhe for contestada a autenticidade, faz prova mediante
+O telegrama, quando lhe for contestada a autenticidade, faz prova mediante
 
 conferência com o original assinado.
 
-## Art. 223.
+## Art. 223
 
 A cópia fotográfica de documento, conferida por tabelião de notas, valerá
 
@@ -2461,13 +2461,13 @@ Parágrafo único. A prova não supre a ausência do título de crédito, ou do
 original, nos casos em que a lei ou as circunstâncias condicionarem o exercício do
 direito à sua exibição.
 
-## Art. 224.
+## Art. 224
 
-s documentos redigidos em língua estrangeira serão traduzidos para o
+Os documentos redigidos em língua estrangeira serão traduzidos para o
 
 português para ter efeitos legais no País.
 
-## Art. 225.
+## Art. 225
 
 As reproduções fotográficas, cinematográficas, os registros fonográficos
 
@@ -2475,9 +2475,9 @@ e, em geral, quaisquer outras reproduções mecânicas ou eletrônicas de fatos 
 coisas fazem prova plena destes, se a parte, contra quem forem exibidos, não lhes
 impugnar a exatidão.
 
-## Art. 226.
+## Art. 226
 
-s livros e fichas dos empresários e sociedades provam contra as pessoas a
+Os livros e fichas dos empresários e sociedades provam contra as pessoas a
 
 que pertencem, e, em seu favor, quando, escriturados sem vício extrínseco ou
 intrínseco, forem confirmados por outros subsídios.
@@ -2487,7 +2487,7 @@ que a lei exige escritura pública, ou escrito particular revestido de requisito
 especiais, e pode ser ilidida pela comprovação da falsidade ou inexatidão dos
 lançamentos.
 
-## Art. 227.
+## Art. 227
 
 (Revogado pela Lei n º 13.105, de
 2015)
@@ -2496,7 +2496,7 @@ lançamentos.
 Parágrafo único. Qualquer que seja o valor do negócio jurídico, a prova testemunhal
 é admissível como subsidiária ou complementar da prova por escrito.
 
-## Art. 228.
+## Art. 228
 
 Não podem ser admitidos como testemunhas:
 
@@ -2536,25 +2536,25 @@ pessoas, sendo-lhe assegurados todos os recursos de tecnologia assistiva.
 2015)
 (Vigência)
 
-## Art. 229.
+## Art. 229
 
 (Revogado pela Lei n º 13.105, de
 2015)
 (Vigência)
 
-## Art. 230.
+## Art. 230
 
 (Revogado pela Lei n º 13.105, de
 2015)
 (Vigência)
 
-## Art. 231.
+## Art. 231
 
 Aquele que se nega a submeter-se a exame médico necessário não poderá
 
 aproveitar-se de sua recusa.
 
-## Art. 232.
+## Art. 232
 
 A recusa à perícia médica ordenada pelo juiz poderá suprir a prova que se
 
@@ -2568,13 +2568,13 @@ pretendia obter com o exame.
 
 ### Seção I — Das Obrigações de Dar Coisa Certa
 
-## Art. 233.
+## Art. 233
 
 A obrigação de dar coisa certa abrange os acessórios dela embora não
 
 mencionados, salvo se o contrário resultar do título ou das circunstâncias do caso.
 
-## Art. 234.
+## Art. 234
 
 Se, no caso do artigo antecedente, a coisa se perder, sem culpa do devedor,
 
@@ -2582,20 +2582,20 @@ antes da tradição, ou pendente a condição suspensiva, fica resolvida a obrig
 para ambas as partes; se a perda resultar de culpa do devedor, responderá este pelo
 equivalente e mais perdas e danos.
 
-## Art. 235.
+## Art. 235
 
 Deteriorada a coisa, não sendo o devedor culpado, poderá o credor resolver
 
 a obrigação, ou aceitar a coisa, abatido de seu preço o valor que perdeu.
 
-## Art. 236.
+## Art. 236
 
 Sendo culpado o devedor, poderá o credor exigir o equivalente, ou aceitar a
 
 coisa no estado em que se acha, com direito a reclamar, em um ou em outro caso,
 indenização das perdas e danos.
 
-## Art. 237.
+## Art. 237
 
 Até a tradição pertence ao devedor a coisa, com os seus melhoramentos e
 
@@ -2605,33 +2605,33 @@ o devedor resolver a obrigação.
 Parágrafo único. Os frutos percebidos são do devedor, cabendo ao credor os
 pendentes.
 
-## Art. 238.
+## Art. 238
 
 Se a obrigação for de restituir coisa certa, e esta, sem culpa do devedor,
 
 se perder antes da tradição, sofrerá o credor a perda, e a obrigação se resolverá,
 ressalvados os seus direitos até o dia da perda.
 
-## Art. 239.
+## Art. 239
 
 Se a coisa se perder por culpa do devedor, responderá este pelo equivalente,
 
 mais perdas e danos.
 
-## Art. 240.
+## Art. 240
 
 Se a coisa restituível se deteriorar sem culpa do devedor, recebê-la-á o
 
 credor, tal qual se ache, sem direito a indenização; se por culpa do devedor,
 observar-se-á o disposto no art. 239.
 
-## Art. 241.
+## Art. 241
 
 Se, no caso do art. 238, sobrevier melhoramento ou acréscimo à coisa, sem
 
 despesa ou trabalho do devedor, lucrará o credor, desobrigado de indenização.
 
-## Art. 242.
+## Art. 242
 
 Se para o melhoramento, ou aumento, empregou o devedor trabalho ou
 
@@ -2643,24 +2643,24 @@ disposto neste Código, acerca do possuidor de boa-fé ou de má-fé.
 
 ### Seção II — Das Obrigações de Dar Coisa Incerta
 
-## Art. 243.
+## Art. 243
 
 A coisa incerta será indicada, ao menos, pelo gênero e pela quantidade.
 
-## Art. 244.
+## Art. 244
 
 Nas coisas determinadas pelo gênero e pela quantidade, a escolha pertence ao
 
 devedor, se o contrário não resultar do título da obrigação; mas não poderá dar a
 coisa pior, nem será obrigado a prestar a melhor.
 
-## Art. 245.
+## Art. 245
 
 Cientificado da escolha o credor, vigorará o disposto na Seção
 
 antecedente.
 
-## Art. 246.
+## Art. 246
 
 Antes da escolha, não poderá o devedor alegar perda ou deterioração da
 
@@ -2668,19 +2668,19 @@ coisa, ainda que por força maior ou caso fortuito.
 
 # CAPÍTULO II — Das Obrigações de Fazer
 
-## Art. 247.
+## Art. 247
 
 Incorre na obrigação de indenizar perdas e danos o devedor que recusar a
 
 prestação a ele só imposta, ou só por ele exeqüível.
 
-## Art. 248.
+## Art. 248
 
 Se a prestação do fato tornar-se impossível sem culpa do devedor,
 
 resolver-se-á a obrigação; se por culpa dele, responderá por perdas e danos.
 
-## Art. 249.
+## Art. 249
 
 Se o fato puder ser executado por terceiro, será livre ao credor mandá-lo
 
@@ -2692,13 +2692,13 @@ autorização judicial, executar ou mandar executar o fato, sendo depois ressarc
 
 # CAPÍTULO III — Das Obrigações de Não Fazer
 
-## Art. 250.
+## Art. 250
 
 Extingue-se a obrigação de não fazer, desde que, sem culpa do devedor, se
 
 lhe torne impossível abster-se do ato, que se obrigou a não praticar.
 
-## Art. 251.
+## Art. 251
 
 Praticado pelo devedor o ato, a cuja abstenção se obrigara, o credor pode
 
@@ -2710,7 +2710,7 @@ independentemente de autorização judicial, sem prejuízo do ressarcimento devi
 
 # CAPÍTULO IV — Das Obrigações Alternativas
 
-## Art. 252.
+## Art. 252
 
 Nas obrigações alternativas, a escolha cabe ao devedor, se outra coisa não
 
@@ -2737,20 +2737,20 @@ o
 Se o título deferir a opção a terceiro, e este não quiser,
 ou não puder exercê-la, caberá ao juiz a escolha se não houver acordo entre as partes.
 
-## Art. 253.
+## Art. 253
 
 Se uma das duas prestações não puder ser objeto de obrigação ou se
 
 tornada inexeqüível, subsistirá o débito quanto à outra.
 
-## Art. 254.
+## Art. 254
 
 Se, por culpa do devedor, não se puder cumprir nenhuma das prestações,
 
 não competindo ao credor a escolha, ficará aquele obrigado a pagar o valor da que por
 último se impossibilitou, mais as perdas e danos que o caso determinar.
 
-## Art. 255.
+## Art. 255
 
 Quando a escolha couber ao credor e uma das prestações tornar-se
 
@@ -2759,7 +2759,7 @@ subsistente ou o valor da outra, com perdas e danos; se, por culpa do devedor, a
 prestações se tornarem inexeqüíveis, poderá o credor reclamar o valor de qualquer das
 duas, além da indenização por perdas e danos.
 
-## Art. 256.
+## Art. 256
 
 Se todas as prestações se tornarem impossíveis sem culpa do devedor,
 
@@ -2767,21 +2767,21 @@ extinguir-se-á a obrigação.
 
 # CAPÍTULO V — Das Obrigações Divisíveis e Indivisíveis
 
-## Art. 257.
+## Art. 257
 
 Havendo mais de um devedor ou mais de um credor em obrigação divisível,
 
 esta presume-se dividida em tantas obrigações, iguais e distintas, quantos os credores
 ou devedores.
 
-## Art. 258.
+## Art. 258
 
 A obrigação é indivisível quando a prestação tem por objeto uma coisa
 
 ou um fato não suscetíveis de divisão, por sua natureza, por motivo de ordem
 econômica, ou dada a razão determinante do negócio jurídico.
 
-## Art. 259.
+## Art. 259
 
 Se, havendo dois ou mais devedores, a prestação não for divisível, cada
 
@@ -2790,7 +2790,7 @@ um será obrigado pela dívida toda.
 Parágrafo único. O devedor, que paga a dívida, sub-roga-se no direito do credor em
 relação aos outros coobrigados.
 
-## Art. 260.
+## Art. 260
 
 Se a pluralidade for dos credores, poderá cada um destes exigir a dívida
 
@@ -2800,13 +2800,13 @@ I - a todos conjuntamente;
 
 II - a um, dando este caução de ratificação dos outros credores.
 
-## Art. 261.
+## Art. 261
 
 Se um só dos credores receber a prestação por inteiro, a cada um dos
 
 outros assistirá o direito de exigir dele em dinheiro a parte que lhe caiba no total.
 
-## Art. 262.
+## Art. 262
 
 Se um dos credores remitir a dívida, a obrigação não ficará extinta para
 
@@ -2815,7 +2815,7 @@ com os outros; mas estes só a poderão exigir, descontada a quota do credor rem
 Parágrafo único. O mesmo critério se observará no caso de transação, novação,
 compensação ou confusão.
 
-## Art. 263.
+## Art. 263
 
 Perde a qualidade de indivisível a obrigação que se resolver em perdas e
 
@@ -2835,17 +2835,17 @@ respondendo só esse pelas perdas e danos.
 
 ### Seção I — Disposições Gerais
 
-## Art. 264.
+## Art. 264
 
 Há solidariedade, quando na mesma obrigação concorre mais de um credor, ou
 
 mais de um devedor, cada um com direito, ou obrigado, à dívida toda.
 
-## Art. 265.
+## Art. 265
 
 A solidariedade não se presume; resulta da lei ou da vontade das partes.
 
-## Art. 266.
+## Art. 266
 
 A obrigação solidária pode ser pura e simples para um dos co-credores ou
 
@@ -2853,52 +2853,52 @@ co-devedores, e condicional, ou a prazo, ou pagável em lugar diferente, para o 
 
 ### Seção II — Da Solidariedade Ativa
 
-## Art. 267.
+## Art. 267
 
 Cada um dos credores solidários tem direito a exigir do devedor o
 
 cumprimento da prestação por inteiro.
 
-## Art. 268.
+## Art. 268
 
 Enquanto alguns dos credores solidários não demandarem o devedor comum, a
 
 qualquer daqueles poderá este pagar.
 
-## Art. 269.
+## Art. 269
 
-pagamento feito a um dos credores solidários extingue a dívida até o
+O pagamento feito a um dos credores solidários extingue a dívida até o
 
 montante do que foi pago.
 
-## Art. 270.
+## Art. 270
 
 Se um dos credores solidários falecer deixando herdeiros, cada um destes só
 
 terá direito a exigir e receber a quota do crédito que corresponder ao seu quinhão
 hereditário, salvo se a obrigação for indivisível.
 
-## Art. 271.
+## Art. 271
 
 Convertendo-se a prestação em perdas e danos, subsiste, para todos os
 
 efeitos, a solidariedade.
 
-## Art. 272.
+## Art. 272
 
-credor que tiver remitido a dívida ou recebido o pagamento responderá aos
+O credor que tiver remitido a dívida ou recebido o pagamento responderá aos
 
 outros pela parte que lhes caiba.
 
-## Art. 273.
+## Art. 273
 
 A um dos credores solidários não pode o devedor opor as exceções pessoais
 
 oponíveis aos outros.
 
-## Art. 274.
+## Art. 274
 
-julgamento contrário a um dos credores solidários não atinge os
+O julgamento contrário a um dos credores solidários não atinge os
 
 demais, mas o julgamento favorável aproveita-lhes, sem prejuízo de exceção
 pessoal que o devedor tenha direito de invocar em relação a qualquer deles.
@@ -2907,9 +2907,9 @@ pessoal que o devedor tenha direito de invocar em relação a qualquer deles.
 
 ### Seção III — Da Solidariedade Passiva
 
-## Art. 275.
+## Art. 275
 
-credor tem direito a exigir e receber de um ou de alguns dos devedores,
+O credor tem direito a exigir e receber de um ou de alguns dos devedores,
 
 parcial ou totalmente, a dívida comum; se o pagamento tiver sido parcial, todos os demais
 devedores continuam obrigados solidariamente pelo resto.
@@ -2917,7 +2917,7 @@ devedores continuam obrigados solidariamente pelo resto.
 Parágrafo único. Não importará renúncia da solidariedade a propositura de ação
 pelo credor contra um ou alguns dos devedores.
 
-## Art. 276.
+## Art. 276
 
 Se um dos devedores solidários falecer deixando herdeiros, nenhum destes
 
@@ -2925,63 +2925,63 @@ será obrigado a pagar senão a quota que corresponder ao seu quinhão hereditá
 se a obrigação for indivisível; mas todos reunidos serão considerados como um devedor
 solidário em relação aos demais devedores.
 
-## Art. 277.
+## Art. 277
 
-pagamento parcial feito por um dos devedores e a remissão por ele obtida
+O pagamento parcial feito por um dos devedores e a remissão por ele obtida
 
 não aproveitam aos outros devedores, senão até à concorrência da quantia paga ou
 relevada.
 
-## Art. 278.
+## Art. 278
 
 Qualquer cláusula, condição ou obrigação adicional, estipulada entre um
 
 dos devedores solidários e o credor, não poderá agravar a posição dos outros sem
 consentimento destes.
 
-## Art. 279.
+## Art. 279
 
 Impossibilitando-se a prestação por culpa de um dos devedores solidários,
 
 subsiste para todos o encargo de pagar o equivalente; mas pelas perdas e danos só
 responde o culpado.
 
-## Art. 280.
+## Art. 280
 
 Todos os devedores respondem pelos juros da mora, ainda que a ação tenha
 
 sido proposta somente contra um; mas o culpado responde aos outros pela obrigação
 acrescida.
 
-## Art. 281.
+## Art. 281
 
-devedor demandado pode opor ao credor as exceções que lhe forem pessoais
+O devedor demandado pode opor ao credor as exceções que lhe forem pessoais
 
 e as comuns a todos; não lhe aproveitando as exceções pessoais a outro co-devedor.
 
-## Art. 282.
+## Art. 282
 
-credor pode renunciar à solidariedade em favor de um, de alguns ou de
+O credor pode renunciar à solidariedade em favor de um, de alguns ou de
 
 todos os devedores.
 
 Parágrafo único. Se o credor exonerar da solidariedade um ou mais devedores,
 subsistirá a dos demais.
 
-## Art. 283.
+## Art. 283
 
-devedor que satisfez a dívida por inteiro tem direito a exigir de cada um
+O devedor que satisfez a dívida por inteiro tem direito a exigir de cada um
 
 dos co-devedores a sua quota, dividindo-se igualmente por todos a do insolvente, se o
 houver, presumindo-se iguais, no débito, as partes de todos os co-devedores.
 
-## Art. 284.
+## Art. 284
 
 No caso de rateio entre os co-devedores, contribuirão também os exonerados
 
 da solidariedade pelo credor, pela parte que na obrigação incumbia ao insolvente.
 
-## Art. 285.
+## Art. 285
 
 Se a dívida solidária interessar exclusivamente a um dos devedores,
 
@@ -2991,21 +2991,21 @@ responderá este por toda ela para com aquele que pagar.
 
 # CAPÍTULO I — Da Cessão de Crédito
 
-## Art. 286.
+## Art. 286
 
-credor pode ceder o seu crédito, se a isso não se
+O credor pode ceder o seu crédito, se a isso não se
 
 opuser a natureza da obrigação, a lei, ou a convenção com o devedor; a cláusula
 proibitiva da cessão não poderá ser oposta ao cessionário de boa-fé, se não constar
 do instrumento da obrigação.
 
-## Art. 287.
+## Art. 287
 
 Salvo disposição em contrário, na cessão de um crédito abrangem-se todos
 
 os seus acessórios.
 
-## Art. 288.
+## Art. 288
 
 É ineficaz, em relação a terceiros, a transmissão de um crédito, se não
 
@@ -3014,26 +3014,26 @@ solenidades do § 1
 o
 do art. 654.
 
-## Art. 289.
+## Art. 289
 
-cessionário de crédito hipotecário tem o direito de fazer averbar a
+O cessionário de crédito hipotecário tem o direito de fazer averbar a
 
 cessão no registro do imóvel.
 
-## Art. 290.
+## Art. 290
 
 A cessão do crédito não tem eficácia em relação ao devedor, senão
 
 quando a este notificada; mas por notificado se tem o devedor que, em escrito público ou
 particular, se declarou ciente da cessão feita.
 
-## Art. 291.
+## Art. 291
 
-correndo várias cessões do mesmo crédito, prevalece a que se completar
+Ocorrendo várias cessões do mesmo crédito, prevalece a que se completar
 
 com a tradição do título do crédito cedido.
 
-## Art. 292.
+## Art. 292
 
 Fica desobrigado o devedor que, antes de ter conhecimento da cessão, paga ao
 
@@ -3041,19 +3041,19 @@ credor primitivo, ou que, no caso de mais de uma cessão notificada, paga ao ces
 que lhe apresenta, com o título de cessão, o da obrigação cedida; quando o crédito
 constar de escritura pública, prevalecerá a prioridade da notificação.
 
-## Art. 293.
+## Art. 293
 
 Independentemente do conhecimento da cessão pelo devedor, pode o
 
 cessionário exercer os atos conservatórios do direito cedido.
 
-## Art. 294.
+## Art. 294
 
-devedor pode opor ao cessionário as exceções que lhe competirem, bem
+O devedor pode opor ao cessionário as exceções que lhe competirem, bem
 
 como as que, no momento em que veio a ter conhecimento da cessão, tinha contra o cedente.
 
-## Art. 295.
+## Art. 295
 
 Na cessão por título oneroso, o cedente, ainda que não se responsabilize,
 
@@ -3061,29 +3061,29 @@ fica responsável ao cessionário pela existência do crédito ao tempo em que l
 a mesma responsabilidade lhe cabe nas cessões por título gratuito, se tiver procedido de
 má-fé.
 
-## Art. 296.
+## Art. 296
 
 Salvo estipulação em contrário, o cedente não responde pela solvência do
 
 devedor.
 
-## Art. 297.
+## Art. 297
 
-cedente, responsável ao cessionário pela solvência do devedor, não
+O cedente, responsável ao cessionário pela solvência do devedor, não
 
 responde por mais do que daquele recebeu, com os respectivos juros; mas tem de
 ressarcir-lhe as despesas da cessão e as que o cessionário houver feito com a cobrança.
 
-## Art. 298.
+## Art. 298
 
-crédito, uma vez penhorado, não pode mais ser transferido pelo credor que
+O crédito, uma vez penhorado, não pode mais ser transferido pelo credor que
 
 tiver conhecimento da penhora; mas o devedor que o pagar, não tendo notificação dela,
 fica exonerado, subsistindo somente contra o credor os direitos de terceiro.
 
 # CAPÍTULO II — Da Assunção de Dívida
 
-## Art. 299.
+## Art. 299
 
 É facultado a terceiro assumir a obrigação do devedor, com o consentimento
 
@@ -3093,29 +3093,29 @@ assunção, era insolvente e o credor o ignorava.
 Parágrafo único. Qualquer das partes pode assinar prazo ao credor para que consinta
 na assunção da dívida, interpretando-se o seu silêncio como recusa.
 
-## Art. 300.
+## Art. 300
 
 Salvo assentimento expresso do devedor primitivo, consideram-se extintas, a
 
 partir da assunção da dívida, as garantias especiais por ele originariamente dadas ao
 credor.
 
-## Art. 301.
+## Art. 301
 
 Se a substituição do devedor vier a ser anulada, restaura-se o débito, com
 
 todas as suas garantias, salvo as garantias prestadas por terceiros, exceto se este
 conhecia o vício que inquinava a obrigação.
 
-## Art. 302.
+## Art. 302
 
-novo devedor não pode opor ao credor as exceções pessoais que competiam
+O novo devedor não pode opor ao credor as exceções pessoais que competiam
 
 ao devedor primitivo.
 
-## Art. 303.
+## Art. 303
 
-adquirente de imóvel hipotecado pode tomar a seu cargo o pagamento do
+O adquirente de imóvel hipotecado pode tomar a seu cargo o pagamento do
 
 crédito garantido; se o credor, notificado, não impugnar em trinta dias a transferência
 do débito, entender-se-á dado o assentimento.
@@ -3126,7 +3126,7 @@ do débito, entender-se-á dado o assentimento.
 
 ### Seção I — De Quem Deve Pagar
 
-## Art. 304.
+## Art. 304
 
 Qualquer interessado na extinção da dívida pode pagá-la, usando, se o
 
@@ -3135,22 +3135,22 @@ credor se opuser, dos meios conducentes à exoneração do devedor.
 Parágrafo único. Igual direito cabe ao terceiro não interessado, se o fizer em nome
 e à conta do devedor, salvo oposição deste.
 
-## Art. 305.
+## Art. 305
 
-terceiro não interessado, que paga a dívida em seu próprio nome, tem
+O terceiro não interessado, que paga a dívida em seu próprio nome, tem
 
 direito a reembolsar-se do que pagar; mas não se sub-roga nos direitos do credor.
 
 Parágrafo único. Se pagar antes de vencida a dívida, só terá direito ao reembolso
 no vencimento.
 
-## Art. 306.
+## Art. 306
 
-pagamento feito por terceiro, com desconhecimento ou oposição do devedor,
+O pagamento feito por terceiro, com desconhecimento ou oposição do devedor,
 
 não obriga a reembolsar aquele que pagou, se o devedor tinha meios para ilidir a ação.
 
-## Art. 307.
+## Art. 307
 
 Só terá eficácia o pagamento que importar transmissão da propriedade,
 
@@ -3162,31 +3162,31 @@ tivesse o direito de aliená-la.
 
 ### Seção II — Daqueles a Quem se Deve Pagar
 
-## Art. 308.
+## Art. 308
 
-pagamento deve ser feito ao credor ou a quem de direito o represente, sob
+O pagamento deve ser feito ao credor ou a quem de direito o represente, sob
 
 pena de só valer depois de por ele ratificado, ou tanto quanto reverter em seu proveito.
 
-## Art. 309.
+## Art. 309
 
-pagamento feito de boa-fé ao credor putativo é válido, ainda provado
+O pagamento feito de boa-fé ao credor putativo é válido, ainda provado
 
 depois que não era credor.
 
-## Art. 310.
+## Art. 310
 
 Não vale o pagamento cientemente feito ao credor incapaz de quitar, se o
 
 devedor não provar que em benefício dele efetivamente reverteu.
 
-## Art. 311.
+## Art. 311
 
 Considera-se autorizado a receber o pagamento o portador da quitação, salvo
 
 se as circunstâncias contrariarem a presunção daí resultante.
 
-## Art. 312.
+## Art. 312
 
 Se o devedor pagar ao credor, apesar de intimado da penhora feita sobre o
 
@@ -3196,50 +3196,50 @@ regresso contra o credor.
 
 ### Seção III — Do Objeto do Pagamento e Sua Prova
 
-## Art. 313.
+## Art. 313
 
-credor não é obrigado a receber prestação diversa da que lhe é devida,
+O credor não é obrigado a receber prestação diversa da que lhe é devida,
 
 ainda que mais valiosa.
 
-## Art. 314.
+## Art. 314
 
 Ainda que a obrigação tenha por objeto prestação divisível, não pode o
 
 credor ser obrigado a receber, nem o devedor a pagar, por partes, se assim não se
 ajustou.
 
-## Art. 315.
+## Art. 315
 
 As dívidas em dinheiro deverão ser pagas no vencimento, em moeda corrente e
 
 pelo valor nominal, salvo o disposto nos artigos subseqüentes.
 
-## Art. 316.
+## Art. 316
 
 É lícito convencionar o aumento progressivo de prestações sucessivas.
 
-## Art. 317.
+## Art. 317
 
 Quando, por motivos imprevisíveis, sobrevier desproporção manifesta entre
 
 o valor da prestação devida e o do momento de sua execução, poderá o juiz corrigi-lo,
 a pedido da parte, de modo que assegure, quanto possível, o valor real da prestação.
 
-## Art. 318.
+## Art. 318
 
 São nulas as convenções de pagamento em ouro ou em moeda estrangeira, bem
 
 como para compensar a diferença entre o valor desta e o da moeda nacional, excetuados os
 casos previstos na legislação especial.
 
-## Art. 319.
+## Art. 319
 
-devedor que paga tem direito a quitação regular, e pode reter o
+O devedor que paga tem direito a quitação regular, e pode reter o
 
 pagamento, enquanto não lhe seja dada.
 
-## Art. 320.
+## Art. 320
 
 A quitação, que sempre poderá ser dada por instrumento particular,
 
@@ -3250,37 +3250,37 @@ representante.
 Parágrafo único. Ainda sem os requisitos estabelecidos neste artigo valerá a
 quitação, se de seus termos ou das circunstâncias resultar haver sido paga a dívida.
 
-## Art. 321.
+## Art. 321
 
 Nos débitos, cuja quitação consista na devolução do título, perdido
 
 este, poderá o devedor exigir, retendo o pagamento, declaração do credor que inutilize
 o título desaparecido.
 
-## Art. 322.
+## Art. 322
 
 Quando o pagamento for em quotas periódicas, a quitação da última
 
 estabelece, até prova em contrário, a presunção de estarem solvidas as anteriores.
 
-## Art. 323.
+## Art. 323
 
 Sendo a quitação do capital sem reserva dos juros, estes presumem-se pagos.
 
-## Art. 324.
+## Art. 324
 
 A entrega do título ao devedor firma a presunção do pagamento.
 
 Parágrafo único. Ficará sem efeito a quitação assim operada se o credor provar, em
 sessenta dias, a falta do pagamento.
 
-## Art. 325.
+## Art. 325
 
 Presumem-se a cargo do devedor as despesas com o pagamento e a quitação; se
 
 ocorrer aumento por fato do credor, suportará este a despesa acrescida.
 
-## Art. 326.
+## Art. 326
 
 Se o pagamento se houver de fazer por medida, ou peso, entender-se-á, no
 
@@ -3288,7 +3288,7 @@ silêncio das partes, que aceitaram os do lugar da execução.
 
 ### Seção IV — Do Lugar do Pagamento
 
-## Art. 327.
+## Art. 327
 
 Efetuar-se-á o pagamento no domicílio do devedor, salvo se as partes
 
@@ -3297,39 +3297,39 @@ obrigação ou das circunstâncias.
 
 Parágrafo único. Designados dois ou mais lugares, cabe ao credor escolher entre eles.
 
-## Art. 328.
+## Art. 328
 
 Se o pagamento consistir na tradição de um imóvel, ou em prestações
 
 relativas a imóvel, far-se-á no lugar onde situado o bem.
 
-## Art. 329.
+## Art. 329
 
-correndo motivo grave para que se não efetue o pagamento no lugar
+Ocorrendo motivo grave para que se não efetue o pagamento no lugar
 
 determinado, poderá o devedor fazê-lo em outro, sem prejuízo para o credor.
 
-## Art. 330.
+## Art. 330
 
-pagamento reiteradamente feito em outro local faz presumir renúncia do
+O pagamento reiteradamente feito em outro local faz presumir renúncia do
 
 credor relativamente ao previsto no contrato.
 
 ### Seção V — Do Tempo do Pagamento
 
-## Art. 331.
+## Art. 331
 
 Salvo disposição legal em contrário, não tendo sido ajustada época para
 
 o pagamento, pode o credor exigi-lo imediatamente.
 
-## Art. 332.
+## Art. 332
 
 As obrigações condicionais cumprem-se na data do implemento da condição,
 
 cabendo ao credor a prova de que deste teve ciência o devedor.
 
-## Art. 333.
+## Art. 333
 
 Ao credor assistirá o direito de cobrar a dívida antes de vencido o prazo
 
@@ -3348,13 +3348,13 @@ passiva, não se reputará vencido quanto aos outros devedores solventes.
 
 # CAPÍTULO II — Do Pagamento em Consignação
 
-## Art. 334.
+## Art. 334
 
 Considera-se pagamento, e extingue a obrigação, o depósito judicial ou em
 
 estabelecimento bancário da coisa devida, nos casos e forma legais.
 
-## Art. 335.
+## Art. 335
 
 A consignação tem lugar:
 
@@ -3371,69 +3371,69 @@ IV - se ocorrer dúvida sobre quem deva legitimamente receber o objeto do pagame
 
 V - se pender litígio sobre o objeto do pagamento.
 
-## Art. 336.
+## Art. 336
 
 Para que a consignação tenha força de pagamento, será mister concorram,
 
 em relação às pessoas, ao objeto, modo e tempo, todos os requisitos sem os quais não
 é válido o pagamento.
 
-## Art. 337.
+## Art. 337
 
-depósito requerer-se-á no lugar do pagamento, cessando, tanto que se
+O depósito requerer-se-á no lugar do pagamento, cessando, tanto que se
 
 efetue, para o depositante, os juros da dívida e os riscos, salvo se for julgado
 improcedente.
 
-## Art. 338.
+## Art. 338
 
 Enquanto o credor não declarar que aceita o depósito, ou não o impugnar,
 
 poderá o devedor requerer o levantamento, pagando as respectivas despesas, e subsistindo
 a obrigação para todas as conseqüências de direito.
 
-## Art. 339.
+## Art. 339
 
 Julgado procedente o depósito, o devedor já não poderá levantá-lo,
 
 embora o credor consinta, senão de acordo com os outros devedores e fiadores.
 
-## Art. 340.
+## Art. 340
 
-credor que, depois de contestar a lide ou aceitar o depósito, aquiescer no
+O credor que, depois de contestar a lide ou aceitar o depósito, aquiescer no
 
 levantamento, perderá a preferência e a garantia que lhe competiam com respeito à coisa
 consignada, ficando para logo desobrigados os co-devedores e fiadores que não tenham
 anuído.
 
-## Art. 341.
+## Art. 341
 
 Se a coisa devida for imóvel ou corpo certo que deva ser entregue no mesmo
 
 lugar onde está, poderá o devedor citar o credor para vir ou mandar recebê-la, sob pena
 de ser depositada.
 
-## Art. 342.
+## Art. 342
 
 Se a escolha da coisa indeterminada competir ao credor, será ele citado para
 
 esse fim, sob cominação de perder o direito e de ser depositada a coisa que o devedor
 escolher; feita a escolha pelo devedor, proceder-se-á como no artigo antecedente.
 
-## Art. 343.
+## Art. 343
 
 As despesas com o depósito, quando julgado procedente, correrão à conta do
 
 credor, e, no caso contrário, à conta do devedor.
 
-## Art. 344.
+## Art. 344
 
-devedor de obrigação litigiosa exonerar-se-á mediante consignação,
+O devedor de obrigação litigiosa exonerar-se-á mediante consignação,
 
 mas, se pagar a qualquer dos pretendidos credores, tendo conhecimento do litígio,
 assumirá o risco do pagamento.
 
-## Art. 345.
+## Art. 345
 
 Se a dívida se vencer, pendendo litígio entre credores que se pretendem
 
@@ -3441,7 +3441,7 @@ mutuamente excluir, poderá qualquer deles requerer a consignação.
 
 # CAPÍTULO III — Do Pagamento com Sub-Rogação
 
-## Art. 346.
+## Art. 346
 
 A sub-rogação opera-se, de pleno direito, em favor:
 
@@ -3453,7 +3453,7 @@ terceiro que efetiva o pagamento para não ser privado de direito sobre imóvel;
 III - do terceiro interessado, que paga a dívida pela qual era ou podia ser obrigado,
 no todo ou em parte.
 
-## Art. 347.
+## Art. 347
 
 A sub-rogação é convencional:
 
@@ -3464,42 +3464,42 @@ II - quando terceira pessoa empresta ao devedor a quantia precisa para solver a
 dívida, sob a condição expressa de ficar o mutuante sub-rogado nos direitos do credor
 satisfeito.
 
-## Art. 348.
+## Art. 348
 
 Na hipótese do inciso I do artigo antecedente, vigorará o disposto quanto
 
 à cessão do crédito.
 
-## Art. 349.
+## Art. 349
 
 A sub-rogação transfere ao novo credor todos os direitos, ações,
 
 privilégios e garantias do primitivo, em relação à dívida, contra o devedor principal
 e os fiadores.
 
-## Art. 350.
+## Art. 350
 
 Na sub-rogação legal o sub-rogado não poderá exercer os direitos e as
 
 ações do credor, senão até à soma que tiver desembolsado para desobrigar o devedor.
 
-## Art. 351.
+## Art. 351
 
-credor originário, só em parte reembolsado, terá preferência ao
+O credor originário, só em parte reembolsado, terá preferência ao
 
 sub-rogado, na cobrança da dívida restante, se os bens do devedor não chegarem para
 saldar inteiramente o que a um e outro dever.
 
 # CAPÍTULO IV — Da Imputação do Pagamento
 
-## Art. 352.
+## Art. 352
 
 A pessoa obrigada por dois ou mais débitos da mesma natureza, a um só
 
 credor, tem o direito de indicar a qual deles oferece pagamento, se todos forem líquidos
 e vencidos.
 
-## Art. 353.
+## Art. 353
 
 Não tendo o devedor declarado em qual das dívidas líquidas e vencidas quer
 
@@ -3507,14 +3507,14 @@ imputar o pagamento, se aceitar a quitação de uma delas, não terá direito a 
 contra a imputação feita pelo credor, salvo provando haver ele cometido violência ou
 dolo.
 
-## Art. 354.
+## Art. 354
 
 Havendo capital e juros, o pagamento imputar-se-á primeiro nos juros
 
 vencidos, e depois no capital, salvo estipulação em contrário, ou se o credor passar a
 quitação por conta do capital.
 
-## Art. 355.
+## Art. 355
 
 Se o devedor não fizer a indicação do art. 352, e a quitação for omissa
 
@@ -3524,23 +3524,23 @@ mais onerosa.
 
 # CAPÍTULO V — Da Dação em Pagamento
 
-## Art. 356.
+## Art. 356
 
-credor pode consentir em receber prestação diversa da que lhe é devida.
+O credor pode consentir em receber prestação diversa da que lhe é devida.
 
-## Art. 357.
+## Art. 357
 
 Determinado o preço da coisa dada em pagamento, as relações entre as
 
 partes regular-se-ão pelas normas do contrato de compra e venda.
 
-## Art. 358.
+## Art. 358
 
 Se for título de crédito a coisa dada em pagamento, a transferência
 
 importará em cessão.
 
-## Art. 359.
+## Art. 359
 
 Se o credor for evicto da coisa recebida em pagamento, restabelecer-se-á a
 
@@ -3549,7 +3549,7 @@ terceiros.
 
 # CAPÍTULO VI — DA NOVAÇÃO
 
-## Art. 360.
+## Art. 360
 
 Dá-se a novação:
 
@@ -3561,25 +3561,25 @@ II - quando novo devedor sucede ao antigo, ficando este quite com o credor;
 III - quando, em virtude de obrigação nova, outro credor é substituído ao antigo,
 ficando o devedor quite com este.
 
-## Art. 361.
+## Art. 361
 
 Não havendo ânimo de novar, expresso ou tácito mas inequívoco, a segunda
 
 obrigação confirma simplesmente a primeira.
 
-## Art. 362.
+## Art. 362
 
 A novação por substituição do devedor pode ser efetuada independentemente
 
 de consentimento deste.
 
-## Art. 363.
+## Art. 363
 
 Se o novo devedor for insolvente, não tem o credor, que o aceitou, ação
 
 regressiva contra o primeiro, salvo se este obteve por má-fé a substituição.
 
-## Art. 364.
+## Art. 364
 
 A novação extingue os acessórios e garantias da dívida, sempre que não
 
@@ -3587,20 +3587,20 @@ houver estipulação em contrário. Não aproveitará, contudo, ao credor ressal
 penhor, a hipoteca ou a anticrese, se os bens dados em garantia pertencerem a terceiro que
 não foi parte na novação.
 
-## Art. 365.
+## Art. 365
 
-perada a novação entre o credor e um dos devedores solidários, somente
+Operada a novação entre o credor e um dos devedores solidários, somente
 
 sobre os bens do que contrair a nova obrigação subsistem as preferências e garantias do
 crédito novado. Os outros devedores solidários ficam por esse fato exonerados.
 
-## Art. 366.
+## Art. 366
 
 Importa exoneração do fiador a novação feita sem seu consenso com o
 
 devedor principal.
 
-## Art. 367.
+## Art. 367
 
 Salvo as obrigações simplesmente anuláveis, não podem ser objeto de
 
@@ -3608,38 +3608,38 @@ novação obrigações nulas ou extintas.
 
 # CAPÍTULO VII — Da Compensação
 
-## Art. 368.
+## Art. 368
 
 Se duas pessoas forem ao mesmo tempo credor e devedor uma da outra, as duas
 
 obrigações extinguem-se, até onde se compensarem.
 
-## Art. 369.
+## Art. 369
 
 A compensação efetua-se entre dívidas líquidas, vencidas e de coisas
 
 fungíveis.
 
-## Art. 370.
+## Art. 370
 
 Embora sejam do mesmo gênero as coisas fungíveis, objeto das duas
 
 prestações, não se compensarão, verificando-se que diferem na qualidade, quando
 especificada no contrato.
 
-## Art. 371.
+## Art. 371
 
-devedor somente pode compensar com o credor o que este lhe dever; mas o
+O devedor somente pode compensar com o credor o que este lhe dever; mas o
 
 fiador pode compensar sua dívida com a de seu credor ao afiançado.
 
-## Art. 372.
+## Art. 372
 
-s prazos de favor, embora consagrados pelo uso geral, não obstam a
+Os prazos de favor, embora consagrados pelo uso geral, não obstam a
 
 compensação.
 
-## Art. 373.
+## Art. 373
 
 A diferença de causa nas dívidas não impede a compensação, exceto:
 
@@ -3649,43 +3649,43 @@ II - se uma se originar de comodato, depósito ou alimentos;
 
 III - se uma for de coisa não suscetível de penhora.
 
-## Art. 374.
+## Art. 374
 
 (Revogado pela Lei nº 10.677, de 22.5.2003)
 
-## Art. 375.
+## Art. 375
 
 Não haverá compensação quando as partes, por mútuo acordo, a excluírem,
 
 ou no caso de renúncia prévia de uma delas.
 
-## Art. 376.
+## Art. 376
 
-brigando-se por terceiro uma pessoa, não pode compensar essa dívida com a
+Obrigando-se por terceiro uma pessoa, não pode compensar essa dívida com a
 
 que o credor dele lhe dever.
 
-## Art. 377.
+## Art. 377
 
-devedor que, notificado, nada opõe à cessão que o credor faz a terceiros
+O devedor que, notificado, nada opõe à cessão que o credor faz a terceiros
 
 dos seus direitos, não pode opor ao cessionário a compensação, que antes da cessão
 teria podido opor ao cedente. Se, porém, a cessão lhe não tiver sido notificada,
 poderá opor ao cessionário compensação do crédito que antes tinha contra o cedente.
 
-## Art. 378.
+## Art. 378
 
 Quando as duas dívidas não são pagáveis no mesmo lugar, não se podem
 
 compensar sem dedução das despesas necessárias à operação.
 
-## Art. 379.
+## Art. 379
 
 Sendo a mesma pessoa obrigada por várias dívidas compensáveis, serão
 
 observadas, no compensá-las, as regras estabelecidas quanto à imputação do pagamento.
 
-## Art. 380.
+## Art. 380
 
 Não se admite a compensação em prejuízo de direito de terceiro. O devedor
 
@@ -3694,26 +3694,26 @@ exeqüente a compensação, de que contra o próprio credor disporia.
 
 # CAPÍTULO VIII — Da Confusão
 
-## Art. 381.
+## Art. 381
 
 Extingue-se a obrigação, desde que na mesma pessoa se confundam as
 
 qualidades de credor e devedor.
 
-## Art. 382.
+## Art. 382
 
 A confusão pode verificar-se a respeito de toda a dívida, ou só de parte
 
 dela.
 
-## Art. 383.
+## Art. 383
 
 A confusão operada na pessoa do credor ou devedor solidário só extingue a
 
 obrigação até a concorrência da respectiva parte no crédito, ou na dívida,
 subsistindo quanto ao mais a solidariedade.
 
-## Art. 384.
+## Art. 384
 
 Cessando a confusão, para logo se restabelece, com todos os seus
 
@@ -3721,26 +3721,26 @@ acessórios, a obrigação anterior.
 
 # CAPÍTULO IX — Da Remissão das Dívidas
 
-## Art. 385.
+## Art. 385
 
 A remissão da dívida, aceita pelo devedor, extingue a obrigação, mas sem
 
 prejuízo de terceiro.
 
-## Art. 386.
+## Art. 386
 
 A devolução voluntária do título da obrigação, quando por escrito
 
 particular, prova desoneração do devedor e seus co-obrigados, se o credor for capaz de
 alienar, e o devedor capaz de adquirir.
 
-## Art. 387.
+## Art. 387
 
 A restituição voluntária do objeto empenhado prova a renúncia do credor
 
 à garantia real, não a extinção da dívida.
 
-## Art. 388.
+## Art. 388
 
 A remissão concedida a um dos co-devedores extingue a dívida na parte a ele
 
@@ -3751,7 +3751,7 @@ já lhes não pode cobrar o débito sem dedução da parte remitida.
 
 # CAPÍTULO I — Disposições Gerais
 
-## Art. 389.
+## Art. 389
 
 Não cumprida a obrigação, responde o devedor por perdas e danos,
 
@@ -3771,26 +3771,26 @@ pela Lei nº 14.905, de 2024)
 Produção de
 efeitos
 
-## Art. 390.
+## Art. 390
 
 Nas obrigações negativas o devedor é havido por inadimplente desde o dia
 
 em que executou o ato de que se devia abster.
 
-## Art. 391.
+## Art. 391
 
 Pelo inadimplemento das obrigações respondem todos os bens do devedor.
 
-## Art. 392.
+## Art. 392
 
 Nos contratos benéficos, responde por simples culpa o contratante, a quem o
 
 contrato aproveite, e por dolo aquele a quem não favoreça. Nos contratos onerosos,
 responde cada uma das partes por culpa, salvo as exceções previstas em lei.
 
-## Art. 393.
+## Art. 393
 
-devedor não responde pelos prejuízos resultantes de caso fortuito ou
+O devedor não responde pelos prejuízos resultantes de caso fortuito ou
 
 força maior, se expressamente não se houver por eles responsabilizado.
 
@@ -3799,13 +3799,13 @@ cujos efeitos não era possível evitar ou impedir.
 
 # CAPÍTULO II — Da Mora
 
-## Art. 394.
+## Art. 394
 
 Considera-se em mora o devedor que não efetuar o pagamento e o credor que
 
 não quiser recebê-lo no tempo, lugar e forma que a lei ou a convenção estabelecer.
 
-## Art. 395.
+## Art. 395
 
 Responde o devedor pelos prejuízos a que sua mora der causa,
 
@@ -3817,15 +3817,15 @@ Produção de efeitos
 Parágrafo único. Se a prestação, devido à mora, se tornar inútil ao credor, este
 poderá enjeitá-la, e exigir a satisfação das perdas e danos.
 
-## Art. 396.
+## Art. 396
 
 Não havendo fato ou omissão imputável ao devedor, não incorre este em
 
 mora.
 
-## Art. 397.
+## Art. 397
 
-inadimplemento da obrigação, positiva e líquida, no seu termo, constitui
+O inadimplemento da obrigação, positiva e líquida, no seu termo, constitui
 
 de pleno direito em mora o devedor.
 (Vide Lei nº 13.105, de 2015)
@@ -3834,7 +3834,7 @@ de pleno direito em mora o devedor.
 Parágrafo único. Não havendo termo, a mora se constitui mediante interpelação
 judicial ou extrajudicial.
 
-## Art. 398.
+## Art. 398
 
 Nas obrigações provenientes de ato ilícito, considera-se o devedor em
 
@@ -3842,15 +3842,15 @@ mora, desde que o praticou.
 (Vide Lei nº 13.105, de 2015)
 (Vigência)
 
-## Art. 399.
+## Art. 399
 
-devedor em mora responde pela impossibilidade da prestação, embora essa
+O devedor em mora responde pela impossibilidade da prestação, embora essa
 
 impossibilidade resulte de caso fortuito ou de força maior, se estes ocorrerem durante o
 atraso; salvo se provar isenção de culpa, ou que o dano sobreviria ainda quando a
 obrigação fosse oportunamente desempenhada.
 
-## Art. 400.
+## Art. 400
 
 A mora do credor subtrai o devedor isento de dolo à responsabilidade pela
 
@@ -3858,7 +3858,7 @@ conservação da coisa, obriga o credor a ressarcir as despesas empregadas em
 conservá-la, e sujeita-o a recebê-la pela estimação mais favorável ao devedor, se o
 seu valor oscilar entre o dia estabelecido para o pagamento e o da sua efetivação.
 
-## Art. 401.
+## Art. 401
 
 Purga-se a mora:
 
@@ -3870,21 +3870,21 @@ efeitos da mora até a mesma data.
 
 # CAPÍTULO III — Das Perdas e Danos
 
-## Art. 402.
+## Art. 402
 
 Salvo as exceções expressamente previstas em lei, as perdas e danos devidas
 
 ao credor abrangem, além do que ele efetivamente perdeu, o que razoavelmente deixou de
 lucrar.
 
-## Art. 403.
+## Art. 403
 
 Ainda que a inexecução resulte de dolo do devedor, as perdas e danos só
 
 incluem os prejuízos efetivos e os lucros cessantes por efeito dela direto e imediato,
 sem prejuízo do disposto na lei processual.
 
-## Art. 404.
+## Art. 404
 
 As perdas e danos, nas obrigações de pagamento em dinheiro,
 
@@ -3897,13 +3897,13 @@ Produção de efeitos
 Parágrafo único. Provado que os juros da mora não cobrem o prejuízo, e não havendo
 pena convencional, pode o juiz conceder ao credor indenização suplementar.
 
-## Art. 405.
+## Art. 405
 
 Contam-se os juros de mora desde a citação inicial.
 
 # CAPÍTULO IV — Dos Juros Legais
 
-## Art. 406.
+## Art. 406
 
 Quando não forem convencionados, ou quando o forem sem taxa
 
@@ -3939,7 +3939,7 @@ pela Lei nº 14.905, de 2024)
 Produção de
 efeitos
 
-## Art. 407.
+## Art. 407
 
 Ainda que se não alegue prejuízo, é obrigado o devedor aos juros da mora
 
@@ -3949,46 +3949,46 @@ ou acordo entre as partes.
 
 # CAPÍTULO V — Da Cláusula Penal
 
-## Art. 408.
+## Art. 408
 
 Incorre de pleno direito o devedor na cláusula penal, desde que,
 
 culposamente, deixe de cumprir a obrigação ou se constitua em mora.
 
-## Art. 409.
+## Art. 409
 
 A cláusula penal estipulada conjuntamente com a obrigação, ou em ato
 
 posterior, pode referir-se à inexecução completa da obrigação, à de alguma cláusula
 especial ou simplesmente à mora.
 
-## Art. 410.
+## Art. 410
 
 Quando se estipular a cláusula penal para o caso de total inadimplemento da
 
 obrigação, esta converter-se-á em alternativa a benefício do credor.
 
-## Art. 411.
+## Art. 411
 
 Quando se estipular a cláusula penal para o caso de mora, ou em segurança
 
 especial de outra cláusula determinada, terá o credor o arbítrio de exigir a
 satisfação da pena cominada, juntamente com o desempenho da obrigação principal.
 
-## Art. 412.
+## Art. 412
 
-valor da cominação imposta na cláusula penal não pode exceder o da
+O valor da cominação imposta na cláusula penal não pode exceder o da
 
 obrigação principal.
 
-## Art. 413.
+## Art. 413
 
 A penalidade deve ser reduzida eqüitativamente pelo juiz se a obrigação
 
 principal tiver sido cumprida em parte, ou se o montante da penalidade for manifestamente
 excessivo, tendo-se em vista a natureza e a finalidade do negócio.
 
-## Art. 414.
+## Art. 414
 
 Sendo indivisível a obrigação, todos os devedores, caindo em falta um
 
@@ -3998,13 +3998,13 @@ respondendo cada um dos outros somente pela sua quota.
 Parágrafo único. Aos não culpados fica reservada a ação regressiva contra aquele
 que deu causa à aplicação da pena.
 
-## Art. 415.
+## Art. 415
 
 Quando a obrigação for divisível, só incorre na pena o devedor ou o
 
 herdeiro do devedor que a infringir, e proporcionalmente à sua parte na obrigação.
 
-## Art. 416.
+## Art. 416
 
 Para exigir a pena convencional, não é necessário que o credor alegue
 
@@ -4017,14 +4017,14 @@ excedente.
 
 # CAPÍTULO VI — Das Arras ou Sinal
 
-## Art. 417.
+## Art. 417
 
 Se, por ocasião da conclusão do contrato, uma parte der à outra, a título
 
 de arras, dinheiro ou outro bem móvel, deverão as arras, em caso de execução, ser
 restituídas ou computadas na prestação devida, se do mesmo gênero da principal.
 
-## Art. 418.
+## Art. 418
 
 Na hipótese de inexecução do contrato, se esta se der:
 
@@ -4050,7 +4050,7 @@ pela Lei nº 14.905, de 2024)
 Produção de
 efeitos
 
-## Art. 419.
+## Art. 419
 
 A parte inocente pode pedir indenização suplementar, se provar maior
 
@@ -4058,7 +4058,7 @@ prejuízo, valendo as arras como taxa mínima. Pode, também, a parte inocente e
 execução do contrato, com as perdas e danos, valendo as arras como o mínimo da
 indenização.
 
-## Art. 420.
+## Art. 420
 
 Se no contrato for estipulado o direito de arrependimento para qualquer das
 
@@ -4072,7 +4072,7 @@ equivalente. Em ambos os casos não haverá direito a indenização suplementar.
 
 ### Seção I — Preliminares
 
-## Art. 421.
+## Art. 421
 
 A liberdade contratual será exercida nos limites da
 
@@ -4088,7 +4088,7 @@ contratual.
 
 ## Art. 421-A
 
-. Os contratos civis e empresariais presumem-se
+Os contratos civis e empresariais presumem-se
 
 paritários e simétricos até a presença de elementos concretos que
 justifiquem o afastamento dessa presunção, ressalvados os regimes
@@ -4112,44 +4112,44 @@ limitada.
 (Incluído pela Lei nº 13.874, de
 2019)
 
-## Art. 422.
+## Art. 422
 
-s contratantes são obrigados a guardar, assim na conclusão do contrato,
+Os contratantes são obrigados a guardar, assim na conclusão do contrato,
 
 como em sua execução, os princípios de probidade e boa-fé.
 
-## Art. 423.
+## Art. 423
 
 Quando houver no contrato de adesão cláusulas
 
 ambíguas ou contraditórias, dever-se-á adotar a interpretação mais favorável ao
 aderente.
 
-## Art. 424.
+## Art. 424
 
 Nos contratos de adesão, são nulas as cláusulas que estipulem a renúncia
 
 antecipada do aderente a direito resultante da natureza do negócio.
 
-## Art. 425.
+## Art. 425
 
 É lícito às partes estipular contratos atípicos, observadas as normas
 
 gerais fixadas neste Código.
 
-## Art. 426.
+## Art. 426
 
 Não pode ser objeto de contrato a herança de pessoa viva.
 
 ### Seção II — Da Formação dos Contratos
 
-## Art. 427.
+## Art. 427
 
 A proposta de contrato obriga o proponente, se o contrário não resultar dos
 
 termos dela, da natureza do negócio, ou das circunstâncias do caso.
 
-## Art. 428.
+## Art. 428
 
 Deixa de ser obrigatória a proposta:
 
@@ -4166,7 +4166,7 @@ dado;
 IV - se, antes dela, ou simultaneamente, chegar ao conhecimento da outra parte a
 retratação do proponente.
 
-## Art. 429.
+## Art. 429
 
 A oferta ao público equivale a proposta quando encerra os requisitos
 
@@ -4175,35 +4175,35 @@ essenciais ao contrato, salvo se o contrário resultar das circunstâncias ou do
 Parágrafo único. Pode revogar-se a oferta pela mesma via de sua divulgação, desde
 que ressalvada esta faculdade na oferta realizada.
 
-## Art. 430.
+## Art. 430
 
 Se a aceitação, por circunstância imprevista, chegar tarde ao conhecimento
 
 do proponente, este comunicá-lo-á imediatamente ao aceitante, sob pena de responder por
 perdas e danos.
 
-## Art. 431.
+## Art. 431
 
 A aceitação fora do prazo, com adições, restrições, ou modificações,
 
 importará nova proposta.
 
-## Art. 432.
+## Art. 432
 
 Se o negócio for daqueles em que não seja costume a aceitação expressa,
 
 ou o proponente a tiver dispensado, reputar-se-á concluído o contrato, não chegando a
 tempo a recusa.
 
-## Art. 433.
+## Art. 433
 
 Considera-se inexistente a aceitação, se antes dela ou com ela chegar ao
 
 proponente a retratação do aceitante.
 
-## Art. 434.
+## Art. 434
 
-s contratos entre ausentes tornam-se perfeitos desde que a aceitação é
+Os contratos entre ausentes tornam-se perfeitos desde que a aceitação é
 
 expedida, exceto:
 
@@ -4213,29 +4213,29 @@ II - se o proponente se houver comprometido a esperar resposta;
 
 III - se ela não chegar no prazo convencionado.
 
-## Art. 435.
+## Art. 435
 
 Reputar-se-á celebrado o contrato no lugar em que foi proposto.
 
 ### Seção III — Da Estipulação em Favor de Terceiro
 
-## Art. 436.
+## Art. 436
 
-que estipula em favor de terceiro pode exigir o cumprimento da obrigação.
+O que estipula em favor de terceiro pode exigir o cumprimento da obrigação.
 
 Parágrafo único. Ao terceiro, em favor de quem se estipulou a obrigação, também é
 permitido exigi-la, ficando, todavia, sujeito às condições e normas do contrato, se a
 ele anuir, e o estipulante não o inovar nos termos do art. 438.
 
-## Art. 437.
+## Art. 437
 
 Se ao terceiro, em favor de quem se fez o contrato, se deixar o direito de
 
 reclamar-lhe a execução, não poderá o estipulante exonerar o devedor.
 
-## Art. 438.
+## Art. 438
 
-estipulante pode reservar-se o direito de substituir o terceiro designado
+O estipulante pode reservar-se o direito de substituir o terceiro designado
 
 no contrato, independentemente da sua anuência e da do outro contratante.
 
@@ -4244,7 +4244,7 @@ disposição de última vontade.
 
 ### Seção IV — Da Promessa de Fato de Terceiro
 
-## Art. 439.
+## Art. 439
 
 Aquele que tiver prometido fato de terceiro responderá por perdas e danos,
 
@@ -4254,7 +4254,7 @@ Parágrafo único. Tal responsabilidade não existirá se o terceiro for o cônj
 promitente, dependendo da sua anuência o ato a ser praticado, e desde que, pelo regime do
 casamento, a indenização, de algum modo, venha a recair sobre os seus bens.
 
-## Art. 440.
+## Art. 440
 
 Nenhuma obrigação haverá para quem se comprometer por outrem, se este,
 
@@ -4262,7 +4262,7 @@ depois de se ter obrigado, faltar à prestação.
 
 ### Seção V — Dos Vícios Redibitórios
 
-## Art. 441.
+## Art. 441
 
 A coisa recebida em virtude de contrato comutativo pode ser enjeitada por
 
@@ -4271,28 +4271,28 @@ diminuam o valor.
 
 Parágrafo único. É aplicável a disposição deste artigo às doações onerosas.
 
-## Art. 442.
+## Art. 442
 
 Em vez de rejeitar a coisa, redibindo o contrato (art. 441), pode o
 
 adquirente reclamar abatimento no preço.
 
-## Art. 443.
+## Art. 443
 
 Se o alienante conhecia o vício ou defeito da coisa, restituirá o que
 
 recebeu com perdas e danos; se o não conhecia, tão-somente restituirá o valor recebido,
 mais as despesas do contrato.
 
-## Art. 444.
+## Art. 444
 
 A responsabilidade do alienante subsiste ainda que a coisa pereça em poder
 
 do alienatário, se perecer por vício oculto, já existente ao tempo da tradição.
 
-## Art. 445.
+## Art. 445
 
-adquirente decai do direito de obter a redibição ou abatimento no preço
+O adquirente decai do direito de obter a redibição ou abatimento no preço
 
 no prazo de trinta dias se a coisa for móvel, e de um ano se for imóvel, contado da
 entrega efetiva; se já estava na posse, o prazo conta-se da alienação, reduzido à
@@ -4311,7 +4311,7 @@ vícios ocultos serão os estabelecidos em lei especial, ou, na falta desta, pel
 locais, aplicando-se o disposto no parágrafo antecedente se não houver regras
 disciplinando a matéria.
 
-## Art. 446.
+## Art. 446
 
 Não correrão os prazos do artigo antecedente na constância de cláusula de
 
@@ -4320,26 +4320,26 @@ ao seu descobrimento, sob pena de decadência.
 
 ### Seção VI — Da Evicção
 
-## Art. 447.
+## Art. 447
 
 Nos contratos onerosos, o alienante responde pela evicção. Subsiste esta
 
 garantia ainda que a aquisição se tenha realizado em hasta pública.
 
-## Art. 448.
+## Art. 448
 
 Podem as partes, por cláusula expressa, reforçar, diminuir ou excluir a
 
 responsabilidade pela evicção.
 
-## Art. 449.
+## Art. 449
 
 Não obstante a cláusula que exclui a garantia contra a evicção, se esta
 
 se der, tem direito o evicto a receber o preço que pagou pela coisa evicta, se não soube
 do risco da evicção, ou, dele informado, não o assumiu.
 
-## Art. 450.
+## Art. 450
 
 Salvo estipulação em contrário, tem direito o evicto, além da
 
@@ -4356,45 +4356,45 @@ Parágrafo único. O preço, seja a evicção total ou parcial, será o do valor
 coisa, na época em que se evenceu, e proporcional ao desfalque sofrido, no caso de
 evicção parcial.
 
-## Art. 451.
+## Art. 451
 
 Subsiste para o alienante esta obrigação, ainda que a coisa alienada esteja
 
 deteriorada, exceto havendo dolo do adquirente.
 
-## Art. 452.
+## Art. 452
 
 Se o adquirente tiver auferido vantagens das deteriorações, e não tiver
 
 sido condenado a indenizá-las, o valor das vantagens será deduzido da quantia que lhe
 houver de dar o alienante.
 
-## Art. 453.
+## Art. 453
 
 As benfeitorias necessárias ou úteis, não abonadas ao que sofreu a
 
 evicção, serão pagas pelo alienante.
 
-## Art. 454.
+## Art. 454
 
 Se as benfeitorias abonadas ao que sofreu a evicção tiverem sido feitas
 
 pelo alienante, o valor delas será levado em conta na restituição devida.
 
-## Art. 455.
+## Art. 455
 
 Se parcial, mas considerável, for a evicção, poderá o evicto optar entre
 
 a rescisão do contrato e a restituição da parte do preço correspondente ao desfalque
 sofrido. Se não for considerável, caberá somente direito a indenização.
 
-## Art. 456.
+## Art. 456
 
 (Revogado pela Lei n º 13.105, de
 2015)
 (Vigência)
 
-## Art. 457.
+## Art. 457
 
 Não pode o adquirente demandar pela evicção, se sabia que a coisa era
 
@@ -4402,7 +4402,7 @@ alheia ou litigiosa.
 
 ### Seção VII — Dos Contratos Aleatórios
 
-## Art. 458.
+## Art. 458
 
 Se o contrato for aleatório, por dizer respeito a coisas ou fatos futuros,
 
@@ -4410,7 +4410,7 @@ cujo risco de não virem a existir um dos contratantes assuma, terá o outro dir
 receber integralmente o que lhe foi prometido, desde que de sua parte não tenha havido
 dolo ou culpa, ainda que nada do avençado venha a existir.
 
-## Art. 459.
+## Art. 459
 
 Se for aleatório, por serem objeto dele coisas futuras, tomando o adquirente
 
@@ -4421,14 +4421,14 @@ venha a existir em quantidade inferior à esperada.
 Parágrafo único. Mas, se da coisa nada vier a existir, alienação não haverá, e o
 alienante restituirá o preço recebido.
 
-## Art. 460.
+## Art. 460
 
 Se for aleatório o contrato, por se referir a coisas existentes, mas
 
 expostas a risco, assumido pelo adquirente, terá igualmente direito o alienante a todo o
 preço, posto que a coisa já não existisse, em parte, ou de todo, no dia do contrato.
 
-## Art. 461.
+## Art. 461
 
 A alienação aleatória a que se refere o artigo antecedente poderá ser
 
@@ -4437,13 +4437,13 @@ consumação do risco, a que no contrato se considerava exposta a coisa.
 
 ### Seção VIII — Do Contrato Preliminar
 
-## Art. 462.
+## Art. 462
 
-contrato preliminar, exceto quanto à forma, deve conter todos os
+O contrato preliminar, exceto quanto à forma, deve conter todos os
 
 requisitos essenciais ao contrato a ser celebrado.
 
-## Art. 463.
+## Art. 463
 
 Concluído o contrato preliminar, com observância do disposto no artigo
 
@@ -4453,20 +4453,20 @@ o efetive.
 
 Parágrafo único. O contrato preliminar deverá ser levado ao registro competente.
 
-## Art. 464.
+## Art. 464
 
 Esgotado o prazo, poderá o juiz, a pedido do interessado, suprir a vontade
 
 da parte inadimplente, conferindo caráter definitivo ao contrato preliminar, salvo se a
 isto se opuser a natureza da obrigação.
 
-## Art. 465.
+## Art. 465
 
 Se o estipulante não der execução ao contrato preliminar, poderá a outra
 
 parte considerá-lo desfeito, e pedir perdas e danos.
 
-## Art. 466.
+## Art. 466
 
 Se a promessa de contrato for unilateral, o credor, sob pena de ficar a mesma
 
@@ -4475,14 +4475,14 @@ for razoavelmente assinado pelo devedor.
 
 ### Seção IX — Do Contrato com Pessoa a Declarar
 
-## Art. 467.
+## Art. 467
 
 No momento da conclusão do contrato, pode uma das partes reservar-se a
 
 faculdade de indicar a pessoa que deve adquirir os direitos e assumir as obrigações dele
 decorrentes.
 
-## Art. 468.
+## Art. 468
 
 Essa indicação deve ser comunicada à outra parte no prazo de cinco dias da
 
@@ -4491,23 +4491,23 @@ conclusão do contrato, se outro não tiver sido estipulado.
 Parágrafo único. A aceitação da pessoa nomeada não será eficaz se não se
 revestir da mesma forma que as partes usaram para o contrato.
 
-## Art. 469.
+## Art. 469
 
 A pessoa, nomeada de conformidade com os artigos antecedentes, adquire os
 
 direitos e assume as obrigações decorrentes do contrato, a partir do momento em que este
 foi celebrado.
 
-## Art. 470.
+## Art. 470
 
-contrato será eficaz somente entre os contratantes originários:
+O contrato será eficaz somente entre os contratantes originários:
 
 I - se não houver indicação de pessoa, ou se o nomeado se recusar a aceitá-la;
 
 II - se a pessoa nomeada era insolvente, e a outra pessoa o desconhecia no momento da
 indicação.
 
-## Art. 471.
+## Art. 471
 
 Se a pessoa a nomear era incapaz ou insolvente no momento da nomeação, o
 
@@ -4517,11 +4517,11 @@ contrato produzirá seus efeitos entre os contratantes originários.
 
 ### Seção I — Do Distrato
 
-## Art. 472.
+## Art. 472
 
-distrato faz-se pela mesma forma exigida para o contrato.
+O distrato faz-se pela mesma forma exigida para o contrato.
 
-## Art. 473.
+## Art. 473
 
 A resilição unilateral, nos casos em que a lei expressa ou implicitamente o
 
@@ -4534,13 +4534,13 @@ investimentos.
 
 ### Seção II — Da Cláusula Resolutiva
 
-## Art. 474.
+## Art. 474
 
 A cláusula resolutiva expressa opera de pleno direito; a tácita depende de
 
 interpelação judicial.
 
-## Art. 475.
+## Art. 475
 
 A parte lesada pelo inadimplemento pode pedir a resolução do contrato, se
 
@@ -4549,13 +4549,13 @@ perdas e danos.
 
 ### Seção III — Da Exceção de Contrato não Cumprido
 
-## Art. 476.
+## Art. 476
 
 Nos contratos bilaterais, nenhum dos contratantes, antes de cumprida a sua
 
 obrigação, pode exigir o implemento da do outro.
 
-## Art. 477.
+## Art. 477
 
 Se, depois de concluído o contrato, sobrevier a uma das partes contratantes
 
@@ -4565,7 +4565,7 @@ satisfaça a que lhe compete ou dê garantia bastante de satisfazê-la.
 
 ### Seção IV — Da Resolução por Onerosidade Excessiva
 
-## Art. 478.
+## Art. 478
 
 Nos contratos de execução continuada ou diferida, se a prestação de uma
 
@@ -4573,13 +4573,13 @@ das partes se tornar excessivamente onerosa, com extrema vantagem para a outra, 
 de acontecimentos extraordinários e imprevisíveis, poderá o devedor pedir a resolução
 do contrato. Os efeitos da sentença que a decretar retroagirão à data da citação.
 
-## Art. 479.
+## Art. 479
 
 A resolução poderá ser evitada, oferecendo-se o réu a modificar
 
 eqüitativamente as condições do contrato.
 
-## Art. 480.
+## Art. 480
 
 Se no contrato as obrigações couberem a apenas uma das partes, poderá ela
 
@@ -4592,26 +4592,26 @@ evitar a onerosidade excessiva.
 
 ### Seção I — Disposições Gerais
 
-## Art. 481.
+## Art. 481
 
 Pelo contrato de compra e venda, um dos contratantes se obriga a transferir o
 
 domínio de certa coisa, e o outro, a pagar-lhe certo preço em dinheiro.
 
-## Art. 482.
+## Art. 482
 
 A compra e venda, quando pura, considerar-se-á obrigatória e perfeita,
 
 desde que as partes acordarem no objeto e no preço.
 
-## Art. 483.
+## Art. 483
 
 A compra e venda pode ter por objeto coisa atual ou futura. Neste caso,
 
 ficará sem efeito o contrato se esta não vier a existir, salvo se a intenção das
 partes era de concluir contrato aleatório.
 
-## Art. 484.
+## Art. 484
 
 Se a venda se realizar à vista de amostras, protótipos ou modelos,
 
@@ -4620,7 +4620,7 @@ entender-se-á que o vendedor assegura ter a coisa as qualidades que a elas corr
 Parágrafo único. Prevalece a amostra, o protótipo ou o modelo, se houver
 contradição ou diferença com a maneira pela qual se descreveu a coisa no contrato.
 
-## Art. 485.
+## Art. 485
 
 A fixação do preço pode ser deixada ao arbítrio de terceiro, que os
 
@@ -4628,19 +4628,19 @@ contratantes logo designarem ou prometerem designar. Se o terceiro não aceitar 
 incumbência, ficará sem efeito o contrato, salvo quando acordarem os contratantes
 designar outra pessoa.
 
-## Art. 486.
+## Art. 486
 
 Também se poderá deixar a fixação do preço à taxa de mercado ou de
 
 bolsa, em certo e determinado dia e lugar.
 
-## Art. 487.
+## Art. 487
 
 É lícito às partes fixar o preço em função de índices ou parâmetros,
 
 desde que suscetíveis de objetiva determinação.
 
-## Art. 488.
+## Art. 488
 
 Convencionada a venda sem fixação de preço ou de critérios para a sua
 
@@ -4650,25 +4650,25 @@ ao preço corrente nas vendas habituais do vendedor.
 Parágrafo único. Na falta de acordo, por ter havido diversidade de preço,
 prevalecerá o termo médio.
 
-## Art. 489.
+## Art. 489
 
 Nulo é o contrato de compra e venda, quando se deixa ao arbítrio exclusivo
 
 de uma das partes a fixação do preço.
 
-## Art. 490.
+## Art. 490
 
 Salvo cláusula em contrário, ficarão as despesas de escritura e registro a
 
 cargo do comprador, e a cargo do vendedor as da tradição.
 
-## Art. 491.
+## Art. 491
 
 Não sendo a venda a crédito, o vendedor não é obrigado a entregar a coisa
 
 antes de receber o preço.
 
-## Art. 492.
+## Art. 492
 
 Até o momento da tradição, os riscos da coisa correm por conta do
 
@@ -4687,27 +4687,27 @@ Correrão também por conta do comprador os riscos das
 referidas coisas, se estiver em mora de as receber, quando postas à sua disposição no
 tempo, lugar e pelo modo ajustados.
 
-## Art. 493.
+## Art. 493
 
 A tradição da coisa vendida, na falta de estipulação expressa, dar-se-á
 
 no lugar onde ela se encontrava, ao tempo da venda.
 
-## Art. 494.
+## Art. 494
 
 Se a coisa for expedida para lugar diverso, por ordem do comprador, por sua
 
 conta correrão os riscos, uma vez entregue a quem haja de transportá-la, salvo se das
 instruções dele se afastar o vendedor.
 
-## Art. 495.
+## Art. 495
 
 Não obstante o prazo ajustado para o pagamento, se antes da tradição o
 
 comprador cair em insolvência, poderá o vendedor sobrestar na entrega da coisa, até que
 o comprador lhe dê caução de pagar no tempo ajustado.
 
-## Art. 496.
+## Art. 496
 
 É anulável a venda de ascendente a descendente, salvo se os outros
 
@@ -4716,7 +4716,7 @@ descendentes e o cônjuge do alienante expressamente houverem consentido.
 Parágrafo único. Em ambos os casos, dispensa-se o consentimento do cônjuge se o
 regime de bens for o da separação obrigatória.
 
-## Art. 497.
+## Art. 497
 
 Sob pena de nulidade, não podem ser comprados, ainda que em hasta pública:
 
@@ -4735,20 +4735,20 @@ IV - pelos leiloeiros e seus prepostos, os bens de cuja venda estejam encarregad
 
 Parágrafo único. As proibições deste artigo estendem-se à cessão de crédito.
 
-## Art. 498.
+## Art. 498
 
 A proibição contida no inciso III do artigo antecedente, não compreende os
 
 casos de compra e venda ou cessão entre co-herdeiros, ou em pagamento de dívida, ou para
 garantia de bens já pertencentes a pessoas designadas no referido inciso.
 
-## Art. 499.
+## Art. 499
 
 É lícita a compra e venda entre cônjuges, com relação a bens excluídos
 
 da comunhão.
 
-## Art. 500.
+## Art. 500
 
 Se, na venda de um imóvel, se estipular o preço por medida de extensão, ou
 
@@ -4778,7 +4778,7 @@ referência às suas dimensões, ainda que não conste, de modo expresso, ter si
 ad corpus
 .
 
-## Art. 501.
+## Art. 501
 
 Decai do direito de propor as ações previstas no artigo antecedente o
 
@@ -4788,19 +4788,19 @@ título.
 Parágrafo único. Se houver atraso na imissão de posse no imóvel, atribuível ao
 alienante, a partir dela fluirá o prazo de decadência.
 
-## Art. 502.
+## Art. 502
 
-vendedor, salvo convenção em contrário, responde por todos os débitos
+O vendedor, salvo convenção em contrário, responde por todos os débitos
 
 que gravem a coisa até o momento da tradição.
 
-## Art. 503.
+## Art. 503
 
 Nas coisas vendidas conjuntamente, o defeito oculto de uma não autoriza a
 
 rejeição de todas.
 
-## Art. 504.
+## Art. 504
 
 Não pode um condômino em coisa indivisível vender a sua parte a estranhos,
 
@@ -4817,15 +4817,15 @@ preço.
 
 #### Subseção I — Da Retrovenda
 
-## Art. 505.
+## Art. 505
 
-vendedor de coisa imóvel pode reservar-se o direito de recobrá-la no
+O vendedor de coisa imóvel pode reservar-se o direito de recobrá-la no
 
 prazo máximo de decadência de três anos, restituindo o preço recebido e reembolsando
 as despesas do comprador, inclusive as que, durante o período de resgate, se efetuaram
 com a sua autorização escrita, ou para a realização de benfeitorias necessárias.
 
-## Art. 506.
+## Art. 506
 
 Se o comprador se recusar a receber as quantias a que faz jus, o vendedor,
 
@@ -4835,13 +4835,13 @@ Parágrafo único. Verificada a insuficiência do depósito judicial, não será
 vendedor restituído no domínio da coisa, até e enquanto não for integralmente pago o
 comprador.
 
-## Art. 507.
+## Art. 507
 
-direito de retrato, que é cessível e transmissível a herdeiros e
+O direito de retrato, que é cessível e transmissível a herdeiros e
 
 legatários, poderá ser exercido contra o terceiro adquirente.
 
-## Art. 508.
+## Art. 508
 
 Se a duas ou mais pessoas couber o direito de retrato sobre o mesmo imóvel,
 
@@ -4851,28 +4851,28 @@ integral.
 
 #### Subseção II — Da Venda a Contento e da Sujeita a Prova
 
-## Art. 509.
+## Art. 509
 
 A venda feita a contento do comprador entende-se realizada sob condição
 
 suspensiva, ainda que a coisa lhe tenha sido entregue; e não se reputará perfeita,
 enquanto o adquirente não manifestar seu agrado.
 
-## Art. 510.
+## Art. 510
 
 Também a venda sujeita a prova presume-se feita sob a condição suspensiva
 
 de que a coisa tenha as qualidades asseguradas pelo vendedor e seja idônea para o fim a
 que se destina.
 
-## Art. 511.
+## Art. 511
 
 Em ambos os casos, as obrigações do comprador, que recebeu, sob condição
 
 suspensiva, a coisa comprada, são as de mero comodatário, enquanto não manifeste
 aceitá-la.
 
-## Art. 512.
+## Art. 512
 
 Não havendo prazo estipulado para a declaração do comprador, o vendedor
 
@@ -4881,7 +4881,7 @@ improrrogável.
 
 #### Subseção III — Da Preempção ou Preferência
 
-## Art. 513.
+## Art. 513
 
 A preempção, ou preferência, impõe ao comprador a
 
@@ -4891,26 +4891,26 @@ para que este use de seu direito de prelação na compra, tanto por tanto.
 Parágrafo único. O prazo para exercer o direito de preferência não poderá exceder
 a cento e oitenta dias, se a coisa for móvel, ou a dois anos, se imóvel.
 
-## Art. 514.
+## Art. 514
 
-vendedor pode também exercer o seu direito de prelação, intimando o
+O vendedor pode também exercer o seu direito de prelação, intimando o
 
 comprador, quando lhe constar que este vai vender a coisa.
 
-## Art. 515.
+## Art. 515
 
 Aquele que exerce a preferência está, sob pena de a
 
 perder, obrigado a pagar, em condições iguais, o preço encontrado, ou o ajustado.
 
-## Art. 516.
+## Art. 516
 
 Inexistindo prazo estipulado, o direito de preempção caducará, se a coisa
 
 for móvel, não se exercendo nos três dias, e, se for imóvel, não se exercendo nos
 sessenta dias subseqüentes à data em que o comprador tiver notificado o vendedor.
 
-## Art. 517.
+## Art. 517
 
 Quando o direito de preempção for estipulado a favor
 
@@ -4918,14 +4918,14 @@ de dois ou mais indivíduos em comum, só pode ser exercido em relação à cois
 todo. Se alguma das pessoas, a quem ele toque, perder ou não exercer o seu direito,
 poderão as demais utilizá-lo na forma sobredita.
 
-## Art. 518.
+## Art. 518
 
 Responderá por perdas e danos o comprador, se alienar a coisa sem ter dado
 
 ao vendedor ciência do preço e das vantagens que por ela lhe oferecem. Responderá
 solidariamente o adquirente, se tiver procedido de má-fé.
 
-## Art. 519.
+## Art. 519
 
 Se a coisa expropriada para fins de necessidade ou utilidade pública, ou por
 
@@ -4933,52 +4933,52 @@ interesse social, não tiver o destino para que se desapropriou, ou não for uti
 obras ou serviços públicos, caberá ao expropriado direito de preferência, pelo preço
 atual da coisa.
 
-## Art. 520.
+## Art. 520
 
-direito de preferência não se pode ceder nem passa aos herdeiros.
+O direito de preferência não se pode ceder nem passa aos herdeiros.
 
 #### Subseção IV — Da Venda com Reserva de Domínio
 
-## Art. 521.
+## Art. 521
 
 Na venda de coisa móvel, pode o vendedor reservar para si a propriedade,
 
 até que o preço esteja integralmente pago.
 
-## Art. 522.
+## Art. 522
 
 A cláusula de reserva de domínio será estipulada por escrito e depende de
 
 registro no domicílio do comprador para valer contra terceiros.
 
-## Art. 523.
+## Art. 523
 
 Não pode ser objeto de venda com reserva de domínio a coisa insuscetível
 
 de caracterização perfeita, para estremá-la de outras congêneres. Na dúvida,
 decide-se a favor do terceiro adquirente de boa-fé.
 
-## Art. 524.
+## Art. 524
 
 A transferência de propriedade ao comprador dá-se no momento em que o
 
 preço esteja integralmente pago. Todavia, pelos riscos da coisa responde o comprador, a
 partir de quando lhe foi entregue.
 
-## Art. 525.
+## Art. 525
 
-vendedor somente poderá executar a cláusula de reserva de domínio após
+O vendedor somente poderá executar a cláusula de reserva de domínio após
 
 constituir o comprador em mora, mediante protesto do título ou interpelação judicial.
 
-## Art. 526.
+## Art. 526
 
 Verificada a mora do comprador, poderá o vendedor mover contra ele a
 
 competente ação de cobrança das prestações vencidas e vincendas e o mais que lhe for
 devido; ou poderá recuperar a posse da coisa vendida.
 
-## Art. 527.
+## Art. 527
 
 Na segunda hipótese do artigo antecedente, é facultado ao vendedor reter as
 
@@ -4986,7 +4986,7 @@ prestações pagas até o necessário para cobrir a depreciação da coisa, as d
 feitas e o mais que de direito lhe for devido. O excedente será devolvido ao comprador; e
 o que faltar lhe será cobrado, tudo na forma da lei processual.
 
-## Art. 528.
+## Art. 528
 
 Se o vendedor receber o pagamento à vista, ou, posteriormente, mediante
 
@@ -4996,7 +4996,7 @@ e a respectiva ciência do comprador constarão do registro do contrato.
 
 #### Subseção V — Da Venda Sobre Documentos
 
-## Art. 529.
+## Art. 529
 
 Na venda sobre documentos, a tradição da coisa é substituída pela entrega
 
@@ -5007,20 +5007,20 @@ Parágrafo único. Achando-se a documentação em ordem, não pode o comprador r
 o pagamento, a pretexto de defeito de qualidade ou do estado da coisa vendida, salvo se o
 defeito já houver sido comprovado.
 
-## Art. 530.
+## Art. 530
 
 Não havendo estipulação em contrário, o pagamento deve ser efetuado na
 
 data e no lugar da entrega dos documentos.
 
-## Art. 531.
+## Art. 531
 
 Se entre os documentos entregues ao comprador figurar apólice de seguro que
 
 cubra os riscos do transporte, correm estes à conta do comprador, salvo se, ao ser
 concluído o contrato, tivesse o vendedor ciência da perda ou avaria da coisa.
 
-## Art. 532.
+## Art. 532
 
 Estipulado o pagamento por intermédio de estabelecimento bancário, caberá
 
@@ -5032,7 +5032,7 @@ efetuar o pagamento, poderá o vendedor pretendê-lo, diretamente do comprador.
 
 # CAPÍTULO II — Da Troca ou Permuta
 
-## Art. 533.
+## Art. 533
 
 Aplicam-se à troca as disposições referentes à compra e venda, com as
 
@@ -5046,29 +5046,29 @@ consentimento dos outros descendentes e do cônjuge do alienante.
 
 # CAPÍTULO III — Do Contrato Estimatório
 
-## Art. 534.
+## Art. 534
 
 Pelo contrato estimatório, o consignante entrega bens móveis ao
 
 consignatário, que fica autorizado a vendê-los, pagando àquele o preço ajustado, salvo
 se preferir, no prazo estabelecido, restituir-lhe a coisa consignada.
 
-## Art. 535.
+## Art. 535
 
-consignatário não se exonera da obrigação de pagar o preço, se a
+O consignatário não se exonera da obrigação de pagar o preço, se a
 
 restituição da coisa, em sua integridade, se tornar impossível, ainda que por fato a
 ele não imputável.
 
-## Art. 536.
+## Art. 536
 
 A coisa consignada não pode ser objeto de penhora ou seqüestro pelos
 
 credores do consignatário, enquanto não pago integralmente o preço.
 
-## Art. 537.
+## Art. 537
 
-consignante não pode dispor da coisa antes de lhe ser restituída ou de
+O consignante não pode dispor da coisa antes de lhe ser restituída ou de
 
 lhe ser comunicada a restituição.
 
@@ -5076,59 +5076,59 @@ lhe ser comunicada a restituição.
 
 ### Seção I — Disposições Gerais
 
-## Art. 538.
+## Art. 538
 
 Considera-se doação o contrato em que uma pessoa, por liberalidade,
 
 transfere do seu patrimônio bens ou vantagens para o de outra.
 
-## Art. 539.
+## Art. 539
 
-doador pode fixar prazo ao donatário, para declarar se aceita ou não a
+O doador pode fixar prazo ao donatário, para declarar se aceita ou não a
 
 liberalidade. Desde que o donatário, ciente do prazo, não faça, dentro dele, a
 declaração, entender-se-á que aceitou, se a doação não for sujeita a encargo.
 
-## Art. 540.
+## Art. 540
 
 A doação feita em contemplação do merecimento do donatário não perde o
 
 caráter de liberalidade, como não o perde a doação remuneratória, ou a gravada, no
 excedente ao valor dos serviços remunerados ou ao encargo imposto.
 
-## Art. 541.
+## Art. 541
 
 A doação far-se-á por escritura pública ou instrumento particular.
 
 Parágrafo único. A doação verbal será válida, se, versando sobre bens móveis e
 de pequeno valor, se lhe seguir incontinenti a tradição.
 
-## Art. 542.
+## Art. 542
 
 A doação feita ao nascituro valerá, sendo aceita pelo seu representante
 
 legal.
 
-## Art. 543.
+## Art. 543
 
 Se o donatário for absolutamente incapaz, dispensa-se a aceitação, desde
 
 que se trate de doação pura.
 
-## Art. 544.
+## Art. 544
 
 A doação de ascendentes a descendentes, ou de um cônjuge a outro, importa
 
 adiantamento do que lhes cabe por herança.
 
-## Art. 545.
+## Art. 545
 
 A doação em forma de subvenção periódica ao beneficiado extingue-se
 
 morrendo o doador, salvo se este outra coisa dispuser, mas não poderá ultrapassar a vida
 do donatário.
 
-## Art. 546.
+## Art. 546
 
 A doação feita em contemplação de casamento futuro com certa e
 
@@ -5136,34 +5136,34 @@ determinada pessoa, quer pelos nubentes entre si, quer por terceiro a um deles, 
 ou aos filhos que, de futuro, houverem um do outro, não pode ser impugnada por falta de
 aceitação, e só ficará sem efeito se o casamento não se realizar.
 
-## Art. 547.
+## Art. 547
 
-doador pode estipular que os bens doados voltem ao seu patrimônio, se
+O doador pode estipular que os bens doados voltem ao seu patrimônio, se
 
 sobreviver ao donatário.
 
 Parágrafo único. Não prevalece cláusula de reversão em favor de terceiro.
 
-## Art. 548.
+## Art. 548
 
 É nula a doação de todos os bens sem reserva de parte, ou renda suficiente
 
 para a subsistência do doador.
 
-## Art. 549.
+## Art. 549
 
 Nula é também a doação quanto à parte que exceder à de que o doador, no
 
 momento da liberalidade, poderia dispor em testamento.
 
-## Art. 550.
+## Art. 550
 
 A doação do cônjuge adúltero ao seu cúmplice pode ser anulada pelo outro
 
 cônjuge, ou por seus herdeiros necessários, até dois anos depois de dissolvida a
 sociedade conjugal.
 
-## Art. 551.
+## Art. 551
 
 Salvo declaração em contrário, a doação em comum a mais de uma pessoa
 
@@ -5172,24 +5172,24 @@ entende-se distribuída entre elas por igual.
 Parágrafo único. Se os donatários, em tal caso, forem marido e mulher, subsistirá
 na totalidade a doação para o cônjuge sobrevivo.
 
-## Art. 552.
+## Art. 552
 
-doador não é obrigado a pagar juros moratórios, nem é sujeito às
+O doador não é obrigado a pagar juros moratórios, nem é sujeito às
 
 conseqüências da evicção ou do vício redibitório. Nas doações para casamento com
 certa e determinada pessoa, o doador ficará sujeito à evicção, salvo convenção em
 contrário.
 
-## Art. 553.
+## Art. 553
 
-donatário é obrigado a cumprir os encargos da doação, caso forem a
+O donatário é obrigado a cumprir os encargos da doação, caso forem a
 
 benefício do doador, de terceiro, ou do interesse geral.
 
 Parágrafo único. Se desta última espécie for o encargo, o Ministério Público
 poderá exigir sua execução, depois da morte do doador, se este não tiver feito.
 
-## Art. 554.
+## Art. 554
 
 A doação a entidade futura caducará se, em dois anos, esta não estiver
 
@@ -5197,19 +5197,19 @@ constituída regularmente.
 
 ### Seção II — Da Revogação da Doação
 
-## Art. 555.
+## Art. 555
 
 A doação pode ser revogada por ingratidão do donatário, ou por
 
 inexecução do encargo.
 
-## Art. 556.
+## Art. 556
 
 Não se pode renunciar antecipadamente o direito de revogar a liberalidade
 
 por ingratidão do donatário.
 
-## Art. 557.
+## Art. 557
 
 Podem ser revogadas por ingratidão as doações:
 
@@ -5222,34 +5222,34 @@ III - se o injuriou gravemente ou o caluniou;
 
 IV - se, podendo ministrá-los, recusou ao doador os alimentos de que este necessitava.
 
-## Art. 558.
+## Art. 558
 
 Pode ocorrer também a revogação quando o ofendido, nos casos do artigo
 
 anterior, for o cônjuge, ascendente, descendente, ainda que adotivo, ou irmão do doador.
 
-## Art. 559.
+## Art. 559
 
 A revogação por qualquer desses motivos deverá ser pleiteada dentro de um
 
 ano, a contar de quando chegue ao conhecimento do doador o fato que a autorizar, e de ter
 sido o donatário o seu autor.
 
-## Art. 560.
+## Art. 560
 
-direito de revogar a doação não se transmite aos herdeiros do doador,
+O direito de revogar a doação não se transmite aos herdeiros do doador,
 
 nem prejudica os do donatário. Mas aqueles podem prosseguir na ação iniciada pelo
 doador, continuando-a contra os herdeiros do donatário, se este falecer depois de
 ajuizada a lide.
 
-## Art. 561.
+## Art. 561
 
 No caso de homicídio doloso do doador, a ação caberá aos seus herdeiros,
 
 exceto se aquele houver perdoado.
 
-## Art. 562.
+## Art. 562
 
 A doação onerosa pode ser revogada por inexecução do encargo, se o
 
@@ -5257,7 +5257,7 @@ donatário incorrer em mora. Não havendo prazo para o cumprimento, o doador pod
 notificar judicialmente o donatário, assinando-lhe prazo razoável para que cumpra a
 obrigação assumida.
 
-## Art. 563.
+## Art. 563
 
 A revogação por ingratidão não prejudica os direitos adquiridos por
 
@@ -5265,7 +5265,7 @@ terceiros, nem obriga o donatário a restituir os frutos percebidos antes da cit
 válida; mas sujeita-o a pagar os posteriores, e, quando não possa restituir em espécie
 as coisas doadas, a indenizá-la pelo meio termo do seu valor.
 
-## Art. 564.
+## Art. 564
 
 Não se revogam por ingratidão:
 
@@ -5279,15 +5279,15 @@ IV - as feitas para determinado casamento.
 
 # CAPÍTULO V — Da Locação de Coisas
 
-## Art. 565.
+## Art. 565
 
 Na locação de coisas, uma das partes se obriga a ceder à outra, por tempo
 
 determinado ou não, o uso e gozo de coisa não fungível, mediante certa retribuição.
 
-## Art. 566.
+## Art. 566
 
-locador é obrigado:
+O locador é obrigado:
 
 I - a entregar ao locatário a coisa alugada, com suas pertenças, em estado de servir
 ao uso a que se destina, e a mantê-la nesse estado, pelo tempo do contrato, salvo
@@ -5295,23 +5295,23 @@ cláusula expressa em contrário;
 
 II - a garantir-lhe, durante o tempo do contrato, o uso pacífico da coisa.
 
-## Art. 567.
+## Art. 567
 
 Se, durante a locação, se deteriorar a coisa alugada, sem culpa do
 
 locatário, a este caberá pedir redução proporcional do aluguel, ou resolver o
 contrato, caso já não sirva a coisa para o fim a que se destinava.
 
-## Art. 568.
+## Art. 568
 
-locador resguardará o locatário dos embaraços e turbações de
+O locador resguardará o locatário dos embaraços e turbações de
 
 terceiros, que tenham ou pretendam ter direitos sobre a coisa alugada, e responderá pelos
 seus vícios, ou defeitos, anteriores à locação.
 
-## Art. 569.
+## Art. 569
 
-locatário é obrigado:
+O locatário é obrigado:
 
 I - a servir-se da coisa alugada para os usos convencionados ou presumidos, conforme a
 natureza dela e as circunstâncias, bem como tratá-la com o mesmo cuidado como se sua
@@ -5326,14 +5326,14 @@ fundadas em direito;
 IV - a restituir a coisa, finda a locação, no estado em que a recebeu, salvas as
 deteriorações naturais ao uso regular.
 
-## Art. 570.
+## Art. 570
 
 Se o locatário empregar a coisa em uso diverso do ajustado, ou do a que se
 
 destina, ou se ela se danificar por abuso do locatário, poderá o locador, além de
 rescindir o contrato, exigir perdas e danos.
 
-## Art. 571.
+## Art. 571
 
 Havendo prazo estipulado à duração do contrato, antes do vencimento não
 
@@ -5344,26 +5344,26 @@ proporcionalmente, a multa prevista no contrato.
 Parágrafo único. O locatário gozará do direito de retenção, enquanto não for
 ressarcido.
 
-## Art. 572.
+## Art. 572
 
 Se a obrigação de pagar o aluguel pelo tempo que faltar constituir
 
 indenização excessiva, será facultado ao juiz fixá-la em bases razoáveis.
 
-## Art. 573.
+## Art. 573
 
 A locação por tempo determinado cessa de pleno direito findo o prazo
 
 estipulado, independentemente de notificação ou aviso.
 
-## Art. 574.
+## Art. 574
 
 Se, findo o prazo, o locatário continuar na posse da coisa alugada, sem
 
 oposição do locador, presumir-se-á prorrogada a locação pelo mesmo aluguel, mas sem
 prazo determinado.
 
-## Art. 575.
+## Art. 575
 
 Se, notificado o locatário, não restituir a coisa, pagará, enquanto a
 
@@ -5373,7 +5373,7 @@ venha a sofrer, embora proveniente de caso fortuito.
 Parágrafo único. Se o aluguel arbitrado for manifestamente excessivo, poderá o juiz
 reduzi-lo, mas tendo sempre em conta o seu caráter de penalidade.
 
-## Art. 576.
+## Art. 576
 
 Se a coisa for alienada durante a locação, o adquirente não ficará
 
@@ -5392,13 +5392,13 @@ Em se tratando de imóvel, e ainda no caso em que o locador
 não esteja obrigado a respeitar o contrato, não poderá ele despedir o locatário,
 senão observado o prazo de noventa dias após a notificação.
 
-## Art. 577.
+## Art. 577
 
 Morrendo o locador ou o locatário, transfere-se aos seus herdeiros a
 
 locação por tempo determinado.
 
-## Art. 578.
+## Art. 578
 
 Salvo disposição em contrário, o locatário goza do direito de retenção,
 
@@ -5409,20 +5409,20 @@ feitas com expresso consentimento do locador.
 
 ### Seção I — Do Comodato
 
-## Art. 579.
+## Art. 579
 
-comodato é o empréstimo gratuito de coisas não fungíveis. Perfaz-se com
+O comodato é o empréstimo gratuito de coisas não fungíveis. Perfaz-se com
 
 a tradição do objeto.
 
-## Art. 580.
+## Art. 580
 
-s tutores, curadores e em geral todos os administradores de bens alheios
+Os tutores, curadores e em geral todos os administradores de bens alheios
 
 não poderão dar em comodato, sem autorização especial, os bens confiados à sua
 guarda.
 
-## Art. 581.
+## Art. 581
 
 Se o comodato não tiver prazo convencional, presumir-se-lhe-á o necessário
 
@@ -5430,29 +5430,29 @@ para o uso concedido; não podendo o comodante, salvo necessidade imprevista e u
 reconhecida pelo juiz, suspender o uso e gozo da coisa emprestada, antes de findo o prazo
 convencional, ou o que se determine pelo uso outorgado.
 
-## Art. 582.
+## Art. 582
 
-comodatário é obrigado a conservar, como se sua própria fora, a coisa
+O comodatário é obrigado a conservar, como se sua própria fora, a coisa
 
 emprestada, não podendo usá-la senão de acordo com o contrato ou a natureza dela, sob
 pena de responder por perdas e danos. O comodatário constituído em mora, além de por
 ela responder, pagará, até restituí-la, o aluguel da coisa que for arbitrado pelo
 comodante.
 
-## Art. 583.
+## Art. 583
 
 Se, correndo risco o objeto do comodato juntamente com outros do
 
 comodatário, antepuser este a salvação dos seus abandonando o do comodante, responderá
 pelo dano ocorrido, ainda que se possa atribuir a caso fortuito, ou força maior.
 
-## Art. 584.
+## Art. 584
 
-comodatário não poderá jamais recobrar do comodante as despesas feitas
+O comodatário não poderá jamais recobrar do comodante as despesas feitas
 
 com o uso e gozo da coisa emprestada.
 
-## Art. 585.
+## Art. 585
 
 Se duas ou mais pessoas forem simultaneamente comodatárias de uma coisa,
 
@@ -5460,26 +5460,26 @@ ficarão solidariamente responsáveis para com o comodante.
 
 ### Seção II — Do Mútuo
 
-## Art. 586.
+## Art. 586
 
-mútuo é o empréstimo de coisas fungíveis. O mutuário é obrigado a
+O mútuo é o empréstimo de coisas fungíveis. O mutuário é obrigado a
 
 restituir ao mutuante o que dele recebeu em coisa do mesmo gênero, qualidade e
 quantidade.
 
-## Art. 587.
+## Art. 587
 
 Este empréstimo transfere o domínio da coisa emprestada ao mutuário, por
 
 cuja conta correm todos os riscos dela desde a tradição.
 
-## Art. 588.
+## Art. 588
 
-mútuo feito a pessoa menor, sem prévia autorização daquele sob cuja
+O mútuo feito a pessoa menor, sem prévia autorização daquele sob cuja
 
 guarda estiver, não pode ser reavido nem do mutuário, nem de seus fiadores.
 
-## Art. 589.
+## Art. 589
 
 Cessa a disposição do artigo antecedente:
 
@@ -5496,13 +5496,13 @@ IV - se o empréstimo reverteu em benefício do menor;
 
 V - se o menor obteve o empréstimo maliciosamente.
 
-## Art. 590.
+## Art. 590
 
-mutuante pode exigir garantia da restituição, se antes do vencimento o
+O mutuante pode exigir garantia da restituição, se antes do vencimento o
 
 mutuário sofrer notória mudança em sua situação econômica.
 
-## Art. 591.
+## Art. 591
 
 Destinando-se o mútuo a fins econômicos, presumem-se devidos
 
@@ -5519,7 +5519,7 @@ pela Lei nº 14.905, de 2024)
 Produção de
 efeitos
 
-## Art. 592.
+## Art. 592
 
 Não se tendo convencionado expressamente, o prazo do mútuo será:
 
@@ -5533,39 +5533,39 @@ fungível.
 
 # CAPÍTULO VII — Da Prestação de Serviço
 
-## Art. 593.
+## Art. 593
 
 A prestação de serviço, que não estiver sujeita às leis trabalhistas ou
 
 a lei especial, reger-se-á pelas disposições deste Capítulo.
 
-## Art. 594.
+## Art. 594
 
 Toda a espécie de serviço ou trabalho lícito, material ou imaterial, pode
 
 ser contratada mediante retribuição.
 
-## Art. 595.
+## Art. 595
 
 No contrato de prestação de serviço, quando qualquer das partes não
 
 souber ler, nem escrever, o instrumento poderá ser assinado a rogo e subscrito por duas
 testemunhas.
 
-## Art. 596.
+## Art. 596
 
 Não se tendo estipulado, nem chegado a acordo as partes, fixar-se-á por
 
 arbitramento a retribuição, segundo o costume do lugar, o tempo de serviço e sua
 qualidade.
 
-## Art. 597.
+## Art. 597
 
 A retribuição pagar-se-á depois de prestado o serviço, se, por
 
 convenção, ou costume, não houver de ser adiantada, ou paga em prestações.
 
-## Art. 598.
+## Art. 598
 
 A prestação de serviço não se poderá convencionar por mais de quatro
 
@@ -5573,7 +5573,7 @@ anos, embora o contrato tenha por causa o pagamento de dívida de quem o presta,
 destine à execução de certa e determinada obra. Neste caso, decorridos quatro anos,
 dar-se-á por findo o contrato, ainda que não concluída a obra.
 
-## Art. 599.
+## Art. 599
 
 Não havendo prazo estipulado, nem se podendo inferir da natureza do
 
@@ -5590,22 +5590,22 @@ quinzena;
 
 III - de véspera, quando se tenha contratado por menos de sete dias.
 
-## Art. 600.
+## Art. 600
 
 Não se conta no prazo do contrato o tempo em que o prestador de serviço,
 
 por culpa sua, deixou de servir.
 
-## Art. 601.
+## Art. 601
 
 Não sendo o prestador de serviço contratado para certo e determinado
 
 trabalho, entender-se-á que se obrigou a todo e qualquer serviço compatível com as suas
 forças e condições.
 
-## Art. 602.
+## Art. 602
 
-prestador de serviço contratado por tempo certo, ou por obra determinada,
+O prestador de serviço contratado por tempo certo, ou por obra determinada,
 
 não se pode ausentar, ou despedir, sem justa causa, antes de preenchido o tempo, ou
 concluída a obra.
@@ -5614,28 +5614,28 @@ Parágrafo único. Se se despedir sem justa causa, terá direito à retribuiçã
 vencida, mas responderá por perdas e danos. O mesmo dar-se-á, se despedido por justa
 causa.
 
-## Art. 603.
+## Art. 603
 
 Se o prestador de serviço for despedido sem justa causa, a outra parte será
 
 obrigada a pagar-lhe por inteiro a retribuição vencida, e por metade a que lhe tocaria
 de então ao termo legal do contrato.
 
-## Art. 604.
+## Art. 604
 
 Findo o contrato, o prestador de serviço tem direito a exigir da outra parte
 
 a declaração de que o contrato está findo. Igual direito lhe cabe, se for despedido sem
 justa causa, ou se tiver havido motivo justo para deixar o serviço.
 
-## Art. 605.
+## Art. 605
 
 Nem aquele a quem os serviços são prestados, poderá transferir a outrem o
 
 direito aos serviços ajustados, nem o prestador de serviços, sem aprazimento da outra
 parte, dar substituto que os preste.
 
-## Art. 606.
+## Art. 606
 
 Se o serviço for prestado por quem não possua título de habilitação, ou
 
@@ -5647,22 +5647,22 @@ compensação razoável, desde que tenha agido com boa-fé.
 Parágrafo único. Não se aplica a segunda parte deste artigo, quando a proibição da
 prestação de serviço resultar de lei de ordem pública.
 
-## Art. 607.
+## Art. 607
 
-contrato de prestação de serviço acaba com a morte de qualquer das
+O contrato de prestação de serviço acaba com a morte de qualquer das
 
 partes. Termina, ainda, pelo escoamento do prazo, pela conclusão da obra, pela rescisão
 do contrato mediante aviso prévio, por inadimplemento de qualquer das partes ou pela
 impossibilidade da continuação do contrato, motivada por força maior.
 
-## Art. 608.
+## Art. 608
 
 Aquele que aliciar pessoas obrigadas em contrato escrito a prestar serviço a
 
 outrem pagará a este a importância que ao prestador de serviço, pelo ajuste desfeito,
 houvesse de caber durante dois anos.
 
-## Art. 609.
+## Art. 609
 
 A alienação do prédio agrícola, onde a prestação dos serviços se
 
@@ -5671,9 +5671,9 @@ com o adquirente da propriedade ou com o primitivo contratante.
 
 # CAPÍTULO VIII — Da Empreitada
 
-## Art. 610.
+## Art. 610
 
-empreiteiro de uma obra pode contribuir para ela só com seu trabalho ou
+O empreiteiro de uma obra pode contribuir para ela só com seu trabalho ou
 
 com ele e os materiais.
 
@@ -5687,20 +5687,20 @@ o
 O contrato para elaboração de um projeto não implica a
 obrigação de executá-lo, ou de fiscalizar-lhe a execução.
 
-## Art. 611.
+## Art. 611
 
 Quando o empreiteiro fornece os materiais, correm por sua conta os riscos
 
 até o momento da entrega da obra, a contento de quem a encomendou, se este não estiver
 em mora de receber. Mas se estiver, por sua conta correrão os riscos.
 
-## Art. 612.
+## Art. 612
 
 Se o empreiteiro só forneceu mão-de-obra, todos os riscos em que não tiver
 
 culpa correrão por conta do dono.
 
-## Art. 613.
+## Art. 613
 
 Sendo a empreitada unicamente de lavor (art. 610), se a coisa perecer antes
 
@@ -5708,7 +5708,7 @@ de entregue, sem mora do dono nem culpa do empreiteiro, este perderá a retribui
 não provar que a perda resultou de defeito dos materiais e que em tempo reclamara contra
 a sua quantidade ou qualidade.
 
-## Art. 614.
+## Art. 614
 
 Se a obra constar de partes distintas, ou for de natureza das que se
 
@@ -5726,7 +5726,7 @@ O que se mediu presume-se verificado se, em trinta dias, a
 contar da medição, não forem denunciados os vícios ou defeitos pelo dono da obra ou
 por quem estiver incumbido da sua fiscalização.
 
-## Art. 615.
+## Art. 615
 
 Concluída a obra de acordo com o ajuste, ou o costume do lugar, o dono é
 
@@ -5734,19 +5734,19 @@ obrigado a recebê-la. Poderá, porém, rejeitá-la, se o empreiteiro se afastou
 instruções recebidas e dos planos dados, ou das regras técnicas em trabalhos de tal
 natureza.
 
-## Art. 616.
+## Art. 616
 
 No caso da segunda parte do artigo antecedente, pode quem encomendou a obra,
 
 em vez de enjeitá-la, recebê-la com abatimento no preço.
 
-## Art. 617.
+## Art. 617
 
-empreiteiro é obrigado a pagar os materiais que recebeu, se por imperícia
+O empreiteiro é obrigado a pagar os materiais que recebeu, se por imperícia
 
 ou negligência os inutilizar.
 
-## Art. 618.
+## Art. 618
 
 Nos contratos de empreitada de edifícios ou outras construções
 
@@ -5758,7 +5758,7 @@ Parágrafo único. Decairá do direito assegurado neste artigo o dono da obra qu
 propuser a ação contra o empreiteiro, nos cento e oitenta dias seguintes ao aparecimento
 do vício ou defeito.
 
-## Art. 619.
+## Art. 619
 
 Salvo estipulação em contrário, o empreiteiro que se incumbir de executar
 
@@ -5771,14 +5771,14 @@ obrigado a pagar ao empreiteiro os aumentos e acréscimos, segundo o que for arb
 se, sempre presente à obra, por continuadas visitas, não podia ignorar o que se estava
 passando, e nunca protestou.
 
-## Art. 620.
+## Art. 620
 
 Se ocorrer diminuição no preço do material ou da mão-de-obra superior a
 
 um décimo do preço global convencionado, poderá este ser revisto, a pedido do dono da
 obra, para que se lhe assegure a diferença apurada.
 
-## Art. 621.
+## Art. 621
 
 Sem anuência de seu autor, não pode o proprietário da obra introduzir
 
@@ -5790,7 +5790,7 @@ forma originária.
 Parágrafo único. A proibição deste artigo não abrange alterações de pouca monta,
 ressalvada sempre a unidade estética da obra projetada.
 
-## Art. 622.
+## Art. 622
 
 Se a execução da obra for confiada a terceiros, a responsabilidade do autor
 
@@ -5798,7 +5798,7 @@ do projeto respectivo, desde que não assuma a direção ou fiscalização daque
 ficará limitada aos danos resultantes de defeitos previstos no art. 618 e seu parágrafo
 único.
 
-## Art. 623.
+## Art. 623
 
 Mesmo após iniciada a construção, pode o dono da obra suspendê-la, desde
 
@@ -5806,13 +5806,13 @@ que pague ao empreiteiro as despesas e lucros relativos aos serviços já feitos
 indenização razoável, calculada em função do que ele teria ganho, se concluída a
 obra.
 
-## Art. 624.
+## Art. 624
 
 Suspensa a execução da empreitada sem justa causa, responde o empreiteiro
 
 por perdas e danos.
 
-## Art. 625.
+## Art. 625
 
 Poderá o empreiteiro suspender a obra:
 
@@ -5827,7 +5827,7 @@ III - se as modificações exigidas pelo dono da obra, por seu vulto e natureza,
 desproporcionais ao projeto aprovado, ainda que o dono se disponha a arcar com o
 acréscimo de preço.
 
-## Art. 626.
+## Art. 626
 
 Não se extingue o contrato de empreitada pela morte de qualquer das partes,
 
@@ -5837,15 +5837,15 @@ salvo se ajustado em consideração às qualidades pessoais do empreiteiro.
 
 ### Seção I — Do Depósito Voluntário
 
-## Art. 627.
+## Art. 627
 
 Pelo contrato de depósito recebe o depositário um
 
 objeto móvel, para guardar, até que o depositante o reclame.
 
-## Art. 628.
+## Art. 628
 
-contrato de depósito é gratuito, exceto se houver convenção em
+O contrato de depósito é gratuito, exceto se houver convenção em
 
 contrário, se resultante de atividade negocial ou se o depositário o praticar por
 profissão.
@@ -5854,34 +5854,34 @@ Parágrafo único. Se o depósito for oneroso e a retribuição do depositário 
 constar de lei, nem resultar de ajuste, será determinada pelos usos do lugar, e, na falta
 destes, por arbitramento.
 
-## Art. 629.
+## Art. 629
 
-depositário é obrigado a ter na guarda e conservação da coisa
+O depositário é obrigado a ter na guarda e conservação da coisa
 
 depositada o cuidado e diligência que costuma com o que lhe pertence, bem como a
 restituí-la, com todos os frutos e acrescidos, quando o exija o depositante.
 
-## Art. 630.
+## Art. 630
 
 Se o depósito se entregou fechado, colado, selado, ou lacrado, nesse mesmo
 
 estado se manterá.
 
-## Art. 631.
+## Art. 631
 
 Salvo disposição em contrário, a restituição da coisa deve dar-se no
 
 lugar em que tiver de ser guardada. As despesas de restituição correm por conta do
 depositante.
 
-## Art. 632.
+## Art. 632
 
 Se a coisa houver sido depositada no interesse de terceiro, e o depositário
 
 tiver sido cientificado deste fato pelo depositante, não poderá ele exonerar-se
 restituindo a coisa a este, sem consentimento daquele.
 
-## Art. 633.
+## Art. 633
 
 Ainda que o contrato fixe prazo à restituição, o depositário entregará o
 
@@ -5890,48 +5890,48 @@ art. 644, se o objeto for judicialmente embargado, se sobre ele pender execuçã
 notificada ao depositário, ou se houver motivo razoável de suspeitar que a coisa foi
 dolosamente obtida.
 
-## Art. 634.
+## Art. 634
 
 No caso do artigo antecedente, última parte, o depositário, expondo o
 
 fundamento da suspeita, requererá que se recolha o objeto ao Depósito Público.
 
-## Art. 635.
+## Art. 635
 
 Ao depositário será facultado, outrossim, requerer depósito judicial da
 
 coisa, quando, por motivo plausível, não a possa guardar, e o depositante não queira
 recebê-la.
 
-## Art. 636.
+## Art. 636
 
-depositário, que por força maior houver perdido a coisa depositada e
+O depositário, que por força maior houver perdido a coisa depositada e
 
 recebido outra em seu lugar, é obrigado a entregar a segunda ao depositante, e ceder-lhe
 as ações que no caso tiver contra o terceiro responsável pela restituição da
 primeira.
 
-## Art. 637.
+## Art. 637
 
-herdeiro do depositário, que de boa-fé vendeu a coisa depositada, é
+O herdeiro do depositário, que de boa-fé vendeu a coisa depositada, é
 
 obrigado a assistir o depositante na reivindicação, e a restituir ao comprador o preço
 recebido.
 
-## Art. 638.
+## Art. 638
 
 Salvo os casos previstos nos arts. 633 e 634, não poderá o depositário
 
 furtar-se à restituição do depósito, alegando não pertencer a coisa ao depositante,
 ou opondo compensação, exceto se noutro depósito se fundar.
 
-## Art. 639.
+## Art. 639
 
 Sendo dois ou mais depositantes, e divisível a coisa, a cada um só
 
 entregará o depositário a respectiva parte, salvo se houver entre eles solidariedade.
 
-## Art. 640.
+## Art. 640
 
 Sob pena de responder por perdas e danos, não poderá o depositário, sem
 
@@ -5941,7 +5941,7 @@ outrem.
 Parágrafo único. Se o depositário, devidamente autorizado, confiar a coisa em
 depósito a terceiro, será responsável se agiu com culpa na escolha deste.
 
-## Art. 641.
+## Art. 641
 
 Se o depositário se tornar incapaz, a pessoa que lhe assumir a
 
@@ -5949,21 +5949,21 @@ administração dos bens diligenciará imediatamente restituir a coisa depositad
 querendo ou não podendo o depositante recebê-la, recolhê-la-á ao Depósito Público ou
 promoverá nomeação de outro depositário.
 
-## Art. 642.
+## Art. 642
 
-depositário não responde pelos casos de força maior; mas, para que lhe
+O depositário não responde pelos casos de força maior; mas, para que lhe
 
 valha a escusa, terá de prová-los.
 
-## Art. 643.
+## Art. 643
 
-depositante é obrigado a pagar ao depositário as despesas feitas com a
+O depositante é obrigado a pagar ao depositário as despesas feitas com a
 
 coisa, e os prejuízos que do depósito provierem.
 
-## Art. 644.
+## Art. 644
 
-depositário poderá reter o depósito até que se lhe pague a
+O depositário poderá reter o depósito até que se lhe pague a
 
 retribuição devida, o líquido valor das despesas, ou dos prejuízos a que se refere o
 artigo anterior, provando imediatamente esses prejuízos ou essas despesas.
@@ -5973,20 +5973,20 @@ suficientemente, ou forem ilíquidos, o depositário poderá exigir caução id�
 depositante ou, na falta desta, a remoção da coisa para o Depósito Público, até que
 se liquidem.
 
-## Art. 645.
+## Art. 645
 
-depósito de coisas fungíveis, em que o depositário se obrigue a
+O depósito de coisas fungíveis, em que o depositário se obrigue a
 
 restituir objetos do mesmo gênero, qualidade e quantidade, regular-se-á pelo disposto
 acerca do mútuo.
 
-## Art. 646.
+## Art. 646
 
-depósito voluntário provar-se-á por escrito.
+O depósito voluntário provar-se-á por escrito.
 
 ### Seção II — Do Depósito Necessário
 
-## Art. 647.
+## Art. 647
 
 É depósito necessário:
 
@@ -5995,9 +5995,9 @@ I - o que se faz em desempenho de obrigação legal;
 II - o que se efetua por ocasião de alguma calamidade, como o incêndio, a
 inundação, o naufrágio ou o saque.
 
-## Art. 648.
+## Art. 648
 
-depósito a que se refere o inciso I do artigo antecedente, reger-se-á
+O depósito a que se refere o inciso I do artigo antecedente, reger-se-á
 
 pela disposição da respectiva lei, e, no silêncio ou deficiência dela, pelas
 concernentes ao depósito voluntário.
@@ -6005,7 +6005,7 @@ concernentes ao depósito voluntário.
 Parágrafo único. As disposições deste artigo aplicam-se aos depósitos previstos no
 inciso II do artigo antecedente, podendo estes certificarem-se por qualquer meio de prova.
 
-## Art. 649.
+## Art. 649
 
 Aos depósitos previstos no artigo antecedente é equiparado o das bagagens
 
@@ -6015,21 +6015,21 @@ Parágrafo único. Os hospedeiros responderão como depositários, assim como pe
 furtos e roubos que perpetrarem as pessoas empregadas ou admitidas nos seus
 estabelecimentos.
 
-## Art. 650.
+## Art. 650
 
 Cessa, nos casos do artigo antecedente, a responsabilidade dos hospedeiros,
 
 se provarem que os fatos prejudiciais aos viajantes ou hóspedes não podiam ter sido
 evitados.
 
-## Art. 651.
+## Art. 651
 
-depósito necessário não se presume gratuito. Na
+O depósito necessário não se presume gratuito. Na
 
 hipótese do art. 649, a remuneração pelo depósito está incluída no preço da
 hospedagem.
 
-## Art. 652.
+## Art. 652
 
 Seja o depósito voluntário ou necessário, o depositário que não o
 
@@ -6040,13 +6040,13 @@ ano, e ressarcir os prejuízos.
 
 ### Seção I — Disposições Gerais
 
-## Art. 653.
+## Art. 653
 
-pera-se o mandato quando alguém recebe de outrem poderes para, em seu nome,
+Opera-se o mandato quando alguém recebe de outrem poderes para, em seu nome,
 
 praticar atos ou administrar interesses. A procuração é o instrumento do mandato.
 
-## Art. 654.
+## Art. 654
 
 Todas as pessoas capazes são aptas para dar procuração mediante
 
@@ -6063,25 +6063,25 @@ o
 O terceiro com quem o mandatário tratar poderá exigir que a
 procuração traga a firma reconhecida.
 
-## Art. 655.
+## Art. 655
 
 Ainda quando se outorgue mandato por instrumento público, pode
 
 substabelecer-se mediante instrumento particular.
 
-## Art. 656.
+## Art. 656
 
-mandato pode ser expresso ou tácito, verbal ou escrito.
+O mandato pode ser expresso ou tácito, verbal ou escrito.
 
-## Art. 657.
+## Art. 657
 
 A outorga do mandato está sujeita à forma exigida por lei para o ato a ser
 
 praticado. Não se admite mandato verbal quando o ato deva ser celebrado por escrito.
 
-## Art. 658.
+## Art. 658
 
-mandato presume-se gratuito quando não houver sido estipulada
+O mandato presume-se gratuito quando não houver sido estipulada
 
 retribuição, exceto se o seu objeto corresponder ao daqueles que o mandatário trata por
 ofício ou profissão lucrativa.
@@ -6090,21 +6090,21 @@ Parágrafo único. Se o mandato for oneroso, caberá ao mandatário a retribuiç
 prevista em lei ou no contrato. Sendo estes omissos, será ela determinada pelos usos do
 lugar, ou, na falta destes, por arbitramento.
 
-## Art. 659.
+## Art. 659
 
 A aceitação do mandato pode ser tácita, e resulta do começo de
 
 execução.
 
-## Art. 660.
+## Art. 660
 
-mandato pode ser especial a um ou mais negócios determinadamente, ou geral
+O mandato pode ser especial a um ou mais negócios determinadamente, ou geral
 
 a todos os do mandante.
 
-## Art. 661.
+## Art. 661
 
-mandato em termos gerais só confere poderes de administração.
+O mandato em termos gerais só confere poderes de administração.
 
 § 1
 o
@@ -6116,9 +6116,9 @@ poderes especiais e expressos.
 o
 O poder de transigir não importa o de firmar compromisso.
 
-## Art. 662.
+## Art. 662
 
-s atos praticados por quem não tenha mandato, ou o tenha sem poderes
+Os atos praticados por quem não tenha mandato, ou o tenha sem poderes
 
 suficientes, são ineficazes em relação àquele em cujo nome foram praticados, salvo se
 este os ratificar.
@@ -6126,39 +6126,39 @@ este os ratificar.
 Parágrafo único. A ratificação há de ser expressa, ou resultar de ato inequívoco,
 e retroagirá à data do ato.
 
-## Art. 663.
+## Art. 663
 
 Sempre que o mandatário estipular negócios expressamente em nome do
 
 mandante, será este o único responsável; ficará, porém, o mandatário pessoalmente
 obrigado, se agir no seu próprio nome, ainda que o negócio seja de conta do mandante.
 
-## Art. 664.
+## Art. 664
 
-mandatário tem o direito de reter, do objeto da operação que lhe foi
+O mandatário tem o direito de reter, do objeto da operação que lhe foi
 
 cometida, quanto baste para pagamento de tudo que lhe for devido em conseqüência do
 mandato.
 
-## Art. 665.
+## Art. 665
 
-mandatário que exceder os poderes do mandato, ou proceder contra eles,
+O mandatário que exceder os poderes do mandato, ou proceder contra eles,
 
 será considerado mero gestor de negócios, enquanto o mandante lhe não ratificar os
 atos.
 
-## Art. 666.
+## Art. 666
 
-maior de dezesseis e menor de dezoito anos não emancipado pode ser
+O maior de dezesseis e menor de dezoito anos não emancipado pode ser
 
 mandatário, mas o mandante não tem ação contra ele senão de conformidade com as
 regras gerais, aplicáveis às obrigações contraídas por menores.
 
 ### Seção II — Das Obrigações do Mandatário
 
-## Art. 667.
+## Art. 667
 
-mandatário é obrigado a aplicar toda sua diligência habitual na
+O mandatário é obrigado a aplicar toda sua diligência habitual na
 
 execução do mandato, e a indenizar qualquer prejuízo causado por culpa sua ou daquele a
 quem substabelecer, sem autorização, poderes que devia exercer pessoalmente.
@@ -6188,32 +6188,32 @@ o
 Sendo omissa a procuração quanto ao substabelecimento, o
 procurador será responsável se o substabelecido proceder culposamente.
 
-## Art. 668.
+## Art. 668
 
-mandatário é obrigado a dar contas de sua gerência ao mandante,
+O mandatário é obrigado a dar contas de sua gerência ao mandante,
 
 transferindo-lhe as vantagens provenientes do mandato, por qualquer título que seja.
 
-## Art. 669.
+## Art. 669
 
-mandatário não pode compensar os prejuízos a que deu causa com os
+O mandatário não pode compensar os prejuízos a que deu causa com os
 
 proveitos que, por outro lado, tenha granjeado ao seu constituinte.
 
-## Art. 670.
+## Art. 670
 
 Pelas somas que devia entregar ao mandante ou recebeu para despesa, mas
 
 empregou em proveito seu, pagará o mandatário juros, desde o momento em que abusou.
 
-## Art. 671.
+## Art. 671
 
 Se o mandatário, tendo fundos ou crédito do mandante, comprar, em nome
 
 próprio, algo que devera comprar para o mandante, por ter sido expressamente designado no
 mandato, terá este ação para obrigá-lo à entrega da coisa comprada.
 
-## Art. 672.
+## Art. 672
 
 Sendo dois ou mais os mandatários nomeados no mesmo instrumento, qualquer
 
@@ -6223,14 +6223,14 @@ sucessivos. Se os mandatários forem declarados conjuntos, não terá eficácia 
 praticado sem interferência de todos, salvo havendo ratificação, que retroagirá à
 data do ato.
 
-## Art. 673.
+## Art. 673
 
-terceiro que, depois de conhecer os poderes do mandatário, com ele
+O terceiro que, depois de conhecer os poderes do mandatário, com ele
 
 celebrar negócio jurídico exorbitante do mandato, não tem ação contra o mandatário,
 salvo se este lhe prometeu ratificação do mandante ou se responsabilizou pessoalmente.
 
-## Art. 674.
+## Art. 674
 
 Embora ciente da morte, interdição ou mudança de estado do mandante, deve
 
@@ -6238,34 +6238,34 @@ o mandatário concluir o negócio já começado, se houver perigo na demora.
 
 ### Seção III — Das Obrigações do Mandante
 
-## Art. 675.
+## Art. 675
 
-mandante é obrigado a satisfazer todas as obrigações contraídas pelo
+O mandante é obrigado a satisfazer todas as obrigações contraídas pelo
 
 mandatário, na conformidade do mandato conferido, e adiantar a importância das despesas
 necessárias à execução dele, quando o mandatário lho pedir.
 
-## Art. 676.
+## Art. 676
 
 É obrigado o mandante a pagar ao mandatário a remuneração ajustada e as
 
 despesas da execução do mandato, ainda que o negócio não surta o esperado efeito,
 salvo tendo o mandatário culpa.
 
-## Art. 677.
+## Art. 677
 
 As somas adiantadas pelo mandatário, para a execução do mandato, vencem
 
 juros desde a data do desembolso.
 
-## Art. 678.
+## Art. 678
 
 É igualmente obrigado o mandante a ressarcir ao mandatário as perdas que
 
 este sofrer com a execução do mandato, sempre que não resultem de culpa sua ou de
 excesso de poderes.
 
-## Art. 679.
+## Art. 679
 
 Ainda que o mandatário contrarie as instruções do mandante, se não
 
@@ -6273,7 +6273,7 @@ exceder os limites do mandato, ficará o mandante obrigado para com aqueles com 
 procurador contratou; mas terá contra este ação pelas perdas e danos resultantes da
 inobservância das instruções.
 
-## Art. 680.
+## Art. 680
 
 Se o mandato for outorgado por duas ou mais pessoas, e para negócio comum,
 
@@ -6281,15 +6281,15 @@ cada uma ficará solidariamente responsável ao mandatário por todos os comprom
 efeitos do mandato, salvo direito regressivo, pelas quantias que pagar, contra os outros
 mandantes.
 
-## Art. 681.
+## Art. 681
 
-mandatário tem sobre a coisa de que tenha a posse em virtude do mandato,
+O mandatário tem sobre a coisa de que tenha a posse em virtude do mandato,
 
 direito de retenção, até se reembolsar do que no desempenho do encargo despendeu.
 
 ### Seção IV — Da Extinção do Mandato
 
-## Art. 682.
+## Art. 682
 
 Cessa o mandato:
 
@@ -6302,20 +6302,20 @@ mandatário para os exercer;
 
 IV - pelo término do prazo ou pela conclusão do negócio.
 
-## Art. 683.
+## Art. 683
 
 Quando o mandato contiver a cláusula de irrevogabilidade e o mandante o
 
 revogar, pagará perdas e danos.
 
-## Art. 684.
+## Art. 684
 
 Quando a cláusula de irrevogabilidade for condição de um negócio
 
 bilateral, ou tiver sido estipulada no exclusivo interesse do mandatário, a revogação
 do mandato será ineficaz.
 
-## Art. 685.
+## Art. 685
 
 Conferido o mandato com a cláusula "em causa própria", a sua
 
@@ -6323,7 +6323,7 @@ revogação não terá eficácia, nem se extinguirá pela morte de qualquer das 
 ficando o mandatário dispensado de prestar contas, e podendo transferir para si os bens
 móveis ou imóveis objeto do mandato, obedecidas as formalidades legais.
 
-## Art. 686.
+## Art. 686
 
 A revogação do mandato, notificada somente ao mandatário, não se pode
 
@@ -6333,13 +6333,13 @@ constituinte as ações que no caso lhe possam caber contra o procurador.
 Parágrafo único. É irrevogável o mandato que contenha poderes de cumprimento ou
 confirmação de negócios encetados, aos quais se ache vinculado.
 
-## Art. 687.
+## Art. 687
 
 Tanto que for comunicada ao mandatário a nomeação de outro, para o mesmo
 
 negócio, considerar-se-á revogado o mandato anterior.
 
-## Art. 688.
+## Art. 688
 
 A renúncia do mandato será comunicada ao mandante, que, se for prejudicado
 
@@ -6347,23 +6347,23 @@ pela sua inoportunidade, ou pela falta de tempo, a fim de prover à substituiç�
 procurador, será indenizado pelo mandatário, salvo se este provar que não podia
 continuar no mandato sem prejuízo considerável, e que não lhe era dado substabelecer.
 
-## Art. 689.
+## Art. 689
 
 São válidos, a respeito dos contratantes de boa-fé, os atos com estes
 
 ajustados em nome do mandante pelo mandatário, enquanto este ignorar a morte daquele ou a
 extinção do mandato, por qualquer outra causa.
 
-## Art. 690.
+## Art. 690
 
 Se falecer o mandatário, pendente o negócio a ele cometido, os herdeiros,
 
 tendo ciência do mandato, avisarão o mandante, e providenciarão a bem dele, como as
 circunstâncias exigirem.
 
-## Art. 691.
+## Art. 691
 
-s herdeiros, no caso do artigo antecedente, devem limitar-se às medidas
+Os herdeiros, no caso do artigo antecedente, devem limitar-se às medidas
 
 conservatórias, ou continuar os negócios pendentes que se não possam demorar sem
 perigo, regulando-se os seus serviços dentro desse limite, pelas mesmas normas a que os
@@ -6371,15 +6371,17 @@ do mandatário estão sujeitos.
 
 ### Seção V — Do Mandato Judicial
 
-## Art. 692.
+## Art. 692
 
-mandato judicial fica subordinado às normas que lhe dizem respeito,
+O mandato judicial fica subordinado às normas que lhe dizem respeito,
 
 constantes da legislação processual, e, supletivamente, às estabelecidas neste Código.
 
 # CAPÍTULO XI — Da Comissão
 
-## Art. 693.
+## Art. 693
+
+O
 
 contrato de comissão tem por objeto a compra ou venda de bens ou a
 realização de mútuo ou outro negócio jurídico de crédito pelo
@@ -6388,16 +6390,16 @@ comissário, em seu próprio nome, à conta do comitente.
 de 2023)
 Vigência
 
-## Art. 694.
+## Art. 694
 
-comissário fica diretamente obrigado para com as pessoas com quem
+O comissário fica diretamente obrigado para com as pessoas com quem
 
 contratar, sem que estas tenham ação contra o comitente, nem este contra elas, salvo se
 o comissário ceder seus direitos a qualquer das partes.
 
-## Art. 695.
+## Art. 695
 
-comissário é obrigado a agir de conformidade com as ordens e instruções
+O comissário é obrigado a agir de conformidade com as ordens e instruções
 
 do comitente, devendo, na falta destas, não podendo pedi-las a tempo, proceder segundo os
 usos em casos semelhantes.
@@ -6406,7 +6408,7 @@ Parágrafo único. Ter-se-ão por justificados os atos do comissário, se deles 
 resultado vantagem para o comitente, e ainda no caso em que, não admitindo demora a
 realização do negócio, o comissário agiu de acordo com os usos.
 
-## Art. 696.
+## Art. 696
 
 No desempenho das suas incumbências o comissário é obrigado a agir com
 
@@ -6416,13 +6418,13 @@ para lhe proporcionar o lucro que razoavelmente se podia esperar do negócio.
 Parágrafo único. Responderá o comissário, salvo motivo de força maior, por
 qualquer prejuízo que, por ação ou omissão, ocasionar ao comitente.
 
-## Art. 697.
+## Art. 697
 
-comissário não responde pela insolvência das pessoas com quem tratar,
+O comissário não responde pela insolvência das pessoas com quem tratar,
 
 exceto em caso de culpa e no do artigo seguinte.
 
-## Art. 698.
+## Art. 698
 
 Se do contrato de comissão constar a cláusula
 
@@ -6439,14 +6441,14 @@ artigo poderá ser parcial.
 de 2023)
 Vigência
 
-## Art. 699.
+## Art. 699
 
 Presume-se o comissário autorizado a conceder dilação do prazo para
 
 pagamento, na conformidade dos usos do lugar onde se realizar o negócio, se não houver
 instruções diversas do comitente.
 
-## Art. 700.
+## Art. 700
 
 Se houver instruções do comitente proibindo prorrogação de prazos para
 
@@ -6455,67 +6457,67 @@ comissário pague incontinenti ou responda pelas conseqüências da dilação co
 procedendo-se de igual modo se o comissário não der ciência ao comitente dos prazos
 concedidos e de quem é seu beneficiário.
 
-## Art. 701.
+## Art. 701
 
 Não estipulada a remuneração devida ao comissário, será ela arbitrada
 
 segundo os usos correntes no lugar.
 
-## Art. 702.
+## Art. 702
 
 No caso de morte do comissário, ou, quando, por motivo de força maior, não
 
 puder concluir o negócio, será devida pelo comitente uma remuneração proporcional aos
 trabalhos realizados.
 
-## Art. 703.
+## Art. 703
 
 Ainda que tenha dado motivo à dispensa, terá o comissário direito a ser
 
 remunerado pelos serviços úteis prestados ao comitente, ressalvado a este o direito de
 exigir daquele os prejuízos sofridos.
 
-## Art. 704.
+## Art. 704
 
 Salvo disposição em contrário, pode o comitente, a qualquer tempo, alterar
 
 as instruções dadas ao comissário, entendendo-se por elas regidos também os negócios
 pendentes.
 
-## Art. 705.
+## Art. 705
 
 Se o comissário for despedido sem justa causa, terá direito a ser
 
 remunerado pelos trabalhos prestados, bem como a ser ressarcido pelas perdas e danos
 resultantes de sua dispensa.
 
-## Art. 706.
+## Art. 706
 
-comitente e o comissário são obrigados a pagar juros um ao outro; o
+O comitente e o comissário são obrigados a pagar juros um ao outro; o
 
 primeiro pelo que o comissário houver adiantado para cumprimento de suas ordens; e o
 segundo pela mora na entrega dos fundos que pertencerem ao comitente.
 
-## Art. 707.
+## Art. 707
 
-crédito do comissário, relativo a comissões e despesas feitas, goza de
+O crédito do comissário, relativo a comissões e despesas feitas, goza de
 
 privilégio geral, no caso de falência ou insolvência do comitente.
 
-## Art. 708.
+## Art. 708
 
 Para reembolso das despesas feitas, bem como para recebimento das comissões
 
 devidas, tem o comissário direito de retenção sobre os bens e valores em seu poder em
 virtude da comissão.
 
-## Art. 709.
+## Art. 709
 
 São aplicáveis à comissão, no que couber, as regras sobre mandato.
 
 # CAPÍTULO XII — Da Agência e Distribuição
 
-## Art. 710.
+## Art. 710
 
 Pelo contrato de agência, uma pessoa assume, em caráter não eventual e sem
 
@@ -6526,67 +6528,67 @@ a distribuição quando o agente tiver à sua disposição a coisa a ser negocia
 Parágrafo único. O proponente pode conferir poderes ao agente para que este o
 represente na conclusão dos contratos.
 
-## Art. 711.
+## Art. 711
 
 Salvo ajuste, o proponente não pode constituir, ao mesmo tempo, mais de um
 
 agente, na mesma zona, com idêntica incumbência; nem pode o agente assumir o encargo de
 nela tratar de negócios do mesmo gênero, à conta de outros proponentes.
 
-## Art. 712.
+## Art. 712
 
-agente, no desempenho que lhe foi cometido, deve agir com toda diligência,
+O agente, no desempenho que lhe foi cometido, deve agir com toda diligência,
 
 atendo-se às instruções recebidas do proponente.
 
-## Art. 713.
+## Art. 713
 
 Salvo estipulação diversa, todas as despesas com a agência ou
 
 distribuição correm a cargo do agente ou distribuidor.
 
-## Art. 714.
+## Art. 714
 
 Salvo ajuste, o agente ou distribuidor terá direito à remuneração
 
 correspondente aos negócios concluídos dentro de sua zona, ainda que sem a sua
 interferência.
 
-## Art. 715.
+## Art. 715
 
-agente ou distribuidor tem direito à indenização se o proponente, sem
+O agente ou distribuidor tem direito à indenização se o proponente, sem
 
 justa causa, cessar o atendimento das propostas ou reduzi-lo tanto que se torna
 antieconômica a continuação do contrato.
 
-## Art. 716.
+## Art. 716
 
 A remuneração será devida ao agente também quando o negócio deixar de
 
 ser realizado por fato imputável ao proponente.
 
-## Art. 717.
+## Art. 717
 
 Ainda que dispensado por justa causa, terá o agente direito a ser remunerado
 
 pelos serviços úteis prestados ao proponente, sem embargo de haver este perdas e danos
 pelos prejuízos sofridos.
 
-## Art. 718.
+## Art. 718
 
 Se a dispensa se der sem culpa do agente, terá ele direito à remuneração
 
 até então devida, inclusive sobre os negócios pendentes, além das indenizações
 previstas em lei especial.
 
-## Art. 719.
+## Art. 719
 
 Se o agente não puder continuar o trabalho por motivo de força maior, terá
 
 direito à remuneração correspondente aos serviços realizados, cabendo esse direito aos
 herdeiros no caso de morte.
 
-## Art. 720.
+## Art. 720
 
 Se o contrato for por tempo indeterminado, qualquer das partes poderá
 
@@ -6596,7 +6598,7 @@ compatível com a natureza e o vulto do investimento exigido do agente.
 Parágrafo único. No caso de divergência entre as partes, o juiz decidirá da
 razoabilidade do prazo e do valor devido.
 
-## Art. 721.
+## Art. 721
 
 Aplicam-se ao contrato de agência e distribuição, no que couber, as regras
 
@@ -6604,16 +6606,16 @@ concernentes ao mandato e à comissão e as constantes de lei especial.
 
 # CAPÍTULO XIII — Da Corretagem
 
-## Art. 722.
+## Art. 722
 
 Pelo contrato de corretagem, uma pessoa, não ligada a outra em virtude de
 
 mandato, de prestação de serviços ou por qualquer relação de dependência, obriga-se
 a obter para a segunda um ou mais negócios, conforme as instruções recebidas.
 
-## Art. 723.
+## Art. 723
 
-corretor é obrigado
+O corretor é obrigado
 
 a executar a mediação com diligência e prudência, e a prestar ao cliente,
 espontaneamente, todas as informações sobre o andamento do negócio.
@@ -6626,20 +6628,20 @@ valores e de outros fatores que possam influir nos resultados da incumbência.
 (Incluído pela Lei nº
 12.236, de 2010 )
 
-## Art. 724.
+## Art. 724
 
 A remuneração do corretor, se não estiver fixada em lei, nem ajustada
 
 entre as partes, será arbitrada segundo a natureza do negócio e os usos locais.
 
-## Art. 725.
+## Art. 725
 
 A remuneração é devida ao corretor uma vez que tenha conseguido o
 
 resultado previsto no contrato de mediação, ou ainda que este não se efetive em virtude
 de arrependimento das partes.
 
-## Art. 726.
+## Art. 726
 
 Iniciado e concluído o negócio diretamente entre as partes, nenhuma
 
@@ -6647,7 +6649,7 @@ remuneração será devida ao corretor; mas se, por escrito, for ajustada a corr
 exclusividade, terá o corretor direito à remuneração integral, ainda que realizado o
 negócio sem a sua mediação, salvo se comprovada sua inércia ou ociosidade.
 
-## Art. 727.
+## Art. 727
 
 Se, por não haver prazo determinado, o dono do negócio dispensar o
 
@@ -6655,15 +6657,15 @@ corretor, e o negócio se realizar posteriormente, como fruto da sua mediação,
 corretagem lhe será devida; igual solução se adotará se o negócio se realizar após a
 decorrência do prazo contratual, mas por efeito dos trabalhos do corretor.
 
-## Art. 728.
+## Art. 728
 
 Se o negócio se concluir com a intermediação de mais de um corretor, a
 
 remuneração será paga a todos em partes iguais, salvo ajuste em contrário.
 
-## Art. 729.
+## Art. 729
 
-s preceitos sobre corretagem constantes deste Código não excluem a
+Os preceitos sobre corretagem constantes deste Código não excluem a
 
 aplicação de outras normas da legislação especial.
 
@@ -6671,27 +6673,27 @@ aplicação de outras normas da legislação especial.
 
 ### Seção I — Disposições Gerais
 
-## Art. 730.
+## Art. 730
 
 Pelo contrato de transporte alguém se obriga, mediante retribuição, a
 
 transportar, de um lugar para outro, pessoas ou coisas.
 
-## Art. 731.
+## Art. 731
 
-transporte exercido em virtude de autorização, permissão ou concessão,
+O transporte exercido em virtude de autorização, permissão ou concessão,
 
 rege-se pelas normas regulamentares e pelo que for estabelecido naqueles atos, sem
 prejuízo do disposto neste Código.
 
-## Art. 732.
+## Art. 732
 
 Aos contratos de transporte, em geral, são aplicáveis, quando couber, desde
 
 que não contrariem as disposições deste Código, os preceitos constantes da
 legislação especial e de tratados e convenções internacionais.
 
-## Art. 733.
+## Art. 733
 
 Nos contratos de transporte cumulativo, cada transportador se obriga a
 
@@ -6710,9 +6712,9 @@ decorrer do percurso, a responsabilidade solidária estender-se-á ao substituto
 
 ### Seção II — Do Transporte de Pessoas
 
-## Art. 734.
+## Art. 734
 
-transportador responde pelos danos causados às pessoas transportadas e
+O transportador responde pelos danos causados às pessoas transportadas e
 
 suas bagagens, salvo motivo de força maior, sendo nula qualquer cláusula excludente da
 responsabilidade.
@@ -6720,13 +6722,13 @@ responsabilidade.
 Parágrafo único. É lícito ao transportador exigir a declaração do valor da
 bagagem a fim de fixar o limite da indenização.
 
-## Art. 735.
+## Art. 735
 
 A responsabilidade contratual do transportador por acidente com o passageiro
 
 não é elidida por culpa de terceiro, contra o qual tem ação regressiva.
 
-## Art. 736.
+## Art. 736
 
 Não se subordina às normas do contrato de transporte o feito gratuitamente,
 
@@ -6735,13 +6737,13 @@ por amizade ou cortesia.
 Parágrafo único. Não se considera gratuito o transporte quando, embora feito sem
 remuneração, o transportador auferir vantagens indiretas.
 
-## Art. 737.
+## Art. 737
 
-transportador está sujeito aos horários e itinerários previstos, sob
+O transportador está sujeito aos horários e itinerários previstos, sob
 
 pena de responder por perdas e danos, salvo motivo de força maior.
 
-## Art. 738.
+## Art. 738
 
 A pessoa transportada deve sujeitar-se às normas estabelecidas pelo
 
@@ -6753,15 +6755,15 @@ Parágrafo único. Se o prejuízo sofrido pela pessoa transportada for atribuív
 transgressão de normas e instruções regulamentares, o juiz reduzirá eqüitativamente a
 indenização, na medida em que a vítima houver concorrido para a ocorrência do dano.
 
-## Art. 739.
+## Art. 739
 
-transportador não pode recusar passageiros, salvo os casos previstos nos
+O transportador não pode recusar passageiros, salvo os casos previstos nos
 
 regulamentos, ou se as condições de higiene ou de saúde do interessado o justificarem.
 
-## Art. 740.
+## Art. 740
 
-passageiro tem direito a rescindir o contrato de transporte antes de
+O passageiro tem direito a rescindir o contrato de transporte antes de
 
 iniciada a viagem, sendo-lhe devida a restituição do valor da passagem, desde que feita
 a comunicação ao transportador em tempo de ser renegociada.
@@ -6784,7 +6786,7 @@ Nas hipóteses previstas neste artigo, o transportador terá
 direito de reter até cinco por cento da importância a ser restituída ao passageiro, a
 título de multa compensatória.
 
-## Art. 741.
+## Art. 741
 
 Interrompendo-se a viagem por qualquer motivo alheio à vontade do
 
@@ -6793,23 +6795,23 @@ concluir o transporte contratado em outro veículo da mesma categoria, ou, com a
 do passageiro, por modalidade diferente, à sua custa, correndo também por sua conta as
 despesas de estada e alimentação do usuário, durante a espera de novo transporte.
 
-## Art. 742.
+## Art. 742
 
-transportador, uma vez executado o transporte, tem direito de retenção
+O transportador, uma vez executado o transporte, tem direito de retenção
 
 sobre a bagagem de passageiro e outros objetos pessoais deste, para garantir-se do
 pagamento do valor da passagem que não tiver sido feito no início ou durante o percurso.
 
 ### Seção III — Do Transporte de Coisas
 
-## Art. 743.
+## Art. 743
 
 A coisa, entregue ao transportador, deve estar caracterizada pela sua
 
 natureza, valor, peso e quantidade, e o mais que for necessário para que não se confunda
 com outras, devendo o destinatário ser indicado ao menos pelo nome e endereço.
 
-## Art. 744.
+## Art. 744
 
 Ao receber a coisa, o transportador emitirá conhecimento com a menção dos
 
@@ -6820,7 +6822,7 @@ devidamente assinada, a relação discriminada das coisas a serem transportadas,
 vias, uma das quais, por ele devidamente autenticada, ficará fazendo parte integrante do
 conhecimento.
 
-## Art. 745.
+## Art. 745
 
 Em caso de informação inexata ou falsa descrição no documento a que se
 
@@ -6828,34 +6830,34 @@ refere o artigo antecedente, será o transportador indenizado pelo prejuízo que
 devendo a ação respectiva ser ajuizada no prazo de cento e vinte dias, a contar daquele
 ato, sob pena de decadência.
 
-## Art. 746.
+## Art. 746
 
 Poderá o transportador recusar a coisa cuja embalagem seja inadequada, bem
 
 como a que possa pôr em risco a saúde das pessoas, ou danificar o veículo e outros
 bens.
 
-## Art. 747.
+## Art. 747
 
-transportador deverá obrigatoriamente recusar a coisa cujo transporte ou
+O transportador deverá obrigatoriamente recusar a coisa cujo transporte ou
 
 comercialização não sejam permitidos, ou que venha desacompanhada dos documentos
 exigidos por lei ou regulamento.
 
-## Art. 748.
+## Art. 748
 
 Até a entrega da coisa, pode o remetente desistir do transporte e pedi-la de
 
 volta, ou ordenar seja entregue a outro destinatário, pagando, em ambos os casos, os
 acréscimos de despesa decorrentes da contra-ordem, mais as perdas e danos que houver.
 
-## Art. 749.
+## Art. 749
 
-transportador conduzirá a coisa ao seu destino, tomando todas as cautelas
+O transportador conduzirá a coisa ao seu destino, tomando todas as cautelas
 
 necessárias para mantê-la em bom estado e entregá-la no prazo ajustado ou previsto.
 
-## Art. 750.
+## Art. 750
 
 A responsabilidade do transportador, limitada ao valor constante do
 
@@ -6863,13 +6865,13 @@ conhecimento, começa no momento em que ele, ou seus prepostos, recebem a coisa;
 quando é entregue ao destinatário, ou depositada em juízo, se aquele não for
 encontrado.
 
-## Art. 751.
+## Art. 751
 
 A coisa, depositada ou guardada nos armazéns do transportador, em virtude de
 
 contrato de transporte, rege-se, no que couber, pelas disposições relativas a depósito.
 
-## Art. 752.
+## Art. 752
 
 Desembarcadas as mercadorias, o transportador não é obrigado a dar aviso ao
 
@@ -6877,7 +6879,7 @@ destinatário, se assim não foi convencionado, dependendo também de ajuste a e
 domicílio, e devem constar do conhecimento de embarque as cláusulas de aviso ou de
 entrega a domicílio.
 
-## Art. 753.
+## Art. 753
 
 Se o transporte não puder ser feito ou sofrer longa interrupção, o
 
@@ -6904,7 +6906,7 @@ próprios armazéns, continuará a responder pela sua guarda e conservação, se
 devida, porém, uma remuneração pela custódia, a qual poderá ser contratualmente
 ajustada ou se conformará aos usos adotados em cada sistema de transporte.
 
-## Art. 754.
+## Art. 754
 
 As mercadorias devem ser entregues ao destinatário, ou a quem apresentar o
 
@@ -6915,7 +6917,7 @@ Parágrafo único. No caso de perda parcial ou de avaria não perceptível à pr
 vista, o destinatário conserva a sua ação contra o transportador, desde que denuncie o
 dano em dez dias a contar da entrega.
 
-## Art. 755.
+## Art. 755
 
 Havendo dúvida acerca de quem seja o destinatário, o transportador deve
 
@@ -6923,7 +6925,7 @@ depositar a mercadoria em juízo, se não lhe for possível obter instruções d
 remetente; se a demora puder ocasionar a deterioração da coisa, o transportador deverá
 vendê-la, depositando o saldo em juízo.
 
-## Art. 756.
+## Art. 756
 
 No caso de transporte cumulativo, todos os transportadores respondem
 
@@ -6935,19 +6937,19 @@ proporcionalmente, naquele ou naqueles em cujo percurso houver ocorrido o dano.
 
 ### Seção I — Disposições Gerais
 
-## Art. 757.
+## Art. 757
 
 (Revogado pela Lei nº
 15.040, de 2024)
 Vigência
 
-## Art. 758.
+## Art. 758
 
 (Revogado pela Lei nº
 15.040, de 2024)
 Vigência
 
-## Art. 759.
+## Art. 759
 
 (Revogado
 
@@ -6955,109 +6957,109 @@ pela Lei nº
 15.040, de 2024)
 Vigência
 
-## Art. 760.
+## Art. 760
 
 (Revogado pela Lei nº
 15.040, de 2024)
 Vigência
 
-## Art. 761.
+## Art. 761
 
 (Revogado pela Lei nº
 15.040, de 2024)
 Vigência
 
-## Art. 762.
+## Art. 762
 
 (Revogado pela Lei nº
 15.040, de 2024)
 Vigência
 
-## Art. 763.
+## Art. 763
 
 (Revogado pela Lei nº
 15.040, de 2024)
 Vigência
 
-## Art. 764.
+## Art. 764
 
 (Revogado pela Lei nº
 15.040, de 2024)
 Vigência
 
-## Art. 765.
+## Art. 765
 
 (Revogado pela Lei nº
 15.040, de 2024)
 Vigência
 
-## Art. 766.
+## Art. 766
 
 (Revogado pela Lei nº
 15.040, de 2024)
 Vigência
 
-## Art. 767.
+## Art. 767
 
 (Revogado pela Lei nº
 15.040, de 2024)
 Vigência
 
-## Art. 768.
+## Art. 768
 
 (Revogado pela Lei nº
 15.040, de 2024)
 Vigência
 
-## Art. 769.
+## Art. 769
 
 (Revogado pela Lei nº
 15.040, de 2024)
 Vigência
 
-## Art. 770.
+## Art. 770
 
 (Revogado pela Lei nº
 15.040, de 2024)
 Vigência
 
-## Art. 771.
+## Art. 771
 
 (Revogado pela Lei nº
 15.040, de 2024)
 Vigência
 
-## Art. 772.
+## Art. 772
 
 (Revogado pela Lei nº
 15.040, de 2024)
 Vigência
 
-## Art. 773.
+## Art. 773
 
 (Revogado pela Lei nº
 15.040, de 2024)
 Vigência
 
-## Art. 774.
+## Art. 774
 
 (Revogado pela Lei nº
 15.040, de 2024)
 Vigência
 
-## Art. 775.
+## Art. 775
 
 (Revogado pela Lei nº
 15.040, de 2024)
 Vigência
 
-## Art. 776.
+## Art. 776
 
 (Revogado pela Lei nº
 15.040, de 2024)
 Vigência
 
-## Art. 777.
+## Art. 777
 
 (Revogado pela Lei nº
 15.040, de 2024)
@@ -7065,67 +7067,67 @@ Vigência
 
 ### Seção II — Do Seguro de Dano
 
-## Art. 778.
+## Art. 778
 
 (Revogado pela Lei nº
 15.040, de 2024)
 Vigência
 
-## Art. 779.
+## Art. 779
 
 (Revogado pela Lei nº
 15.040, de 2024)
 Vigência
 
-## Art. 780.
+## Art. 780
 
 (Revogado pela Lei nº
 15.040, de 2024)
 Vigência
 
-## Art. 781.
+## Art. 781
 
 (Revogado pela Lei nº
 15.040, de 2024)
 Vigência
 
-## Art. 782.
+## Art. 782
 
 (Revogado pela Lei nº
 15.040, de 2024)
 Vigência
 
-## Art. 783.
+## Art. 783
 
 (Revogado pela Lei nº
 15.040, de 2024)
 Vigência
 
-## Art. 784.
+## Art. 784
 
 (Revogado pela Lei nº
 15.040, de 2024)
 Vigência
 
-## Art. 785.
+## Art. 785
 
 (Revogado pela Lei nº
 15.040, de 2024)
 Vigência
 
-## Art. 786.
+## Art. 786
 
 (Revogado pela Lei nº
 15.040, de 2024)
 Vigência
 
-## Art. 787.
+## Art. 787
 
 (Revogado pela Lei nº
 15.040, de 2024)
 Vigência
 
-## Art. 788.
+## Art. 788
 
 (Revogado pela Lei nº
 15.040, de 2024)
@@ -7133,85 +7135,85 @@ Vigência
 
 ### Seção III — Do Seguro de Pessoa
 
-## Art. 789.
+## Art. 789
 
 (Revogado pela Lei nº
 15.040, de 2024)
 Vigência
 
-## Art. 790.
+## Art. 790
 
 (Revogado pela Lei nº
 15.040, de 2024)
 Vigência
 
-## Art. 791.
+## Art. 791
 
 (Revogado pela Lei nº
 15.040, de 2024)
 Vigência
 
-## Art. 792.
+## Art. 792
 
 (Revogado pela Lei nº
 15.040, de 2024)
 Vigência
 
-## Art. 793.
+## Art. 793
 
 (Revogado pela Lei nº
 15.040, de 2024)
 Vigência
 
-## Art. 794.
+## Art. 794
 
 (Revogado pela Lei nº
 15.040, de 2024)
 Vigência
 
-## Art. 795.
+## Art. 795
 
 (Revogado pela Lei nº
 15.040, de 2024)
 Vigência
 
-## Art. 796.
+## Art. 796
 
 (Revogado pela Lei nº
 15.040, de 2024)
 Vigência
 
-## Art. 797.
+## Art. 797
 
 (Revogado pela Lei nº
 15.040, de 2024)
 Vigência
 
-## Art. 798.
+## Art. 798
 
 (Revogado pela Lei nº
 15.040, de 2024)
 Vigência
 
-## Art. 799.
+## Art. 799
 
 (Revogado pela Lei nº
 15.040, de 2024)
 Vigência
 
-## Art. 800.
+## Art. 800
 
 (Revogado pela Lei nº
 15.040, de 2024)
 Vigência
 
-## Art. 801.
+## Art. 801
 
 (Revogado pela Lei nº
 15.040, de 2024)
 Vigência
 
-## Art. 802.
+## Art. 802
 
 (Revogado pela Lei nº
 15.040, de 2024)
@@ -7219,70 +7221,70 @@ Vigência
 
 # CAPÍTULO XVI — Da Constituição de Renda
 
-## Art. 803.
+## Art. 803
 
 Pode uma pessoa, pelo contrato de constituição de renda, obrigar-se para
 
 com outra a uma prestação periódica, a título gratuito.
 
-## Art. 804.
+## Art. 804
 
-contrato pode ser também a título oneroso, entregando-se bens móveis ou
+O contrato pode ser também a título oneroso, entregando-se bens móveis ou
 
 imóveis à pessoa que se obriga a satisfazer as prestações a favor do credor ou de
 terceiros.
 
-## Art. 805.
+## Art. 805
 
 Sendo o contrato a título oneroso, pode o credor, ao contratar, exigir que o
 
 rendeiro lhe preste garantia real, ou fidejussória.
 
-## Art. 806.
+## Art. 806
 
-contrato de constituição de renda será feito a prazo certo, ou por vida,
+O contrato de constituição de renda será feito a prazo certo, ou por vida,
 
 podendo ultrapassar a vida do devedor mas não a do credor, seja ele o contratante, seja
 terceiro.
 
-## Art. 807.
+## Art. 807
 
-contrato de constituição de renda requer escritura pública.
+O contrato de constituição de renda requer escritura pública.
 
-## Art. 808.
+## Art. 808
 
 É nula a constituição de renda em favor de pessoa já falecida, ou que,
 
 nos trinta dias seguintes, vier a falecer de moléstia que já sofria, quando foi
 celebrado o contrato.
 
-## Art. 809.
+## Art. 809
 
-s bens dados em compensação da renda caem, desde a tradição, no domínio
+Os bens dados em compensação da renda caem, desde a tradição, no domínio
 
 da pessoa que por aquela se obrigou.
 
-## Art. 810.
+## Art. 810
 
 Se o rendeiro, ou censuário, deixar de cumprir a obrigação estipulada,
 
 poderá o credor da renda acioná-lo, tanto para que lhe pague as prestações atrasadas
 como para que lhe dê garantias das futuras, sob pena de rescisão do contrato.
 
-## Art. 811.
+## Art. 811
 
-credor adquire o direito à renda dia a dia, se a prestação não houver
+O credor adquire o direito à renda dia a dia, se a prestação não houver
 
 de ser paga adiantada, no começo de cada um dos períodos prefixos.
 
-## Art. 812.
+## Art. 812
 
 Quando a renda for constituída em benefício de duas ou mais pessoas, sem
 
 determinação da parte de cada uma, entende-se que os seus direitos são iguais; e, salvo
 estipulação diversa, não adquirirão os sobrevivos direito à parte dos que morrerem.
 
-## Art. 813.
+## Art. 813
 
 A renda constituída por título gratuito pode, por ato do instituidor, ficar
 
@@ -7293,7 +7295,7 @@ favor dos montepios e pensões alimentícias.
 
 # CAPÍTULO XVII — Do Jogo e da Aposta
 
-## Art. 814.
+## Art. 814
 
 As dívidas de jogo ou de aposta não obrigam a pagamento; mas não se pode
 
@@ -7314,13 +7316,13 @@ Excetuam-se, igualmente, os prêmios oferecidos ou prometidos
 para o vencedor em competição de natureza esportiva, intelectual ou artística, desde
 que os interessados se submetam às prescrições legais e regulamentares.
 
-## Art. 815.
+## Art. 815
 
 Não se pode exigir reembolso do que se emprestou para jogo ou aposta, no ato
 
 de apostar ou jogar.
 
-## Art. 816.
+## Art. 816
 
 As disposições dos arts. 814 e 815 não se aplicam aos contratos sobre
 
@@ -7328,9 +7330,9 @@ títulos de bolsa, mercadorias ou valores, em que se estipulem a liquidação
 exclusivamente pela diferença entre o preço ajustado e a cotação que eles tiverem no
 vencimento do ajuste.
 
-## Art. 817.
+## Art. 817
 
-sorteio para dirimir questões ou dividir coisas comuns considera-se
+O sorteio para dirimir questões ou dividir coisas comuns considera-se
 
 sistema de partilha ou processo de transação, conforme o caso.
 
@@ -7338,51 +7340,49 @@ sistema de partilha ou processo de transação, conforme o caso.
 
 ### Seção I — Disposições Gerais
 
-## Art. 818.
+## Art. 818
 
 Pelo contrato de fiança, uma pessoa garante satisfazer ao credor uma
 
 obrigação assumida pelo devedor, caso este não a cumpra.
 
-## Art. 819.
+## Art. 819
 
 A fiança dar-se-á por escrito, e não admite interpretação extensiva.
 
 ## Art. 819-A
 
-.
-
 (VETADO)
 (Incluído pela Lei nº
 10.931, de 2004)
 
-## Art. 820.
+## Art. 820
 
 Pode-se estipular a fiança, ainda que sem consentimento do devedor ou contra
 
 a sua vontade.
 
-## Art. 821.
+## Art. 821
 
 As dívidas futuras podem ser objeto de fiança; mas o fiador, neste caso,
 
 não será demandado senão depois que se fizer certa e líquida a obrigação do
 principal devedor.
 
-## Art. 822.
+## Art. 822
 
 Não sendo limitada, a fiança compreenderá todos os acessórios da dívida
 
 principal, inclusive as despesas judiciais, desde a citação do fiador.
 
-## Art. 823.
+## Art. 823
 
 A fiança pode ser de valor inferior ao da obrigação principal e contraída
 
 em condições menos onerosas, e, quando exceder o valor da dívida, ou for mais onerosa
 que ela, não valerá senão até ao limite da obrigação afiançada.
 
-## Art. 824.
+## Art. 824
 
 As obrigações nulas não são suscetíveis de fiança, exceto se a nulidade
 
@@ -7391,14 +7391,14 @@ resultar apenas de incapacidade pessoal do devedor.
 Parágrafo único. A exceção estabelecida neste artigo não abrange o caso de mútuo
 feito a menor.
 
-## Art. 825.
+## Art. 825
 
 Quando alguém houver de oferecer fiador, o credor não pode ser obrigado a
 
 aceitá-lo se não for pessoa idônea, domiciliada no município onde tenha de prestar a
 fiança, e não possua bens suficientes para cumprir a obrigação.
 
-## Art. 826.
+## Art. 826
 
 Se o fiador se tornar insolvente ou incapaz, poderá o credor exigir que seja
 
@@ -7406,9 +7406,9 @@ substituído.
 
 ### Seção II — Dos Efeitos da Fiança
 
-## Art. 827.
+## Art. 827
 
-fiador demandado pelo pagamento da dívida tem direito a exigir, até a
+O fiador demandado pelo pagamento da dívida tem direito a exigir, até a
 
 contestação da lide, que sejam primeiro executados os bens do devedor.
 
@@ -7416,7 +7416,7 @@ Parágrafo único. O fiador que alegar o benefício de ordem, a que se refere es
 artigo, deve nomear bens do devedor, sitos no mesmo município, livres e desembargados,
 quantos bastem para solver o débito.
 
-## Art. 828.
+## Art. 828
 
 Não aproveita este benefício ao fiador:
 
@@ -7426,7 +7426,7 @@ II - se se obrigou como principal pagador, ou devedor solidário;
 
 III - se o devedor for insolvente, ou falido.
 
-## Art. 829.
+## Art. 829
 
 A fiança conjuntamente prestada a um só débito por mais de uma pessoa
 
@@ -7436,46 +7436,46 @@ benefício de divisão.
 Parágrafo único. Estipulado este benefício, cada fiador responde unicamente pela
 parte que, em proporção, lhe couber no pagamento.
 
-## Art. 830.
+## Art. 830
 
 Cada fiador pode fixar no contrato a parte da dívida que toma sob sua
 
 responsabilidade, caso em que não será por mais obrigado.
 
-## Art. 831.
+## Art. 831
 
-fiador que pagar integralmente a dívida fica sub-rogado nos direitos do
+O fiador que pagar integralmente a dívida fica sub-rogado nos direitos do
 
 credor; mas só poderá demandar a cada um dos outros fiadores pela respectiva quota.
 
 Parágrafo único. A parte do fiador insolvente distribuir-se-á pelos outros.
 
-## Art. 832.
+## Art. 832
 
-devedor responde também perante o fiador por todas as perdas e danos que
+O devedor responde também perante o fiador por todas as perdas e danos que
 
 este pagar, e pelos que sofrer em razão da fiança.
 
-## Art. 833.
+## Art. 833
 
-fiador tem direito aos juros do desembolso pela taxa estipulada na
+O fiador tem direito aos juros do desembolso pela taxa estipulada na
 
 obrigação principal, e, não havendo taxa convencionada, aos juros legais da mora.
 
-## Art. 834.
+## Art. 834
 
 Quando o credor, sem justa causa, demorar a execução iniciada contra o
 
 devedor, poderá o fiador promover-lhe o andamento.
 
-## Art. 835.
+## Art. 835
 
-fiador poderá exonerar-se da fiança que tiver assinado sem limitação de
+O fiador poderá exonerar-se da fiança que tiver assinado sem limitação de
 
 tempo, sempre que lhe convier, ficando obrigado por todos os efeitos da fiança, durante
 sessenta dias após a notificação do credor.
 
-## Art. 836.
+## Art. 836
 
 A obrigação do fiador passa aos herdeiros; mas a responsabilidade da
 
@@ -7484,16 +7484,16 @@ forças da herança.
 
 ### Seção III — Da Extinção da Fiança
 
-## Art. 837.
+## Art. 837
 
-fiador pode opor ao credor as exceções que lhe forem pessoais, e as
+O fiador pode opor ao credor as exceções que lhe forem pessoais, e as
 
 extintivas da obrigação que competem ao devedor principal, se não provierem
 simplesmente de incapacidade pessoal, salvo o caso do mútuo feito a pessoa menor.
 
-## Art. 838.
+## Art. 838
 
-fiador, ainda que solidário, ficará desobrigado:
+O fiador, ainda que solidário, ficará desobrigado:
 
 I - se, sem consentimento seu, o credor conceder moratória ao devedor;
 
@@ -7504,7 +7504,7 @@ III - se o credor, em pagamento da dívida, aceitar amigavelmente do devedor obj
 diverso do que este era obrigado a lhe dar, ainda que depois venha a perdê-lo por
 evicção.
 
-## Art. 839.
+## Art. 839
 
 Se for invocado o benefício da excussão e o devedor, retardando-se a
 
@@ -7514,19 +7514,19 @@ dívida afiançada.
 
 # CAPÍTULO XIX — Da Transação
 
-## Art. 840.
+## Art. 840
 
 É lícito aos interessados prevenirem ou terminarem o litígio mediante
 
 concessões mútuas.
 
-## Art. 841.
+## Art. 841
 
 Só quanto a direitos patrimoniais de caráter privado se permite a
 
 transação.
 
-## Art. 842.
+## Art. 842
 
 A transação far-se-á por escritura pública, nas obrigações em que a lei
 
@@ -7534,13 +7534,13 @@ o exige, ou por instrumento particular, nas em que ela o admite; se recair sobre
 contestados em juízo, será feita por escritura pública, ou por termo nos autos,
 assinado pelos transigentes e homologado pelo juiz.
 
-## Art. 843.
+## Art. 843
 
 A transação interpreta-se restritivamente, e por ela não se transmitem,
 
 apenas se declaram ou reconhecem direitos.
 
-## Art. 844.
+## Art. 844
 
 A transação não aproveita, nem prejudica senão aos que nela intervierem,
 
@@ -7561,7 +7561,7 @@ o
 Se entre um dos devedores solidários e seu credor, extingue a
 dívida em relação aos co-devedores.
 
-## Art. 845.
+## Art. 845
 
 Dada a evicção da coisa renunciada por um dos transigentes, ou por ele
 
@@ -7572,17 +7572,17 @@ Parágrafo único. Se um dos transigentes adquirir, depois da transação, novo 
 sobre a coisa renunciada ou transferida, a transação feita não o inibirá de
 exercê-lo.
 
-## Art. 846.
+## Art. 846
 
 A transação concernente a obrigações resultantes de delito não extingue
 
 a ação penal pública.
 
-## Art. 847.
+## Art. 847
 
 É admissível, na transação, a pena convencional.
 
-## Art. 848.
+## Art. 848
 
 Sendo nula qualquer das cláusulas da transação, nula será esta.
 
@@ -7590,7 +7590,7 @@ Parágrafo único. Quando a transação versar sobre diversos direitos contestad
 independentes entre si, o fato de não prevalecer em relação a um não prejudicará os
 demais.
 
-## Art. 849.
+## Art. 849
 
 A transação só se anula por dolo, coação, ou erro essencial quanto à
 
@@ -7599,7 +7599,7 @@ pessoa ou coisa controversa.
 Parágrafo único. A transação não se anula por erro de direito a respeito das
 questões que foram objeto de controvérsia entre as partes.
 
-## Art. 850.
+## Art. 850
 
 É nula a transação a respeito do litígio decidido por sentença passada
 
@@ -7609,19 +7609,19 @@ transação.
 
 # CAPÍTULO XX — Do Compromisso
 
-## Art. 851.
+## Art. 851
 
 É admitido compromisso, judicial ou extrajudicial, para resolver litígios
 
 entre pessoas que podem contratar.
 
-## Art. 852.
+## Art. 852
 
 É vedado compromisso para solução de questões de estado, de direito
 
 pessoal de família e de outras que não tenham caráter estritamente patrimonial.
 
-## Art. 853.
+## Art. 853
 
 Admite-se nos contratos a cláusula compromissória, para resolver
 
@@ -7631,7 +7631,7 @@ divergências mediante juízo arbitral, na forma estabelecida em lei especial.
 
 ## Art. 853-A
 
-. Qualquer garantia poderá ser constituída, levada a registro, gerida e
+Qualquer garantia poderá ser constituída, levada a registro, gerida e
 
 ter a sua execução pleiteada por agente de garantia, que será designado
 pelos credores da obrigação garantida para esse fim e atuará em nome próprio
@@ -7726,21 +7726,21 @@ pela Lei nº 14.711, de 2023)
 
 # CAPÍTULO I — Da Promessa de Recompensa
 
-## Art. 854.
+## Art. 854
 
 Aquele que, por anúncios públicos, se comprometer a recompensar, ou
 
 gratificar, a quem preencha certa condição, ou desempenhe certo serviço, contrai
 obrigação de cumprir o prometido.
 
-## Art. 855.
+## Art. 855
 
 Quem quer que, nos termos do artigo antecedente, fizer o serviço, ou
 
 satisfizer a condição, ainda que não pelo interesse da promessa, poderá exigir a
 recompensa estipulada.
 
-## Art. 856.
+## Art. 856
 
 Antes de prestado o serviço ou preenchida a condição, pode o promitente
 
@@ -7751,20 +7751,20 @@ a oferta.
 Parágrafo único. O candidato de boa-fé, que houver feito despesas, terá direito a
 reembolso.
 
-## Art. 857.
+## Art. 857
 
 Se o ato contemplado na promessa for praticado por mais de um indivíduo,
 
 terá direito à recompensa o que primeiro o executou.
 
-## Art. 858.
+## Art. 858
 
 Sendo simultânea a execução, a cada um tocará quinhão igual na
 
 recompensa; se esta não for divisível, conferir-se-á por sorteio, e o que obtiver a
 coisa dará ao outro o valor de seu quinhão.
 
-## Art. 859.
+## Art. 859
 
 Nos concursos que se abrirem com promessa pública de recompensa, é
 
@@ -7783,7 +7783,7 @@ trabalhos que se apresentarem, entender-se-á que o promitente se reservou essa 
 Se os trabalhos tiverem mérito igual, proceder-se-á de acordo
 com os arts. 857 e 858.
 
-## Art. 860.
+## Art. 860
 
 As obras premiadas, nos concursos de que trata o artigo antecedente, só
 
@@ -7791,47 +7791,47 @@ ficarão pertencendo ao promitente, se assim for estipulado na publicação da p
 
 # CAPÍTULO II — Da Gestão de Negócios
 
-## Art. 861.
+## Art. 861
 
 Aquele que, sem autorização do interessado, intervém na gestão de
 
 negócio alheio, dirigi-lo-á segundo o interesse e a vontade presumível de seu dono,
 ficando responsável a este e às pessoas com que tratar.
 
-## Art. 862.
+## Art. 862
 
 Se a gestão foi iniciada contra a vontade manifesta ou presumível do
 
 interessado, responderá o gestor até pelos casos fortuitos, não provando que teriam
 sobrevindo, ainda quando se houvesse abatido.
 
-## Art. 863.
+## Art. 863
 
 No caso do artigo antecedente, se os prejuízos da gestão excederem o seu
 
 proveito, poderá o dono do negócio exigir que o gestor restitua as coisas ao estado
 anterior, ou o indenize da diferença.
 
-## Art. 864.
+## Art. 864
 
 Tanto que se possa, comunicará o gestor ao dono do negócio a gestão que
 
 assumiu, aguardando-lhe a resposta, se da espera não resultar perigo.
 
-## Art. 865.
+## Art. 865
 
 Enquanto o dono não providenciar, velará o gestor pelo negócio, até o
 
 levar a cabo, esperando, se aquele falecer durante a gestão, as instruções dos
 herdeiros, sem se descuidar, entretanto, das medidas que o caso reclame.
 
-## Art. 866.
+## Art. 866
 
-gestor envidará toda sua diligência habitual na administração do
+O gestor envidará toda sua diligência habitual na administração do
 
 negócio, ressarcindo ao dono o prejuízo resultante de qualquer culpa na gestão.
 
-## Art. 867.
+## Art. 867
 
 Se o gestor se fizer substituir por outrem, responderá pelas faltas do
 
@@ -7840,9 +7840,9 @@ do negócio, contra ela possa caber.
 
 Parágrafo único. Havendo mais de um gestor, solidária será a sua responsabilidade.
 
-## Art. 868.
+## Art. 868
 
-gestor responde pelo caso fortuito quando fizer operações arriscadas,
+O gestor responde pelo caso fortuito quando fizer operações arriscadas,
 
 ainda que o dono costumasse fazê-las, ou quando preterir interesse deste em proveito de
 interesses seus.
@@ -7851,7 +7851,7 @@ Parágrafo único. Querendo o dono aproveitar-se da gestão, será obrigado a in
 o gestor das despesas necessárias, que tiver feito, e dos prejuízos, que por motivo da
 gestão, houver sofrido.
 
-## Art. 869.
+## Art. 869
 
 Se o negócio for utilmente administrado, cumprirá ao dono as obrigações
 
@@ -7869,7 +7869,7 @@ o
 Vigora o disposto neste artigo, ainda quando o gestor, em erro
 quanto ao dono do negócio, der a outra pessoa as contas da gestão.
 
-## Art. 870.
+## Art. 870
 
 Aplica-se a disposição do artigo antecedente, quando a gestão se proponha
 
@@ -7877,14 +7877,14 @@ a acudir a prejuízos iminentes, ou redunde em proveito do dono do negócio ou d
 mas a indenização ao gestor não excederá, em importância, as vantagens obtidas com a
 gestão.
 
-## Art. 871.
+## Art. 871
 
 Quando alguém, na ausência do indivíduo obrigado a alimentos, por ele os
 
 prestar a quem se devem, poder-lhes-á reaver do devedor a importância, ainda que este
 não ratifique o ato.
 
-## Art. 872.
+## Art. 872
 
 Nas despesas do enterro, proporcionadas aos usos locais e à condição do
 
@@ -7894,20 +7894,20 @@ alimentar a que veio a falecer, ainda mesmo que esta não tenha deixado bens.
 Parágrafo único. Cessa o disposto neste artigo e no antecedente, em se provando que o
 gestor fez essas despesas com o simples intento de bem-fazer.
 
-## Art. 873.
+## Art. 873
 
 A ratificação pura e simples do dono do negócio retroage ao dia do começo
 
 da gestão, e produz todos os efeitos do mandato.
 
-## Art. 874.
+## Art. 874
 
 Se o dono do negócio, ou da coisa, desaprovar a gestão, considerando-a
 
 contrária aos seus interesses, vigorará o disposto nos arts. 862 e 863, salvo o
 estabelecido nos arts. 869 e 870.
 
-## Art. 875.
+## Art. 875
 
 Se os negócios alheios forem conexos ao do gestor, de tal arte que se não
 
@@ -7919,27 +7919,27 @@ só é obrigado na razão das vantagens que lograr.
 
 # CAPÍTULO III — Do Pagamento Indevido
 
-## Art. 876.
+## Art. 876
 
 Todo aquele que recebeu o que lhe não era devido fica obrigado a restituir;
 
 obrigação que incumbe àquele que recebe dívida condicional antes de cumprida a
 condição.
 
-## Art. 877.
+## Art. 877
 
 Àquele que voluntariamente pagou o indevido incumbe a prova de tê-lo feito
 
 por erro.
 
-## Art. 878.
+## Art. 878
 
 Aos frutos, acessões, benfeitorias e deteriorações sobrevindas à coisa
 
 dada em pagamento indevido, aplica-se o disposto neste Código sobre o possuidor de
 boa-fé ou de má-fé, conforme o caso.
 
-## Art. 879.
+## Art. 879
 
 Se aquele que indevidamente recebeu um imóvel o tiver alienado em boa-fé,
 
@@ -7950,7 +7950,7 @@ Parágrafo único. Se o imóvel foi alienado por título gratuito, ou se, aliena
 título oneroso, o terceiro adquirente agiu de má-fé, cabe ao que pagou por erro o
 direito de reivindicação.
 
-## Art. 880.
+## Art. 880
 
 Fica isento de restituir pagamento indevido aquele que, recebendo-o como
 
@@ -7958,20 +7958,20 @@ parte de dívida verdadeira, inutilizou o título, deixou prescrever a pretensã
 mão das garantias que asseguravam seu direito; mas aquele que pagou dispõe de ação
 regressiva contra o verdadeiro devedor e seu fiador.
 
-## Art. 881.
+## Art. 881
 
 Se o pagamento indevido tiver consistido no desempenho de obrigação de
 
 fazer ou para eximir-se da obrigação de não fazer, aquele que recebeu a prestação
 fica na obrigação de indenizar o que a cumpriu, na medida do lucro obtido.
 
-## Art. 882.
+## Art. 882
 
 Não se pode repetir o que se pagou para solver dívida prescrita, ou cumprir
 
 obrigação judicialmente inexigível.
 
-## Art. 883.
+## Art. 883
 
 Não terá direito à repetição aquele que deu alguma coisa para obter fim
 
@@ -7982,7 +7982,7 @@ estabelecimento local de beneficência, a critério do juiz.
 
 # CAPÍTULO IV — Do Enriquecimento Sem Causa
 
-## Art. 884.
+## Art. 884
 
 Aquele que, sem justa causa, se enriquecer à custa de outrem, será obrigado
 
@@ -7992,13 +7992,13 @@ Parágrafo único. Se o enriquecimento tiver por objeto coisa determinada, quem 
 recebeu é obrigado a restituí-la, e, se a coisa não mais subsistir, a restituição se
 fará pelo valor do bem na época em que foi exigido.
 
-## Art. 885.
+## Art. 885
 
 A restituição é devida, não só quando não tenha havido causa que
 
 justifique o enriquecimento, mas também se esta deixou de existir.
 
-## Art. 886.
+## Art. 886
 
 Não caberá a restituição por enriquecimento, se a lei conferir ao lesado
 
@@ -8008,20 +8008,20 @@ outros meios para se ressarcir do prejuízo sofrido.
 
 # CAPÍTULO I — Disposições Gerais
 
-## Art. 887.
+## Art. 887
 
-título de crédito, documento necessário ao exercício do direito literal
+O título de crédito, documento necessário ao exercício do direito literal
 
 e autônomo nele contido, somente produz efeito quando preencha os requisitos da lei.
 
-## Art. 888.
+## Art. 888
 
 A omissão de qualquer requisito legal, que tire ao escrito a sua validade
 
 como título de crédito, não implica a invalidade do negócio jurídico que lhe deu
 origem.
 
-## Art. 889.
+## Art. 889
 
 Deve o título de crédito conter a data da emissão, a indicação precisa
 
@@ -8039,7 +8039,7 @@ O título poderá ser emitido a partir dos caracteres criados
 em computador ou meio técnico equivalente e que constem da escrituração do emitente,
 observados os requisitos mínimos previstos neste artigo.
 
-## Art. 890.
+## Art. 890
 
 Consideram-se não escritas no título a cláusula de juros, a proibitiva de
 
@@ -8047,9 +8047,9 @@ endosso, a excludente de responsabilidade pelo pagamento ou por despesas, a que 
 observância de termos e formalidade prescritas, e a que, além dos limites fixados em
 lei, exclua ou restrinja direitos e obrigações.
 
-## Art. 891.
+## Art. 891
 
-título de crédito, incompleto ao tempo da emissão, deve ser preenchido
+O título de crédito, incompleto ao tempo da emissão, deve ser preenchido
 
 de conformidade com os ajustes realizados.
 
@@ -8057,7 +8057,7 @@ Parágrafo único. O descumprimento dos ajustes previstos neste artigo pelos que
 participaram, não constitui motivo de oposição ao terceiro portador, salvo se este, ao
 adquirir o título, tiver agido de má-fé.
 
-## Art. 892.
+## Art. 892
 
 Aquele que, sem ter poderes, ou excedendo os que tem, lança a sua assinatura
 
@@ -8065,44 +8065,44 @@ em título de crédito, como mandatário ou representante de outrem, fica pessoa
 obrigado, e, pagando o título, tem ele os mesmos direitos que teria o suposto mandante ou
 representado.
 
-## Art. 893.
+## Art. 893
 
 A transferência do título de crédito implica a de todos os direitos que
 
 lhe são inerentes.
 
-## Art. 894.
+## Art. 894
 
-portador de título representativo de mercadoria tem o direito de
+O portador de título representativo de mercadoria tem o direito de
 
 transferi-lo, de conformidade com as normas que regulam a sua circulação, ou de receber
 aquela independentemente de quaisquer formalidades, além da entrega do título
 devidamente quitado.
 
-## Art. 895.
+## Art. 895
 
 Enquanto o título de crédito estiver em circulação, só ele poderá ser
 
 dado em garantia, ou ser objeto de medidas judiciais, e não, separadamente, os direitos
 ou mercadorias que representa.
 
-## Art. 896.
+## Art. 896
 
-título de crédito não pode ser reivindicado do portador que o adquiriu
+O título de crédito não pode ser reivindicado do portador que o adquiriu
 
 de boa-fé e na conformidade das normas que disciplinam a sua circulação.
 
-## Art. 897.
+## Art. 897
 
-pagamento de título de crédito, que contenha obrigação de pagar soma
+O pagamento de título de crédito, que contenha obrigação de pagar soma
 
 determinada, pode ser garantido por aval.
 
 Parágrafo único. É vedado o aval parcial.
 
-## Art. 898.
+## Art. 898
 
-aval deve ser dado no verso ou no anverso do próprio título.
+O aval deve ser dado no verso ou no anverso do próprio título.
 
 § 1º
 Para a validade do aval, dado no anverso do título, é
@@ -8111,9 +8111,9 @@ suficiente a simples assinatura do avalista.
 § 2º
 Considera-se não escrito o aval cancelado.
 
-## Art. 899.
+## Art. 899
 
-avalista equipara-se àquele cujo nome indicar; na falta de indicação, ao
+O avalista equipara-se àquele cujo nome indicar; na falta de indicação, ao
 
 emitente ou devedor final.
 
@@ -8124,13 +8124,13 @@ demais coobrigados anteriores.
 Subsiste a responsabilidade do avalista, ainda que nula a
 obrigação daquele a quem se equipara, a menos que a nulidade decorra de vício de forma.
 
-## Art. 900.
+## Art. 900
 
-aval posterior ao vencimento produz os mesmos efeitos do anteriormente
+O aval posterior ao vencimento produz os mesmos efeitos do anteriormente
 
 dado.
 
-## Art. 901.
+## Art. 901
 
 Fica validamente desonerado o devedor que paga título de crédito ao
 
@@ -8139,7 +8139,7 @@ legítimo portador, no vencimento, sem oposição, salvo se agiu de má-fé.
 Parágrafo único. Pagando, pode o devedor exigir do credor, além da entrega do
 título, quitação regular.
 
-## Art. 902.
+## Art. 902
 
 Não é o credor obrigado a receber o pagamento antes do vencimento do
 
@@ -8155,7 +8155,7 @@ No caso de pagamento parcial, em que se não opera a tradição
 do título, além da quitação em separado, outra deverá ser firmada no próprio
 título.
 
-## Art. 903.
+## Art. 903
 
 Salvo disposição diversa em lei especial, regem-se os títulos de crédito
 
@@ -8163,39 +8163,39 @@ pelo disposto neste Código.
 
 # CAPÍTULO II — Do Título ao Portador
 
-## Art. 904.
+## Art. 904
 
 A transferência de título ao portador se faz por simples tradição.
 
-## Art. 905.
+## Art. 905
 
-possuidor de título ao portador tem direito à prestação nele indicada,
+O possuidor de título ao portador tem direito à prestação nele indicada,
 
 mediante a sua simples apresentação ao devedor.
 
 Parágrafo único. A prestação é devida ainda que o título tenha entrado em
 circulação contra a vontade do emitente.
 
-## Art. 906.
+## Art. 906
 
-devedor só poderá opor ao portador exceção fundada em direito pessoal,
+O devedor só poderá opor ao portador exceção fundada em direito pessoal,
 
 ou em nulidade de sua obrigação.
 
-## Art. 907.
+## Art. 907
 
 É nulo o título ao portador emitido sem autorização de lei especial.
 
-## Art. 908.
+## Art. 908
 
-possuidor de título dilacerado, porém identificável, tem direito a obter
+O possuidor de título dilacerado, porém identificável, tem direito a obter
 
 do emitente a substituição do anterior, mediante a restituição do primeiro e o
 pagamento das despesas.
 
-## Art. 909.
+## Art. 909
 
-proprietário, que perder ou extraviar título, ou for injustamente
+O proprietário, que perder ou extraviar título, ou for injustamente
 
 desapossado dele, poderá obter novo título em juízo, bem como impedir sejam pagos a
 outrem capital e rendimentos.
@@ -8205,9 +8205,9 @@ artigo, exonera o devedor, salvo se se provar que ele tinha conhecimento do fato
 
 # CAPÍTULO III — Do Título À Ordem
 
-## Art. 910.
+## Art. 910
 
-endosso deve ser lançado pelo endossante no verso ou anverso do próprio
+O endosso deve ser lançado pelo endossante no verso ou anverso do próprio
 
 título.
 
@@ -8223,7 +8223,7 @@ título.
 Considera-se não escrito o endosso cancelado, total ou
 parcialmente.
 
-## Art. 911.
+## Art. 911
 
 Considera-se legítimo possuidor o portador do título à ordem com série
 
@@ -8232,7 +8232,7 @@ regular e ininterrupta de endossos, ainda que o último seja em branco.
 Parágrafo único. Aquele que paga o título está obrigado a verificar a regularidade
 da série de endossos, mas não a autenticidade das assinaturas.
 
-## Art. 912.
+## Art. 912
 
 Considera-se não escrita no endosso qualquer condição a que o subordine o
 
@@ -8240,14 +8240,14 @@ endossante.
 
 Parágrafo único. É nulo o endosso parcial.
 
-## Art. 913.
+## Art. 913
 
-endossatário de endosso em branco pode mudá-lo para endosso em preto,
+O endossatário de endosso em branco pode mudá-lo para endosso em preto,
 
 completando-o com o seu nome ou de terceiro; pode endossar novamente o título, em branco
 ou em preto; ou pode transferi-lo sem novo endosso.
 
-## Art. 914.
+## Art. 914
 
 Ressalvada cláusula expressa em contrário, constante do endosso, não
 
@@ -8261,23 +8261,23 @@ torna devedor solidário.
 Pagando o título, tem o endossante ação de regresso contra
 os coobrigados anteriores.
 
-## Art. 915.
+## Art. 915
 
-devedor, além das exceções fundadas nas relações pessoais que tiver
+O devedor, além das exceções fundadas nas relações pessoais que tiver
 
 com o portador, só poderá opor a este as exceções relativas à forma do título e ao
 seu conteúdo literal, à falsidade da própria assinatura, a defeito de capacidade ou de
 representação no momento da subscrição, e à falta de requisito necessário ao
 exercício da ação.
 
-## Art. 916.
+## Art. 916
 
 As exceções, fundadas em relação do devedor com os portadores
 
 precedentes, somente poderão ser por ele opostas ao portador, se este, ao adquirir o
 título, tiver agido de má-fé.
 
-## Art. 917.
+## Art. 917
 
 A cláusula constitutiva de mandato, lançada no endosso, confere ao
 
@@ -8296,7 +8296,7 @@ perde eficácia o endosso-mandato.
 Pode o devedor opor ao endossatário de endosso-mandato somente
 as exceções que tiver contra o endossante.
 
-## Art. 918.
+## Art. 918
 
 A cláusula constitutiva de penhor, lançada no endosso, confere ao
 
@@ -8310,33 +8310,33 @@ título na qualidade de procurador.
 Não pode o devedor opor ao endossatário de endosso-penhor as
 exceções que tinha contra o endossante, salvo se aquele tiver agido de má-fé.
 
-## Art. 919.
+## Art. 919
 
 A aquisição de título à ordem, por meio diverso do endosso, tem efeito de
 
 cessão civil.
 
-## Art. 920.
+## Art. 920
 
-endosso posterior ao vencimento produz os mesmos efeitos do anterior.
+O endosso posterior ao vencimento produz os mesmos efeitos do anterior.
 
 # CAPÍTULO IV — Do Título Nominativo
 
-## Art. 921.
+## Art. 921
 
 É título nominativo o emitido em favor de pessoa cujo nome conste no
 
 registro do emitente.
 
-## Art. 922.
+## Art. 922
 
 Transfere-se o título nominativo mediante termo, em registro do emitente,
 
 assinado pelo proprietário e pelo adquirente.
 
-## Art. 923.
+## Art. 923
 
-título nominativo também pode ser transferido por endosso que contenha o
+O título nominativo também pode ser transferido por endosso que contenha o
 
 nome do endossatário.
 
@@ -8355,19 +8355,19 @@ Caso o título original contenha o nome do primitivo
 proprietário, tem direito o adquirente a obter do emitente novo título, em seu nome,
 devendo a emissão do novo título constar no registro do emitente.
 
-## Art. 924.
+## Art. 924
 
 Ressalvada proibição legal, pode o título nominativo ser transformado em
 
 à ordem ou ao portador, a pedido do proprietário e à sua custa.
 
-## Art. 925.
+## Art. 925
 
 Fica desonerado de responsabilidade o emitente que de boa-fé fizer a
 
 transferência pelos modos indicados nos artigos antecedentes.
 
-## Art. 926.
+## Art. 926
 
 Qualquer negócio ou medida judicial, que tenha por objeto o título, só
 
@@ -8378,7 +8378,7 @@ registro do emitente.
 
 # CAPÍTULO I — Da Obrigação de Indenizar
 
-## Art. 927.
+## Art. 927
 
 Aquele que, por ato ilícito (arts. 186 e 187), causar dano a outrem, fica
 
@@ -8392,9 +8392,9 @@ Parágrafo único. Haverá obrigação de reparar o dano, independentemente de c
 nos casos especificados em lei, ou quando a atividade normalmente desenvolvida pelo autor
 do dano implicar, por sua natureza, risco para os direitos de outrem.
 
-## Art. 928.
+## Art. 928
 
-incapaz responde pelos prejuízos que causar, se as pessoas por ele
+O incapaz responde pelos prejuízos que causar, se as pessoas por ele
 
 responsáveis não tiverem obrigação de fazê-lo ou não dispuserem de meios
 suficientes.
@@ -8402,14 +8402,14 @@ suficientes.
 Parágrafo único. A indenização prevista neste artigo, que deverá ser eqüitativa,
 não terá lugar se privar do necessário o incapaz ou as pessoas que dele dependem.
 
-## Art. 929.
+## Art. 929
 
 Se a pessoa lesada, ou o dono da coisa, no caso do inciso II do art. 188,
 
 não forem culpados do perigo, assistir-lhes-á direito à indenização do prejuízo que
 sofreram.
 
-## Art. 930.
+## Art. 930
 
 No caso do inciso II do art. 188, se o perigo ocorrer por culpa de terceiro,
 
@@ -8419,14 +8419,14 @@ ressarcido ao lesado.
 Parágrafo único. A mesma ação competirá contra aquele em defesa de quem se causou
 o dano (art. 188, inciso I).
 
-## Art. 931.
+## Art. 931
 
 Ressalvados outros casos previstos em lei especial, os empresários
 
 individuais e as empresas respondem independentemente de culpa pelos danos causados pelos
 produtos postos em circulação.
 
-## Art. 932.
+## Art. 932
 
 São também responsáveis pela reparação civil:
 
@@ -8444,52 +8444,52 @@ dinheiro, mesmo para fins de educação, pelos seus hóspedes, moradores e educa
 V - os que gratuitamente houverem participado nos produtos do crime, até a concorrente
 quantia.
 
-## Art. 933.
+## Art. 933
 
 As pessoas indicadas nos incisos I a V do artigo antecedente, ainda que não
 
 haja culpa de sua parte, responderão pelos atos praticados pelos terceiros ali referidos.
 
-## Art. 934.
+## Art. 934
 
 Aquele que ressarcir o dano causado por outrem pode reaver o que houver pago
 
 daquele por quem pagou, salvo se o causador do dano for descendente seu, absoluta ou
 relativamente incapaz.
 
-## Art. 935.
+## Art. 935
 
 A responsabilidade civil é independente da criminal, não se podendo
 
 questionar mais sobre a existência do fato, ou sobre quem seja o seu autor, quando estas
 questões se acharem decididas no juízo criminal.
 
-## Art. 936.
+## Art. 936
 
-dono, ou detentor, do animal ressarcirá o dano por este causado, se não
+O dono, ou detentor, do animal ressarcirá o dano por este causado, se não
 
 provar culpa da vítima ou força maior.
 
-## Art. 937.
+## Art. 937
 
-dono de edifício ou construção responde pelos danos que resultarem de
+O dono de edifício ou construção responde pelos danos que resultarem de
 
 sua ruína, se esta provier de falta de reparos, cuja necessidade fosse manifesta.
 
-## Art. 938.
+## Art. 938
 
 Aquele que habitar prédio, ou parte dele, responde pelo dano proveniente das
 
 coisas que dele caírem ou forem lançadas em lugar indevido.
 
-## Art. 939.
+## Art. 939
 
-credor que demandar o devedor antes de vencida a dívida, fora dos casos em
+O credor que demandar o devedor antes de vencida a dívida, fora dos casos em
 
 que a lei o permita, ficará obrigado a esperar o tempo que faltava para o vencimento, a
 descontar os juros correspondentes, embora estipulados, e a pagar as custas em dobro.
 
-## Art. 940.
+## Art. 940
 
 Aquele que demandar por dívida já paga, no todo ou em parte, sem ressalvar
 
@@ -8497,16 +8497,16 @@ as quantias recebidas ou pedir mais do que for devido, ficará obrigado a pagar 
 devedor, no primeiro caso, o dobro do que houver cobrado e, no segundo, o equivalente do
 que dele exigir, salvo se houver prescrição.
 
-## Art. 941.
+## Art. 941
 
 As penas previstas nos arts. 939 e 940 não se aplicarão quando o autor
 
 desistir da ação antes de contestada a lide, salvo ao réu o direito de haver
 indenização por algum prejuízo que prove ter sofrido.
 
-## Art. 942.
+## Art. 942
 
-s bens do responsável pela ofensa ou violação do direito de outrem ficam
+Os bens do responsável pela ofensa ou violação do direito de outrem ficam
 
 sujeitos à reparação do dano causado; e, se a ofensa tiver mais de um autor, todos
 responderão solidariamente pela reparação.
@@ -8514,42 +8514,42 @@ responderão solidariamente pela reparação.
 Parágrafo único. São solidariamente responsáveis com os autores os co-autores e as
 pessoas designadas no art. 932.
 
-## Art. 943.
+## Art. 943
 
-direito de exigir reparação e a obrigação de prestá-la transmitem-se
+O direito de exigir reparação e a obrigação de prestá-la transmitem-se
 
 com a herança.
 
 # CAPÍTULO II — Da Indenização
 
-## Art. 944.
+## Art. 944
 
 A indenização mede-se pela extensão do dano.
 
 Parágrafo único. Se houver excessiva desproporção entre a gravidade da culpa e o
 dano, poderá o juiz reduzir, eqüitativamente, a indenização.
 
-## Art. 945.
+## Art. 945
 
 Se a vítima tiver concorrido culposamente para o evento danoso, a sua
 
 indenização será fixada tendo-se em conta a gravidade de sua culpa em confronto com a
 do autor do dano.
 
-## Art. 946.
+## Art. 946
 
 Se a obrigação for indeterminada, e não houver na lei ou no contrato
 
 disposição fixando a indenização devida pelo inadimplente, apurar-se-á o valor das
 perdas e danos na forma que a lei processual determinar.
 
-## Art. 947.
+## Art. 947
 
 Se o devedor não puder cumprir a prestação na espécie ajustada,
 
 substituir-se-á pelo seu valor, em moeda corrente.
 
-## Art. 948.
+## Art. 948
 
 No caso de homicídio, a indenização consiste, sem excluir outras
 
@@ -8561,14 +8561,14 @@ família;
 II - na prestação de alimentos às pessoas a quem o morto os devia, levando-se em
 conta a duração provável da vida da vítima.
 
-## Art. 949.
+## Art. 949
 
 No caso de lesão ou outra ofensa à saúde, o ofensor indenizará o ofendido
 
 das despesas do tratamento e dos lucros cessantes até ao fim da convalescença, além de
 algum outro prejuízo que o ofendido prove haver sofrido.
 
-## Art. 950.
+## Art. 950
 
 Se da ofensa resultar defeito pelo qual o ofendido não possa exercer o seu
 
@@ -8580,15 +8580,15 @@ depreciação que ele sofreu.
 Parágrafo único. O prejudicado, se preferir, poderá exigir que a indenização seja
 arbitrada e paga de uma só vez.
 
-## Art. 951.
+## Art. 951
 
-disposto nos arts. 948, 949 e 950 aplica-se ainda no caso de indenização
+O disposto nos arts. 948, 949 e 950 aplica-se ainda no caso de indenização
 
 devida por aquele que, no exercício de atividade profissional, por negligência,
 imprudência ou imperícia, causar a morte do paciente, agravar-lhe o mal, causar-lhe
 lesão, ou inabilitá-lo para o trabalho.
 
-## Art. 952.
+## Art. 952
 
 Havendo usurpação ou esbulho do alheio, além da restituição da coisa, a
 
@@ -8600,7 +8600,7 @@ Parágrafo único. Para se restituir o equivalente, quando não exista a própri
 coisa, estimar-se-á ela pelo seu preço ordinário e pelo de afeição, contanto que este
 não se avantaje àquele.
 
-## Art. 953.
+## Art. 953
 
 A indenização por injúria, difamação ou calúnia consistirá na
 
@@ -8610,7 +8610,7 @@ Parágrafo único. Se o ofendido não puder provar prejuízo material, caberá a
 fixar, eqüitativamente, o valor da indenização, na conformidade das circunstâncias do
 caso.
 
-## Art. 954.
+## Art. 954
 
 A indenização por ofensa à liberdade pessoal consistirá no pagamento das
 
@@ -8627,30 +8627,30 @@ III - a prisão ilegal.
 
 # TÍTULO X — Das Preferências e Privilégios Creditórios
 
-## Art. 955.
+## Art. 955
 
 Procede-se à declaração de insolvência toda vez que as dívidas excedam
 
 à importância dos bens do devedor.
 
-## Art. 956.
+## Art. 956
 
 A discussão entre os credores pode versar quer sobre a preferência entre
 
 eles disputada, quer sobre a nulidade, simulação, fraude, ou falsidade das dívidas e
 contratos.
 
-## Art. 957.
+## Art. 957
 
 Não havendo título legal à preferência, terão os credores igual direito
 
 sobre os bens do devedor comum.
 
-## Art. 958.
+## Art. 958
 
-s títulos legais de preferência são os privilégios e os direitos reais.
+Os títulos legais de preferência são os privilégios e os direitos reais.
 
-## Art. 959.
+## Art. 959
 
 Conservam seus respectivos direitos os credores, hipotecários ou
 
@@ -8662,20 +8662,20 @@ indenização devida, havendo responsável pela perda ou danificação da coisa;
 II - sobre o valor da indenização, se a coisa obrigada a hipoteca ou privilégio for
 desapropriada.
 
-## Art. 960.
+## Art. 960
 
 Nos casos a que se refere o artigo antecedente, o devedor do seguro, ou da
 
 indenização, exonera-se pagando sem oposição dos credores hipotecários ou
 privilegiados.
 
-## Art. 961.
+## Art. 961
 
-crédito real prefere ao pessoal de qualquer espécie; o crédito pessoal
+O crédito real prefere ao pessoal de qualquer espécie; o crédito pessoal
 
 privilegiado, ao simples; e o privilégio especial, ao geral.
 
-## Art. 962.
+## Art. 962
 
 Quando concorrerem aos mesmos bens, e por título igual, dois ou mais
 
@@ -8683,14 +8683,14 @@ credores da mesma classe especialmente privilegiados, haverá entre eles rateio
 proporcional ao valor dos respectivos créditos, se o produto não bastar para o pagamento
 integral de todos.
 
-## Art. 963.
+## Art. 963
 
-privilégio especial só compreende os bens sujeitos, por expressa
+O privilégio especial só compreende os bens sujeitos, por expressa
 
 disposição de lei, ao pagamento do crédito que ele favorece; e o geral, todos os bens
 não sujeitos a crédito real nem a privilégio especial.
 
-## Art. 964.
+## Art. 964
 
 Têm privilégio especial:
 
@@ -8723,7 +8723,7 @@ sobre os produtos do abate, o credor por animais.
 (Incluído pela Lei nº
 13.176, de 2015)
 
-## Art. 965.
+## Art. 965
 
 Goza de privilégio geral, na ordem seguinte, sobre os
 
@@ -8758,7 +8758,7 @@ VIII - os demais créditos de privilégio geral.
 
 # CAPÍTULO I — Da Caracterização e da Inscrição
 
-## Art. 966.
+## Art. 966
 
 Considera-se empresário quem exerce profissionalmente atividade econômica
 
@@ -8768,13 +8768,13 @@ Parágrafo único. Não se considera empresário quem exerce profissão intelect
 natureza científica, literária ou artística, ainda com o concurso de auxiliares ou
 colaboradores, salvo se o exercício da profissão constituir elemento de empresa.
 
-## Art. 967.
+## Art. 967
 
 É obrigatória a inscrição do empresário no Registro Público de Empresas
 
 Mercantis da respectiva sede, antes do início de sua atividade.
 
-## Art. 968.
+## Art. 968
 
 A inscrição do empresário far-se-á mediante requerimento que contenha:
 
@@ -8833,9 +8833,9 @@ nacionalidade, estado civil e regime de bens, bem como remessa de documentos, na
 forma estabelecida pelo CGSIM.
 (Incluído pela Lei nº 12.470, de 2011)
 
-## Art. 969.
+## Art. 969
 
-empresário que instituir sucursal, filial ou agência, em lugar sujeito à
+O empresário que instituir sucursal, filial ou agência, em lugar sujeito à
 
 jurisdição de outro Registro Público de Empresas Mercantis, neste deverá também
 inscrevê-la, com a prova da inscrição originária.
@@ -8843,16 +8843,16 @@ inscrevê-la, com a prova da inscrição originária.
 Parágrafo único. Em qualquer caso, a constituição do estabelecimento secundário
 deverá ser averbada no Registro Público de Empresas Mercantis da respectiva sede.
 
-## Art. 970.
+## Art. 970
 
 A lei assegurará tratamento favorecido, diferenciado e simplificado ao
 
 empresário rural e ao pequeno empresário, quanto à inscrição e aos efeitos daí
 decorrentes.
 
-## Art. 971.
+## Art. 971
 
-empresário, cuja atividade rural constitua sua principal profissão, pode,
+O empresário, cuja atividade rural constitua sua principal profissão, pode,
 
 observadas as formalidades de que tratam o art. 968 e seus parágrafos, requerer
 inscrição no Registro Público de Empresas Mercantis da respectiva sede, caso em que,
@@ -8867,19 +8867,19 @@ em que, com a inscrição, será considerada empresária, para todos os efeitos.
 
 # CAPÍTULO II — Da Capacidade
 
-## Art. 972.
+## Art. 972
 
 Podem exercer a atividade de empresário os que estiverem em pleno gozo da
 
 capacidade civil e não forem legalmente impedidos.
 
-## Art. 973.
+## Art. 973
 
 A pessoa legalmente impedida de exercer atividade própria de empresário, se
 
 a exercer, responderá pelas obrigações contraídas.
 
-## Art. 974.
+## Art. 974
 
 Poderá o incapaz, por meio de representante ou devidamente assistido,
 
@@ -8917,7 +8917,7 @@ incapaz deve ser assistido e o absolutamente incapaz deve ser representado por
 seus representantes legais.
 (Incluído pela Lei nº 12.399, de 2011)
 
-## Art. 975.
+## Art. 975
 
 Se o representante ou assistente do incapaz for pessoa que, por disposição
 
@@ -8932,7 +8932,7 @@ juiz entender ser conveniente.
 A aprovação do juiz não exime o representante ou assistente
 do menor ou do interdito da responsabilidade pelos atos dos gerentes nomeados.
 
-## Art. 976.
+## Art. 976
 
 A prova da emancipação e da autorização do incapaz, nos casos do art.
 
@@ -8942,21 +8942,21 @@ de Empresas Mercantis.
 Parágrafo único. O uso da nova firma caberá, conforme o caso, ao gerente; ou ao
 representante do incapaz; ou a este, quando puder ser autorizado.
 
-## Art. 977.
+## Art. 977
 
 Faculta-se aos cônjuges contratar sociedade, entre si ou com terceiros,
 
 desde que não tenham casado no regime da comunhão universal de bens, ou no da
 separação obrigatória.
 
-## Art. 978.
+## Art. 978
 
-empresário casado pode, sem necessidade de outorga conjugal, qualquer que
+O empresário casado pode, sem necessidade de outorga conjugal, qualquer que
 
 seja o regime de bens, alienar os imóveis que integrem o patrimônio da empresa ou
 gravá-los de ônus real.
 
-## Art. 979.
+## Art. 979
 
 Além de no Registro Civil, serão arquivados e averbados, no Registro
 
@@ -8964,7 +8964,7 @@ Público de Empresas Mercantis, os pactos e declarações antenupciais do empres
 título de doação, herança, ou legado, de bens clausulados de incomunicabilidade ou
 inalienabilidade.
 
-## Art. 980.
+## Art. 980
 
 A sentença que decretar ou homologar a separação judicial do empresário e
 
@@ -8975,8 +8975,6 @@ averbados no Registro Público de Empresas Mercantis.
 
 ## Art. 980-A
 
-.
-
 (Revogado
 pela Lei nº 14.382, de 2022)
 
@@ -8984,7 +8982,7 @@ pela Lei nº 14.382, de 2022)
 
 # CAPÍTULO ÚNICO — Disposições Gerais
 
-## Art. 981.
+## Art. 981
 
 Celebram contrato de sociedade as pessoas que reciprocamente se obrigam a
 
@@ -8994,7 +8992,7 @@ entre si, dos resultados.
 Parágrafo único. A atividade pode restringir-se à realização de um ou mais
 negócios determinados.
 
-## Art. 982.
+## Art. 982
 
 Salvo as exceções expressas, considera-se empresária a sociedade que tem
 
@@ -9004,7 +9002,7 @@ por objeto o exercício de atividade própria de empresário sujeito a registro 
 Parágrafo único. Independentemente de seu objeto, considera-se empresária a
 sociedade por ações; e, simples, a cooperativa.
 
-## Art. 983.
+## Art. 983
 
 A sociedade empresária deve constituir-se segundo um dos tipos regulados nos
 
@@ -9016,7 +9014,7 @@ participação e à cooperativa, bem como as constantes de leis especiais que, p
 exercício de certas atividades, imponham a constituição da sociedade segundo
 determinado tipo.
 
-## Art. 984.
+## Art. 984
 
 A sociedade que tenha por objeto o exercício de atividade própria de
 
@@ -9029,7 +9027,7 @@ Parágrafo único. Embora já constituída a sociedade segundo um daqueles tipos
 pedido de inscrição se subordinará, no que for aplicável, às normas que regem a
 transformação.
 
-## Art. 985.
+## Art. 985
 
 A sociedade adquire personalidade jurídica com a inscrição, no registro
 
@@ -9037,34 +9035,34 @@ próprio e na forma da lei, dos seus atos constitutivos (arts. 45 e 1.150).
 
 # CAPÍTULO I — Da Sociedade em Comum
 
-## Art. 986.
+## Art. 986
 
 Enquanto não inscritos os atos constitutivos, reger-se-á a sociedade,
 
 exceto por ações em organização, pelo disposto neste Capítulo, observadas,
 subsidiariamente e no que com ele forem compatíveis, as normas da sociedade simples.
 
-## Art. 987.
+## Art. 987
 
-s sócios, nas relações entre si ou com terceiros, somente por escrito
+Os sócios, nas relações entre si ou com terceiros, somente por escrito
 
 podem provar a existência da sociedade, mas os terceiros podem prová-la de qualquer
 modo.
 
-## Art. 988.
+## Art. 988
 
-s bens e dívidas sociais constituem patrimônio especial, do qual os
+Os bens e dívidas sociais constituem patrimônio especial, do qual os
 
 sócios são titulares em comum.
 
-## Art. 989.
+## Art. 989
 
-s bens sociais respondem pelos atos de gestão praticados por qualquer dos
+Os bens sociais respondem pelos atos de gestão praticados por qualquer dos
 
 sócios, salvo pacto expresso limitativo de poderes, que somente terá eficácia contra o
 terceiro que o conheça ou deva conhecer.
 
-## Art. 990.
+## Art. 990
 
 Todos os sócios respondem solidária e ilimitadamente pelas obrigações
 
@@ -9073,7 +9071,7 @@ pela sociedade.
 
 # CAPÍTULO II — Da Sociedade em Conta de Participação
 
-## Art. 991.
+## Art. 991
 
 Na sociedade em conta de participação, a atividade constitutiva do objeto
 
@@ -9084,15 +9082,15 @@ correspondentes.
 Parágrafo único. Obriga-se perante terceiro tão-somente o sócio ostensivo; e,
 exclusivamente perante este, o sócio participante, nos termos do contrato social.
 
-## Art. 992.
+## Art. 992
 
 A constituição da sociedade em conta de participação independe de
 
 qualquer formalidade e pode provar-se por todos os meios de direito.
 
-## Art. 993.
+## Art. 993
 
-contrato social produz efeito somente entre os sócios, e a eventual
+O contrato social produz efeito somente entre os sócios, e a eventual
 
 inscrição de seu instrumento em qualquer registro não confere personalidade jurídica
 à sociedade.
@@ -9102,7 +9100,7 @@ sociais, o sócio participante não pode tomar parte nas relações do sócio os
 com terceiros, sob pena de responder solidariamente com este pelas obrigações em que
 intervier.
 
-## Art. 994.
+## Art. 994
 
 A contribuição do sócio participante constitui, com a do sócio ostensivo,
 
@@ -9120,13 +9118,13 @@ quirografário.
 Falindo o sócio participante, o contrato social fica sujeito
 às normas que regulam os efeitos da falência nos contratos bilaterais do falido.
 
-## Art. 995.
+## Art. 995
 
 Salvo estipulação em contrário, o sócio ostensivo não pode admitir novo
 
 sócio sem o consentimento expresso dos demais.
 
-## Art. 996.
+## Art. 996
 
 Aplica-se à sociedade em conta de participação, subsidiariamente e no que
 
@@ -9140,7 +9138,7 @@ prestadas e julgadas no mesmo processo.
 
 ### Seção I — Do Contrato Social
 
-## Art. 997.
+## Art. 997
 
 A sociedade constitui-se mediante contrato escrito, particular ou público,
 
@@ -9169,7 +9167,7 @@ VIII - se os sócios respondem, ou não, subsidiariamente, pelas obrigações so
 Parágrafo único. É ineficaz em relação a terceiros qualquer pacto separado,
 contrário ao disposto no instrumento do contrato.
 
-## Art. 998.
+## Art. 998
 
 Nos trinta dias subseqüentes à sua constituição, a sociedade deverá
 
@@ -9186,7 +9184,7 @@ Com todas as indicações enumeradas no artigo antecedente,
 será a inscrição tomada por termo no livro de registro próprio, e obedecerá a número
 de ordem contínua para todas as sociedades inscritas.
 
-## Art. 999.
+## Art. 999
 
 As modificações do contrato social, que tenham por objeto matéria indicada
 
@@ -9197,7 +9195,7 @@ deliberação unânime.
 Parágrafo único. Qualquer modificação do contrato social será averbada,
 cumprindo-se as formalidades previstas no artigo antecedente.
 
-## Art. 1.000.
+## Art. 1.000
 
 A sociedade simples que instituir sucursal, filial ou agência na
 
@@ -9209,20 +9207,20 @@ deverá ser averbada no Registro Civil da respectiva sede.
 
 ### Seção II — Dos Direitos e Obrigações dos Sócios
 
-## Art. 1.001.
+## Art. 1.001
 
 As obrigações dos sócios começam imediatamente com o contrato, se este
 
 não fixar outra data, e terminam quando, liquidada a sociedade, se extinguirem as
 responsabilidades sociais.
 
-## Art. 1.002.
+## Art. 1.002
 
-sócio não pode ser substituído no exercício das suas funções, sem o
+O sócio não pode ser substituído no exercício das suas funções, sem o
 
 consentimento dos demais sócios, expresso em modificação do contrato social.
 
-## Art. 1.003.
+## Art. 1.003
 
 A cessão total ou parcial de quota, sem a correspondente modificação do
 
@@ -9233,9 +9231,9 @@ Parágrafo único. Até dois anos depois de averbada a modificação do contrato
 responde o cedente solidariamente com o cessionário, perante a sociedade e terceiros,
 pelas obrigações que tinha como sócio.
 
-## Art. 1.004.
+## Art. 1.004
 
-s sócios são obrigados, na forma e prazo previstos, às contribuições
+Os sócios são obrigados, na forma e prazo previstos, às contribuições
 
 estabelecidas no contrato social, e aquele que deixar de fazê-lo, nos trinta dias
 seguintes ao da notificação pela sociedade, responderá perante esta pelo dano emergente
@@ -9247,33 +9245,33 @@ realizado, aplicando-se, em ambos os casos, o disposto no § 1º
 do art.
 1.031.
 
-## Art. 1.005.
+## Art. 1.005
 
-sócio que, a título de quota social, transmitir domínio, posse ou uso,
+O sócio que, a título de quota social, transmitir domínio, posse ou uso,
 
 responde pela evicção; e pela solvência do devedor, aquele que transferir crédito.
 
-## Art. 1.006.
+## Art. 1.006
 
-sócio, cuja contribuição consista em serviços, não pode, salvo
+O sócio, cuja contribuição consista em serviços, não pode, salvo
 
 convenção em contrário, empregar-se em atividade estranha à sociedade, sob pena de ser
 privado de seus lucros e dela excluído.
 
-## Art. 1.007.
+## Art. 1.007
 
 Salvo estipulação em contrário, o sócio participa dos lucros e das
 
 perdas, na proporção das respectivas quotas, mas aquele, cuja contribuição consiste em
 serviços, somente participa dos lucros na proporção da média do valor das quotas.
 
-## Art. 1.008.
+## Art. 1.008
 
 É nula a estipulação contratual que exclua qualquer sócio de participar
 
 dos lucros e das perdas.
 
-## Art. 1.009.
+## Art. 1.009
 
 A distribuição de lucros ilícitos ou fictícios acarreta
 
@@ -9282,7 +9280,7 @@ receberem, conhecendo ou devendo conhecer-lhes a ilegitimidade.
 
 ### Seção III — Da Administração
 
-## Art. 1.010.
+## Art. 1.010
 
 Quando, por lei ou pelo contrato social, competir aos sócios decidir sobre
 
@@ -9305,9 +9303,9 @@ Responde por perdas e danos o sócio que, tendo em alguma
 operação interesse contrário ao da sociedade, participar da deliberação que a aprove
 graças a seu voto.
 
-## Art. 1.011.
+## Art. 1.011
 
-administrador da sociedade deverá ter, no exercício de suas funções,
+O administrador da sociedade deverá ter, no exercício de suas funções,
 
 o cuidado e a diligência que todo homem ativo e probo costuma empregar na administração
 de seus próprios negócios.
@@ -9326,14 +9324,14 @@ o
 Aplicam-se à atividade dos administradores, no que couber, as
 disposições concernentes ao mandato.
 
-## Art. 1.012.
+## Art. 1.012
 
-administrador, nomeado por instrumento em separado, deve averbá-lo à
+O administrador, nomeado por instrumento em separado, deve averbá-lo à
 
 margem da inscrição da sociedade, e, pelos atos que praticar, antes de requerer a
 averbação, responde pessoal e solidariamente com a sociedade.
 
-## Art. 1.013.
+## Art. 1.013
 
 A administração da sociedade, nada dispondo o contrato social, compete
 
@@ -9351,14 +9349,14 @@ Responde por perdas e danos perante a sociedade o administrador
 que realizar operações, sabendo ou devendo saber que estava agindo em desacordo com a
 maioria.
 
-## Art. 1.014.
+## Art. 1.014
 
 Nos atos de competência conjunta de vários administradores, torna-se
 
 necessário o concurso de todos, salvo nos casos urgentes, em que a omissão ou retardo
 das providências possa ocasionar dano irreparável ou grave.
 
-## Art. 1.015.
+## Art. 1.015
 
 No silêncio do contrato, os administradores podem praticar todos os atos
 
@@ -9369,15 +9367,15 @@ Parágrafo único.
 (Revogado pela
 Lei nº 14.195, de 2021)
 
-## Art. 1.016.
+## Art. 1.016
 
-s administradores respondem solidariamente perante a sociedade e os
+Os administradores respondem solidariamente perante a sociedade e os
 
 terceiros prejudicados, por culpa no desempenho de suas funções.
 
-## Art. 1.017.
+## Art. 1.017
 
-administrador que, sem consentimento escrito dos sócios, aplicar
+O administrador que, sem consentimento escrito dos sócios, aplicar
 
 créditos ou bens sociais em proveito próprio ou de terceiros, terá de restituí-los à
 sociedade, ou pagar o equivalente, com todos os lucros resultantes, e, se houver
@@ -9387,14 +9385,14 @@ Parágrafo único. Fica sujeito às sanções o administrador que, tendo em qual
 operação interesse contrário ao da sociedade, tome parte na correspondente
 deliberação.
 
-## Art. 1.018.
+## Art. 1.018
 
 Ao administrador é vedado fazer-se substituir no exercício de suas
 
 funções, sendo-lhe facultado, nos limites de seus poderes, constituir mandatários da
 sociedade, especificados no instrumento os atos e operações que poderão praticar.
 
-## Art. 1.019.
+## Art. 1.019
 
 São irrevogáveis os poderes do sócio investido na administração por
 
@@ -9404,14 +9402,14 @@ pedido de qualquer dos sócios.
 Parágrafo único. São revogáveis, a qualquer tempo, os poderes conferidos a sócio
 por ato separado, ou a quem não seja sócio.
 
-## Art. 1.020.
+## Art. 1.020
 
-s administradores são obrigados a prestar aos sócios contas justificadas
+Os administradores são obrigados a prestar aos sócios contas justificadas
 
 de sua administração, e apresentar-lhes o inventário anualmente, bem como o balanço
 patrimonial e o de resultado econômico.
 
-## Art. 1.021.
+## Art. 1.021
 
 Salvo estipulação que determine época própria, o sócio pode, a
 
@@ -9420,35 +9418,35 @@ sociedade.
 
 ### Seção IV — Das Relações com Terceiros
 
-## Art. 1.022.
+## Art. 1.022
 
 A sociedade adquire direitos, assume obrigações e procede judicialmente,
 
 por meio de administradores com poderes especiais, ou, não os havendo, por intermédio de
 qualquer administrador.
 
-## Art. 1.023.
+## Art. 1.023
 
 Se os bens da sociedade não lhe cobrirem as dívidas, respondem os sócios
 
 pelo saldo, na proporção em que participem das perdas sociais, salvo cláusula de
 responsabilidade solidária.
 
-## Art. 1.024.
+## Art. 1.024
 
-s bens particulares dos sócios não podem ser executados por dívidas da
+Os bens particulares dos sócios não podem ser executados por dívidas da
 
 sociedade, senão depois de executados os bens sociais.
 
-## Art. 1.025.
+## Art. 1.025
 
-sócio, admitido em sociedade já constituída, não se exime das
+O sócio, admitido em sociedade já constituída, não se exime das
 
 dívidas sociais anteriores à admissão.
 
-## Art. 1.026.
+## Art. 1.026
 
-credor particular de sócio pode, na insuficiência de outros bens do
+O credor particular de sócio pode, na insuficiência de outros bens do
 
 devedor, fazer recair a execução sobre o que a este couber nos lucros da sociedade, ou
 na parte que lhe tocar em liquidação.
@@ -9458,16 +9456,16 @@ liquidação da quota do devedor, cujo valor, apurado na forma do art. 1.031, se
 depositado em dinheiro, no juízo da execução, até noventa dias após aquela
 liquidação.
 
-## Art. 1.027.
+## Art. 1.027
 
-s herdeiros do cônjuge de sócio, ou o cônjuge do que se separou
+Os herdeiros do cônjuge de sócio, ou o cônjuge do que se separou
 
 judicialmente, não podem exigir desde logo a parte que lhes couber na quota social, mas
 concorrer à divisão periódica dos lucros, até que se liquide a sociedade.
 
 ### Seção V — Da Resolução da Sociedade em Relação a um Sócio
 
-## Art. 1.028.
+## Art. 1.028
 
 No caso de morte de sócio, liquidar-se-á sua quota, salvo:
 
@@ -9477,7 +9475,7 @@ II - se os sócios remanescentes optarem pela dissolução da sociedade;
 
 III - se, por acordo com os herdeiros, regular-se a substituição do sócio falecido.
 
-## Art. 1.029.
+## Art. 1.029
 
 Além dos casos previstos na lei ou no contrato, qualquer sócio pode
 
@@ -9488,7 +9486,7 @@ judicialmente justa causa.
 Parágrafo único. Nos trinta dias subseqüentes à notificação, podem os demais
 sócios optar pela dissolução da sociedade.
 
-## Art. 1.030.
+## Art. 1.030
 
 Ressalvado o disposto no art. 1.004 e seu parágrafo único, pode o sócio
 
@@ -9499,7 +9497,7 @@ Parágrafo único. Será de pleno direito excluído da sociedade o sócio declar
 falido, ou aquele cuja quota tenha sido liquidada nos termos do parágrafo único do art.
 1.026.
 
-## Art. 1.031.
+## Art. 1.031
 
 Nos casos em que a sociedade se resolver em relação a um sócio, o valor
 
@@ -9519,7 +9517,7 @@ dias, a partir da liquidação, salvo acordo, ou estipulação contratual em con
 (Vide Lei nº 13.105, de 2015)
 (Vigência)
 
-## Art. 1.032.
+## Art. 1.032
 
 A retirada, exclusão ou morte do sócio, não o exime, ou a seus
 
@@ -9529,7 +9527,7 @@ igual prazo, enquanto não se requerer a averbação.
 
 ### Seção VI — Da Dissolução
 
-## Art. 1.033.
+## Art. 1.033
 
 Dissolve-se a sociedade quando ocorrer:
 
@@ -9552,7 +9550,7 @@ Parágrafo único.
 (Revogado pela
 Lei nº 14.195, de 2021)
 
-## Art. 1.034.
+## Art. 1.034
 
 A sociedade pode ser dissolvida judicialmente, a requerimento de qualquer
 
@@ -9562,15 +9560,15 @@ I - anulada a sua constituição;
 
 II - exaurido o fim social, ou verificada a sua inexeqüibilidade.
 
-## Art. 1.035.
+## Art. 1.035
 
-contrato pode prever outras causas de dissolução, a serem verificadas
+O contrato pode prever outras causas de dissolução, a serem verificadas
 
 judicialmente quando contestadas.
 
-## Art. 1.036.
+## Art. 1.036
 
-corrida a dissolução, cumpre aos administradores providenciar
+Ocorrida a dissolução, cumpre aos administradores providenciar
 
 imediatamente a investidura do liquidante, e restringir a gestão própria aos negócios
 inadiáveis, vedadas novas operações, pelas quais responderão solidária e
@@ -9579,9 +9577,9 @@ ilimitadamente.
 Parágrafo único. Dissolvida de pleno direito a sociedade, pode o sócio requerer,
 desde logo, a liquidação judicial.
 
-## Art. 1.037.
+## Art. 1.037
 
-correndo a hipótese prevista no inciso V do art. 1.033, o Ministério
+Ocorrendo a hipótese prevista no inciso V do art. 1.033, o Ministério
 
 Público, tão logo lhe comunique a autoridade competente, promoverá a liquidação
 judicial da sociedade, se os administradores não o tiverem feito nos trinta dias
@@ -9593,7 +9591,7 @@ sociedade nos quinze dias subseqüentes ao recebimento da comunicação, a autor
 competente para conceder a autorização nomeará interventor com poderes para requerer a
 medida e administrar a sociedade até que seja nomeado o liquidante.
 
-## Art. 1.038.
+## Art. 1.038
 
 Se não estiver designado no contrato social, o liquidante será eleito por
 
@@ -9615,7 +9613,7 @@ disposto no Capítulo IX, deste Subtítulo.
 
 # CAPÍTULO II — Da Sociedade em Nome Coletivo
 
-## Art. 1.039.
+## Art. 1.039
 
 Somente pessoas físicas podem tomar parte na sociedade em nome coletivo,
 
@@ -9625,27 +9623,27 @@ Parágrafo único. Sem prejuízo da responsabilidade perante terceiros, podem os
 sócios, no ato constitutivo, ou por unânime convenção posterior, limitar entre si a
 responsabilidade de cada um.
 
-## Art. 1.040.
+## Art. 1.040
 
 A sociedade em nome coletivo se rege pelas normas deste Capítulo e, no que
 
 seja omisso, pelas do Capítulo antecedente.
 
-## Art. 1.041.
+## Art. 1.041
 
-contrato deve mencionar, além das indicações referidas no art. 997, a
+O contrato deve mencionar, além das indicações referidas no art. 997, a
 
 firma social.
 
-## Art. 1.042.
+## Art. 1.042
 
 A administração da sociedade compete exclusivamente a sócios, sendo o
 
 uso da firma, nos limites do contrato, privativo dos que tenham os necessários poderes.
 
-## Art. 1.043.
+## Art. 1.043
 
-credor particular de sócio não pode, antes de dissolver-se a sociedade,
+O credor particular de sócio não pode, antes de dissolver-se a sociedade,
 
 pretender a liquidação da quota do devedor.
 
@@ -9656,7 +9654,7 @@ I - a sociedade houver sido prorrogada tacitamente;
 II - tendo ocorrido prorrogação contratual, for acolhida judicialmente oposição do
 credor, levantada no prazo de noventa dias, contado da publicação do ato dilatório.
 
-## Art. 1.044.
+## Art. 1.044
 
 A sociedade se dissolve de pleno direito por qualquer das causas enumeradas
 
@@ -9664,7 +9662,7 @@ no art. 1.033 e, se empresária, também pela declaração da falência.
 
 # CAPÍTULO III — Da Sociedade em Comandita Simples
 
-## Art. 1.045.
+## Art. 1.045
 
 Na sociedade em comandita simples tomam parte sócios de duas categorias:
 
@@ -9673,7 +9671,7 @@ obrigações sociais; e os comanditários, obrigados somente pelo valor de sua q
 
 Parágrafo único. O contrato deve discriminar os comanditados e os comanditários.
 
-## Art. 1.046.
+## Art. 1.046
 
 Aplicam-se à sociedade em comandita simples as normas da sociedade em nome
 
@@ -9682,7 +9680,7 @@ coletivo, no que forem compatíveis com as deste Capítulo.
 Parágrafo único. Aos comanditados cabem os mesmos direitos e obrigações dos sócios
 da sociedade em nome coletivo.
 
-## Art. 1.047.
+## Art. 1.047
 
 Sem prejuízo da faculdade de participar das deliberações da sociedade e
 
@@ -9693,29 +9691,29 @@ de sócio comanditado.
 Parágrafo único. Pode o comanditário ser constituído procurador da sociedade, para
 negócio determinado e com poderes especiais.
 
-## Art. 1.048.
+## Art. 1.048
 
 Somente após averbada a modificação do contrato, produz efeito, quanto a
 
 terceiros, a diminuição da quota do comanditário, em conseqüência de ter sido
 reduzido o capital social, sempre sem prejuízo dos credores preexistentes.
 
-## Art. 1.049.
+## Art. 1.049
 
-sócio comanditário não é obrigado à reposição de lucros recebidos
+O sócio comanditário não é obrigado à reposição de lucros recebidos
 
 de boa-fé e de acordo com o balanço.
 
 Parágrafo único. Diminuído o capital social por perdas supervenientes, não pode o
 comanditário receber quaisquer lucros, antes de reintegrado aquele.
 
-## Art. 1.050.
+## Art. 1.050
 
 No caso de morte de sócio comanditário, a sociedade, salvo disposição
 
 do contrato, continuará com os seus sucessores, que designarão quem os represente.
 
-## Art. 1.051.
+## Art. 1.051
 
 Dissolve-se de pleno direito a sociedade:
 
@@ -9732,7 +9730,7 @@ assumir a condição de sócio, os atos de administração.
 
 ### Seção I — Disposições Preliminares
 
-## Art. 1.052.
+## Art. 1.052
 
 Na sociedade limitada, a responsabilidade de cada sócio é restrita
 
@@ -9750,7 +9748,7 @@ social.
 (Incluído pela Lei nº 13.874, de
 2019)
 
-## Art. 1.053.
+## Art. 1.053
 
 A sociedade limitada rege-se, nas omissões deste Capítulo, pelas normas
 
@@ -9759,17 +9757,17 @@ da sociedade simples.
 Parágrafo único. O contrato social poderá prever a regência supletiva da sociedade
 limitada pelas normas da sociedade anônima.
 
-## Art. 1.054.
+## Art. 1.054
 
-contrato mencionará, no que couber, as indicações do art. 997, e, se
+O contrato mencionará, no que couber, as indicações do art. 997, e, se
 
 for o caso, a firma social.
 
 ### Seção II — Das Quotas
 
-## Art. 1.055.
+## Art. 1.055
 
-capital social divide-se em quotas, iguais ou desiguais, cabendo uma ou
+O capital social divide-se em quotas, iguais ou desiguais, cabendo uma ou
 
 diversas a cada sócio.
 
@@ -9782,7 +9780,7 @@ da sociedade.
 É vedada contribuição que consista em prestação de
 serviços.
 
-## Art. 1.056.
+## Art. 1.056
 
 A quota é indivisível em relação à sociedade, salvo para efeito de
 
@@ -9798,7 +9796,7 @@ Sem prejuízo do disposto no art. 1.052, os condôminos de
 quota indivisa respondem solidariamente pelas prestações necessárias à sua
 integralização.
 
-## Art. 1.057.
+## Art. 1.057
 
 Na omissão do contrato, o sócio pode ceder sua quota, total ou
 
@@ -9809,7 +9807,7 @@ Parágrafo único. A cessão terá eficácia quanto à sociedade e terceiros, in
 para os fins do parágrafo único do art. 1.003, a partir da averbação do respectivo
 instrumento, subscrito pelos sócios anuentes.
 
-## Art. 1.058.
+## Art. 1.058
 
 Não integralizada a quota de sócio remisso, os outros sócios podem, sem
 
@@ -9818,16 +9816,16 @@ transferi-la a terceiros, excluindo o primitivo titular e devolvendo-lhe o que h
 pago, deduzidos os juros da mora, as prestações estabelecidas no contrato mais as
 despesas.
 
-## Art. 1.059.
+## Art. 1.059
 
-s sócios serão obrigados à reposição dos lucros e das quantias
+Os sócios serão obrigados à reposição dos lucros e das quantias
 
 retiradas, a qualquer título, ainda que autorizados pelo contrato, quando tais lucros ou
 quantia se distribuírem com prejuízo do capital.
 
 ### Seção III — Da Administração
 
-## Art. 1.060.
+## Art. 1.060
 
 A sociedade limitada é administrada por uma ou mais pessoas designadas no
 
@@ -9836,7 +9834,7 @@ contrato social ou em ato separado.
 Parágrafo único. A administração atribuída no contrato a todos os sócios não se
 estende de pleno direito aos que posteriormente adquiram essa qualidade.
 
-## Art. 1.061.
+## Art. 1.061
 
 A designação de administradores não sócios dependerá da
 
@@ -9848,9 +9846,9 @@ integralização.
 Lei nº 14.451, de 2022)
 Vigência
 
-## Art. 1.062.
+## Art. 1.062
 
-administrador designado em ato separado investir-se-á no cargo mediante
+O administrador designado em ato separado investir-se-á no cargo mediante
 
 termo de posse no livro de atas da administração.
 
@@ -9866,9 +9864,9 @@ requerer seja averbada sua nomeação no registro competente, mencionando o seu 
 nacionalidade, estado civil, residência, com exibição de documento de identidade, o ato
 e a data da nomeação e o prazo de gestão.
 
-## Art. 1.063.
+## Art. 1.063
 
-exercício do cargo de administrador cessa pela destituição, em
+O exercício do cargo de administrador cessa pela destituição, em
 
 qualquer tempo, do titular, ou pelo término do prazo se, fixado no contrato ou em ato
 separado, não houver recondução.
@@ -9892,13 +9890,13 @@ A renúncia de administrador torna-se eficaz, em relação à
 sociedade, desde o momento em que esta toma conhecimento da comunicação escrita do
 renunciante; e, em relação a terceiros, após a averbação e publicação.
 
-## Art. 1.064.
+## Art. 1.064
 
-uso da firma ou denominação social é privativo dos administradores que
+O uso da firma ou denominação social é privativo dos administradores que
 
 tenham os necessários poderes.
 
-## Art. 1.065.
+## Art. 1.065
 
 Ao término de cada exercício social, proceder-se-á à elaboração do
 
@@ -9906,7 +9904,7 @@ inventário, do balanço patrimonial e do balanço de resultado econômico.
 
 ### Seção IV — Do Conselho Fiscal
 
-## Art. 1.066.
+## Art. 1.066
 
 Sem prejuízo dos poderes da assembléia dos sócios, pode o contrato
 
@@ -9928,9 +9926,9 @@ o
 menos um quinto do capital social, o direito de eleger, separadamente, um dos membros do
 conselho fiscal e o respectivo suplente.
 
-## Art. 1.067.
+## Art. 1.067
 
-membro ou suplente eleito, assinando termo de posse lavrado no livro de
+O membro ou suplente eleito, assinando termo de posse lavrado no livro de
 
 atas e pareceres do conselho fiscal, em que se mencione o seu nome, nacionalidade, estado
 civil, residência e a data da escolha, ficará investido nas suas funções, que
@@ -9939,13 +9937,13 @@ exercerá, salvo cessação anterior, até a subseqüente assembléia anual.
 Parágrafo único. Se o termo não for assinado nos trinta dias seguintes ao da
 eleição, esta se tornará sem efeito.
 
-## Art. 1.068.
+## Art. 1.068
 
 A remuneração dos membros do conselho fiscal será fixada, anualmente,
 
 pela assembléia dos sócios que os eleger.
 
-## Art. 1.069.
+## Art. 1.069
 
 Além de outras atribuições determinadas na lei ou no contrato social,
 
@@ -9972,7 +9970,7 @@ a sua convocação anual, ou sempre que ocorram motivos graves e urgentes;
 VI - praticar, durante o período da liquidação da sociedade, os atos a que se refere
 este artigo, tendo em vista as disposições especiais reguladoras da liquidação.
 
-## Art. 1.070.
+## Art. 1.070
 
 As atribuições e poderes conferidos pela lei ao conselho fiscal não
 
@@ -9985,7 +9983,7 @@ remuneração aprovada pela assembléia dos sócios.
 
 ### Seção V — Das Deliberações dos Sócios
 
-## Art. 1.071.
+## Art. 1.071
 
 Dependem da deliberação dos sócios, além de outras matérias indicadas
 
@@ -10008,7 +10006,7 @@ VII - a nomeação e destituição dos liquidantes e o julgamento das suas conta
 
 VIII - o pedido de concordata.
 
-## Art. 1.072.
+## Art. 1.072
 
 As deliberações dos sócios, obedecido o disposto no art. 1.010, serão
 
@@ -10048,7 +10046,7 @@ o
 Aplica-se às reuniões dos sócios, nos casos omissos no
 contrato, o disposto na presente Seção sobre a assembléia.
 
-## Art. 1.073.
+## Art. 1.073
 
 A reunião ou a assembléia podem também ser convocadas:
 
@@ -10060,7 +10058,7 @@ fundamentado, com indicação das matérias a serem tratadas;
 II - pelo conselho fiscal, se houver, nos casos a que se refere o inciso V do art.
 1.069.
 
-## Art. 1.074.
+## Art. 1.074
 
 A assembléia dos sócios instala-se com a presença, em primeira
 
@@ -10078,7 +10076,7 @@ o
 Nenhum sócio, por si ou na condição de mandatário, pode
 votar matéria que lhe diga respeito diretamente.
 
-## Art. 1.075.
+## Art. 1.075
 
 A assembléia será presidida e secretariada por sócios escolhidos entre
 
@@ -10102,7 +10100,7 @@ o
 Ao sócio, que a solicitar, será entregue cópia autenticada
 da ata.
 
-## Art. 1.076.
+## Art. 1.076
 
 Ressalvado o disposto no art. 1.061, as deliberações dos
 
@@ -10126,7 +10124,7 @@ Vigência
 III - pela maioria de votos dos presentes, nos demais casos previstos na lei ou no
 contrato, se este não exigir maioria mais elevada.
 
-## Art. 1.077.
+## Art. 1.077
 
 Quando houver modificação do contrato, fusão da sociedade,
 
@@ -10134,7 +10132,7 @@ incorporação de outra, ou dela por outra, terá o sócio que dissentiu o direi
 retirar-se da sociedade, nos trinta dias subseqüentes à reunião, aplicando-se, no
 silêncio do contrato social antes vigente, o disposto no art. 1.031.
 
-## Art. 1.078.
+## Art. 1.078
 
 A assembléia dos sócios deve realizar-se ao menos uma vez por ano, nos
 
@@ -10172,7 +10170,7 @@ o
 Extingue-se em dois anos o direito de anular a aprovação a
 que se refere o parágrafo antecedente.
 
-## Art. 1.079.
+## Art. 1.079
 
 Aplica-se às reuniões dos sócios, nos casos omissos no contrato, o
 
@@ -10180,7 +10178,7 @@ estabelecido nesta Seção sobre a assembléia, obedecido o disposto no § 1
 o
 do art. 1.072.
 
-## Art. 1.080.
+## Art. 1.080
 
 As deliberações infringentes do contrato ou da lei tornam ilimitada a
 
@@ -10188,7 +10186,7 @@ responsabilidade dos que expressamente as aprovaram.
 
 ## Art. 1.080-A
 
-. O sócio poderá participar e votar a distância em reunião
+O sócio poderá participar e votar a distância em reunião
 
 ou em assembleia, nos termos do regulamento do órgão competente do Poder
 Executivo federal.
@@ -10203,7 +10201,7 @@ de manifestação dos sócios e os demais requisitos regulamentares.
 
 ### Seção VI — Do Aumento e da Redução do Capital
 
-## Art. 1.081.
+## Art. 1.081
 
 Ressalvado o disposto em lei especial, integralizadas as quotas, pode ser o
 
@@ -10226,7 +10224,7 @@ Decorrido o prazo da preferência, e assumida pelos sócios, ou
 por terceiros, a totalidade do aumento, haverá reunião ou assembléia dos sócios, para
 que seja aprovada a modificação do contrato.
 
-## Art. 1.082.
+## Art. 1.082
 
 Pode a sociedade reduzir o capital, mediante a correspondente modificação
 
@@ -10236,7 +10234,7 @@ I - depois de integralizado, se houver perdas irreparáveis;
 
 II - se excessivo em relação ao objeto da sociedade.
 
-## Art. 1.083.
+## Art. 1.083
 
 No caso do inciso I do artigo antecedente, a redução do capital será
 
@@ -10244,7 +10242,7 @@ realizada com a diminuição proporcional do valor nominal das quotas, tornando-
 a partir da averbação, no Registro Público de Empresas Mercantis, da ata da assembléia
 que a tenha aprovado.
 
-## Art. 1.084.
+## Art. 1.084
 
 No caso do inciso II do art. 1.082, a redução do capital será feita
 
@@ -10272,7 +10270,7 @@ ata que tenha aprovado a redução.
 
 ### Seção VII — Da Resolução da Sociedade em Relação a Sócios Minoritários
 
-## Art. 1.085.
+## Art. 1.085
 
 Ressalvado o disposto no art. 1.030, quando a maioria dos sócios,
 
@@ -10288,7 +10286,7 @@ tempo hábil para permitir seu comparecimento e o exercício do direito de defes
 (Redação dada pela Lei nº
 13.792, de 2019)
 
-## Art. 1.086.
+## Art. 1.086
 
 Efetuado o registro da alteração contratual, aplicar-se-á o disposto nos
 
@@ -10296,7 +10294,7 @@ arts. 1.031 e 1.032.
 
 ### Seção VIII — Da Dissolução
 
-## Art. 1.087.
+## Art. 1.087
 
 A sociedade dissolve-se, de pleno direito, por qualquer das causas
 
@@ -10306,14 +10304,14 @@ previstas no art. 1.044.
 
 ### Seção Única — Da Caracterização
 
-## Art. 1.088.
+## Art. 1.088
 
 Na sociedade anônima ou companhia, o capital divide-se em ações,
 
 obrigando-se cada sócio ou acionista somente pelo preço de emissão das ações que
 subscrever ou adquirir.
 
-## Art. 1.089.
+## Art. 1.089
 
 A sociedade anônima rege-se por lei especial, aplicando-se-lhe, nos casos
 
@@ -10321,14 +10319,14 @@ omissos, as disposições deste Código.
 
 # CAPÍTULO VI — Da Sociedade em Comandita por Ações
 
-## Art. 1.090.
+## Art. 1.090
 
 A sociedade em comandita por ações tem o capital dividido em ações,
 
 regendo-se pelas normas relativas à sociedade anônima, sem prejuízo das modificações
 constantes deste Capítulo, e opera sob firma ou denominação.
 
-## Art. 1.091.
+## Art. 1.091
 
 Somente o acionista tem qualidade para administrar a sociedade e, como
 
@@ -10350,7 +10348,7 @@ o
 O diretor destituído ou exonerado continua, durante dois anos,
 responsável pelas obrigações sociais contraídas sob sua administração.
 
-## Art. 1.092.
+## Art. 1.092
 
 A assembléia geral não pode, sem o consentimento dos diretores, mudar o
 
@@ -10359,13 +10357,13 @@ capital social, criar debêntures, ou partes beneficiárias.
 
 # CAPÍTULO VII — Da Sociedade Cooperativa
 
-## Art. 1.093.
+## Art. 1.093
 
 A sociedade cooperativa reger-se-á pelo disposto no presente Capítulo,
 
 ressalvada a legislação especial.
 
-## Art. 1.094.
+## Art. 1.094
 
 São características da sociedade cooperativa:
 
@@ -10395,7 +10393,7 @@ realizado;
 VIII - indivisibilidade do fundo de reserva entre os sócios, ainda que em caso de
 dissolução da sociedade.
 
-## Art. 1.095.
+## Art. 1.095
 
 Na sociedade cooperativa, a responsabilidade dos sócios pode ser limitada
 
@@ -10412,7 +10410,7 @@ o
 É ilimitada a responsabilidade na cooperativa em que o sócio
 responde solidária e ilimitadamente pelas obrigações sociais.
 
-## Art. 1.096.
+## Art. 1.096
 
 No que a lei for omissa, aplicam-se as disposições referentes à
 
@@ -10420,13 +10418,13 @@ sociedade simples, resguardadas as características estabelecidas no art. 1.094.
 
 # CAPÍTULO VIII — Das Sociedades CoLigadas
 
-## Art. 1.097.
+## Art. 1.097
 
 Consideram-se coligadas as sociedades que, em suas relações de capital,
 
 são controladas, filiadas, ou de simples participação, na forma dos artigos seguintes.
 
-## Art. 1.098.
+## Art. 1.098
 
 É controlada:
 
@@ -10438,19 +10436,19 @@ II - a sociedade cujo controle, referido no inciso antecedente, esteja em poder 
 outra, mediante ações ou quotas possuídas por sociedades ou sociedades por esta já
 controladas.
 
-## Art. 1.099.
+## Art. 1.099
 
 Diz-se coligada ou filiada a sociedade de cujo capital outra sociedade
 
 participa com dez por cento ou mais, do capital da outra, sem controlá-la.
 
-## Art. 1.100.
+## Art. 1.100
 
 É de simples participação a sociedade de cujo capital outra sociedade
 
 possua menos de dez por cento do capital com direito de voto.
 
-## Art. 1.101.
+## Art. 1.101
 
 Salvo disposição especial de lei, a sociedade não pode participar de
 
@@ -10464,7 +10462,7 @@ aprovação.
 
 # CAPÍTULO IX — Da Liquidação da Sociedade
 
-## Art. 1.102.
+## Art. 1.102
 
 Dissolvida a sociedade e nomeado o liquidante na forma do disposto neste
 
@@ -10474,7 +10472,7 @@ ressalvado o disposto no ato constitutivo ou no instrumento da dissolução.
 Parágrafo único. O liquidante, que não seja administrador da sociedade,
 investir-se-á nas funções, averbada a sua nomeação no registro próprio.
 
-## Art. 1.103.
+## Art. 1.103
 
 Constituem deveres do liquidante:
 
@@ -10512,13 +10510,13 @@ Parágrafo único. Em todos os atos, documentos ou publicações, o liquidante
 empregará a firma ou denominação social sempre seguida da cláusula "em
 liquidação" e de sua assinatura individual, com a declaração de sua qualidade.
 
-## Art. 1.104.
+## Art. 1.104
 
 As obrigações e a responsabilidade do liquidante regem-se pelos preceitos
 
 peculiares às dos administradores da sociedade liquidanda.
 
-## Art. 1.105.
+## Art. 1.105
 
 Compete ao liquidante representar a sociedade e praticar todos os atos
 
@@ -10530,7 +10528,7 @@ voto da maioria dos sócios, não pode o liquidante gravar de ônus reais os mó
 imóveis, contrair empréstimos, salvo quando indispensáveis ao pagamento de obrigações
 inadiáveis, nem prosseguir, embora para facilitar a liquidação, na atividade social.
 
-## Art. 1.106.
+## Art. 1.106
 
 Respeitados os direitos dos credores preferenciais, pagará o liquidante as
 
@@ -10540,20 +10538,20 @@ relação a estas, com desconto.
 Parágrafo único. Se o ativo for superior ao passivo, pode o liquidante, sob sua
 responsabilidade pessoal, pagar integralmente as dívidas vencidas.
 
-## Art. 1.107.
+## Art. 1.107
 
-s sócios podem resolver, por maioria de votos, antes de ultimada a
+Os sócios podem resolver, por maioria de votos, antes de ultimada a
 
 liquidação, mas depois de pagos os credores, que o liquidante faça rateios por
 antecipação da partilha, à medida em que se apurem os haveres sociais.
 
-## Art. 1.108.
+## Art. 1.108
 
 Pago o passivo e partilhado o remanescente, convocará o liquidante
 
 assembléia dos sócios para a prestação final de contas.
 
-## Art. 1.109.
+## Art. 1.109
 
 Aprovadas as contas, encerra-se a liquidação, e a sociedade se extingue,
 
@@ -10562,20 +10560,20 @@ ao ser averbada no registro próprio a ata da assembléia.
 Parágrafo único. O dissidente tem o prazo de trinta dias, a contar da publicação da
 ata, devidamente averbada, para promover a ação que couber.
 
-## Art. 1.110.
+## Art. 1.110
 
 Encerrada a liquidação, o credor não satisfeito só terá direito a
 
 exigir dos sócios, individualmente, o pagamento do seu crédito, até o limite da soma
 por eles recebida em partilha, e a propor contra o liquidante ação de perdas e danos.
 
-## Art. 1.111.
+## Art. 1.111
 
 No caso de liquidação judicial, será observado o disposto na lei
 
 processual.
 
-## Art. 1.112.
+## Art. 1.112
 
 No curso de liquidação judicial, o juiz convocará, se necessário,
 
@@ -10587,21 +10585,21 @@ processo judicial.
 
 # CAPÍTULO X — Da Transformação, da Incorporação, da Fusão e da Cisão das Sociedades
 
-## Art. 1.113.
+## Art. 1.113
 
-ato de transformação independe de dissolução ou liquidação da
+O ato de transformação independe de dissolução ou liquidação da
 
 sociedade, e obedecerá aos preceitos reguladores da constituição e inscrição
 próprios do tipo em que vai converter-se.
 
-## Art. 1.114.
+## Art. 1.114
 
 A transformação depende do consentimento de todos os sócios, salvo se
 
 prevista no ato constitutivo, caso em que o dissidente poderá retirar-se da sociedade,
 aplicando-se, no silêncio do estatuto ou do contrato social, o disposto no art. 1.031.
 
-## Art. 1.115.
+## Art. 1.115
 
 A transformação não modificará nem prejudicará, em qualquer caso, os
 
@@ -10611,14 +10609,14 @@ Parágrafo único. A falência da sociedade transformada somente produzirá efei
 relação aos sócios que, no tipo anterior, a eles estariam sujeitos, se o pedirem os
 titulares de créditos anteriores à transformação, e somente a estes beneficiará.
 
-## Art. 1.116.
+## Art. 1.116
 
 Na incorporação, uma ou várias sociedades são absorvidas por outra, que
 
 lhes sucede em todos os direitos e obrigações, devendo todas aprová-la, na forma
 estabelecida para os respectivos tipos.
 
-## Art. 1.117.
+## Art. 1.117
 
 A deliberação dos sócios da sociedade incorporada deverá aprovar as
 
@@ -10637,19 +10635,19 @@ A deliberação dos sócios da sociedade incorporadora
 compreenderá a nomeação dos peritos para a avaliação do patrimônio líquido da
 sociedade, que tenha de ser incorporada.
 
-## Art. 1.118.
+## Art. 1.118
 
 Aprovados os atos da incorporação, a incorporadora declarará extinta a
 
 incorporada, e promoverá a respectiva averbação no registro próprio.
 
-## Art. 1.119.
+## Art. 1.119
 
 A fusão determina a extinção das sociedades que se unem, para formar
 
 sociedade nova, que a elas sucederá nos direitos e obrigações.
 
-## Art. 1.120.
+## Art. 1.120
 
 A fusão será decidida, na forma estabelecida para os respectivos tipos,
 
@@ -10673,13 +10671,13 @@ o
 É vedado aos sócios votar o laudo de avaliação do
 patrimônio da sociedade de que façam parte.
 
-## Art. 1.121.
+## Art. 1.121
 
 Constituída a nova sociedade, aos administradores incumbe fazer inscrever,
 
 no registro próprio da sede, os atos relativos à fusão.
 
-## Art. 1.122.
+## Art. 1.122
 
 Até noventa dias após publicados os atos relativos à incorporação,
 
@@ -10707,7 +10705,7 @@ das respectivas massas.
 
 ### Seção I — Disposições Gerais
 
-## Art. 1.123.
+## Art. 1.123
 
 A sociedade que dependa de autorização do Poder Executivo para funcionar
 
@@ -10716,14 +10714,14 @@ reger-se-á por este título, sem prejuízo do disposto em lei especial.
 Parágrafo único. A competência para a autorização será sempre do Poder Executivo
 federal.
 
-## Art. 1.124.
+## Art. 1.124
 
 Na falta de prazo estipulado em lei ou em ato do poder público, será
 
 considerada caduca a autorização se a sociedade não entrar em funcionamento nos doze
 meses seguintes à respectiva publicação.
 
-## Art. 1.125.
+## Art. 1.125
 
 Ao Poder Executivo é facultado, a qualquer tempo, cassar a autorização
 
@@ -10732,7 +10730,7 @@ ou praticar atos contrários aos fins declarados no seu estatuto.
 
 ### Seção II — Da Sociedade Nacional
 
-## Art. 1.126.
+## Art. 1.126
 
 É nacional a sociedade organizada de conformidade com a lei brasileira e
 
@@ -10743,15 +10741,15 @@ as ações da sociedade anônima revestirão, no silêncio da lei, a forma nomin
 Qualquer que seja o tipo da sociedade, na sua sede ficará arquivada cópia autêntica do
 documento comprobatório da nacionalidade dos sócios.
 
-## Art. 1.127.
+## Art. 1.127
 
 Não haverá mudança de nacionalidade de sociedade brasileira sem o
 
 consentimento unânime dos sócios ou acionistas.
 
-## Art. 1.128.
+## Art. 1.128
 
-requerimento de autorização de sociedade nacional deve ser acompanhado
+O requerimento de autorização de sociedade nacional deve ser acompanhado
 
 de cópia do contrato, assinada por todos os sócios, ou, tratando-se de sociedade
 anônima, de cópia, autenticada pelos fundadores, dos documentos exigidos pela lei
@@ -10760,7 +10758,7 @@ especial.
 Parágrafo único. Se a sociedade tiver sido constituída por escritura pública,
 bastará juntar-se ao requerimento a respectiva certidão.
 
-## Art. 1.129.
+## Art. 1.129
 
 Ao Poder Executivo é facultado exigir que se procedam a alterações ou
 
@@ -10768,13 +10766,13 @@ aditamento no contrato ou no estatuto, devendo os sócios, ou, tratando-se de so
 anônima, os fundadores, cumprir as formalidades legais para revisão dos atos
 constitutivos, e juntar ao processo prova regular.
 
-## Art. 1.130.
+## Art. 1.130
 
 Ao Poder Executivo é facultado recusar a autorização, se a sociedade
 
 não atender às condições econômicas, financeiras ou jurídicas especificadas em lei.
 
-## Art. 1.131.
+## Art. 1.131
 
 Expedido o decreto de autorização, cumprirá à sociedade publicar os
 
@@ -10785,7 +10783,7 @@ constitutivos da sociedade.
 Parágrafo único. A sociedade promoverá, também no órgão oficial da União e no
 prazo de trinta dias, a publicação do termo de inscrição.
 
-## Art. 1.132.
+## Art. 1.132
 
 As sociedades anônimas nacionais, que dependam de autorização do Poder
 
@@ -10802,7 +10800,7 @@ o
 Obtida a autorização e constituída a sociedade,
 proceder-se-á à inscrição dos seus atos constitutivos.
 
-## Art. 1.133.
+## Art. 1.133
 
 Dependem de aprovação as modificações do contrato ou do estatuto de
 
@@ -10811,7 +10809,7 @@ capital social, em virtude de utilização de reservas ou reavaliação do ativo
 
 ### Seção III — Da Sociedade Estrangeira
 
-## Art. 1.134.
+## Art. 1.134
 
 A sociedade estrangeira, qualquer que seja o seu objeto, não pode, sem
 
@@ -10845,7 +10843,7 @@ Os documentos serão autenticados, de conformidade com a lei
 nacional da sociedade requerente, legalizados no consulado brasileiro da respectiva sede e
 acompanhados de tradução em vernáculo.
 
-## Art. 1.135.
+## Art. 1.135
 
 É facultado ao Poder Executivo, para conceder a autorização, estabelecer
 
@@ -10857,7 +10855,7 @@ cabendo à sociedade promover a publicação dos atos referidos no art. 1.131 e 
 o
 do art. 1.134.
 
-## Art. 1.136.
+## Art. 1.136
 
 A sociedade autorizada não pode iniciar sua atividade antes de inscrita no
 
@@ -10890,7 +10888,7 @@ o
 Inscrita a sociedade, promover-se-á a publicação determinada
 no parágrafo único do art. 1.131.
 
-## Art. 1.137.
+## Art. 1.137
 
 A sociedade estrangeira autorizada a funcionar ficará sujeita às leis e
 
@@ -10900,7 +10898,7 @@ Parágrafo único. A sociedade estrangeira funcionará no território nacional c
 nome que tiver em seu país de origem, podendo acrescentar as palavras "do
 Brasil" ou "para o Brasil".
 
-## Art. 1.138.
+## Art. 1.138
 
 A sociedade estrangeira autorizada a funcionar é obrigada a ter,
 
@@ -10910,13 +10908,13 @@ receber citação judicial pela sociedade.
 Parágrafo único. O representante somente pode agir perante terceiros depois de
 arquivado e averbado o instrumento de sua nomeação.
 
-## Art. 1.139.
+## Art. 1.139
 
 Qualquer modificação no contrato ou no estatuto dependerá da aprovação
 
 do Poder Executivo, para produzir efeitos no território nacional.
 
-## Art. 1.140.
+## Art. 1.140
 
 A sociedade estrangeira deve, sob pena de lhe ser cassada a autorização,
 
@@ -10928,7 +10926,7 @@ Parágrafo único. Sob pena, também, de lhe ser cassada a autorização, a soci
 estrangeira deverá publicar o balanço patrimonial e o de resultado econômico das
 sucursais, filiais ou agências existentes no País.
 
-## Art. 1.141.
+## Art. 1.141
 
 Mediante autorização do Poder Executivo, a sociedade estrangeira admitida
 
@@ -10956,7 +10954,7 @@ publicação do respectivo termo.
 
 # CAPÍTULO ÚNICO — DISPOSIÇÕES GERAIS
 
-## Art. 1.142.
+## Art. 1.142
 
 Considera-se estabelecimento todo complexo de bens organizado, para
 
@@ -10984,21 +10982,21 @@ do art. 3º da Lei nº 13.874, de 20 de setembro de 2019.
 (Incluído pela Lei nº
 14.382, de 2022)
 
-## Art. 1.143.
+## Art. 1.143
 
 Pode o estabelecimento ser objeto unitário de direitos e de negócios
 
 jurídicos, translativos ou constitutivos, que sejam compatíveis com a sua natureza.
 
-## Art. 1.144.
+## Art. 1.144
 
-contrato que tenha por objeto a alienação, o usufruto ou arrendamento
+O contrato que tenha por objeto a alienação, o usufruto ou arrendamento
 
 do estabelecimento, só produzirá efeitos quanto a terceiros depois de averbado à margem
 da inscrição do empresário, ou da sociedade empresária, no Registro Público de
 Empresas Mercantis, e de publicado na imprensa oficial.
 
-## Art. 1.145.
+## Art. 1.145
 
 Se ao alienante não restarem bens suficientes para solver o seu passivo, a
 
@@ -11006,15 +11004,15 @@ eficácia da alienação do estabelecimento depende do pagamento de todos os cre
 do consentimento destes, de modo expresso ou tácito, em trinta dias a partir de sua
 notificação.
 
-## Art. 1.146.
+## Art. 1.146
 
-adquirente do estabelecimento responde pelo pagamento dos débitos
+O adquirente do estabelecimento responde pelo pagamento dos débitos
 
 anteriores à transferência, desde que regularmente contabilizados, continuando o devedor
 primitivo solidariamente obrigado pelo prazo de um ano, a partir, quanto aos créditos
 vencidos, da publicação, e, quanto aos outros, da data do vencimento.
 
-## Art. 1.147.
+## Art. 1.147
 
 Não havendo autorização expressa, o alienante do estabelecimento não
 
@@ -11023,7 +11021,7 @@ pode fazer concorrência ao adquirente, nos cinco anos subseqüentes à transfer
 Parágrafo único. No caso de arrendamento ou usufruto do estabelecimento, a
 proibição prevista neste artigo persistirá durante o prazo do contrato.
 
-## Art. 1.148.
+## Art. 1.148
 
 Salvo disposição em contrário, a transferência importa a sub-rogação
 
@@ -11032,7 +11030,7 @@ tiverem caráter pessoal, podendo os terceiros rescindir o contrato em noventa d
 contar da publicação da transferência, se ocorrer justa causa, ressalvada, neste caso,
 a responsabilidade do alienante.
 
-## Art. 1.149.
+## Art. 1.149
 
 A cessão dos créditos referentes ao estabelecimento transferido
 
@@ -11043,17 +11041,17 @@ da transferência, mas o devedor ficará exonerado se de boa-fé pagar ao cedent
 
 # CAPÍTULO I — Do Registro
 
-## Art. 1.150.
+## Art. 1.150
 
-empresário e a sociedade empresária vinculam-se ao Registro Público de
+O empresário e a sociedade empresária vinculam-se ao Registro Público de
 
 Empresas Mercantis a cargo das Juntas Comerciais, e a sociedade simples ao Registro Civil
 das Pessoas Jurídicas, o qual deverá obedecer às normas fixadas para aquele registro,
 se a sociedade simples adotar um dos tipos de sociedade empresária.
 
-## Art. 1.151.
+## Art. 1.151
 
-registro dos atos sujeitos à formalidade exigida no artigo antecedente
+O registro dos atos sujeitos à formalidade exigida no artigo antecedente
 
 será requerido pela pessoa obrigada em lei, e, no caso de omissão ou demora, pelo sócio
 ou qualquer interessado.
@@ -11073,7 +11071,7 @@ o
 As pessoas obrigadas a requerer o registro responderão por
 perdas e danos, em caso de omissão ou demora.
 
-## Art. 1.152.
+## Art. 1.152
 
 Cabe ao órgão incumbido do registro verificar a regularidade das
 
@@ -11097,7 +11095,7 @@ publicado por três vezes, ao menos, devendo mediar, entre a data da primeira in
 a da realização da assembléia, o prazo mínimo de oito dias, para a primeira
 convocação, e de cinco dias, para as posteriores.
 
-## Art. 1.153.
+## Art. 1.153
 
 Cumpre à autoridade competente, antes de efetivar o registro, verificar a
 
@@ -11107,9 +11105,9 @@ observância das prescrições legais concernentes ao ato ou aos documentos apre
 Parágrafo único. Das irregularidades encontradas deve ser notificado o requerente,
 que, se for o caso, poderá saná-las, obedecendo às formalidades da lei.
 
-## Art. 1.154.
+## Art. 1.154
 
-ato sujeito a registro, ressalvadas disposições especiais da lei, não
+O ato sujeito a registro, ressalvadas disposições especiais da lei, não
 
 pode, antes do cumprimento das respectivas formalidades, ser oposto a terceiro, salvo
 prova de que este o conhecia.
@@ -11119,7 +11117,7 @@ referidas formalidades.
 
 # CAPÍTULO II — DO NOME EMPRESARIAL
 
-## Art. 1.155.
+## Art. 1.155
 
 Considera-se nome empresarial a firma ou a denominação adotada, de
 
@@ -11128,14 +11126,14 @@ conformidade com este Capítulo, para o exercício de empresa.
 Parágrafo único. Equipara-se ao nome empresarial, para os efeitos da proteção da
 lei, a denominação das sociedades simples, associações e fundações.
 
-## Art. 1.156.
+## Art. 1.156
 
-empresário opera sob firma constituída por seu nome, completo ou
+O empresário opera sob firma constituída por seu nome, completo ou
 
 abreviado, aditando-lhe, se quiser, designação mais precisa da sua pessoa ou do gênero
 de atividade.
 
-## Art. 1.157.
+## Art. 1.157
 
 A sociedade em que houver sócios de responsabilidade ilimitada operará
 
@@ -11146,7 +11144,7 @@ Parágrafo único. Ficam solidária e ilimitadamente responsáveis pelas obriga�
 contraídas sob a firma social aqueles que, por seus nomes, figurarem na firma da
 sociedade de que trata este artigo.
 
-## Art. 1.158.
+## Art. 1.158
 
 Pode a sociedade limitada adotar firma ou denominação, integradas pela
 
@@ -11168,13 +11166,13 @@ A omissão da palavra "limitada" determina a
 responsabilidade solidária e ilimitada dos administradores que assim empregarem a firma
 ou a denominação da sociedade.
 
-## Art. 1.159.
+## Art. 1.159
 
 A sociedade cooperativa funciona sob denominação integrada pelo vocábulo
 
 "cooperativa".
 
-## Art. 1.160.
+## Art. 1.160
 
 A sociedade anônima opera sob denominação integrada
 
@@ -11186,7 +11184,7 @@ abreviadamente, facultada a designação do objeto social.
 Parágrafo único. Pode constar da denominação o nome do fundador, acionista, ou
 pessoa que haja concorrido para o bom êxito da formação da empresa.
 
-## Art. 1.161.
+## Art. 1.161
 
 A sociedade em comandita por ações pode, em lugar de
 
@@ -11195,36 +11193,36 @@ facultada a designação do objeto social.
 (Redação dada pela Lei nº
 14.382, de 2022)
 
-## Art. 1.162.
+## Art. 1.162
 
 A sociedade em conta de participação não pode ter firma ou
 
 denominação.
 
-## Art. 1.163.
+## Art. 1.163
 
-nome de empresário deve distinguir-se de qualquer outro já inscrito no
+O nome de empresário deve distinguir-se de qualquer outro já inscrito no
 
 mesmo registro.
 
 Parágrafo único. Se o empresário tiver nome idêntico ao de outros já inscritos,
 deverá acrescentar designação que o distinga.
 
-## Art. 1.164.
+## Art. 1.164
 
-nome empresarial não pode ser objeto de alienação.
+O nome empresarial não pode ser objeto de alienação.
 
 Parágrafo único. O adquirente de estabelecimento, por ato entre vivos, pode, se o
 contrato o permitir, usar o nome do alienante, precedido do seu próprio, com a
 qualificação de sucessor.
 
-## Art. 1.165.
+## Art. 1.165
 
-nome de sócio que vier a falecer, for excluído ou se retirar, não pode
+O nome de sócio que vier a falecer, for excluído ou se retirar, não pode
 
 ser conservado na firma social.
 
-## Art. 1.166.
+## Art. 1.166
 
 A inscrição do empresário, ou dos atos constitutivos das pessoas
 
@@ -11234,13 +11232,13 @@ exclusivo do nome nos limites do respectivo Estado.
 Parágrafo único. O uso previsto neste artigo estender-se-á a todo o território
 nacional, se registrado na forma da lei especial.
 
-## Art. 1.167.
+## Art. 1.167
 
 Cabe ao prejudicado, a qualquer tempo, ação para anular a inscrição do
 
 nome empresarial feita com violação da lei ou do contrato.
 
-## Art. 1.168.
+## Art. 1.168
 
 A inscrição do nome empresarial será cancelada, a requerimento de
 
@@ -11251,22 +11249,22 @@ quando ultimar-se a liquidação da sociedade que o inscreveu.
 
 ### Seção I — Disposições Gerais
 
-## Art. 1.169.
+## Art. 1.169
 
-preposto não pode, sem autorização escrita, fazer-se substituir no
+O preposto não pode, sem autorização escrita, fazer-se substituir no
 
 desempenho da preposição, sob pena de responder pessoalmente pelos atos do substituto e
 pelas obrigações por ele contraídas.
 
-## Art. 1.170.
+## Art. 1.170
 
-preposto, salvo autorização expressa, não pode negociar por conta
+O preposto, salvo autorização expressa, não pode negociar por conta
 
 própria ou de terceiro, nem participar, embora indiretamente, de operação do mesmo
 gênero da que lhe foi cometida, sob pena de responder por perdas e danos e de serem
 retidos pelo preponente os lucros da operação.
 
-## Art. 1.171.
+## Art. 1.171
 
 Considera-se perfeita a entrega de papéis, bens ou valores ao preposto,
 
@@ -11275,13 +11273,13 @@ para reclamação.
 
 ### Seção II — Do Gerente
 
-## Art. 1.172.
+## Art. 1.172
 
 Considera-se gerente o preposto permanente no exercício da empresa, na
 
 sede desta, ou em sucursal, filial ou agência.
 
-## Art. 1.173.
+## Art. 1.173
 
 Quando a lei não exigir poderes especiais, considera-se o gerente
 
@@ -11291,7 +11289,7 @@ outorgados.
 Parágrafo único. Na falta de estipulação diversa, consideram-se solidários os
 poderes conferidos a dois ou mais gerentes.
 
-## Art. 1.174.
+## Art. 1.174
 
 As limitações contidas na outorga de poderes, para serem opostas a
 
@@ -11302,23 +11300,23 @@ Parágrafo único. Para o mesmo efeito e com idêntica ressalva, deve a modifica
 ou revogação do mandato ser arquivada e averbada no Registro Público de Empresas
 Mercantis.
 
-## Art. 1.175.
+## Art. 1.175
 
-preponente responde com o gerente pelos atos que este pratique em seu
+O preponente responde com o gerente pelos atos que este pratique em seu
 
 próprio nome, mas à conta daquele.
 
-## Art. 1.176.
+## Art. 1.176
 
-gerente pode estar em juízo em nome do preponente, pelas obrigações
+O gerente pode estar em juízo em nome do preponente, pelas obrigações
 
 resultantes do exercício da sua função.
 
 ### Seção III — Do Contabilista e outros Auxiliares
 
-## Art. 1.177.
+## Art. 1.177
 
-s assentos lançados nos livros ou fichas do preponente, por qualquer dos
+Os assentos lançados nos livros ou fichas do preponente, por qualquer dos
 
 prepostos encarregados de sua escrituração, produzem, salvo se houver procedido de
 má-fé, os mesmos efeitos como se o fossem por aquele.
@@ -11327,9 +11325,9 @@ Parágrafo único. No exercício de suas funções, os prepostos são pessoalmen
 responsáveis, perante os preponentes, pelos atos culposos; e, perante terceiros,
 solidariamente com o preponente, pelos atos dolosos.
 
-## Art. 1.178.
+## Art. 1.178
 
-s preponentes são responsáveis pelos atos de quaisquer prepostos,
+Os preponentes são responsáveis pelos atos de quaisquer prepostos,
 
 praticados nos seus estabelecimentos e relativos à atividade da empresa, ainda que não
 autorizados por escrito.
@@ -11340,9 +11338,9 @@ pode ser suprido pela certidão ou cópia autêntica do seu teor.
 
 # CAPÍTULO IV — Da Escrituração
 
-## Art. 1.179.
+## Art. 1.179
 
-empresário e a sociedade empresária são obrigados a seguir um sistema
+O empresário e a sociedade empresária são obrigados a seguir um sistema
 
 de contabilidade, mecanizado ou não, com base na escrituração uniforme de seus livros,
 em correspondência com a documentação respectiva, e a levantar anualmente o balanço
@@ -11358,7 +11356,7 @@ o
 É dispensado das exigências deste artigo o pequeno
 empresário a que se refere o art. 970.
 
-## Art. 1.180.
+## Art. 1.180
 
 Além dos demais livros exigidos por lei, é indispensável o Diário, que
 
@@ -11367,7 +11365,7 @@ pode ser substituído por fichas no caso de escrituração mecanizada ou eletrô
 Parágrafo único. A adoção de fichas não dispensa o uso de livro apropriado para o
 lançamento do balanço patrimonial e do de resultado econômico.
 
-## Art. 1.181.
+## Art. 1.181
 
 Salvo disposição especial de lei, os livros obrigatórios e, se for o
 
@@ -11378,14 +11376,14 @@ Parágrafo único. A autenticação não se fará sem que esteja inscrito o
 empresário, ou a sociedade empresária, que poderá fazer autenticar livros não
 obrigatórios.
 
-## Art. 1.182.
+## Art. 1.182
 
 Sem prejuízo do disposto no art. 1.174, a escrituração ficará sob a
 
 responsabilidade de contabilista legalmente habilitado, salvo se nenhum houver na
 localidade.
 
-## Art. 1.183.
+## Art. 1.183
 
 A escrituração será feita em idioma e moeda corrente nacionais e em
 
@@ -11395,7 +11393,7 @@ entrelinhas, borrões, rasuras, emendas ou transportes para as margens.
 Parágrafo único. É permitido o uso de código de números ou de abreviaturas, que
 constem de livro próprio, regularmente autenticado.
 
-## Art. 1.184.
+## Art. 1.184
 
 No Diário serão lançadas, com individuação, clareza e caracterização
 
@@ -11416,16 +11414,16 @@ Serão lançados no Diário o balanço patrimonial e o de
 resultado econômico, devendo ambos ser assinados por técnico em Ciências Contábeis
 legalmente habilitado e pelo empresário ou sociedade empresária.
 
-## Art. 1.185.
+## Art. 1.185
 
-empresário ou sociedade empresária que adotar o sistema de fichas de
+O empresário ou sociedade empresária que adotar o sistema de fichas de
 
 lançamentos poderá substituir o livro Diário pelo livro Balancetes Diários e
 Balanços, observadas as mesmas formalidades extrínsecas exigidas para aquele.
 
-## Art. 1.186.
+## Art. 1.186
 
-livro Balancetes Diários e Balanços será escriturado de modo que
+O livro Balancetes Diários e Balanços será escriturado de modo que
 
 registre:
 
@@ -11434,7 +11432,7 @@ saldo, em forma de balancetes diários;
 
 II - o balanço patrimonial e o de resultado econômico, no encerramento do exercício.
 
-## Art. 1.187.
+## Art. 1.187
 
 Na coleta dos elementos para o inventário serão observados os critérios
 
@@ -11474,9 +11472,9 @@ estatuto;
 III - a quantia efetivamente paga a título de aviamento de estabelecimento adquirido
 pelo empresário ou sociedade.
 
-## Art. 1.188.
+## Art. 1.188
 
-balanço patrimonial deverá exprimir, com fidelidade e clareza, a
+O balanço patrimonial deverá exprimir, com fidelidade e clareza, a
 
 situação real da empresa e, atendidas as peculiaridades desta, bem como as disposições
 das leis especiais, indicará, distintamente, o ativo e o passivo.
@@ -11484,14 +11482,14 @@ das leis especiais, indicará, distintamente, o ativo e o passivo.
 Parágrafo único. Lei especial disporá sobre as informações que acompanharão o
 balanço patrimonial, em caso de sociedades coligadas.
 
-## Art. 1.189.
+## Art. 1.189
 
-balanço de resultado econômico, ou demonstração da conta de lucros e
+O balanço de resultado econômico, ou demonstração da conta de lucros e
 
 perdas, acompanhará o balanço patrimonial e dele constarão crédito e débito, na forma
 da lei especial.
 
-## Art. 1.190.
+## Art. 1.190
 
 Ressalvados os casos previstos em lei, nenhuma autoridade, juiz ou
 
@@ -11499,9 +11497,9 @@ tribunal, sob qualquer pretexto, poderá fazer ou ordenar diligência para verif
 empresário ou a sociedade empresária observam, ou não, em seus livros e fichas, as
 formalidades prescritas em lei.
 
-## Art. 1.191.
+## Art. 1.191
 
-juiz só poderá autorizar a exibição integral dos livros e papéis de
+O juiz só poderá autorizar a exibição integral dos livros e papéis de
 
 escrituração quando necessária para resolver questões relativas a sucessão, comunhão
 ou sociedade, administração ou gestão à conta de outrem, ou em caso de falência.
@@ -11519,7 +11517,7 @@ o
 Achando-se os livros em outra jurisdição, nela se fará o
 exame, perante o respectivo juiz.
 
-## Art. 1.192.
+## Art. 1.192
 
 Recusada a apresentação dos livros, nos casos do artigo antecedente,
 
@@ -11531,7 +11529,7 @@ verdadeiro o alegado pela parte contrária para se provar pelos livros.
 Parágrafo único. A confissão resultante da recusa pode ser elidida por prova
 documental em contrário.
 
-## Art. 1.193.
+## Art. 1.193
 
 As restrições estabelecidas neste Capítulo ao exame da escrituração,
 
@@ -11539,15 +11537,15 @@ em parte ou por inteiro, não se aplicam às autoridades fazendárias, no exerc�
 fiscalização do pagamento de impostos, nos termos estritos das respectivas leis
 especiais.
 
-## Art. 1.194.
+## Art. 1.194
 
-empresário e a sociedade empresária são obrigados a conservar em boa
+O empresário e a sociedade empresária são obrigados a conservar em boa
 
 guarda toda a escrituração, correspondência e mais papéis concernentes à sua
 atividade, enquanto não ocorrer prescrição ou decadência no tocante aos atos neles
 consignados.
 
-## Art. 1.195.
+## Art. 1.195
 
 As disposições deste Capítulo aplicam-se às sucursais, filiais ou
 
@@ -11559,20 +11557,20 @@ agências, no Brasil, do empresário ou sociedade com sede em país estrangeiro.
 
 # CAPÍTULO I — Da Posse e sua Classificação
 
-## Art. 1.196.
+## Art. 1.196
 
 Considera-se possuidor todo aquele que tem de fato o exercício, pleno ou
 
 não, de algum dos poderes inerentes à propriedade.
 
-## Art. 1.197.
+## Art. 1.197
 
 A posse direta, de pessoa que tem a coisa em seu poder, temporariamente, em
 
 virtude de direito pessoal, ou real, não anula a indireta, de quem aquela foi havida,
 podendo o possuidor direto defender a sua posse contra o indireto.
 
-## Art. 1.198.
+## Art. 1.198
 
 Considera-se detentor aquele que, achando-se em relação de dependência
 
@@ -11583,17 +11581,17 @@ Parágrafo único. Aquele que começou a comportar-se do modo como prescreve est
 artigo, em relação ao bem e à outra pessoa, presume-se detentor, até que prove o
 contrário.
 
-## Art. 1.199.
+## Art. 1.199
 
 Se duas ou mais pessoas possuírem coisa indivisa, poderá cada uma exercer
 
 sobre ela atos possessórios, contanto que não excluam os dos outros compossuidores.
 
-## Art. 1.200.
+## Art. 1.200
 
 É justa a posse que não for violenta, clandestina ou precária.
 
-## Art. 1.201.
+## Art. 1.201
 
 É de boa-fé a posse, se o possuidor ignora o vício, ou o obstáculo que
 
@@ -11602,13 +11600,13 @@ impede a aquisição da coisa.
 Parágrafo único. O possuidor com justo título tem por si a presunção de boa-fé,
 salvo prova em contrário, ou quando a lei expressamente não admite esta presunção.
 
-## Art. 1.202.
+## Art. 1.202
 
 A posse de boa-fé só perde este caráter no caso e desde o momento em que
 
 as circunstâncias façam presumir que o possuidor não ignora que possui indevidamente.
 
-## Art. 1.203.
+## Art. 1.203
 
 Salvo prova em contrário, entende-se manter a posse o mesmo caráter com
 
@@ -11616,13 +11614,13 @@ que foi adquirida.
 
 # CAPÍTULO II — Da Aquisição da Posse
 
-## Art. 1.204.
+## Art. 1.204
 
 Adquire-se a posse desde o momento em que se torna possível o exercício,
 
 em nome próprio, de qualquer dos poderes inerentes à propriedade.
 
-## Art. 1.205.
+## Art. 1.205
 
 A posse pode ser adquirida:
 
@@ -11630,26 +11628,26 @@ I - pela própria pessoa que a pretende ou por seu representante;
 
 II - por terceiro sem mandato, dependendo de ratificação.
 
-## Art. 1.206.
+## Art. 1.206
 
 A posse transmite-se aos herdeiros ou legatários do possuidor com os
 
 mesmos caracteres.
 
-## Art. 1.207.
+## Art. 1.207
 
-sucessor universal continua de direito a posse do seu antecessor; e ao
+O sucessor universal continua de direito a posse do seu antecessor; e ao
 
 sucessor singular é facultado unir sua posse à do antecessor, para os efeitos legais.
 
-## Art. 1.208.
+## Art. 1.208
 
 Não induzem posse os atos de mera permissão ou tolerância assim como
 
 não autorizam a sua aquisição os atos violentos, ou clandestinos, senão depois de
 cessar a violência ou a clandestinidade.
 
-## Art. 1.209.
+## Art. 1.209
 
 A posse do imóvel faz presumir, até prova contrária, a das coisas
 
@@ -11657,9 +11655,9 @@ móveis que nele estiverem.
 
 # CAPÍTULO III — Dos Efeitos da Posse
 
-## Art. 1.210.
+## Art. 1.210
 
-possuidor tem direito a ser mantido na posse em caso de turbação,
+O possuidor tem direito a ser mantido na posse em caso de turbação,
 
 restituído no de esbulho, e segurado de violência iminente, se tiver justo receio de ser
 molestado.
@@ -11676,29 +11674,29 @@ o
 Não obsta à manutenção ou reintegração na posse a
 alegação de propriedade, ou de outro direito sobre a coisa.
 
-## Art. 1.211.
+## Art. 1.211
 
 Quando mais de uma pessoa se disser possuidora, manter-se-á
 
 provisoriamente a que tiver a coisa, se não estiver manifesto que a obteve de alguma das
 outras por modo vicioso.
 
-## Art. 1.212.
+## Art. 1.212
 
-possuidor pode intentar a ação de esbulho, ou a de indenização,
+O possuidor pode intentar a ação de esbulho, ou a de indenização,
 
 contra o terceiro, que recebeu a coisa esbulhada sabendo que o era.
 
-## Art. 1.213.
+## Art. 1.213
 
-disposto nos artigos antecedentes não se aplica às servidões não
+O disposto nos artigos antecedentes não se aplica às servidões não
 
 aparentes, salvo quando os respectivos títulos provierem do possuidor do prédio
 serviente, ou daqueles de quem este o houve.
 
-## Art. 1.214.
+## Art. 1.214
 
-possuidor de boa-fé tem direito, enquanto ela durar, aos frutos
+O possuidor de boa-fé tem direito, enquanto ela durar, aos frutos
 
 percebidos.
 
@@ -11706,48 +11704,48 @@ Parágrafo único. Os frutos pendentes ao tempo em que cessar a boa-fé devem se
 restituídos, depois de deduzidas as despesas da produção e custeio; devem ser também
 restituídos os frutos colhidos com antecipação.
 
-## Art. 1.215.
+## Art. 1.215
 
-s frutos naturais e industriais reputam-se colhidos e percebidos, logo que
+Os frutos naturais e industriais reputam-se colhidos e percebidos, logo que
 
 são separados; os civis reputam-se percebidos dia por dia.
 
-## Art. 1.216.
+## Art. 1.216
 
-possuidor de má-fé responde por todos os frutos colhidos e percebidos,
+O possuidor de má-fé responde por todos os frutos colhidos e percebidos,
 
 bem como pelos que, por culpa sua, deixou de perceber, desde o momento em que se
 constituiu de má-fé; tem direito às despesas da produção e custeio.
 
-## Art. 1.217.
+## Art. 1.217
 
-possuidor de boa-fé não responde pela perda ou deterioração da coisa,
+O possuidor de boa-fé não responde pela perda ou deterioração da coisa,
 
 a que não der causa.
 
-## Art. 1.218.
+## Art. 1.218
 
-possuidor de má-fé responde pela perda, ou deterioração da coisa,
+O possuidor de má-fé responde pela perda, ou deterioração da coisa,
 
 ainda que acidentais, salvo se provar que de igual modo se teriam dado, estando ela na
 posse do reivindicante.
 
-## Art. 1.219.
+## Art. 1.219
 
-possuidor de boa-fé tem direito à indenização das benfeitorias
+O possuidor de boa-fé tem direito à indenização das benfeitorias
 
 necessárias e úteis, bem como, quanto às voluptuárias, se não lhe forem pagas, a
 levantá-las, quando o puder sem detrimento da coisa, e poderá exercer o direito de
 retenção pelo valor das benfeitorias necessárias e úteis.
 
-## Art. 1.220.
+## Art. 1.220
 
 Ao possuidor de má-fé serão ressarcidas somente as benfeitorias
 
 necessárias; não lhe assiste o direito de retenção pela importância destas, nem o de
 levantar as voluptuárias.
 
-## Art. 1.221.
+## Art. 1.221
 
 As benfeitorias compensam-se com os danos, e só obrigam ao ressarcimento
 
@@ -11755,22 +11753,22 @@ se ao tempo da evicção ainda existirem.
 (Vide Decreto-lei nº 4.037, de
 1942)
 
-## Art. 1.222.
+## Art. 1.222
 
-reivindicante, obrigado a indenizar as benfeitorias ao possuidor de
+O reivindicante, obrigado a indenizar as benfeitorias ao possuidor de
 
 má-fé, tem o direito de optar entre o seu valor atual e o seu custo; ao possuidor de
 boa-fé indenizará pelo valor atual.
 
 # CAPÍTULO IV — Da Perda da Posse
 
-## Art. 1.223.
+## Art. 1.223
 
 Perde-se a posse quando cessa, embora contra a vontade do possuidor, o
 
 poder sobre o bem, ao qual se refere o art. 1.196.
 
-## Art. 1.224.
+## Art. 1.224
 
 Só se considera perdida a posse para quem não presenciou o esbulho,
 
@@ -11781,7 +11779,7 @@ violentamente repelido.
 
 # CAPÍTULO ÚNICO — Disposições Gerais
 
-## Art. 1.225.
+## Art. 1.225
 
 São direitos reais:
 
@@ -11824,15 +11822,15 @@ entidades delegadas e a respectiva cessão e promessa de cessão.
 (Incluído pela Lei
 nº 14.620, de 2023)
 
-## Art. 1.226.
+## Art. 1.226
 
-s direitos reais sobre coisas móveis, quando constituídos, ou
+Os direitos reais sobre coisas móveis, quando constituídos, ou
 
 transmitidos por atos entre vivos, só se adquirem com a tradição.
 
-## Art. 1.227.
+## Art. 1.227
 
-s direitos reais sobre imóveis constituídos, ou transmitidos por atos
+Os direitos reais sobre imóveis constituídos, ou transmitidos por atos
 
 entre vivos, só se adquirem com o registro no Cartório de Registro de Imóveis dos
 referidos títulos (arts. 1.245 a 1.247), salvo os casos expressos neste Código.
@@ -11843,9 +11841,9 @@ referidos títulos (arts. 1.245 a 1.247), salvo os casos expressos neste Código
 
 ### Seção I — Disposições Preliminares
 
-## Art. 1.228.
+## Art. 1.228
 
-proprietário tem a faculdade de usar, gozar e dispor da coisa, e o
+O proprietário tem a faculdade de usar, gozar e dispor da coisa, e o
 
 direito de reavê-la do poder de quem quer que injustamente a possua ou detenha.
 
@@ -11882,7 +11880,7 @@ No caso do parágrafo antecedente, o juiz fixará a justa
 indenização devida ao proprietário; pago o preço, valerá a sentença como título
 para o registro do imóvel em nome dos possuidores.
 
-## Art. 1.229.
+## Art. 1.229
 
 A propriedade do solo abrange a do espaço aéreo e subsolo
 
@@ -11890,7 +11888,7 @@ correspondentes, em altura e profundidade úteis ao seu exercício, não podendo
 proprietário opor-se a atividades que sejam realizadas, por terceiros, a uma altura ou
 profundidade tais, que não tenha ele interesse legítimo em impedi-las.
 
-## Art. 1.230.
+## Art. 1.230
 
 A propriedade do solo não abrange as jazidas, minas e demais recursos
 
@@ -11901,19 +11899,19 @@ Parágrafo único. O proprietário do solo tem o direito de explorar os recursos
 minerais de emprego imediato na construção civil, desde que não submetidos a
 transformação industrial, obedecido o disposto em lei especial.
 
-## Art. 1.231.
+## Art. 1.231
 
 A propriedade presume-se plena e exclusiva, até prova em contrário.
 
-## Art. 1.232.
+## Art. 1.232
 
-s frutos e mais produtos da coisa pertencem, ainda quando separados, ao
+Os frutos e mais produtos da coisa pertencem, ainda quando separados, ao
 
 seu proprietário, salvo se, por preceito jurídico especial, couberem a outrem.
 
 ### Seção II — Da Descoberta
 
-## Art. 1.233.
+## Art. 1.233
 
 Quem quer que ache coisa alheia perdida há de restituí-la ao dono ou
 
@@ -11922,7 +11920,7 @@ legítimo possuidor.
 Parágrafo único. Não o conhecendo, o descobridor fará por encontrá-lo, e, se não
 o encontrar, entregará a coisa achada à autoridade competente.
 
-## Art. 1.234.
+## Art. 1.234
 
 Aquele que restituir a coisa achada, nos termos do artigo antecedente,
 
@@ -11934,20 +11932,20 @@ Parágrafo único. Na determinação do montante da recompensa, considerar-se-á
 esforço desenvolvido pelo descobridor para encontrar o dono, ou o legítimo possuidor, as
 possibilidades que teria este de encontrar a coisa e a situação econômica de ambos.
 
-## Art. 1.235.
+## Art. 1.235
 
-descobridor responde pelos prejuízos causados ao proprietário ou
+O descobridor responde pelos prejuízos causados ao proprietário ou
 
 possuidor legítimo, quando tiver procedido com dolo.
 
-## Art. 1.236.
+## Art. 1.236
 
 A autoridade competente dará conhecimento da descoberta através da
 
 imprensa e outros meios de informação, somente expedindo editais se o seu valor os
 comportar.
 
-## Art. 1.237.
+## Art. 1.237
 
 Decorridos sessenta dias da divulgação da notícia pela imprensa, ou do
 
@@ -11963,7 +11961,7 @@ favor de quem a achou.
 
 ### Seção I — Da Usucapião
 
-## Art. 1.238.
+## Art. 1.238
 
 Aquele que, por quinze anos, sem interrupção, nem oposição, possuir
 
@@ -11975,7 +11973,7 @@ Parágrafo único. O prazo estabelecido neste artigo reduzir-se-á a dez anos se
 possuidor houver estabelecido no imóvel a sua moradia habitual, ou nele realizado obras
 ou serviços de caráter produtivo.
 
-## Art. 1.239.
+## Art. 1.239
 
 Aquele que, não sendo proprietário de imóvel rural ou urbano, possua
 
@@ -11983,7 +11981,7 @@ como sua, por cinco anos ininterruptos, sem oposição, área de terra em zona r
 superior a cinqüenta hectares, tornando-a produtiva por seu trabalho ou de sua família,
 tendo nela sua moradia, adquirir-lhe-á a propriedade.
 
-## Art. 1.240.
+## Art. 1.240
 
 Aquele que possuir, como sua, área urbana de até duzentos e cinqüenta
 
@@ -12003,7 +12001,7 @@ reconhecido ao mesmo possuidor mais de uma vez.
 
 ## Art. 1.240-A
 
-. Aquele
+Aquele
 
 que exercer, por 2 (dois) anos ininterruptamente e sem oposição, posse
 direta, com exclusividade, sobre imóvel urbano de até 250m² (duzentos e
@@ -12025,7 +12023,7 @@ o
 .
 (Incluído pela Lei nº 12.424, de 2011)
 
-## Art. 1.241.
+## Art. 1.241
 
 Poderá o possuidor requerer ao juiz seja declarada adquirida, mediante
 
@@ -12034,7 +12032,7 @@ usucapião, a propriedade imóvel.
 Parágrafo único. A declaração obtida na forma deste artigo constituirá título
 hábil para o registro no Cartório de Registro de Imóveis.
 
-## Art. 1.242.
+## Art. 1.242
 
 Adquire também a propriedade do imóvel aquele que, contínua e
 
@@ -12045,15 +12043,15 @@ houver sido adquirido, onerosamente, com base no registro constante do respectiv
 cartório, cancelada posteriormente, desde que os possuidores nele tiverem estabelecido a
 sua moradia, ou realizado investimentos de interesse social e econômico.
 
-## Art. 1.243.
+## Art. 1.243
 
-possuidor pode, para o fim de contar o tempo exigido pelos artigos
+O possuidor pode, para o fim de contar o tempo exigido pelos artigos
 
 antecedentes, acrescentar à sua posse a dos seus antecessores (art. 1.207), contanto que
 todas sejam contínuas, pacíficas e, nos casos do art. 1.242, com justo título e de
 boa-fé.
 
-## Art. 1.244.
+## Art. 1.244
 
 Estende-se ao possuidor o disposto quanto ao devedor acerca das causas que
 
@@ -12062,7 +12060,7 @@ usucapião.
 
 ### Seção II — Da Aquisição pelo Registro do Título
 
-## Art. 1.245.
+## Art. 1.245
 
 Transfere-se entre vivos a propriedade mediante o registro do título
 
@@ -12079,13 +12077,13 @@ Enquanto não se promover, por meio de ação própria, a
 decretação de invalidade do registro, e o respectivo cancelamento, o adquirente continua
 a ser havido como dono do imóvel.
 
-## Art. 1.246.
+## Art. 1.246
 
-registro é eficaz desde o momento em que se apresentar o título ao
+O registro é eficaz desde o momento em que se apresentar o título ao
 
 oficial do registro, e este o prenotar no protocolo.
 
-## Art. 1.247.
+## Art. 1.247
 
 Se o teor do registro não exprimir a verdade, poderá o interessado
 
@@ -12096,7 +12094,7 @@ independentemente da boa-fé ou do título do terceiro adquirente.
 
 ### Seção III — Da Aquisição por Acessão
 
-## Art. 1.248.
+## Art. 1.248
 
 A acessão pode dar-se:
 
@@ -12112,7 +12110,7 @@ V - por plantações ou construções.
 
 #### Subseção I — Das Ilhas
 
-## Art. 1.249.
+## Art. 1.249
 
 As ilhas que se formarem em correntes comuns ou particulares pertencem aos
 
@@ -12130,9 +12128,9 @@ pertencer aos proprietários dos terrenos à custa dos quais se constituíram.
 
 #### Subseção II — Da Aluvião
 
-## Art. 1.250.
+## Art. 1.250
 
-s acréscimos formados, sucessiva e imperceptivelmente, por depósitos e
+Os acréscimos formados, sucessiva e imperceptivelmente, por depósitos e
 
 aterros naturais ao longo das margens das correntes, ou pelo desvio das águas destas,
 pertencem aos donos dos terrenos marginais, sem indenização.
@@ -12143,7 +12141,7 @@ sobre a antiga margem.
 
 #### Subseção III — Da Avulsão
 
-## Art. 1.251.
+## Art. 1.251
 
 Quando, por força natural violenta, uma porção de terra se destacar de
 
@@ -12156,9 +12154,9 @@ se juntou a porção de terra deverá aquiescer a que se remova a parte acrescid
 
 #### Subseção IV — Do Álveo Abandonado
 
-## Art. 1.252.
+## Art. 1.252
 
-álveo abandonado de corrente pertence aos proprietários ribeirinhos das
+O álveo abandonado de corrente pertence aos proprietários ribeirinhos das
 
 duas margens, sem que tenham indenização os donos dos terrenos por onde as águas
 abrirem novo curso, entendendo-se que os prédios marginais se estendem até o meio do
@@ -12166,20 +12164,20 @@ abrirem novo curso, entendendo-se que os prédios marginais se estendem até o m
 
 #### Subseção V — Das Construções e Plantações
 
-## Art. 1.253.
+## Art. 1.253
 
 Toda construção ou plantação existente em um terreno presume-se feita
 
 pelo proprietário e à sua custa, até que se prove o contrário.
 
-## Art. 1.254.
+## Art. 1.254
 
 Aquele que semeia, planta ou edifica em terreno próprio com sementes,
 
 plantas ou materiais alheios, adquire a propriedade destes; mas fica obrigado a pagar-lhes
 o valor, além de responder por perdas e danos, se agiu de má-fé.
 
-## Art. 1.255.
+## Art. 1.255
 
 Aquele que semeia, planta ou edifica em terreno alheio perde, em proveito
 
@@ -12190,7 +12188,7 @@ Parágrafo único. Se a construção ou a plantação exceder consideravelmente 
 do terreno, aquele que, de boa-fé, plantou ou edificou, adquirirá a propriedade do solo,
 mediante pagamento da indenização fixada judicialmente, se não houver acordo.
 
-## Art. 1.256.
+## Art. 1.256
 
 Se de ambas as partes houve má-fé, adquirirá o proprietário as
 
@@ -12199,9 +12197,9 @@ sementes, plantas e construções, devendo ressarcir o valor das acessões.
 Parágrafo único. Presume-se má-fé no proprietário, quando o trabalho de
 construção, ou lavoura, se fez em sua presença e sem impugnação sua.
 
-## Art. 1.257.
+## Art. 1.257
 
-disposto no artigo antecedente aplica-se ao caso de não pertencerem as
+O disposto no artigo antecedente aplica-se ao caso de não pertencerem as
 
 sementes, plantas ou materiais a quem de boa-fé os empregou em solo alheio.
 
@@ -12209,7 +12207,7 @@ Parágrafo único. O proprietário das sementes, plantas ou materiais poderá co
 proprietário do solo a indenização devida, quando não puder havê-la do plantador ou
 construtor.
 
-## Art. 1.258.
+## Art. 1.258
 
 Se a construção, feita parcialmente em solo próprio, invade solo alheio
 
@@ -12224,7 +12222,7 @@ proporção à vigésima parte deste e o valor da construção exceder considera
 dessa parte e não se puder demolir a porção invasora sem grave prejuízo para a
 construção.
 
-## Art. 1.259.
+## Art. 1.259
 
 Se o construtor estiver de boa-fé, e a invasão do solo alheio exceder a
 
@@ -12238,19 +12236,19 @@ dobro.
 
 ### Seção I — Da Usucapião
 
-## Art. 1.260.
+## Art. 1.260
 
 Aquele que possuir coisa móvel como sua, contínua e incontestadamente
 
 durante três anos, com justo título e boa-fé, adquirir-lhe-á a propriedade.
 
-## Art. 1.261.
+## Art. 1.261
 
 Se a posse da coisa móvel se prolongar por cinco anos, produzirá
 
 usucapião, independentemente de título ou boa-fé.
 
-## Art. 1.262.
+## Art. 1.262
 
 Aplica-se à usucapião das coisas móveis o disposto nos arts. 1.243 e
 
@@ -12258,7 +12256,7 @@ Aplica-se à usucapião das coisas móveis o disposto nos arts. 1.243 e
 
 ### Seção II — Da Ocupação
 
-## Art. 1.263.
+## Art. 1.263
 
 Quem se assenhorear de coisa sem dono para logo lhe adquire a propriedade,
 
@@ -12266,20 +12264,20 @@ não sendo essa ocupação defesa por lei.
 
 ### Seção III — Do Achado do Tesouro
 
-## Art. 1.264.
+## Art. 1.264
 
-depósito antigo de coisas preciosas, oculto e de cujo dono não haja
+O depósito antigo de coisas preciosas, oculto e de cujo dono não haja
 
 memória, será dividido por igual entre o proprietário do prédio e o que achar o
 tesouro casualmente.
 
-## Art. 1.265.
+## Art. 1.265
 
-tesouro pertencerá por inteiro ao proprietário do prédio, se for
+O tesouro pertencerá por inteiro ao proprietário do prédio, se for
 
 achado por ele, ou em pesquisa que ordenou, ou por terceiro não autorizado.
 
-## Art. 1.266.
+## Art. 1.266
 
 Achando-se em terreno aforado, o tesouro será dividido por igual entre o
 
@@ -12287,7 +12285,7 @@ descobridor e o enfiteuta, ou será deste por inteiro quando ele mesmo seja o de
 
 ### Seção IV — Da Tradição
 
-## Art. 1.267.
+## Art. 1.267
 
 A propriedade das coisas não se transfere pelos negócios jurídicos antes
 
@@ -12298,7 +12296,7 @@ pelo constituto possessório; quando cede ao adquirente o direito à restituiç�
 coisa, que se encontra em poder de terceiro; ou quando o adquirente já está na posse da
 coisa, por ocasião do negócio jurídico.
 
-## Art. 1.268.
+## Art. 1.268
 
 Feita por quem não seja proprietário, a tradição não aliena a
 
@@ -12319,13 +12317,13 @@ título um negócio jurídico nulo.
 
 ### Seção V — Da Especificação
 
-## Art. 1.269.
+## Art. 1.269
 
 Aquele que, trabalhando em matéria-prima em parte alheia, obtiver espécie
 
 nova, desta será proprietário, se não se puder restituir à forma anterior.
 
-## Art. 1.270.
+## Art. 1.270
 
 Se toda a matéria for alheia, e não se puder reduzir à forma precedente,
 
@@ -12343,7 +12341,7 @@ da escultura, escritura e outro qualquer trabalho gráfico em relação à maté
 a espécie nova será do especificador, se o seu valor exceder consideravelmente o da
 matéria-prima.
 
-## Art. 1.271.
+## Art. 1.271
 
 Aos prejudicados, nas hipóteses dos arts. 1.269 e 1.270, se ressarcirá o
 
@@ -12353,7 +12351,7 @@ do artigo antecedente, quando irredutível a especificação.
 
 ### Seção VI — Da Confusão, da Comissão e da Adjunção
 
-## Art. 1.272.
+## Art. 1.272
 
 As coisas pertencentes a diversos donos, confundidas, misturadas ou
 
@@ -12371,7 +12369,7 @@ o
 Se uma das coisas puder considerar-se principal, o dono
 sê-lo-á do todo, indenizando os outros.
 
-## Art. 1.273.
+## Art. 1.273
 
 Se a confusão, comissão ou adjunção se operou de má-fé, à outra
 
@@ -12379,7 +12377,7 @@ parte caberá escolher entre adquirir a propriedade do todo, pagando o que não 
 abatida a indenização que lhe for devida, ou renunciar ao que lhe pertencer, caso em que
 será indenizado.
 
-## Art. 1.274.
+## Art. 1.274
 
 Se da união de matérias de natureza diversa se formar espécie nova, à
 
@@ -12387,7 +12385,7 @@ confusão, comissão ou adjunção aplicam-se as normas dos arts. 1.272 e 1.273.
 
 # CAPÍTULO IV — Da Perda da Propriedade
 
-## Art. 1.275.
+## Art. 1.275
 
 Além das causas consideradas neste Código, perde-se a propriedade:
 
@@ -12405,9 +12403,9 @@ Parágrafo único. Nos casos dos incisos I e II, os efeitos da perda da propried
 imóvel serão subordinados ao registro do título transmissivo ou do ato renunciativo no
 Registro de Imóveis.
 
-## Art. 1.276.
+## Art. 1.276
 
-imóvel urbano que o proprietário abandonar, com a intenção de não
+O imóvel urbano que o proprietário abandonar, com a intenção de não
 
 mais o conservar em seu patrimônio, e que se não encontrar na posse de outrem, poderá
 ser arrecadado, como bem vago, e passar, três anos depois, à propriedade do Município
@@ -12429,9 +12427,9 @@ este artigo, quando, cessados os atos de posse, deixar o proprietário de satisf
 
 ### Seção I — Do Uso Anormal da Propriedade
 
-## Art. 1.277.
+## Art. 1.277
 
-proprietário ou o possuidor de um prédio tem o direito de fazer cessar
+O proprietário ou o possuidor de um prédio tem o direito de fazer cessar
 
 as interferências prejudiciais à segurança, ao sossego e à saúde dos que o habitam,
 provocadas pela utilização de propriedade vizinha.
@@ -12441,60 +12439,60 @@ utilização, a localização do prédio, atendidas as normas que distribuem as
 edificações em zonas, e os limites ordinários de tolerância dos moradores da
 vizinhança.
 
-## Art. 1.278.
+## Art. 1.278
 
-direito a que se refere o artigo antecedente não prevalece quando as
+O direito a que se refere o artigo antecedente não prevalece quando as
 
 interferências forem justificadas por interesse público, caso em que o proprietário ou
 o possuidor, causador delas, pagará ao vizinho indenização cabal.
 
-## Art. 1.279.
+## Art. 1.279
 
 Ainda que por decisão judicial devam ser toleradas
 
 as interferências, poderá o vizinho exigir a sua redução, ou eliminação, quando
 estas se tornarem possíveis.
 
-## Art. 1.280.
+## Art. 1.280
 
-proprietário ou o possuidor tem direito a exigir do dono do prédio
+O proprietário ou o possuidor tem direito a exigir do dono do prédio
 
 vizinho a demolição, ou a reparação deste, quando ameace ruína, bem como que lhe
 preste caução pelo dano iminente.
 
-## Art. 1.281.
+## Art. 1.281
 
-proprietário ou o possuidor de um prédio, em que alguém tenha direito
+O proprietário ou o possuidor de um prédio, em que alguém tenha direito
 
 de fazer obras, pode, no caso de dano iminente, exigir do autor delas as necessárias
 garantias contra o prejuízo eventual.
 
 ### Seção II — Das Árvores Limítrofes
 
-## Art. 1.282.
+## Art. 1.282
 
 A árvore, cujo tronco estiver na linha divisória, presume-se pertencer em
 
 comum aos donos dos prédios confinantes.
 
-## Art. 1.283.
+## Art. 1.283
 
 As raízes e os ramos de árvore, que ultrapassarem a estrema do prédio,
 
 poderão ser cortados, até o plano vertical divisório, pelo proprietário do terreno
 invadido.
 
-## Art. 1.284.
+## Art. 1.284
 
-s frutos caídos de árvore do terreno vizinho pertencem ao dono do solo
+Os frutos caídos de árvore do terreno vizinho pertencem ao dono do solo
 
 onde caíram, se este for de propriedade particular.
 
 ### Seção III — Da Passagem Forçada
 
-## Art. 1.285.
+## Art. 1.285
 
-dono do prédio que não tiver acesso a via pública, nascente ou porto,
+O dono do prédio que não tiver acesso a via pública, nascente ou porto,
 
 pode, mediante pagamento de indenização cabal, constranger o vizinho a lhe dar passagem,
 cujo rumo será judicialmente fixado, se necessário.
@@ -12518,7 +12516,7 @@ proprietário deste constrangido, depois, a dar uma outra.
 
 ### Seção IV — Da Passagem de Cabos e Tubulações
 
-## Art. 1.286.
+## Art. 1.286
 
 Mediante recebimento de indenização que atenda, também, à
 
@@ -12531,7 +12529,7 @@ Parágrafo único. O proprietário prejudicado pode exigir que a instalação se
 feita de modo menos gravoso ao prédio onerado, bem como, depois, seja removida, à sua
 custa, para outro local do imóvel.
 
-## Art. 1.287.
+## Art. 1.287
 
 Se as instalações oferecerem grave risco, será facultado ao
 
@@ -12539,15 +12537,15 @@ proprietário do prédio onerado exigir a realização de obras de segurança.
 
 ### Seção V — Das Águas
 
-## Art. 1.288.
+## Art. 1.288
 
-dono ou o possuidor do prédio inferior é obrigado a receber as águas
+O dono ou o possuidor do prédio inferior é obrigado a receber as águas
 
 que correm naturalmente do superior, não podendo realizar obras que embaracem o seu
 fluxo; porém a condição natural e anterior do prédio inferior não pode ser agravada
 por obras feitas pelo dono ou possuidor do prédio superior.
 
-## Art. 1.289.
+## Art. 1.289
 
 Quando as águas, artificialmente levadas ao prédio superior, ou aí
 
@@ -12556,31 +12554,31 @@ se lhe indenize o prejuízo que sofrer.
 
 Parágrafo único. Da indenização será deduzido o valor do benefício obtido.
 
-## Art. 1.290.
+## Art. 1.290
 
-proprietário de nascente, ou do solo onde caem águas pluviais,
+O proprietário de nascente, ou do solo onde caem águas pluviais,
 
 satisfeitas as necessidades de seu consumo, não pode impedir, ou desviar o curso natural
 das águas remanescentes pelos prédios inferiores.
 
-## Art. 1.291.
+## Art. 1.291
 
-possuidor do imóvel superior não poderá poluir as águas
+O possuidor do imóvel superior não poderá poluir as águas
 
 indispensáveis às primeiras necessidades da vida dos possuidores dos imóveis
 inferiores; as demais, que poluir, deverá recuperar, ressarcindo os danos que estes
 sofrerem, se não for possível a recuperação ou o desvio do curso artificial das
 águas.
 
-## Art. 1.292.
+## Art. 1.292
 
-proprietário tem direito de construir barragens, açudes, ou outras
+O proprietário tem direito de construir barragens, açudes, ou outras
 
 obras para represamento de água em seu prédio; se as águas represadas invadirem prédio
 alheio, será o seu proprietário indenizado pelo dano sofrido, deduzido o valor do
 benefício obtido.
 
-## Art. 1.293.
+## Art. 1.293
 
 É permitido a quem quer que seja, mediante prévia indenização aos
 
@@ -12607,19 +12605,19 @@ O aqueduto será construído de maneira que cause o menor
 prejuízo aos proprietários dos imóveis vizinhos, e a expensas do seu dono, a quem
 incumbem também as despesas de conservação.
 
-## Art. 1.294.
+## Art. 1.294
 
 Aplica-se ao direito de aqueduto o disposto nos arts. 1.286 e 1.287.
 
-## Art. 1.295.
+## Art. 1.295
 
-aqueduto não impedirá que os proprietários cerquem os imóveis e
+O aqueduto não impedirá que os proprietários cerquem os imóveis e
 
 construam sobre ele, sem prejuízo para a sua segurança e conservação; os
 proprietários dos imóveis poderão usar das águas do aqueduto para as primeiras
 necessidades da vida.
 
-## Art. 1.296.
+## Art. 1.296
 
 Havendo no aqueduto águas supérfluas, outros poderão canalizá-las, para
 
@@ -12632,9 +12630,9 @@ aqueduto.
 
 ### Seção VI — Dos Limites entre Prédios e do Direito de Tapagem
 
-## Art. 1.297.
+## Art. 1.297
 
-proprietário tem direito a cercar, murar, valar ou tapar de qualquer
+O proprietário tem direito a cercar, murar, valar ou tapar de qualquer
 
 modo o seu prédio, urbano ou rural, e pode constranger o seu confinante a proceder com
 ele à demarcação entre os dois prédios, a aviventar rumos apagados e a renovar marcos
@@ -12662,7 +12660,7 @@ animais de pequeno porte, ou para outro fim, pode ser exigida de quem provocou a
 necessidade deles, pelo proprietário, que não está obrigado a concorrer para as
 despesas.
 
-## Art. 1.298.
+## Art. 1.298
 
 Sendo confusos, os limites, em falta de outro meio, se determinarão de
 
@@ -12672,19 +12670,19 @@ cômoda, se adjudicará a um deles, mediante indenização ao outro.
 
 ### Seção VII — Do Direito de Construir
 
-## Art. 1.299.
+## Art. 1.299
 
-proprietário pode levantar em seu terreno as construções que lhe
+O proprietário pode levantar em seu terreno as construções que lhe
 
 aprouver, salvo o direito dos vizinhos e os regulamentos administrativos.
 
-## Art. 1.300.
+## Art. 1.300
 
-proprietário construirá de maneira que o seu prédio não despeje
+O proprietário construirá de maneira que o seu prédio não despeje
 
 águas, diretamente, sobre o prédio vizinho.
 
-## Art. 1.301.
+## Art. 1.301
 
 É defeso abrir janelas, ou fazer eirado, terraço ou varanda, a menos de
 
@@ -12702,9 +12700,9 @@ As disposições deste artigo não abrangem as aberturas para
 luz ou ventilação, não maiores de dez centímetros de largura sobre vinte de
 comprimento e construídas a mais de dois metros de altura de cada piso.
 
-## Art. 1.302.
+## Art. 1.302
 
-proprietário pode, no lapso de ano e dia após a conclusão da obra,
+O proprietário pode, no lapso de ano e dia após a conclusão da obra,
 
 exigir que se desfaça janela, sacada, terraço ou goteira sobre o seu prédio; escoado o
 prazo, não poderá, por sua vez, edificar sem atender ao disposto no artigo antecedente,
@@ -12715,13 +12713,13 @@ Parágrafo único. Em se tratando de vãos, ou aberturas para luz, seja qual for
 quantidade, altura e disposição, o vizinho poderá, a todo tempo, levantar a sua
 edificação, ou contramuro, ainda que lhes vede a claridade.
 
-## Art. 1.303.
+## Art. 1.303
 
 Na zona rural, não será permitido levantar edificações a menos de três
 
 metros do terreno vizinho.
 
-## Art. 1.304.
+## Art. 1.304
 
 Nas cidades, vilas e povoados cuja edificação estiver adstrita a
 
@@ -12729,9 +12727,9 @@ alinhamento, o dono de um terreno pode nele edificar, madeirando na parede divis
 prédio contíguo, se ela suportar a nova construção; mas terá de embolsar ao vizinho
 metade do valor da parede e do chão correspondentes.
 
-## Art. 1.305.
+## Art. 1.305
 
-confinante, que primeiro construir, pode assentar a parede divisória
+O confinante, que primeiro construir, pode assentar a parede divisória
 
 até meia espessura no terreno contíguo, sem perder por isso o direito a haver meio valor
 dela se o vizinho a travejar, caso em que o primeiro fixará a largura e a profundidade do
@@ -12741,23 +12739,23 @@ Parágrafo único. Se a parede divisória pertencer a um dos vizinhos, e não ti
 capacidade para ser travejada pelo outro, não poderá este fazer-lhe alicerce ao pé sem
 prestar caução àquele, pelo risco a que expõe a construção anterior.
 
-## Art. 1.306.
+## Art. 1.306
 
-condômino da parede-meia pode utilizá-la até ao meio da espessura,
+O condômino da parede-meia pode utilizá-la até ao meio da espessura,
 
 não pondo em risco a segurança ou a separação dos dois prédios, e avisando
 previamente o outro condômino das obras que ali tenciona fazer; não pode sem
 consentimento do outro, fazer, na parede-meia, armários, ou obras semelhantes,
 correspondendo a outras, da mesma natureza, já feitas do lado oposto.
 
-## Art. 1.307.
+## Art. 1.307
 
 Qualquer dos confinantes pode altear a parede divisória, se necessário
 
 reconstruindo-a, para suportar o alteamento; arcará com todas as despesas, inclusive de
 conservação, ou com metade, se o vizinho adquirir meação também na parte aumentada.
 
-## Art. 1.308.
+## Art. 1.308
 
 Não é lícito encostar à parede divisória chaminés, fogões, fornos ou
 
@@ -12767,19 +12765,19 @@ interferências prejudiciais ao vizinho.
 Parágrafo único. A disposição anterior não abrange as chaminés ordinárias e os
 fogões de cozinha.
 
-## Art. 1.309.
+## Art. 1.309
 
 São proibidas construções capazes de poluir, ou inutilizar, para uso
 
 ordinário, a água do poço, ou nascente alheia, a elas preexistentes.
 
-## Art. 1.310.
+## Art. 1.310
 
 Não é permitido fazer escavações ou quaisquer obras que tirem ao poço
 
 ou à nascente de outrem a água indispensável às suas necessidades normais.
 
-## Art. 1.311.
+## Art. 1.311
 
 Não é permitida a execução de qualquer obra ou serviço suscetível de
 
@@ -12789,15 +12787,15 @@ prédio vizinho, senão após haverem sido feitas as obras acautelatórias.
 Parágrafo único. O proprietário do prédio vizinho tem direito a ressarcimento pelos
 prejuízos que sofrer, não obstante haverem sido realizadas as obras acautelatórias.
 
-## Art. 1.312.
+## Art. 1.312
 
 Todo aquele que violar as proibições estabelecidas nesta Seção é
 
 obrigado a demolir as construções feitas, respondendo por perdas e danos.
 
-## Art. 1.313.
+## Art. 1.313
 
-proprietário ou ocupante do imóvel é obrigado a tolerar que o vizinho
+O proprietário ou ocupante do imóvel é obrigado a tolerar que o vizinho
 
 entre no prédio, mediante prévio aviso, para:
 
@@ -12828,7 +12826,7 @@ dano, terá o prejudicado direito a ressarcimento.
 
 #### Subseção I — Dos Direitos e Deveres dos Condôminos
 
-## Art. 1.314.
+## Art. 1.314
 
 Cada condômino pode usar da coisa conforme sua destinação, sobre ela
 
@@ -12838,16 +12836,16 @@ defender a sua posse e alhear a respectiva parte ideal, ou gravá-la.
 Parágrafo único. Nenhum dos condôminos pode alterar a destinação da coisa comum,
 nem dar posse, uso ou gozo dela a estranhos, sem o consenso dos outros.
 
-## Art. 1.315.
+## Art. 1.315
 
-condômino é obrigado, na proporção de sua parte, a concorrer para as
+O condômino é obrigado, na proporção de sua parte, a concorrer para as
 
 despesas de conservação ou divisão da coisa, e a suportar os ônus a que estiver
 sujeita.
 
 Parágrafo único. Presumem-se iguais as partes ideais dos condôminos.
 
-## Art. 1.316.
+## Art. 1.316
 
 Pode o condômino eximir-se do pagamento das despesas e dívidas,
 
@@ -12864,26 +12862,26 @@ o
 Se não há condômino que faça os pagamentos, a coisa comum
 será dividida.
 
-## Art. 1.317.
+## Art. 1.317
 
 Quando a dívida houver sido contraída por todos os condôminos, sem se
 
 discriminar a parte de cada um na obrigação, nem se estipular solidariedade, entende-se
 que cada qual se obrigou proporcionalmente ao seu quinhão na coisa comum.
 
-## Art. 1.318.
+## Art. 1.318
 
 As dívidas contraídas por um dos condôminos em proveito da comunhão, e
 
 durante ela, obrigam o contratante; mas terá este ação regressiva contra os demais.
 
-## Art. 1.319.
+## Art. 1.319
 
 Cada condômino responde aos outros pelos frutos que percebeu da coisa e
 
 pelo dano que lhe causou.
 
-## Art. 1.320.
+## Art. 1.320
 
 A todo tempo será lícito ao condômino exigir a divisão da coisa comum,
 
@@ -12904,13 +12902,13 @@ o
 A requerimento de qualquer interessado e se graves razões o
 aconselharem, pode o juiz determinar a divisão da coisa comum antes do prazo.
 
-## Art. 1.321.
+## Art. 1.321
 
 Aplicam-se à divisão do condomínio, no que couber, as regras de partilha
 
 de herança (arts. 2.013 a 2.022).
 
-## Art. 1.322.
+## Art. 1.322
 
 Quando a coisa for indivisível, e os consortes não quiserem adjudicá-la
 
@@ -12927,20 +12925,20 @@ oferecer melhor lanço, preferindo, em condições iguais, o condômino ao estra
 
 #### Subseção II — Da Administração do Condomínio
 
-## Art. 1.323.
+## Art. 1.323
 
 Deliberando a maioria sobre a administração da coisa comum, escolherá o
 
 administrador, que poderá ser estranho ao condomínio; resolvendo alugá-la,
 preferir-se-á, em condições iguais, o condômino ao que não o é.
 
-## Art. 1.324.
+## Art. 1.324
 
-condômino que administrar sem oposição dos outros presume-se
+O condômino que administrar sem oposição dos outros presume-se
 
 representante comum.
 
-## Art. 1.325.
+## Art. 1.325
 
 A maioria será calculada pelo valor dos quinhões.
 
@@ -12959,35 +12957,35 @@ o
 Havendo dúvida quanto ao valor do quinhão, será este
 avaliado judicialmente.
 
-## Art. 1.326.
+## Art. 1.326
 
-s frutos da coisa comum, não havendo em contrário estipulação ou
+Os frutos da coisa comum, não havendo em contrário estipulação ou
 
 disposição de última vontade, serão partilhados na proporção dos quinhões.
 
 ### Seção II — Do Condomínio Necessário
 
-## Art. 1.327.
+## Art. 1.327
 
-condomínio por meação de paredes, cercas, muros e valas regula-se pelo
+O condomínio por meação de paredes, cercas, muros e valas regula-se pelo
 
 disposto neste Código (arts. 1.297 e 1.298; 1.304 a 1.307).
 
-## Art. 1.328.
+## Art. 1.328
 
-proprietário que tiver direito a estremar um imóvel com paredes,
+O proprietário que tiver direito a estremar um imóvel com paredes,
 
 cercas, muros, valas ou valados, tê-lo-á igualmente a adquirir meação na parede, muro,
 valado ou cerca do vizinho, embolsando-lhe metade do que atualmente valer a obra e o
 terreno por ela ocupado (art. 1.297).
 
-## Art. 1.329.
+## Art. 1.329
 
 Não convindo os dois no preço da obra, será este arbitrado por peritos,
 
 a expensas de ambos os confinantes.
 
-## Art. 1.330.
+## Art. 1.330
 
 Qualquer que seja o valor da meação, enquanto aquele que pretender a
 
@@ -12998,7 +12996,7 @@ ou qualquer outra obra divisória.
 
 ### Seção I — Disposições Gerais
 
-## Art. 1.331.
+## Art. 1.331
 
 Pode haver, em edificações, partes que são
 
@@ -13043,7 +13041,7 @@ o
 O terraço de cobertura é parte comum, salvo disposição
 contrária da escritura de constituição do condomínio.
 
-## Art. 1.332.
+## Art. 1.332
 
 Institui-se o condomínio edilício por ato entre vivos ou testamento,
 
@@ -13058,7 +13056,7 @@ terreno e partes comuns;
 
 III - o fim a que as unidades se destinam.
 
-## Art. 1.333.
+## Art. 1.333
 
 A convenção que constitui o condomínio edilício deve ser subscrita
 
@@ -13069,7 +13067,7 @@ tenham posse ou detenção.
 Parágrafo único. Para ser oponível contra terceiros, a convenção do condomínio
 deverá ser registrada no Cartório de Registro de Imóveis.
 
-## Art. 1.334.
+## Art. 1.334
 
 Além das cláusulas referidas no art. 1.332 e das que os interessados
 
@@ -13098,7 +13096,7 @@ São equiparados aos proprietários, para os fins deste artigo,
 salvo disposição em contrário, os promitentes compradores e os cessionários de
 direitos relativos às unidades autônomas.
 
-## Art. 1.335.
+## Art. 1.335
 
 São direitos do condômino:
 
@@ -13109,7 +13107,7 @@ utilização dos demais compossuidores;
 
 III - votar nas deliberações da assembléia e delas participar, estando quite.
 
-## Art. 1.336.
+## Art. 1.336
 
 São deveres do condômino:
 
@@ -13143,9 +13141,9 @@ mensais, independentemente das perdas e danos que se apurarem; não havendo disp
 expressa, caberá à assembléia geral, por dois terços no mínimo dos condôminos
 restantes, deliberar sobre a cobrança da multa.
 
-## Art. 1337.
+## Art. 1337
 
-condômino, ou possuidor, que não cumpre reiteradamente com os seus
+O condômino, ou possuidor, que não cumpre reiteradamente com os seus
 
 deveres perante o condomínio poderá, por deliberação de três quartos dos condôminos
 restantes, ser constrangido a pagar multa correspondente até ao quíntuplo do valor
@@ -13158,16 +13156,16 @@ possuidores, poderá ser constrangido a pagar multa correspondente ao décuplo d
 atribuído à contribuição para as despesas condominiais, até ulterior deliberação da
 assembléia.
 
-## Art. 1.338.
+## Art. 1.338
 
 Resolvendo o condômino alugar área no abrigo para veículos,
 
 preferir-se-á, em condições iguais, qualquer dos condôminos a estranhos, e, entre
 todos, os possuidores.
 
-## Art. 1.339.
+## Art. 1.339
 
-s direitos de cada condômino às partes comuns são inseparáveis de sua
+Os direitos de cada condômino às partes comuns são inseparáveis de sua
 
 propriedade exclusiva; são também inseparáveis das frações ideais correspondentes as
 unidades imobiliárias, com as suas partes acessórias.
@@ -13184,13 +13182,13 @@ unidade imobiliária a outro condômino, só podendo fazê-lo a terceiro se essa
 constar do ato constitutivo do condomínio, e se a ela não se opuser a respectiva
 assembléia geral.
 
-## Art. 1.340.
+## Art. 1.340
 
 As despesas relativas a partes comuns de uso exclusivo de um condômino, ou
 
 de alguns deles, incumbem a quem delas se serve.
 
-## Art. 1.341.
+## Art. 1.341
 
 A realização de obras no condomínio depende:
 
@@ -13223,7 +13221,7 @@ O condômino que realizar obras ou reparos necessários será
 reembolsado das despesas que efetuar, não tendo direito à restituição das que fizer
 com obras ou reparos de outra natureza, embora de interesse comum.
 
-## Art. 1.342.
+## Art. 1.342
 
 A realização de obras, em partes comuns, em acréscimo às já
 
@@ -13232,26 +13230,26 @@ dois terços dos votos dos condôminos, não sendo permitidas construções, nas
 comuns, suscetíveis de prejudicar a utilização, por qualquer dos condôminos, das
 partes próprias, ou comuns.
 
-## Art. 1.343.
+## Art. 1.343
 
 A construção de outro pavimento, ou, no solo comum, de outro edifício,
 
 destinado a conter novas unidades imobiliárias, depende da aprovação da unanimidade dos
 condôminos.
 
-## Art. 1.344.
+## Art. 1.344
 
 Ao proprietário do terraço de cobertura incumbem as despesas da sua
 
 conservação, de modo que não haja danos às unidades imobiliárias inferiores.
 
-## Art. 1.345.
+## Art. 1.345
 
-adquirente de unidade responde pelos débitos do alienante, em relação
+O adquirente de unidade responde pelos débitos do alienante, em relação
 
 ao condomínio, inclusive multas e juros moratórios.
 
-## Art. 1.346.
+## Art. 1.346
 
 É obrigatório o seguro de toda a edificação contra o risco de incêndio
 
@@ -13259,13 +13257,13 @@ ou destruição, total ou parcial.
 
 ### Seção II — Da Administração do Condomínio
 
-## Art. 1.347.
+## Art. 1.347
 
 A assembléia escolherá um síndico, que poderá não ser condômino, para
 
 administrar o condomínio, por prazo não superior a dois anos, o qual poderá renovar-se.
 
-## Art. 1.348.
+## Art. 1.348
 
 Compete ao síndico:
 
@@ -13303,7 +13301,7 @@ O síndico pode transferir a outrem, total ou parcialmente, os
 poderes de representação ou as funções administrativas, mediante aprovação da
 assembléia, salvo disposição em contrário da convenção.
 
-## Art. 1.349.
+## Art. 1.349
 
 A assembléia, especialmente convocada para o fim estabelecido no § 2
 
@@ -13312,7 +13310,7 @@ do artigo antecedente, poderá, pelo voto da maioria absoluta de seus membros, d
 síndico que praticar irregularidades, não prestar contas, ou não administrar
 convenientemente o condomínio.
 
-## Art. 1.350.
+## Art. 1.350
 
 Convocará o síndico, anualmente, reunião da assembléia dos condôminos,
 
@@ -13330,7 +13328,7 @@ o
 Se a assembléia não se reunir, o juiz decidirá, a
 requerimento de qualquer condômino.
 
-## Art. 1.351.
+## Art. 1.351
 
 Depende
 
@@ -13340,7 +13338,7 @@ imobiliária.
 (Redação dada pela
 Lei nº 14.405, de 2022)
 
-## Art. 1.352.
+## Art. 1.352
 
 Salvo quando exigido quorum especial, as deliberações da assembléia
 
@@ -13351,7 +13349,7 @@ Parágrafo único. Os votos serão proporcionais às frações ideais no solo e 
 outras partes comuns pertencentes a cada condômino, salvo disposição diversa da
 convenção de constituição do condomínio.
 
-## Art. 1.353.
+## Art. 1.353
 
 Em segunda convocação, a assembléia poderá deliberar por maioria dos
 
@@ -13401,7 +13399,7 @@ necessárias, desde que a assembleia seja concluída no prazo total de 90
 (Incluído pela Lei nº
 14.309, de 2022)
 
-## Art. 1.354.
+## Art. 1.354
 
 A assembléia não poderá deliberar se todos os condôminos não forem
 
@@ -13409,7 +13407,7 @@ convocados para a reunião.
 
 ## Art. 1.354-A
 
-. A convocação, a realização e a deliberação de quaisquer
+A convocação, a realização e a deliberação de quaisquer
 
 modalidades de assembleia poderão dar-se de forma eletrônica, desde que:
 (Incluído pela Lei nº
@@ -13461,13 +13459,13 @@ de forma física ou eletrônica aos participantes.
 (Incluído pela Lei nº
 14.309, de 2022)
 
-## Art. 1.355.
+## Art. 1.355
 
 Assembléias extraordinárias poderão ser convocadas pelo síndico ou por
 
 um quarto dos condôminos.
 
-## Art. 1.356.
+## Art. 1.356
 
 Poderá haver no condomínio um conselho fiscal, composto de três membros,
 
@@ -13476,7 +13474,7 @@ sobre as contas do síndico.
 
 ### Seção III — Da Extinção do Condomínio
 
-## Art. 1.357.
+## Art. 1.357
 
 Se a edificação for total ou consideravelmente destruída, ou ameace
 
@@ -13495,7 +13493,7 @@ Realizada a venda, em que se preferirá, em condições iguais
 de oferta, o condômino ao estranho, será repartido o apurado entre os condôminos,
 proporcionalmente ao valor das suas unidades imobiliárias.
 
-## Art. 1.358.
+## Art. 1.358
 
 Se ocorrer desapropriação, a indenização será repartida na proporção
 
@@ -13507,7 +13505,7 @@ do artigo antecedente.
 
 ## Art. 1.358-A
 
-. Pode haver, em terrenos, partes designadas
+Pode haver, em terrenos, partes designadas
 
 de lotes que são propriedade exclusiva e partes que são propriedade comum dos
 condôminos.
@@ -13549,8 +13547,6 @@ a cargo do empreendedor.
 
 ## Art. 1.358-B
 
-.
-
 A multipropriedade reger-se-á pelo disposto neste Capítulo e, de forma
 supletiva e subsidiária, pelas demais disposições deste Código e pelas
 disposições das
@@ -13564,8 +13560,6 @@ Lei nº 13.777, de 2018)
 (Vigência)
 
 ## Art. 1.358-C
-
-.
 
 Multipropriedade é o regime de condomínio em que cada um dos proprietários
 de um mesmo imóvel é titular de uma fração de tempo, à qual corresponde a
@@ -13583,8 +13577,6 @@ Lei nº 13.777, de 2018)
 (Vigência)
 
 ## Art. 1.358-D
-
-.
 
 O imóvel objeto da multipropriedade:
 (Incluído pela
@@ -13605,8 +13597,6 @@ Lei nº 13.777, de 2018)
 (Vigência)
 
 ## Art. 1.358-E
-
-.
 
 Cada fração de tempo é indivisível.
 (Incluído pela
@@ -13653,8 +13643,6 @@ Lei nº 13.777, de 2018)
 
 ## Art. 1.358-F
 
-.
-
 Institui-se a multipropriedade por ato entre vivos ou testamento,
 registrado no competente cartório de registro de imóveis, devendo constar
 daquele ato a duração dos períodos correspondentes a cada fração de tempo.
@@ -13663,8 +13651,6 @@ Lei nº 13.777, de 2018)
 (Vigência)
 
 ## Art. 1.358-G
-
-.
 
 Além das cláusulas que os multiproprietários decidirem estipular, a
 convenção de condomínio em multipropriedade determinará:
@@ -13718,8 +13704,6 @@ Lei nº 13.777, de 2018)
 
 ## Art. 1.358-H
 
-.
-
 O instrumento de instituição da multipropriedade ou a convenção de
 condomínio em multipropriedade poderá estabelecer o limite máximo de frações
 de tempo no mesmo imóvel que poderão ser detidas pela mesma pessoa natural
@@ -13740,8 +13724,6 @@ Lei nº 13.777, de 2018)
 ### Seção III — (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 
 ## Art. 1.358-I
-
-.
 
 São direitos do multiproprietário, além daqueles previstos no instrumento
 de instituição e na convenção de condomínio em multipropriedade:
@@ -13794,8 +13776,6 @@ Lei nº 13.777, de 2018)
 (Vigência)
 
 ## Art. 1.358-J
-
-.
 
 São obrigações do multiproprietário, além daquelas previstas no instrumento
 de instituição e na convenção de condomínio em multipropriedade:
@@ -13931,8 +13911,6 @@ Lei nº 13.777, de 2018)
 
 ## Art. 1.358-K
 
-.
-
 Para os efeitos do disposto nesta Seção, são equiparados aos
 multiproprietários os promitentes compradores e os cessionários de direitos
 relativos a cada fração de tempo.
@@ -13943,8 +13921,6 @@ Lei nº 13.777, de 2018)
 ### Seção IV — (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 
 ## Art. 1.358-L
-
-.
 
 A transferência do direito de multipropriedade e a sua produção de efeitos
 perante terceiros dar-se-ão na forma da lei civil e não dependerão da
@@ -13974,8 +13950,6 @@ Lei nº 13.777, de 2018)
 ### Seção V — (Incluído pela Lei nº 13.777, de 2018)
 
 ## Art. 1.358-M
-
-.
 
 A administração do imóvel e de suas instalações, equipamentos e mobiliário
 será de responsabilidade da pessoa indicada no instrumento de instituição ou
@@ -14065,8 +14039,6 @@ Lei nº 13.777, de 2018)
 
 ## Art. 1.358-N
 
-.
-
 O instrumento de instituição poderá prever fração de tempo destinada à
 realização, no imóvel e em suas instalações, em seus equipamentos e em seu
 mobiliário, de reparos indispensáveis ao exercício normal do direito de
@@ -14110,8 +14082,6 @@ Lei nº 13.777, de 2018)
 
 ## Art. 1.358-O
 
-.
-
 O condomínio edilício poderá adotar o regime de multipropriedade em parte
 ou na totalidade de suas unidades autônomas, mediante:
 (Incluído pela
@@ -14152,8 +14122,6 @@ Lei nº 13.777, de 2018)
 (Vigência)
 
 ## Art. 1.358-P
-
-.
 
 Na hipótese do art. 1.358-O, a convenção de condomínio edilício deve
 prever, além das matérias elencadas nos arts. 1.332, 1.334 e, se for o caso,
@@ -14237,8 +14205,6 @@ Lei nº 13.777, de 2018)
 (Vigência)
 
 ## Art. 1.358-Q
-
-.
 
 Na hipótese do art. 1.358-O deste Código, o regimento interno do condomínio
 edilício deve prever:
@@ -14334,8 +14300,6 @@ Lei nº 13.777, de 2018)
 
 ## Art. 1.358-R
 
-.
-
 O condomínio edilício em que tenha sido instituído o regime de
 multipropriedade em parte ou na totalidade de suas unidades autônomas terá
 necessariamente um administrador profissional.
@@ -14383,8 +14347,6 @@ Lei nº 13.777, de 2018)
 (Vigência)
 
 ## Art. 1.358-S
-
-.
 
 Na hipótese de inadimplemento, por parte do multiproprietário, da obrigação
 de custeio das despesas ordinárias ou extraordinárias, é cabível, na forma
@@ -14434,8 +14396,6 @@ Lei nº 13.777, de 2018)
 
 ## Art. 1.358-T
 
-.
-
 O multiproprietário somente poderá renunciar de forma translativa a seu
 direito de multipropriedade em favor do condomínio edilício.
 (Incluído pela
@@ -14454,8 +14414,6 @@ Lei nº 13.777, de 2018)
 
 ## Art. 1.358-U
 
-.
-
 As convenções dos condomínios edilícios, os memoriais de loteamentos e os
 instrumentos de venda dos lotes em loteamentos urbanos poderão limitar ou
 impedir a instituição da multipropriedade nos respectivos imóveis, vedação
@@ -14467,7 +14425,7 @@ Lei nº 13.777, de 2018)
 
 # CAPÍTULO VIII — Da Propriedade Resolúvel
 
-## Art. 1.359.
+## Art. 1.359
 
 Resolvida a propriedade pelo implemento da condição ou pelo advento do
 
@@ -14475,7 +14433,7 @@ termo, entendem-se também resolvidos os direitos reais concedidos na sua pendê
 proprietário, em cujo favor se opera a resolução, pode reivindicar a coisa do poder de
 quem a possua ou detenha.
 
-## Art. 1.360.
+## Art. 1.360
 
 Se a propriedade se resolver por outra causa superveniente, o possuidor,
 
@@ -14485,7 +14443,7 @@ contra aquele cuja propriedade se resolveu para haver a própria coisa ou o seu 
 
 # CAPÍTULO IX — Da Propriedade Fiduciária
 
-## Art. 1.361.
+## Art. 1.361
 
 Considera-se fiduciária a propriedade resolúvel de coisa móvel
 
@@ -14509,9 +14467,9 @@ o
 A propriedade superveniente, adquirida pelo devedor, torna
 eficaz, desde o arquivamento, a transferência da propriedade fiduciária.
 
-## Art. 1.362.
+## Art. 1.362
 
-contrato, que serve de título à propriedade fiduciária, conterá:
+O contrato, que serve de título à propriedade fiduciária, conterá:
 
 I - o total da dívida, ou sua estimativa;
 
@@ -14522,7 +14480,7 @@ III - a taxa de juros, se houver;
 IV - a descrição da coisa objeto da transferência, com os elementos indispensáveis
 à sua identificação.
 
-## Art. 1.363.
+## Art. 1.363
 
 Antes de vencida a dívida, o devedor, a suas expensas e risco, pode usar a
 
@@ -14532,14 +14490,14 @@ I - a empregar na guarda da coisa a diligência exigida por sua natureza;
 
 II - a entregá-la ao credor, se a dívida não for paga no vencimento.
 
-## Art. 1.364.
+## Art. 1.364
 
 Vencida a dívida, e não paga, fica o credor obrigado a vender, judicial
 
 ou extrajudicialmente, a coisa a terceiros, a aplicar o preço no pagamento de seu
 crédito e das despesas de cobrança, e a entregar o saldo, se houver, ao devedor.
 
-## Art. 1.365.
+## Art. 1.365
 
 É nula a cláusula que autoriza o proprietário fiduciário a ficar com a
 
@@ -14548,13 +14506,13 @@ coisa alienada em garantia, se a dívida não for paga no vencimento.
 Parágrafo único. O devedor pode, com a anuência do credor, dar seu direito eventual
 à coisa em pagamento da dívida, após o vencimento desta.
 
-## Art. 1.366.
+## Art. 1.366
 
 Quando, vendida a coisa, o produto não bastar para o pagamento da dívida
 
 e das despesas de cobrança, continuará o devedor obrigado pelo restante.
 
-## Art. 1.367.
+## Art. 1.367
 
 A propriedade fiduciária
 
@@ -14566,15 +14524,15 @@ art. 1.231.
 (Redação dada pela Lei
 nº 13.043, de 2014)
 
-## Art. 1.368.
+## Art. 1.368
 
-terceiro, interessado ou não, que pagar a dívida, se sub-rogará de
+O terceiro, interessado ou não, que pagar a dívida, se sub-rogará de
 
 pleno direito no crédito e na propriedade fiduciária.
 
 ## Art. 1.368-A
 
-. As demais espécies de propriedade fiduciária ou
+As demais espécies de propriedade fiduciária ou
 
 de titularidade fiduciária submetem-se à disciplina específica das respectivas leis
 especiais, somente se aplicando as disposições deste Código naquilo que não for
@@ -14584,7 +14542,7 @@ incompatível com a legislação especial.
 
 ## Art. 1.368-B
 
-. A alienação fiduciária
+A alienação fiduciária
 
 em garantia de bem móvel ou imóvel confere direito real de aquisição ao fiduciante, seu cessionário ou sucessor.
 (Incluído pela
@@ -14605,7 +14563,7 @@ Lei nº 13.043, de 2014)
 
 ## Art. 1.368-C
 
-. O fundo de investimento é uma comunhão de recursos,
+O fundo de investimento é uma comunhão de recursos,
 
 constituído sob a forma de condomínio de natureza especial,
 destinado à aplicação em ativos financeiros, bens e direitos de
@@ -14635,7 +14593,7 @@ terceiros.
 
 ## Art. 1.368-D
 
-. O regulamento do fundo de investimento poderá,
+O regulamento do fundo de investimento poderá,
 
 observado o disposto na regulamentação a que se refere o § 2º do
 art. 1.368-C desta Lei, estabelecer:
@@ -14682,7 +14640,7 @@ respectiva, nos termos do regulamento.
 
 ## Art. 1.368-E
 
-. Os fundos de investimento respondem diretamente
+Os fundos de investimento respondem diretamente
 
 pelas obrigações legais e contratuais por eles assumidas, e os
 prestadores de serviço não respondem por essas obrigações, mas
@@ -14713,7 +14671,7 @@ Produção de efeito
 
 ## Art. 1.368-F
 
-. O fundo de investimento constituído por lei
+O fundo de investimento constituído por lei
 
 específica e regulamentado pela Comissão de Valores Mobiliários
 deverá, no que couber, seguir as disposições deste Capítulo.
@@ -14722,9 +14680,9 @@ deverá, no que couber, seguir as disposições deste Capítulo.
 
 # TÍTULO IV — Da Superfície
 
-## Art. 1.369.
+## Art. 1.369
 
-proprietário pode conceder a outrem o direito de construir ou de plantar
+O proprietário pode conceder a outrem o direito de construir ou de plantar
 
 em seu terreno, por tempo determinado, mediante escritura pública devidamente registrada
 no Cartório de Registro de Imóveis.
@@ -14732,57 +14690,57 @@ no Cartório de Registro de Imóveis.
 Parágrafo único. O direito de superfície não autoriza obra no subsolo, salvo se for
 inerente ao objeto da concessão.
 
-## Art. 1.370.
+## Art. 1.370
 
 A concessão da superfície será gratuita ou onerosa; se onerosa,
 
 estipularão as partes se o pagamento será feito de uma só vez, ou parceladamente.
 
-## Art. 1.371.
+## Art. 1.371
 
-superficiário responderá pelos encargos e tributos que incidirem sobre
+O superficiário responderá pelos encargos e tributos que incidirem sobre
 
 o imóvel.
 
-## Art. 1.372.
+## Art. 1.372
 
-direito de superfície pode transferir-se a terceiros e, por morte do
+O direito de superfície pode transferir-se a terceiros e, por morte do
 
 superficiário, aos seus herdeiros.
 
 Parágrafo único. Não poderá ser estipulado pelo concedente, a nenhum título,
 qualquer pagamento pela transferência.
 
-## Art. 1.373.
+## Art. 1.373
 
 Em caso de alienação do imóvel ou do direito de superfície, o
 
 superficiário ou o proprietário tem direito de preferência, em igualdade de
 condições.
 
-## Art. 1.374.
+## Art. 1.374
 
 Antes do termo final, resolver-se-á a concessão se o superficiário der
 
 ao terreno destinação diversa daquela para que foi concedida.
 
-## Art. 1.375.
+## Art. 1.375
 
 Extinta a concessão, o proprietário passará a ter a propriedade plena
 
 sobre o terreno, construção ou plantação, independentemente de indenização, se as
 partes não houverem estipulado o contrário.
 
-## Art. 1.376.
+## Art. 1.376
 
 No caso de extinção do direito de superfície em conseqüência de
 
 desapropriação, a indenização cabe ao proprietário e ao superficiário, no valor
 correspondente ao direito real de cada um.
 
-## Art. 1.377.
+## Art. 1.377
 
-direito de superfície, constituído por pessoa jurídica de direito
+O direito de superfície, constituído por pessoa jurídica de direito
 
 público interno, rege-se por este Código, no que não for diversamente disciplinado em
 lei especial.
@@ -14791,7 +14749,7 @@ lei especial.
 
 # CAPÍTULO I — Da Constituição das Servidões
 
-## Art. 1.378.
+## Art. 1.378
 
 A servidão proporciona utilidade para o prédio dominante, e grava o
 
@@ -14799,9 +14757,9 @@ prédio serviente, que pertence a diverso dono, e constitui-se mediante declara�
 expressa dos proprietários, ou por testamento, e subseqüente registro no Cartório de
 Registro de Imóveis.
 
-## Art. 1.379.
+## Art. 1.379
 
-exercício incontestado e contínuo de uma servidão aparente, por dez
+O exercício incontestado e contínuo de uma servidão aparente, por dez
 
 anos, nos termos do art. 1.242, autoriza o interessado a registrá-la em seu nome no
 Registro de Imóveis, valendo-lhe como título a sentença que julgar consumado a
@@ -14812,20 +14770,20 @@ vinte anos.
 
 # CAPÍTULO II — Do Exercício das Servidões
 
-## Art. 1.380.
+## Art. 1.380
 
-dono de uma servidão pode fazer todas as obras necessárias à sua
+O dono de uma servidão pode fazer todas as obras necessárias à sua
 
 conservação e uso, e, se a servidão pertencer a mais de um prédio, serão as despesas
 rateadas entre os respectivos donos.
 
-## Art. 1.381.
+## Art. 1.381
 
 As obras a que se refere o artigo antecedente devem ser feitas pelo dono do
 
 prédio dominante, se o contrário não dispuser expressamente o título.
 
-## Art. 1.382.
+## Art. 1.382
 
 Quando a obrigação incumbir ao dono do prédio serviente, este poderá
 
@@ -14834,13 +14792,13 @@ exonerar-se, abandonando, total ou parcialmente, a propriedade ao dono do domina
 Parágrafo único. Se o proprietário do prédio dominante se recusar a receber a
 propriedade do serviente, ou parte dela, caber-lhe-á custear as obras.
 
-## Art. 1.383.
+## Art. 1.383
 
-dono do prédio serviente não poderá embaraçar de modo algum o
+O dono do prédio serviente não poderá embaraçar de modo algum o
 
 exercício legítimo da servidão.
 
-## Art. 1.384.
+## Art. 1.384
 
 A servidão pode ser removida, de um local para outro, pelo dono do prédio
 
@@ -14848,7 +14806,7 @@ serviente e à sua custa, se em nada diminuir as vantagens do prédio dominante,
 dono deste e à sua custa, se houver considerável incremento da utilidade e não
 prejudicar o prédio serviente.
 
-## Art. 1.385.
+## Art. 1.385
 
 Restringir-se-á o exercício da servidão às necessidades do prédio
 
@@ -14870,7 +14828,7 @@ Se as necessidades da cultura, ou da indústria, do prédio
 dominante impuserem à servidão maior largueza, o dono do serviente é obrigado a
 sofrê-la; mas tem direito a ser indenizado pelo excesso.
 
-## Art. 1.386.
+## Art. 1.386
 
 As servidões prediais são indivisíveis, e subsistem, no caso de divisão
 
@@ -14880,7 +14838,7 @@ aplicarem a certa parte de um ou de outro.
 
 # CAPÍTULO III — Da Extinção das Servidões
 
-## Art. 1.387.
+## Art. 1.387
 
 Salvo nas desapropriações, a servidão, uma vez registrada, só se
 
@@ -14890,9 +14848,9 @@ Parágrafo único. Se o prédio dominante estiver hipotecado, e a servidão se
 mencionar no título hipotecário, será também preciso, para a cancelar, o consentimento
 do credor.
 
-## Art. 1.388.
+## Art. 1.388
 
-dono do prédio serviente tem direito, pelos meios judiciais, ao
+O dono do prédio serviente tem direito, pelos meios judiciais, ao
 
 cancelamento do registro, embora o dono do prédio dominante lho impugne:
 
@@ -14903,7 +14861,7 @@ determinou a constituição da servidão;
 
 III - quando o dono do prédio serviente resgatar a servidão.
 
-## Art. 1.389.
+## Art. 1.389
 
 Também se extingue a servidão, ficando ao dono do prédio serviente a
 
@@ -14920,20 +14878,20 @@ III - pelo não uso, durante dez anos contínuos.
 
 # CAPÍTULO I — Disposições Gerais
 
-## Art. 1.390.
+## Art. 1.390
 
-usufruto pode recair em um ou mais bens, móveis ou imóveis, em um
+O usufruto pode recair em um ou mais bens, móveis ou imóveis, em um
 
 patrimônio inteiro, ou parte deste, abrangendo-lhe, no todo ou em parte, os frutos e
 utilidades.
 
-## Art. 1.391.
+## Art. 1.391
 
-usufruto de imóveis, quando não resulte de usucapião, constituir-se-á
+O usufruto de imóveis, quando não resulte de usucapião, constituir-se-á
 
 mediante registro no Cartório de Registro de Imóveis.
 
-## Art. 1.392.
+## Art. 1.392
 
 Salvo disposição em contrário, o usufruto estende-se aos acessórios da
 
@@ -14959,7 +14917,7 @@ bens, o usufrutuário tem direito à parte do tesouro achado por outrem, e ao pr
 pelo vizinho do prédio usufruído, para obter meação em parede, cerca, muro, vala ou
 valado.
 
-## Art. 1.393.
+## Art. 1.393
 
 Não se pode transferir o usufruto por alienação; mas o seu exercício
 
@@ -14967,13 +14925,13 @@ pode ceder-se por título gratuito ou oneroso.
 
 # CAPÍTULO II — Dos Direitos do Usufrutuário
 
-## Art. 1.394.
+## Art. 1.394
 
-usufrutuário tem direito à posse, uso, administração e percepção
+O usufrutuário tem direito à posse, uso, administração e percepção
 
 dos frutos.
 
-## Art. 1.395.
+## Art. 1.395
 
 Quando o usufruto recai em títulos de crédito, o usufrutuário tem
 
@@ -14984,7 +14942,7 @@ importância em títulos da mesma natureza, ou em títulos da dívida pública f
 com cláusula de atualização monetária segundo índices oficiais regularmente
 estabelecidos.
 
-## Art. 1.396.
+## Art. 1.396
 
 Salvo direito adquirido por outrem, o usufrutuário faz seus os frutos
 
@@ -14994,30 +14952,30 @@ produção.
 Parágrafo único. Os frutos naturais, pendentes ao tempo em que cessa o usufruto,
 pertencem ao dono, também sem compensação das despesas.
 
-## Art. 1.397.
+## Art. 1.397
 
 As crias dos animais pertencem ao usufrutuário, deduzidas quantas bastem
 
 para inteirar as cabeças de gado existentes ao começar o usufruto.
 
-## Art. 1.398.
+## Art. 1.398
 
-s frutos civis, vencidos na data inicial do usufruto, pertencem ao
+Os frutos civis, vencidos na data inicial do usufruto, pertencem ao
 
 proprietário, e ao usufrutuário os vencidos na data em que cessa o usufruto.
 
-## Art. 1.399.
+## Art. 1.399
 
-usufrutuário pode usufruir em pessoa, ou mediante arrendamento, o
+O usufrutuário pode usufruir em pessoa, ou mediante arrendamento, o
 
 prédio, mas não mudar-lhe a destinação econômica, sem expressa autorização do
 proprietário.
 
 # CAPÍTULO III — Dos Deveres do Usufrutuário
 
-## Art. 1.400.
+## Art. 1.400
 
-usufrutuário, antes de assumir o usufruto, inventariará, à sua custa,
+O usufrutuário, antes de assumir o usufruto, inventariará, à sua custa,
 
 os bens que receber, determinando o estado em que se acham, e dará caução,
 fidejussória ou real, se lha exigir o dono, de velar-lhes pela conservação, e
@@ -15026,18 +14984,18 @@ entregá-los findo o usufruto.
 Parágrafo único. Não é obrigado à caução o doador que se reservar o usufruto da
 coisa doada.
 
-## Art. 1.401.
+## Art. 1.401
 
-usufrutuário que não quiser ou não puder dar caução suficiente
+O usufrutuário que não quiser ou não puder dar caução suficiente
 
 perderá o direito de administrar o usufruto; e, neste caso, os bens serão administrados
 pelo proprietário, que ficará obrigado, mediante caução, a entregar ao usufrutuário o
 rendimento deles, deduzidas as despesas de administração, entre as quais se incluirá a
 quantia fixada pelo juiz como remuneração do administrador.
 
-## Art. 1.402.
+## Art. 1.402
 
-usufrutuário não é obrigado a pagar as deteriorações resultantes do
+O usufrutuário não é obrigado a pagar as deteriorações resultantes do
 
 exercício regular do usufruto.
 
@@ -15050,7 +15008,7 @@ I - as despesas ordinárias de conservação dos bens no estado em que os recebe
 II - as prestações e os tributos devidos pela posse ou rendimento da coisa
 usufruída.
 
-## Art. 1.404.
+## Art. 1.404
 
 Incumbem ao dono as reparações extraordinárias e as que não forem de
 
@@ -15068,19 +15026,19 @@ Se o dono não fizer as reparações a que está obrigado, e
 que são indispensáveis à conservação da coisa, o usufrutuário pode realizá-las,
 cobrando daquele a importância despendida.
 
-## Art. 1.405.
+## Art. 1.405
 
 Se o usufruto recair num patrimônio, ou parte deste, será o usufrutuário
 
 obrigado aos juros da dívida que onerar o patrimônio ou a parte dele.
 
-## Art. 1.406.
+## Art. 1.406
 
-usufrutuário é obrigado a dar ciência ao dono de qualquer lesão
+O usufrutuário é obrigado a dar ciência ao dono de qualquer lesão
 
 produzida contra a posse da coisa, ou os direitos deste.
 
-## Art. 1.407.
+## Art. 1.407
 
 Se a coisa estiver segurada, incumbe ao usufrutuário pagar, durante o
 
@@ -15096,7 +15054,7 @@ o
 Em qualquer hipótese, o direito do usufrutuário fica
 sub-rogado no valor da indenização do seguro.
 
-## Art. 1.408.
+## Art. 1.408
 
 Se um edifício sujeito a usufruto for destruído sem culpa do
 
@@ -15105,7 +15063,7 @@ restabelecerá, se o proprietário reconstruir à sua custa o prédio; mas se a
 indenização do seguro for aplicada à reconstrução do prédio, restabelecer-se-á o
 usufruto.
 
-## Art. 1.409.
+## Art. 1.409
 
 Também fica sub-rogada no ônus do usufruto, em lugar do prédio, a
 
@@ -15114,9 +15072,9 @@ terceiro responsável no caso de danificação ou perda.
 
 # CAPÍTULO IV — Da Extinção do Usufruto
 
-## Art. 1.410.
+## Art. 1.410
 
-usufruto extingue-se, cancelando-se o registro no Cartório de Registro
+O usufruto extingue-se, cancelando-se o registro no Cartório de Registro
 
 de Imóveis:
 
@@ -15143,7 +15101,7 @@ do art. 1.395;
 VIII - Pelo não uso, ou não fruição, da coisa em que o usufruto recai (arts. 1.390
 e 1.399).
 
-## Art. 1.411.
+## Art. 1.411
 
 Constituído o usufruto em favor de duas ou mais pessoas, extinguir-se-á a
 
@@ -15152,9 +15110,9 @@ quinhão desses couber ao sobrevivente.
 
 # TÍTULO VII — Do Uso
 
-## Art. 1.412.
+## Art. 1.412
 
-usuário usará da coisa e perceberá os seus frutos, quanto o exigirem
+O usuário usará da coisa e perceberá os seus frutos, quanto o exigirem
 
 as necessidades suas e de sua família.
 
@@ -15168,7 +15126,7 @@ o
 As necessidades da família do usuário compreendem as de seu
 cônjuge, dos filhos solteiros e das pessoas de seu serviço doméstico.
 
-## Art. 1.413.
+## Art. 1.413
 
 São aplicáveis ao uso, no que não for contrário à sua natureza, as
 
@@ -15176,14 +15134,14 @@ disposições relativas ao usufruto.
 
 # TÍTULO VIII — Da Habitação
 
-## Art. 1.414.
+## Art. 1.414
 
 Quando o uso consistir no direito de habitar gratuitamente casa alheia, o
 
 titular deste direito não a pode alugar, nem emprestar, mas simplesmente ocupá-la com
 sua família.
 
-## Art. 1.415.
+## Art. 1.415
 
 Se o direito real de habitação for conferido a mais de uma pessoa,
 
@@ -15191,7 +15149,7 @@ qualquer delas que sozinha habite a casa não terá de pagar aluguel à outra, o
 outras, mas não as pode inibir de exercerem, querendo, o direito, que também lhes
 compete, de habitá-la.
 
-## Art. 1.416.
+## Art. 1.416
 
 São aplicáveis à habitação, no que não for contrário à sua
 
@@ -15199,16 +15157,16 @@ natureza, as disposições relativas ao usufruto.
 
 # TÍTULO IX — Do Direito do Promitente Comprador
 
-## Art. 1.417.
+## Art. 1.417
 
 Mediante promessa de compra e venda, em que se não pactuou arrependimento,
 
 celebrada por instrumento público ou particular, e registrada no Cartório de Registro de
 Imóveis, adquire o promitente comprador direito real à aquisição do imóvel.
 
-## Art. 1.418.
+## Art. 1.418
 
-promitente comprador, titular de direito real, pode exigir do promitente
+O promitente comprador, titular de direito real, pode exigir do promitente
 
 vendedor, ou de terceiros, a quem os direitos deste forem cedidos, a outorga da escritura
 definitiva de compra e venda, conforme o disposto no instrumento preliminar; e, se houver
@@ -15218,13 +15176,13 @@ recusa, requerer ao juiz a adjudicação do imóvel.
 
 # CAPÍTULO I — Disposições Gerais
 
-## Art. 1.419.
+## Art. 1.419
 
 Nas dívidas garantidas por penhor, anticrese ou hipoteca, o bem dado em
 
 garantia fica sujeito, por vínculo real, ao cumprimento da obrigação.
 
-## Art. 1.420.
+## Art. 1.420
 
 Só aquele que pode alienar poderá empenhar, hipotecar ou dar em
 
@@ -15242,16 +15200,16 @@ A coisa comum a dois ou mais proprietários não pode ser dada
 em garantia real, na sua totalidade, sem o consentimento de todos; mas cada um pode
 individualmente dar em garantia real a parte que tiver.
 
-## Art. 1.421.
+## Art. 1.421
 
-pagamento de uma ou mais prestações da dívida não importa
+O pagamento de uma ou mais prestações da dívida não importa
 
 exoneração correspondente da garantia, ainda que esta compreenda vários bens, salvo
 disposição expressa no título ou na quitação.
 
-## Art. 1.422.
+## Art. 1.422
 
-credor hipotecário e o pignoratício têm o direito de excutir a coisa
+O credor hipotecário e o pignoratício têm o direito de excutir a coisa
 
 hipotecada ou empenhada, e preferir, no pagamento, a outros credores, observada, quanto à
 hipoteca, a prioridade no registro.
@@ -15259,16 +15217,16 @@ hipoteca, a prioridade no registro.
 Parágrafo único. Excetuam-se da regra estabelecida neste artigo as dívidas que, em
 virtude de outras leis, devam ser pagas precipuamente a quaisquer outros créditos.
 
-## Art. 1.423.
+## Art. 1.423
 
-credor anticrético tem direito a reter em seu poder o bem, enquanto a
+O credor anticrético tem direito a reter em seu poder o bem, enquanto a
 
 dívida não for paga; extingue-se esse direito decorridos quinze anos da data de sua
 constituição.
 
-## Art. 1.424.
+## Art. 1.424
 
-s contratos de penhor, anticrese ou hipoteca declararão, sob pena de não
+Os contratos de penhor, anticrese ou hipoteca declararão, sob pena de não
 
 terem eficácia:
 
@@ -15280,7 +15238,7 @@ III - a taxa dos juros, se houver;
 
 IV - o bem dado em garantia com as suas especificações.
 
-## Art. 1.425.
+## Art. 1.425
 
 A dívida considera-se vencida:
 
@@ -15312,20 +15270,20 @@ garantia, e esta não abranger outras; subsistindo, no caso contrário, a dívid
 reduzida, com a respectiva garantia sobre os demais bens, não desapropriados ou
 destruídos.
 
-## Art. 1.426.
+## Art. 1.426
 
 Nas hipóteses do artigo anterior, de vencimento antecipado da dívida,
 
 não se compreendem os juros correspondentes ao tempo ainda não decorrido.
 
-## Art. 1.427.
+## Art. 1.427
 
 Salvo cláusula expressa, o terceiro que presta garantia real por dívida
 
 alheia não fica obrigado a substituí-la, ou reforçá-la, quando, sem culpa sua, se
 perca, deteriore, ou desvalorize.
 
-## Art. 1.428.
+## Art. 1.428
 
 É nula a cláusula que autoriza o credor pignoratício, anticrético ou
 
@@ -15334,16 +15292,16 @@ hipotecário a ficar com o objeto da garantia, se a dívida não for paga no ven
 Parágrafo único. Após o vencimento, poderá o devedor dar a coisa em pagamento da
 dívida.
 
-## Art. 1.429.
+## Art. 1.429
 
-s sucessores do devedor não podem remir parcialmente o penhor ou a
+Os sucessores do devedor não podem remir parcialmente o penhor ou a
 
 hipoteca na proporção dos seus quinhões; qualquer deles, porém, pode fazê-lo no todo.
 
 Parágrafo único. O herdeiro ou sucessor que fizer a remição fica sub-rogado nos
 direitos do credor pelas quotas que houver satisfeito.
 
-## Art. 1.430.
+## Art. 1.430
 
 Quando, excutido o penhor, ou executada a hipoteca, o produto não bastar
 
@@ -15354,7 +15312,7 @@ pessoalmente pelo restante.
 
 ### Seção I — Da Constituição do Penhor
 
-## Art. 1.431.
+## Art. 1.431
 
 Constitui-se o penhor pela transferência efetiva da posse que, em garantia
 
@@ -15364,17 +15322,17 @@ coisa móvel, suscetível de alienação.
 Parágrafo único. No penhor rural, industrial, mercantil e de veículos, as coisas
 empenhadas continuam em poder do devedor, que as deve guardar e conservar.
 
-## Art. 1.432.
+## Art. 1.432
 
-instrumento do penhor deverá ser levado a registro, por qualquer dos
+O instrumento do penhor deverá ser levado a registro, por qualquer dos
 
 contratantes; o do penhor comum será registrado no Cartório de Títulos e Documentos.
 
 ### Seção II — Dos Direitos do Credor Pignoratício
 
-## Art. 1.433.
+## Art. 1.433
 
-credor pignoratício tem direito:
+O credor pignoratício tem direito:
 
 I - à posse da coisa empenhada;
 
@@ -15393,9 +15351,9 @@ haja receio fundado de que a coisa empenhada se perca ou deteriore, devendo o pr
 depositado. O dono da coisa empenhada pode impedir a venda antecipada, substituindo-a, ou
 oferecendo outra garantia real idônea.
 
-## Art. 1.434.
+## Art. 1.434
 
-credor não pode ser constrangido a devolver a coisa empenhada, ou uma
+O credor não pode ser constrangido a devolver a coisa empenhada, ou uma
 
 parte dela, antes de ser integralmente pago, podendo o juiz, a requerimento do
 proprietário, determinar que seja vendida apenas uma das coisas, ou parte da coisa
@@ -15403,9 +15361,9 @@ empenhada, suficiente para o pagamento do credor.
 
 ### Seção III — Das Obrigações do Credor Pignoratício
 
-## Art. 1.435.
+## Art. 1.435
 
-credor pignoratício é obrigado:
+O credor pignoratício é obrigado:
 
 I - à custódia da coisa, como depositário, e a ressarcir ao dono a perda ou
 deterioração de que for culpado, podendo ser compensada na dívida, até a concorrente
@@ -15425,7 +15383,7 @@ do art. 1.433.
 
 ### Seção IV — Da Extinção do Penhor
 
-## Art. 1.436.
+## Art. 1.436
 
 Extingue-se o penhor:
 
@@ -15451,7 +15409,7 @@ o
 Operando-se a confusão tão-somente quanto a parte da dívida
 pignoratícia, subsistirá inteiro o penhor quanto ao resto.
 
-## Art. 1.437.
+## Art. 1.437
 
 Produz efeitos a extinção do penhor depois de averbado o cancelamento do
 
@@ -15461,7 +15419,7 @@ registro, à vista da respectiva prova.
 
 #### Subseção I — Disposições Gerais
 
-## Art. 1.438.
+## Art. 1.438
 
 Constitui-se o penhor rural mediante instrumento público ou particular,
 
@@ -15472,9 +15430,9 @@ Parágrafo único. Prometendo pagar em dinheiro a dívida, que garante com penho
 rural, o devedor poderá emitir, em favor do credor, cédula rural pignoratícia, na forma
 determinada em lei especial.
 
-## Art. 1.439.
+## Art. 1.439
 
-penhor
+O penhor
 
 agrícola e o penhor pecuário não podem ser convencionados por prazos
 superiores aos das obrigações garantidas.
@@ -15491,14 +15449,14 @@ o
 A prorrogação deve ser averbada à margem do registro
 respectivo, mediante requerimento do credor e do devedor.
 
-## Art. 1.440.
+## Art. 1.440
 
 Se o prédio estiver hipotecado, o penhor rural poderá constituir-se
 
 independentemente da anuência do credor hipotecário, mas não lhe prejudica o direito de
 preferência, nem restringe a extensão da hipoteca, ao ser executada.
 
-## Art. 1.441.
+## Art. 1.441
 
 Tem o credor direito a verificar o estado das coisas empenhadas,
 
@@ -15506,7 +15464,7 @@ inspecionando-as onde se acharem, por si ou por pessoa que credenciar.
 
 #### Subseção II — Do Penhor Agrícola
 
-## Art. 1.442.
+## Art. 1.442
 
 Podem ser objeto de penhor:
 
@@ -15520,9 +15478,9 @@ IV - lenha cortada e carvão vegetal;
 
 V - animais do serviço ordinário de estabelecimento agrícola.
 
-## Art. 1.443.
+## Art. 1.443
 
-penhor agrícola que recai sobre colheita pendente, ou em via de
+O penhor agrícola que recai sobre colheita pendente, ou em via de
 
 formação, abrange a imediatamente seguinte, no caso de frustrar-se ou ser insuficiente a
 que se deu em garantia.
@@ -15534,15 +15492,15 @@ apurado na colheita seguinte.
 
 #### Subseção III — Do Penhor Pecuário
 
-## Art. 1.444.
+## Art. 1.444
 
 Podem ser objeto de penhor os animais que integram a atividade pastoril,
 
 agrícola ou de lacticínios.
 
-## Art. 1.445.
+## Art. 1.445
 
-devedor não poderá alienar os animais empenhados sem prévio
+O devedor não poderá alienar os animais empenhados sem prévio
 
 consentimento, por escrito, do credor.
 
@@ -15550,9 +15508,9 @@ Parágrafo único. Quando o devedor pretende alienar o gado empenhado ou, por
 negligência, ameace prejudicar o credor, poderá este requerer se depositem os animais
 sob a guarda de terceiro, ou exigir que se lhe pague a dívida de imediato.
 
-## Art. 1.446.
+## Art. 1.446
 
-s animais da mesma espécie, comprados para substituir os mortos, ficam
+Os animais da mesma espécie, comprados para substituir os mortos, ficam
 
 sub-rogados no penhor.
 
@@ -15562,7 +15520,7 @@ a qual deverá ser averbada.
 
 ### Seção VI — Do Penhor Industrial e Mercantil
 
-## Art. 1.447.
+## Art. 1.447
 
 Podem ser objeto de penhor máquinas, aparelhos, materiais, instrumentos,
 
@@ -15574,7 +15532,7 @@ produtos industrializados.
 Parágrafo único. Regula-se pelas disposições relativas aos armazéns gerais o
 penhor das mercadorias neles depositadas.
 
-## Art. 1.448.
+## Art. 1.448
 
 Constitui-se o penhor industrial, ou o mercantil, mediante instrumento
 
@@ -15585,15 +15543,15 @@ Parágrafo único. Prometendo pagar em dinheiro a dívida, que garante com penho
 industrial ou mercantil, o devedor poderá emitir, em favor do credor, cédula do
 respectivo crédito, na forma e para os fins que a lei especial determinar.
 
-## Art. 1.449.
+## Art. 1.449
 
-devedor não pode, sem o consentimento por escrito do credor, alterar as
+O devedor não pode, sem o consentimento por escrito do credor, alterar as
 
 coisas empenhadas ou mudar-lhes a situação, nem delas dispor. O devedor que, anuindo o
 credor, alienar as coisas empenhadas, deverá repor outros bens da mesma natureza, que
 ficarão sub-rogados no penhor.
 
-## Art. 1.450.
+## Art. 1.450
 
 Tem o credor direito a verificar o estado das coisas empenhadas,
 
@@ -15601,13 +15559,13 @@ inspecionando-as onde se acharem, por si ou por pessoa que credenciar.
 
 ### Seção VII — Do Penhor de Direitos e Títulos de Crédito
 
-## Art. 1.451.
+## Art. 1.451
 
 Podem ser objeto de penhor direitos, suscetíveis de cessão, sobre coisas
 
 móveis.
 
-## Art. 1.452.
+## Art. 1.452
 
 Constitui-se o penhor de direito mediante instrumento
 
@@ -15617,21 +15575,21 @@ Parágrafo único. O titular de direito empenhado deverá entregar ao credor
 pignoratício os documentos comprobatórios desse direito, salvo se tiver interesse
 legítimo em conservá-los.
 
-## Art. 1.453.
+## Art. 1.453
 
-penhor de crédito não tem eficácia senão quando
+O penhor de crédito não tem eficácia senão quando
 
 notificado ao devedor; por notificado tem-se o devedor que, em instrumento público ou
 particular, declarar-se ciente da existência do penhor.
 
-## Art. 1.454.
+## Art. 1.454
 
-credor pignoratício deve praticar os atos necessários à conservação
+O credor pignoratício deve praticar os atos necessários à conservação
 
 e defesa do direito empenhado e cobrar os juros e mais prestações acessórias
 compreendidas na garantia.
 
-## Art. 1.455.
+## Art. 1.455
 
 Deverá o credor pignoratício cobrar o crédito empenhado, assim que se
 
@@ -15643,7 +15601,7 @@ Parágrafo único. Estando vencido o crédito pignoratício, tem o credor direit
 reter, da quantia recebida, o que lhe é devido, restituindo o restante ao devedor; ou a
 excutir a coisa a ele entregue.
 
-## Art. 1.456.
+## Art. 1.456
 
 Se o mesmo crédito for objeto de vários penhores, só ao credor
 
@@ -15651,21 +15609,21 @@ pignoratício, cujo direito prefira aos demais, o devedor deve pagar; responde p
 e danos aos demais credores o credor preferente que, notificado por qualquer um deles,
 não promover oportunamente a cobrança.
 
-## Art. 1.457.
+## Art. 1.457
 
-titular do crédito empenhado só pode receber o pagamento com a
+O titular do crédito empenhado só pode receber o pagamento com a
 
 anuência, por escrito, do credor pignoratício, caso em que o penhor se extinguirá.
 
-## Art. 1.458.
+## Art. 1.458
 
-penhor, que recai sobre título de crédito, constitui-se mediante
+O penhor, que recai sobre título de crédito, constitui-se mediante
 
 instrumento público ou particular ou endosso pignoratício, com a tradição do título
 ao credor, regendo-se pelas Disposições Gerais deste Título e, no que couber, pela
 presente Seção.
 
-## Art. 1.459.
+## Art. 1.459
 
 Ao credor, em penhor de título de crédito, compete o direito de:
 
@@ -15680,9 +15638,9 @@ o penhor;
 IV - receber a importância consubstanciada no título e os respectivos juros, se
 exigíveis, restituindo o título ao devedor, quando este solver a obrigação.
 
-## Art. 1.460.
+## Art. 1.460
 
-devedor do título empenhado que receber a intimação prevista no inciso
+O devedor do título empenhado que receber a intimação prevista no inciso
 
 III do artigo antecedente, ou se der por ciente do penhor, não poderá pagar ao seu
 credor. Se o fizer, responderá solidariamente por este, por perdas e danos, perante o
@@ -15693,13 +15651,13 @@ saldar imediatamente a dívida, em cuja garantia se constituiu o penhor.
 
 ### Seção VIII — Do Penhor de Veículos
 
-## Art. 1.461.
+## Art. 1.461
 
 Podem ser objeto de penhor os veículos empregados em qualquer espécie de
 
 transporte ou condução.
 
-## Art. 1.462.
+## Art. 1.462
 
 Constitui-se o penhor, a que se refere o artigo antecedente, mediante
 
@@ -15710,33 +15668,33 @@ Parágrafo único. Prometendo pagar em dinheiro a dívida garantida com o penhor
 poderá o devedor emitir cédula de crédito, na forma e para os fins que a lei especial
 determinar.
 
-## Art. 1.463.
+## Art. 1.463
 
 (Revogado pela
 Lei nº 14.179, de 2021)
 
-## Art. 1.464.
+## Art. 1.464
 
 Tem o credor direito a verificar o estado do veículo empenhado,
 
 inspecionando-o onde se achar, por si ou por pessoa que credenciar.
 
-## Art. 1.465.
+## Art. 1.465
 
 A alienação, ou a mudança, do veículo empenhado sem prévia
 
 comunicação ao credor importa no vencimento antecipado do crédito pignoratício.
 
-## Art. 1.466.
+## Art. 1.466
 
-penhor de veículos só se pode convencionar pelo prazo máximo de dois
+O penhor de veículos só se pode convencionar pelo prazo máximo de dois
 
 anos, prorrogável até o limite de igual tempo, averbada a prorrogação à margem do
 registro respectivo.
 
 ### Seção IX — Do Penhor Legal
 
-## Art. 1.467.
+## Art. 1.467
 
 São credores pignoratícios, independentemente de convenção:
 
@@ -15747,7 +15705,7 @@ casas ou estabelecimentos, pelas despesas ou consumo que aí tiverem feito;
 II - o dono do prédio rústico ou urbano, sobre os bens móveis que o rendeiro ou
 inquilino tiver guarnecendo o mesmo prédio, pelos aluguéis ou rendas.
 
-## Art. 1.468.
+## Art. 1.468
 
 A conta das dívidas enumeradas no inciso I do artigo antecedente será
 
@@ -15755,26 +15713,26 @@ extraída conforme a tabela impressa, prévia e ostensivamente exposta na casa, 
 preços de hospedagem, da pensão ou dos gêneros fornecidos, sob pena de nulidade do
 penhor.
 
-## Art. 1.469.
+## Art. 1.469
 
 Em cada um dos casos do art. 1.467, o credor poderá tomar em garantia um
 
 ou mais objetos até o valor da dívida.
 
-## Art. 1.470.
+## Art. 1.470
 
-s credores, compreendidos no art. 1.467, podem fazer efetivo o penhor,
+Os credores, compreendidos no art. 1.467, podem fazer efetivo o penhor,
 
 antes de recorrerem à autoridade judiciária, sempre que haja perigo na demora, dando aos
 devedores comprovante dos bens de que se apossarem.
 
-## Art. 1.471.
+## Art. 1.471
 
 Tomado o penhor, requererá o credor, ato contínuo, a sua homologação
 
 judicial.
 
-## Art. 1.472.
+## Art. 1.472
 
 Pode o locatário impedir a constituição do penhor mediante caução
 
@@ -15784,7 +15742,7 @@ idônea.
 
 ### Seção I — Disposições Gerais
 
-## Art. 1.473.
+## Art. 1.473
 
 Podem ser objeto de hipoteca:
 
@@ -15836,14 +15794,14 @@ tenham sido transferidos por período determinado.
 (Incluído pela Lei nº
 11.481, de 2007)
 
-## Art. 1.474.
+## Art. 1.474
 
 A hipoteca abrange todas as acessões, melhoramentos ou construções do
 
 imóvel. Subsistem os ônus reais constituídos e registrados, anteriormente à hipoteca,
 sobre o mesmo imóvel.
 
-## Art. 1.475.
+## Art. 1.475
 
 É nula a cláusula que proíbe ao proprietário alienar imóvel
 
@@ -15852,13 +15810,13 @@ hipotecado.
 Parágrafo único. Pode convencionar-se que vencerá o crédito hipotecário, se o
 imóvel for alienado.
 
-## Art. 1.476.
+## Art. 1.476
 
-dono do imóvel hipotecado pode constituir outra hipoteca sobre ele,
+O dono do imóvel hipotecado pode constituir outra hipoteca sobre ele,
 
 mediante novo título, em favor do mesmo ou de outro credor.
 
-## Art. 1.477.
+## Art. 1.477
 
 Salvo o caso de insolvência do devedor, o credor da segunda hipoteca,
 
@@ -15877,9 +15835,9 @@ mesmo imóvel.
 (Incluído pela Lei nº
 14.711, de 2023)
 
-## Art. 1.478.
+## Art. 1.478
 
-credor hipotecário que efetuar o pagamento, a qualquer tempo,
+O credor hipotecário que efetuar o pagamento, a qualquer tempo,
 
 das dívidas garantidas pelas hipotecas anteriores sub-rogar-se-á nos seus
 direitos, sem prejuízo dos que lhe competirem contra o devedor comum.
@@ -15889,16 +15847,16 @@ Lei nº 14.711, de 2023)
 Parágrafo único. Se o primeiro credor estiver promovendo a execução da hipoteca, o
 credor da segunda depositará a importância do débito e as despesas judiciais.
 
-## Art. 1.479.
+## Art. 1.479
 
-adquirente do imóvel hipotecado, desde que não se tenha obrigado
+O adquirente do imóvel hipotecado, desde que não se tenha obrigado
 
 pessoalmente a pagar as dívidas aos credores hipotecários, poderá exonerar-se da
 hipoteca, abandonando-lhes o imóvel.
 
-## Art. 1.480.
+## Art. 1.480
 
-adquirente notificará o vendedor e os credores hipotecários,
+O adquirente notificará o vendedor e os credores hipotecários,
 
 deferindo-lhes, conjuntamente, a posse do imóvel, ou o depositará em juízo.
 
@@ -15906,7 +15864,7 @@ Parágrafo único. Poderá o adquirente exercer a faculdade de abandonar o imóv
 hipotecado, até as vinte e quatro horas subseqüentes à citação, com que se inicia o
 procedimento executivo.
 
-## Art. 1.481.
+## Art. 1.481
 
 Dentro em trinta dias, contados do registro do título aquisitivo, tem o
 
@@ -15938,26 +15896,26 @@ que ficar privado do imóvel em conseqüência de licitação ou penhora, o que 
 hipoteca, o que, por causa de adjudicação ou licitação, desembolsar com o pagamento da
 hipoteca importância excedente à da compra e o que suportar custas e despesas judiciais.
 
-## Art. 1.482.
+## Art. 1.482
 
 (Revogado pela Lei n º 13.105, de
 2015)
 (Vigência)
 
-## Art. 1.483.
+## Art. 1.483
 
 (Revogado pela Lei n º 13.105, de
 2015)
 (Vigência)
 
-## Art. 1.484.
+## Art. 1.484
 
 É lícito aos interessados fazer constar das escrituras o valor entre si
 
 ajustado dos imóveis hipotecados, o qual, devidamente atualizado, será a base para as
 arrematações, adjudicações e remições, dispensada a avaliação.
 
-## Art. 1.485.
+## Art. 1.485
 
 Mediante simples averbação, requerida por ambas as partes, poderá
 
@@ -15968,14 +15926,14 @@ competir.
 (Redação dada pela
 Lei nº 10.931, de 2004)
 
-## Art. 1.486.
+## Art. 1.486
 
 Podem o credor e o devedor, no ato constitutivo da hipoteca, autorizar a
 
 emissão da correspondente cédula hipotecária, na forma e para os fins previstos em lei
 especial.
 
-## Art. 1.487.
+## Art. 1.487
 
 A hipoteca pode ser constituída para garantia de dívida futura ou
 
@@ -15995,7 +15953,7 @@ por perdas e danos, em razão da superveniente desvalorização do imóvel.
 
 ## Art. 1.487-A
 
-. A hipoteca poderá, por requerimento do proprietário, ser
+A hipoteca poderá, por requerimento do proprietário, ser
 
 posteriormente estendida para garantir novas obrigações em favor do mesmo
 credor, mantidos o registro e a publicidade originais, mas respeitada, em
@@ -16037,7 +15995,7 @@ modo diverso por todos os credores.
 (Incluído
 pela Lei nº 14.711, de 2023)
 
-## Art. 1.488.
+## Art. 1.488
 
 Se o imóvel, dado em garantia hipotecária, vier a ser loteado, ou se nele
 
@@ -16063,7 +16021,7 @@ responsabilidade a que se refere o art. 1.430, salvo anuência do credor.
 
 ### Seção II — Da Hipoteca Legal
 
-## Art. 1.489.
+## Art. 1.489
 
 A lei confere hipoteca:
 
@@ -16082,14 +16040,14 @@ imóvel adjudicado ao herdeiro reponente;
 V - ao credor sobre o imóvel arrematado, para garantia do pagamento do restante do
 preço da arrematação.
 
-## Art. 1.490.
+## Art. 1.490
 
-credor da hipoteca legal, ou quem o represente, poderá, provando a
+O credor da hipoteca legal, ou quem o represente, poderá, provando a
 
 insuficiência dos imóveis especializados, exigir do devedor que seja reforçado com
 outros.
 
-## Art. 1.491.
+## Art. 1.491
 
 A hipoteca legal pode ser substituída por caução de títulos da dívida
 
@@ -16098,7 +16056,7 @@ corrente; ou por outra garantia, a critério do juiz, a requerimento do devedor.
 
 ### Seção III — Do Registro da Hipoteca
 
-## Art. 1.492.
+## Art. 1.492
 
 As hipotecas serão registradas no cartório do lugar do imóvel, ou no de
 
@@ -16107,21 +16065,21 @@ cada um deles, se o título se referir a mais de um.
 Parágrafo único. Compete aos interessados, exibido o título, requerer o registro da
 hipoteca.
 
-## Art. 1.493.
+## Art. 1.493
 
-s registros e averbações seguirão a ordem em que forem requeridas,
+Os registros e averbações seguirão a ordem em que forem requeridas,
 
 verificando-se ela pela da sua numeração sucessiva no protocolo.
 
 Parágrafo único. O número de ordem determina a prioridade, e esta a preferência
 entre as hipotecas.
 
-## Art. 1.494.
+## Art. 1.494
 
 (Revogado
 pela Lei nº 14.382, de 2022)
 
-## Art. 1.495.
+## Art. 1.495
 
 Quando se apresentar ao oficial do registro título de hipoteca que
 
@@ -16130,7 +16088,7 @@ nova, depois de a prenotar, até trinta dias, aguardando que o interessado inscr
 precedente; esgotado o prazo, sem que se requeira a inscrição desta, a hipoteca ulterior
 será registrada e obterá preferência.
 
-## Art. 1.496.
+## Art. 1.496
 
 Se tiver dúvida sobre a legalidade do registro requerido, o oficial fará,
 
@@ -16139,7 +16097,7 @@ improcedente, o registro efetuar-se-á com o mesmo número que teria na data da
 prenotação; no caso contrário, cancelada esta, receberá o registro o número
 correspondente à data em que se tornar a requerer.
 
-## Art. 1.497.
+## Art. 1.497
 
 As hipotecas legais, de qualquer natureza, deverão ser registradas e
 
@@ -16156,7 +16114,7 @@ o
 As pessoas, às quais incumbir o registro e a especialização
 das hipotecas legais, estão sujeitas a perdas e danos pela omissão.
 
-## Art. 1.498.
+## Art. 1.498
 
 Vale o registro da hipoteca, enquanto a obrigação perdurar; mas a
 
@@ -16164,7 +16122,7 @@ especialização, em completando vinte anos, deve ser renovada.
 
 ### Seção IV — Da Extinção da Hipoteca
 
-## Art. 1.499.
+## Art. 1.499
 
 A hipoteca extingue-se:
 
@@ -16180,13 +16138,13 @@ V - pela remição;
 
 VI - pela arrematação ou adjudicação.
 
-## Art. 1.500.
+## Art. 1.500
 
 Extingue-se ainda a hipoteca com a averbação, no Registro de Imóveis, do
 
 cancelamento do registro, à vista da respectiva prova.
 
-## Art. 1.501.
+## Art. 1.501
 
 Não extinguirá a hipoteca, devidamente registrada, a arrematação ou
 
@@ -16195,20 +16153,20 @@ hipotecários, que não forem de qualquer modo partes na execução.
 
 ### Seção V — Da Hipoteca de Vias Férreas
 
-## Art. 1.502.
+## Art. 1.502
 
 As hipotecas sobre as estradas de ferro serão registradas no Município da
 
 estação inicial da respectiva linha.
 
-## Art. 1.503.
+## Art. 1.503
 
-s credores hipotecários não podem embaraçar a exploração da linha,
+Os credores hipotecários não podem embaraçar a exploração da linha,
 
 nem contrariar as modificações, que a administração deliberar, no leito da estrada, em
 suas dependências, ou no seu material.
 
-## Art. 1.504.
+## Art. 1.504
 
 A hipoteca será circunscrita à linha ou às linhas especificadas na
 
@@ -16218,7 +16176,7 @@ execução estiverem; mas os credores hipotecários poderão opor-se à venda da
 bem como à fusão com outra empresa, sempre que com isso a garantia do débito
 enfraquecer.
 
-## Art. 1.505.
+## Art. 1.505
 
 Na execução das hipotecas será intimado o representante da União ou do
 
@@ -16227,7 +16185,7 @@ da arrematação ou da adjudicação.
 
 # CAPÍTULO IV — Da Anticrese
 
-## Art. 1.506.
+## Art. 1.506
 
 Pode o devedor ou outrem por ele, com a entrega do imóvel ao credor,
 
@@ -16246,9 +16204,9 @@ Quando a anticrese recair sobre bem imóvel, este poderá ser
 hipotecado pelo devedor ao credor anticrético, ou a terceiros, assim como o imóvel
 hipotecado poderá ser dado em anticrese.
 
-## Art. 1.507.
+## Art. 1.507
 
-credor anticrético pode administrar os bens dados em anticrese e fruir
+O credor anticrético pode administrar os bens dados em anticrese e fruir
 
 seus frutos e utilidades, mas deverá apresentar anualmente balanço, exato e fiel, de sua
 administração.
@@ -16267,16 +16225,16 @@ arrendar os bens dados em anticrese a terceiro, mantendo, até ser pago, direito
 retenção do imóvel, embora o aluguel desse arrendamento não seja vinculativo para o
 devedor.
 
-## Art. 1.508.
+## Art. 1.508
 
-credor anticrético responde pelas deteriorações que, por culpa sua, o
+O credor anticrético responde pelas deteriorações que, por culpa sua, o
 
 imóvel vier a sofrer, e pelos frutos e rendimentos que, por sua negligência, deixar de
 perceber.
 
-## Art. 1.509.
+## Art. 1.509
 
-credor anticrético pode vindicar os seus direitos contra o adquirente
+O credor anticrético pode vindicar os seus direitos contra o adquirente
 
 dos bens, os credores quirografários e os hipotecários posteriores ao registro da
 anticrese.
@@ -16293,9 +16251,9 @@ O credor anticrético não terá preferência sobre a
 indenização do seguro, quando o prédio seja destruído, nem, se forem desapropriados os
 bens, com relação à desapropriação.
 
-## Art. 1.510.
+## Art. 1.510
 
-adquirente dos bens dados em anticrese poderá remi-los, antes do
+O adquirente dos bens dados em anticrese poderá remi-los, antes do
 
 vencimento da dívida, pagando a sua totalidade à data do pedido de remição e
 imitir-se-á, se for o caso, na sua posse.
@@ -16304,7 +16262,7 @@ imitir-se-á, se for o caso, na sua posse.
 
 ## Art. 1.510-A
 
-. O proprietário de
+O proprietário de
 
 uma construção-base poderá ceder a superfície superior ou inferior de sua
 construção a fim de que o titular da laje mantenha unidade distinta daquela
@@ -16365,7 +16323,7 @@ edilícias e urbanísticas vigentes.
 
 ## Art. 1.510-B
 
-. É expressamente
+É expressamente
 
 vedado ao titular da laje prejudicar com obras novas ou com falta de reparação a
 segurança, a linha arquitetônica ou o arranjo estético do edifício, observadas
@@ -16375,7 +16333,7 @@ as posturas previstas em legislação local.
 
 ## Art. 1.510-C
 
-. Sem prejuízo, no
+Sem prejuízo, no
 
 que couber, das normas aplicáveis aos condomínios edilícios, para fins do
 direito real de laje, as despesas necessárias à conservação e fruição das partes
@@ -16425,7 +16383,7 @@ Código.
 
 ## Art. 1.510-D
 
-. Em caso de
+Em caso de
 
 alienação de qualquer das unidades sobrepostas, terão direito de preferência, em
 igualdade de condições com terceiros, os titulares da construção-base e da laje,
@@ -16455,7 +16413,7 @@ laje mais próxima à unidade sobreposta a ser alienada.
 
 ## Art. 1.510-E
 
-. A ruína da
+A ruína da
 
 construção-base implica extinção do direito real de laje, salvo:
 (Incluído pela Lei nº
@@ -16483,43 +16441,43 @@ pela ruína.
 
 # CAPÍTULO I — Disposições Gerais
 
-## Art. 1.511.
+## Art. 1.511
 
-casamento estabelece comunhão plena de vida, com base na igualdade de
+O casamento estabelece comunhão plena de vida, com base na igualdade de
 
 direitos e deveres dos cônjuges.
 
-## Art. 1.512.
+## Art. 1.512
 
-casamento é civil e gratuita a sua celebração.
+O casamento é civil e gratuita a sua celebração.
 
 Parágrafo único. A habilitação para o casamento, o registro e a primeira certidão
 serão isentos de selos, emolumentos e custas, para as pessoas cuja pobreza for declarada,
 sob as penas da lei.
 
-## Art. 1.513.
+## Art. 1.513
 
 É defeso a qualquer pessoa, de direito público ou privado, interferir na
 
 comunhão de vida instituída pela família.
 
-## Art. 1.514.
+## Art. 1.514
 
-casamento se realiza no momento em que o homem e a mulher manifestam,
+O casamento se realiza no momento em que o homem e a mulher manifestam,
 
 perante o juiz, a sua vontade de estabelecer vínculo conjugal, e o juiz os declara
 casados.
 
-## Art. 1.515.
+## Art. 1.515
 
-casamento religioso, que atender às exigências da lei para a validade
+O casamento religioso, que atender às exigências da lei para a validade
 
 do casamento civil, equipara-se a este, desde que registrado no registro próprio,
 produzindo efeitos a partir da data de sua celebração.
 
-## Art. 1.516.
+## Art. 1.516
 
-registro do casamento religioso submete-se aos mesmos requisitos exigidos
+O registro do casamento religioso submete-se aos mesmos requisitos exigidos
 
 para o casamento civil.
 
@@ -16545,9 +16503,9 @@ dele, qualquer dos consorciados houver contraído com outrem casamento civil.
 
 # CAPÍTULO II — Da Capacidade PARA O CASAMENTO
 
-## Art. 1.517.
+## Art. 1.517
 
-homem e a mulher com dezesseis anos podem casar, exigindo-se
+O homem e a mulher com dezesseis anos podem casar, exigindo-se
 
 autorização de ambos os pais, ou de seus representantes legais, enquanto não atingida a
 maioridade civil.
@@ -16555,7 +16513,7 @@ maioridade civil.
 Parágrafo único. Se houver divergência entre os pais, aplica-se o disposto no
 parágrafo único do art. 1.631.
 
-## Art. 1.518.
+## Art. 1.518
 
 Até a celebração do casamento
 
@@ -16564,11 +16522,11 @@ podem os pais ou tutores revogar a autorização.
 2015)
 (Vigência)
 
-## Art. 1.519.
+## Art. 1.519
 
 A denegação do consentimento, quando injusta, pode ser suprida pelo juiz.
 
-## Art. 1.520.
+## Art. 1.520
 
 Não será permitido, em qualquer caso, o casamento de quem não
 
@@ -16578,7 +16536,7 @@ atingiu a idade núbil, observado o disposto no art. 1.517 deste Código.
 
 # CAPÍTULO III — Dos Impedimentos
 
-## Art. 1.521.
+## Art. 1.521
 
 Não podem casar:
 
@@ -16599,9 +16557,9 @@ VI - as pessoas casadas;
 VII - o cônjuge sobrevivente com o condenado por homicídio ou tentativa de homicídio
 contra o seu consorte.
 
-## Art. 1.522.
+## Art. 1.522
 
-s impedimentos podem ser opostos, até o momento da celebração do
+Os impedimentos podem ser opostos, até o momento da celebração do
 
 casamento, por qualquer pessoa capaz.
 
@@ -16610,7 +16568,7 @@ existência de algum impedimento, será obrigado a declará-lo.
 
 # CAPÍTULO IV — Das causas suspensivas
 
-## Art. 1.523.
+## Art. 1.523
 
 Não devem casar:
 
@@ -16633,7 +16591,7 @@ provando-se a inexistência de prejuízo, respectivamente, para o herdeiro, para
 ex-cônjuge e para a pessoa tutelada ou curatelada; no caso do inciso II, a nubente
 deverá provar nascimento de filho, ou inexistência de gravidez, na fluência do prazo.
 
-## Art. 1.524.
+## Art. 1.524
 
 As causas suspensivas da celebração do casamento podem ser argüidas
 
@@ -16642,9 +16600,9 @@ colaterais em segundo grau, sejam também consangüíneos ou afins.
 
 # CAPÍTULO V — Do Processo de Habilitação PARA O CASAMENTO
 
-## Art. 1.525.
+## Art. 1.525
 
-requerimento de habilitação para o casamento será firmado por ambos os
+O requerimento de habilitação para o casamento será firmado por ambos os
 
 nubentes, de próprio punho, ou, a seu pedido, por procurador, e deve ser instruído com
 os seguintes documentos:
@@ -16664,7 +16622,7 @@ V - certidão de óbito do cônjuge falecido, de sentença declaratória de nuli
 de anulação de casamento, transitada em julgado, ou do registro da sentença de
 divórcio.
 
-## Art. 1.526.
+## Art. 1.526
 
 A
 
@@ -16680,7 +16638,7 @@ ou de terceiro, a habilitação será submetida ao juiz.
 2009)
 Vigência
 
-## Art. 1.527.
+## Art. 1.527
 
 Estando em ordem a documentação, o oficial extrairá o edital, que se
 
@@ -16690,22 +16648,22 @@ e, obrigatoriamente, se publicará na imprensa local, se houver.
 Parágrafo único. A autoridade competente, havendo urgência, poderá dispensar a
 publicação.
 
-## Art. 1.528.
+## Art. 1.528
 
 É dever do oficial do registro esclarecer os nubentes a respeito dos fatos
 
 que podem ocasionar a invalidade do casamento, bem como sobre os diversos regimes de bens.
 
-## Art. 1.529.
+## Art. 1.529
 
 Tanto os impedimentos quanto as causas suspensivas serão opostos em
 
 declaração escrita e assinada, instruída com as provas do fato alegado, ou com a
 indicação do lugar onde possam ser obtidas.
 
-## Art. 1.530.
+## Art. 1.530
 
-oficial do registro dará aos nubentes ou a seus representantes nota da
+O oficial do registro dará aos nubentes ou a seus representantes nota da
 
 oposição, indicando os fundamentos, as provas e o nome de quem a ofereceu.
 
@@ -16713,14 +16671,14 @@ Parágrafo único. Podem os nubentes requerer prazo razoável para fazer prova
 contrária aos fatos alegados, e promover as ações civis e criminais contra o oponente
 de má-fé.
 
-## Art. 1.531.
+## Art. 1.531
 
 Cumpridas as formalidades dos arts. 1.526 e 1.527 e verificada a
 
 inexistência de fato obstativo, o oficial do registro extrairá o certificado de
 habilitação.
 
-## Art. 1.532.
+## Art. 1.532
 
 A eficácia da habilitação será de noventa dias, a contar da data em que
 
@@ -16728,14 +16686,14 @@ foi extraído o certificado.
 
 # CAPÍTULO VI — Da Celebração do Casamento
 
-## Art. 1.533.
+## Art. 1.533
 
 Celebrar-se-á o casamento, no dia, hora e lugar previamente designados
 
 pela autoridade que houver de presidir o ato, mediante petição dos contraentes, que se
 mostrem habilitados com a certidão do art. 1.531.
 
-## Art. 1.534.
+## Art. 1.534
 
 A solenidade realizar-se-á na sede do cartório, com toda publicidade, a
 
@@ -16753,7 +16711,7 @@ o
 Serão quatro as testemunhas na hipótese do parágrafo
 anterior e se algum dos contraentes não souber ou não puder escrever.
 
-## Art. 1.535.
+## Art. 1.535
 
 Presentes os contraentes, em pessoa ou por procurador especial, juntamente
 
@@ -16763,7 +16721,7 @@ casamento, nestes termos:"De acordo com a vontade que ambos acabais de afirmar
 perante mim, de vos receberdes por marido e mulher, eu, em nome da lei, vos declaro
 casados."
 
-## Art. 1.536.
+## Art. 1.536
 
 Do casamento, logo depois de celebrado, lavrar-se-á o assento no livro de
 
@@ -16789,13 +16747,13 @@ VII - o regime do casamento, com a declaração da data e do cartório em cujas 
 foi lavrada a escritura antenupcial, quando o regime não for o da comunhão parcial, ou o
 obrigatoriamente estabelecido.
 
-## Art. 1.537.
+## Art. 1.537
 
-instrumento da autorização para casar transcrever-se-á integralmente
+O instrumento da autorização para casar transcrever-se-á integralmente
 
 na escritura antenupcial.
 
-## Art. 1.538.
+## Art. 1.538
 
 A celebração do casamento será imediatamente suspensa se algum dos
 
@@ -16810,7 +16768,7 @@ III - manifestar-se arrependido.
 Parágrafo único. O nubente que, por algum dos fatos mencionados neste artigo, der
 causa à suspensão do ato, não será admitido a retratar-se no mesmo dia.
 
-## Art. 1.539.
+## Art. 1.539
 
 No caso de moléstia grave de um dos nubentes, o presidente do ato irá
 
@@ -16828,7 +16786,7 @@ o
 O termo avulso, lavrado pelo oficial ad hoc, será registrado
 no respectivo registro dentro em cinco dias, perante duas testemunhas, ficando arquivado.
 
-## Art. 1.540.
+## Art. 1.540
 
 Quando algum dos contraentes estiver em iminente risco de vida, não
 
@@ -16836,7 +16794,7 @@ obtendo a presença da autoridade à qual incumba presidir o ato, nem a de seu s
 poderá o casamento ser celebrado na presença de seis testemunhas, que com os nubentes
 não tenham parentesco em linha reta, ou, na colateral, até segundo grau.
 
-## Art. 1.541.
+## Art. 1.541
 
 Realizado o casamento, devem as testemunhas comparecer perante a autoridade
 
@@ -16878,9 +16836,9 @@ Serão dispensadas as formalidades deste e do artigo
 antecedente, se o enfermo convalescer e puder ratificar o casamento na presença da
 autoridade competente e do oficial do registro.
 
-## Art. 1.542.
+## Art. 1.542
 
-casamento pode celebrar-se mediante procuração, por instrumento
+O casamento pode celebrar-se mediante procuração, por instrumento
 
 público, com poderes especiais.
 
@@ -16905,16 +16863,16 @@ Só por instrumento público se poderá revogar o mandato.
 
 # CAPÍTULO VII — Das Provas do Casamento
 
-## Art. 1.543.
+## Art. 1.543
 
-casamento celebrado no Brasil prova-se pela certidão do registro.
+O casamento celebrado no Brasil prova-se pela certidão do registro.
 
 Parágrafo único. Justificada a falta ou perda do registro civil, é admissível
 qualquer outra espécie de prova.
 
-## Art. 1.544.
+## Art. 1.544
 
-casamento de brasileiro, celebrado no estrangeiro, perante as respectivas
+O casamento de brasileiro, celebrado no estrangeiro, perante as respectivas
 
 autoridades ou os cônsules brasileiros, deverá ser registrado em cento e oitenta dias, a
 contar da volta de um ou de ambos os cônjuges ao Brasil, no cartório do respectivo
@@ -16923,15 +16881,15 @@ o
 Ofício da Capital do Estado em que
 passarem a residir.
 
-## Art. 1.545.
+## Art. 1.545
 
-casamento de pessoas que, na posse do estado de casadas, não possam
+O casamento de pessoas que, na posse do estado de casadas, não possam
 
 manifestar vontade, ou tenham falecido, não se pode contestar em prejuízo da prole
 comum, salvo mediante certidão do Registro Civil que prove que já era casada alguma
 delas, quando contraiu o casamento impugnado.
 
-## Art. 1.546.
+## Art. 1.546
 
 Quando a prova da celebração legal do casamento resultar de processo
 
@@ -16939,7 +16897,7 @@ judicial, o registro da sentença no livro do Registro Civil produzirá, tanto n
 aos cônjuges como no que respeita aos filhos, todos os efeitos civis desde a data do
 casamento.
 
-## Art. 1.547.
+## Art. 1.547
 
 Na dúvida entre as provas favoráveis e contrárias, julgar-se-á pelo
 
@@ -16948,7 +16906,7 @@ do estado de casados.
 
 # CAPÍTULO VIII — Da Invalidade do Casamento
 
-## Art. 1.548.
+## Art. 1.548
 
 É nulo o casamento contraído:
 
@@ -16961,14 +16919,14 @@ I -
 
 II - por infringência de impedimento.
 
-## Art. 1.549.
+## Art. 1.549
 
 A decretação de nulidade de casamento, pelos motivos previstos no artigo
 
 antecedente, pode ser promovida mediante ação direta, por qualquer interessado, ou pelo
 Ministério Público.
 
-## Art. 1.550.
+## Art. 1.550
 
 É anulável o casamento:
 
@@ -17003,13 +16961,13 @@ responsável ou curador.
 2015)
 (Vigência)
 
-## Art. 1.551.
+## Art. 1.551
 
 Não se anulará, por motivo de idade, o casamento de que resultou
 
 gravidez.
 
-## Art. 1.552.
+## Art. 1.552
 
 A anulação do casamento dos menores de dezesseis anos será requerida:
 
@@ -17019,23 +16977,23 @@ II - por seus representantes legais;
 
 III - por seus ascendentes.
 
-## Art. 1.553.
+## Art. 1.553
 
-menor que não atingiu a idade núbil poderá, depois de completá-la,
+O menor que não atingiu a idade núbil poderá, depois de completá-la,
 
 confirmar seu casamento, com a autorização de seus representantes legais, se
 necessária, ou com suprimento judicial.
 
-## Art. 1.554.
+## Art. 1.554
 
 Subsiste o casamento celebrado por aquele que, sem possuir a competência
 
 exigida na lei, exercer publicamente as funções de juiz de casamentos e, nessa
 qualidade, tiver registrado o ato no Registro Civil.
 
-## Art. 1.555.
+## Art. 1.555
 
-casamento do menor em idade núbil, quando não autorizado por seu
+O casamento do menor em idade núbil, quando não autorizado por seu
 
 representante legal, só poderá ser anulado se a ação for proposta em cento e oitenta
 dias, por iniciativa do incapaz, ao deixar de sê-lo, de seus representantes legais ou de
@@ -17053,13 +17011,13 @@ Não se anulará o casamento quando à sua celebração
 houverem assistido os representantes legais do incapaz, ou tiverem, por qualquer modo,
 manifestado sua aprovação.
 
-## Art. 1.556.
+## Art. 1.556
 
-casamento pode ser anulado por vício da vontade, se houve por parte de
+O casamento pode ser anulado por vício da vontade, se houve por parte de
 
 um dos nubentes, ao consentir, erro essencial quanto à pessoa do outro.
 
-## Art. 1.557.
+## Art. 1.557
 
 Considera-se erro essencial sobre a pessoa do outro cônjuge:
 
@@ -17084,23 +17042,23 @@ IV -
 2015)
 (Vigência)
 
-## Art. 1.558.
+## Art. 1.558
 
 É anulável o casamento em virtude de coação, quando o consentimento de
 
 um ou de ambos os cônjuges houver sido captado mediante fundado temor de mal
 considerável e iminente para a vida, a saúde e a honra, sua ou de seus familiares.
 
-## Art. 1.559.
+## Art. 1.559
 
 Somente o cônjuge que incidiu em erro, ou sofreu coação, pode demandar a
 
 anulação do casamento; mas a coabitação, havendo ciência do vício, valida o ato,
 ressalvadas as hipóteses dos incisos III e IV do art. 1.557.
 
-## Art. 1.560.
+## Art. 1.560
 
-prazo para ser intentada a ação de anulação do casamento, a contar da
+O prazo para ser intentada a ação de anulação do casamento, a contar da
 
 data da celebração, é de:
 
@@ -17124,7 +17082,7 @@ Na hipótese do inciso V do art. 1.550, o prazo para anulação
 do casamento é de cento e oitenta dias, a partir da data em que o mandante tiver
 conhecimento da celebração.
 
-## Art. 1.561.
+## Art. 1.561
 
 Embora anulável ou mesmo nulo, se contraído de boa-fé por ambos os
 
@@ -17141,7 +17099,7 @@ o
 Se ambos os cônjuges estavam de má-fé ao celebrar o
 casamento, os seus efeitos civis só aos filhos aproveitarão.
 
-## Art. 1.562.
+## Art. 1.562
 
 Antes de mover a ação de nulidade do casamento, a de anulação, a de
 
@@ -17149,14 +17107,14 @@ separação judicial, a de divórcio direto ou a de dissolução de união está
 poderá requerer a parte, comprovando sua necessidade, a separação de corpos, que será
 concedida pelo juiz com a possível brevidade.
 
-## Art. 1.563.
+## Art. 1.563
 
 A sentença que decretar a nulidade do casamento retroagirá à data da sua
 
 celebração, sem prejudicar a aquisição de direitos, a título oneroso, por terceiros
 de boa-fé, nem a resultante de sentença transitada em julgado.
 
-## Art. 1.564.
+## Art. 1.564
 
 Quando o casamento for anulado por culpa de um dos cônjuges, este
 
@@ -17168,7 +17126,7 @@ II - na obrigação de cumprir as promessas que lhe fez no contrato antenupcial.
 
 # CAPÍTULO IX — Da Eficácia do Casamento
 
-## Art. 1.565.
+## Art. 1.565
 
 Pelo casamento, homem e mulher assumem mutuamente a condição de
 
@@ -17186,7 +17144,7 @@ competindo ao Estado propiciar recursos educacionais e financeiros para o exerc�
 direito, vedado qualquer tipo de coerção por parte de instituições privadas ou
 públicas.
 
-## Art. 1.566.
+## Art. 1.566
 
 São deveres de ambos os cônjuges:
 
@@ -17200,7 +17158,7 @@ IV - sustento, guarda e educação dos filhos;
 
 V - respeito e consideração mútuos.
 
-## Art. 1.567.
+## Art. 1.567
 
 A direção da sociedade conjugal será exercida, em colaboração, pelo
 
@@ -17209,21 +17167,21 @@ marido e pela mulher, sempre no interesse do casal e dos filhos.
 Parágrafo único. Havendo divergência, qualquer dos cônjuges poderá recorrer ao
 juiz, que decidirá tendo em consideração aqueles interesses.
 
-## Art. 1.568.
+## Art. 1.568
 
-s cônjuges são obrigados a concorrer, na proporção de seus bens e dos
+Os cônjuges são obrigados a concorrer, na proporção de seus bens e dos
 
 rendimentos do trabalho, para o sustento da família e a educação dos filhos, qualquer
 que seja o regime patrimonial.
 
-## Art. 1.569.
+## Art. 1.569
 
-domicílio do casal será escolhido por ambos os cônjuges, mas um e
+O domicílio do casal será escolhido por ambos os cônjuges, mas um e
 
 outro podem ausentar-se do domicílio conjugal para atender a encargos públicos, ao
 exercício de sua profissão, ou a interesses particulares relevantes.
 
-## Art. 1.570.
+## Art. 1.570
 
 Se qualquer dos cônjuges estiver em lugar remoto ou não sabido,
 
@@ -17234,7 +17192,7 @@ bens.
 
 # CAPÍTULO X — Da Dissolução da Sociedade e do vínculo Conjugal
 
-## Art. 1.571.
+## Art. 1.571
 
 A sociedade conjugal termina:
 
@@ -17258,7 +17216,7 @@ Dissolvido o casamento pelo divórcio direto ou por conversão,
 o cônjuge poderá manter o nome de casado; salvo, no segundo caso, dispondo em contrário
 a sentença de separação judicial.
 
-## Art. 1.572.
+## Art. 1.572
 
 Qualquer dos cônjuges poderá propor a ação de separação judicial,
 
@@ -17287,7 +17245,7 @@ cônjuge enfermo, que não houver pedido a separação judicial, os remanescente
 que levou para o casamento, e se o regime dos bens adotado o permitir, a meação dos
 adquiridos na constância da sociedade conjugal.
 
-## Art. 1.573.
+## Art. 1.573
 
 Podem caracterizar a impossibilidade da comunhão de vida a ocorrência de
 
@@ -17308,7 +17266,7 @@ VI - conduta desonrosa.
 Parágrafo único. O juiz poderá considerar outros fatos que tornem evidente a
 impossibilidade da vida em comum.
 
-## Art. 1.574.
+## Art. 1.574
 
 Dar-se-á a separação judicial por mútuo consentimento dos cônjuges se
 
@@ -17319,7 +17277,7 @@ Parágrafo único. O juiz pode recusar a homologação e não decretar a separa�
 judicial se apurar que a convenção não preserva suficientemente os interesses dos
 filhos ou de um dos cônjuges.
 
-## Art. 1.575.
+## Art. 1.575
 
 A sentença de separação judicial importa a separação de corpos e a
 
@@ -17328,7 +17286,7 @@ partilha de bens.
 Parágrafo único. A partilha de bens poderá ser feita mediante proposta dos cônjuges
 e homologada pelo juiz ou por este decidida.
 
-## Art. 1.576.
+## Art. 1.576
 
 A separação judicial põe termo aos deveres de coabitação e fidelidade
 
@@ -17338,7 +17296,7 @@ Parágrafo único. O procedimento judicial da separação caberá somente aos
 cônjuges, e, no caso de incapacidade, serão representados pelo curador, pelo ascendente
 ou pelo irmão.
 
-## Art. 1.577.
+## Art. 1.577
 
 Seja qual for a causa da separação judicial e o modo como esta se faça,
 
@@ -17348,9 +17306,9 @@ em juízo.
 Parágrafo único. A reconciliação em nada prejudicará o direito de terceiros,
 adquirido antes e durante o estado de separado, seja qual for o regime de bens.
 
-## Art. 1.578.
+## Art. 1.578
 
-cônjuge declarado culpado na ação de separação judicial perde o
+O cônjuge declarado culpado na ação de separação judicial perde o
 
 direito de usar o sobrenome do outro, desde que expressamente requerido pelo cônjuge
 inocente e se a alteração não acarretar:
@@ -17372,16 +17330,16 @@ o
 Nos demais casos caberá a opção pela conservação do nome
 de casado.
 
-## Art. 1.579.
+## Art. 1.579
 
-divórcio não modificará os direitos e deveres dos pais em relação
+O divórcio não modificará os direitos e deveres dos pais em relação
 
 aos filhos.
 
 Parágrafo único. Novo casamento de qualquer dos pais, ou de ambos, não poderá
 importar restrições aos direitos e deveres previstos neste artigo.
 
-## Art. 1.580.
+## Art. 1.580
 
 Decorrido um ano do trânsito em julgado da sentença que houver decretado
 
@@ -17399,20 +17357,20 @@ o
 O divórcio poderá ser requerido, por um ou por ambos os
 cônjuges, no caso de comprovada separação de fato por mais de dois anos.
 
-## Art. 1.581.
+## Art. 1.581
 
-divórcio pode ser concedido sem que haja prévia partilha de bens.
+O divórcio pode ser concedido sem que haja prévia partilha de bens.
 
-## Art. 1.582.
+## Art. 1.582
 
-pedido de divórcio somente competirá aos cônjuges.
+O pedido de divórcio somente competirá aos cônjuges.
 
 Parágrafo único. Se o cônjuge for incapaz para propor a ação ou defender-se,
 poderá fazê-lo o curador, o ascendente ou o irmão.
 
 # CAPÍTULO XI — Da Proteção da Pessoa dos Filhos
 
-## Art. 1.583.
+## Art. 1.583
 
 A guarda será unilateral ou compartilhada.
 
@@ -17473,7 +17431,7 @@ afetem a saúde física e psicológica e a educação de seus filhos.
 (Incluído pela
 Lei nº 13.058, de 2014)
 
-## Art. 1.584.
+## Art. 1.584
 
 A guarda, unilateral ou compartilhada, poderá ser:
 
@@ -17540,7 +17498,7 @@ atendimento da solicitação.
 (Incluído pela
 Lei nº 13.058, de 2014)
 
-## Art. 1.585.
+## Art. 1.585
 
 Em sede de medida cautelar de
 
@@ -17553,29 +17511,29 @@ de liminar sem a oitiva da outra parte, aplicando-se as disposições do art.
 (Redação dada pela Lei nº
 13.058, de 2014)
 
-## Art. 1.586.
+## Art. 1.586
 
 Havendo motivos graves, poderá o juiz, em qualquer caso, a bem dos filhos,
 
 regular de maneira diferente da estabelecida nos artigos antecedentes a situação deles
 para com os pais.
 
-## Art. 1.587.
+## Art. 1.587
 
 No caso de invalidade do casamento, havendo filhos comuns, observar-se-á o
 
 disposto nos arts. 1.584 e 1.586.
 
-## Art. 1.588.
+## Art. 1.588
 
-pai ou a mãe que contrair novas núpcias não perde o direito de ter
+O pai ou a mãe que contrair novas núpcias não perde o direito de ter
 
 consigo os filhos, que só lhe poderão ser retirados por mandado judicial, provado que
 não são tratados convenientemente.
 
-## Art. 1.589.
+## Art. 1.589
 
-pai ou a mãe, em cuja guarda não estejam os filhos, poderá visitá-los
+O pai ou a mãe, em cuja guarda não estejam os filhos, poderá visitá-los
 
 e tê-los em sua companhia, segundo o que acordar com o outro cônjuge, ou for fixado pelo
 juiz, bem como fiscalizar sua manutenção e educação.
@@ -17586,7 +17544,7 @@ observados os interesses da criança ou do adolescente.
 (Incluído pela
 Lei nº 12.398, de 2011)
 
-## Art. 1.590.
+## Art. 1.590
 
 As disposições relativas à guarda e prestação de alimentos aos filhos
 
@@ -17594,32 +17552,32 @@ menores estendem-se aos maiores incapazes.
 
 # CAPÍTULO I — Disposições Gerais
 
-## Art. 1.591.
+## Art. 1.591
 
 São parentes em linha reta as pessoas que estão umas para com as outras
 
 na relação de ascendentes e descendentes.
 
-## Art. 1.592.
+## Art. 1.592
 
 São parentes em linha colateral ou transversal, até o quarto grau, as
 
 pessoas provenientes de um só tronco, sem descenderem uma da outra.
 
-## Art. 1.593.
+## Art. 1.593
 
-parentesco é natural ou civil, conforme resulte de consangüinidade ou
+O parentesco é natural ou civil, conforme resulte de consangüinidade ou
 
 outra origem.
 
-## Art. 1.594.
+## Art. 1.594
 
 Contam-se, na linha reta, os graus de parentesco pelo número de
 
 gerações, e, na colateral, também pelo número delas, subindo de um dos parentes até
 ao ascendente comum, e descendo até encontrar o outro parente.
 
-## Art. 1.595.
+## Art. 1.595
 
 Cada cônjuge ou companheiro é aliado aos parentes do outro pelo vínculo
 
@@ -17637,14 +17595,14 @@ do casamento ou da união estável.
 
 # CAPÍTULO II — Da Filiação
 
-## Art. 1.596.
+## Art. 1.596
 
-s filhos, havidos ou não da relação de casamento, ou por adoção,
+Os filhos, havidos ou não da relação de casamento, ou por adoção,
 
 terão os mesmos direitos e qualificações, proibidas quaisquer designações
 discriminatórias relativas à filiação.
 
-## Art. 1.597.
+## Art. 1.597
 
 Presumem-se concebidos na constância do casamento os filhos:
 
@@ -17662,7 +17620,7 @@ decorrentes de concepção artificial homóloga;
 V - havidos por inseminação artificial heteróloga, desde que tenha prévia
 autorização do marido.
 
-## Art. 1.598.
+## Art. 1.598
 
 Salvo prova em contrário, se, antes de decorrido o prazo previsto no
 
@@ -17671,19 +17629,19 @@ se presume do primeiro marido, se nascido dentro dos trezentos dias a contar da 
 falecimento deste e, do segundo, se o nascimento ocorrer após esse período e já
 decorrido o prazo a que se refere o inciso I do art. 1597.
 
-## Art. 1.599.
+## Art. 1.599
 
 A prova da impotência do cônjuge para gerar, à época da concepção,
 
 ilide a presunção da paternidade.
 
-## Art. 1.600.
+## Art. 1.600
 
 Não basta o adultério da mulher, ainda que confessado, para ilidir a
 
 presunção legal da paternidade.
 
-## Art. 1.601.
+## Art. 1.601
 
 Cabe ao marido o direito de contestar a paternidade dos filhos nascidos de
 
@@ -17692,23 +17650,23 @@ sua mulher, sendo tal ação imprescritível.
 Parágrafo único. Contestada a filiação, os herdeiros do impugnante têm direito de
 prosseguir na ação.
 
-## Art. 1.602.
+## Art. 1.602
 
 Não basta a confissão materna para excluir a paternidade.
 
-## Art. 1.603.
+## Art. 1.603
 
 A filiação prova-se pela certidão do termo de nascimento registrada no
 
 Registro Civil.
 
-## Art. 1.604.
+## Art. 1.604
 
 Ninguém pode vindicar estado contrário ao que resulta do registro de
 
 nascimento, salvo provando-se erro ou falsidade do registro.
 
-## Art. 1.605.
+## Art. 1.605
 
 Na falta, ou defeito, do termo de nascimento, poderá provar-se a
 
@@ -17719,7 +17677,7 @@ separadamente;
 
 II - quando existirem veementes presunções resultantes de fatos já certos.
 
-## Art. 1.606.
+## Art. 1.606
 
 A ação de prova de filiação compete ao filho, enquanto viver, passando
 
@@ -17730,21 +17688,21 @@ salvo se julgado extinto o processo.
 
 # CAPÍTULO III — Do Reconhecimento dos Filhos
 
-## Art. 1.607.
+## Art. 1.607
 
-filho havido fora do casamento pode ser reconhecido pelos pais, conjunta
+O filho havido fora do casamento pode ser reconhecido pelos pais, conjunta
 
 ou separadamente.
 
-## Art. 1.608.
+## Art. 1.608
 
 Quando a maternidade constar do termo do nascimento do filho, a mãe só
 
 poderá contestá-la, provando a falsidade do termo, ou das declarações nele contidas.
 
-## Art. 1.609.
+## Art. 1.609
 
-reconhecimento dos filhos havidos fora do casamento é irrevogável e
+O reconhecimento dos filhos havidos fora do casamento é irrevogável e
 
 será feito:
 
@@ -17760,52 +17718,52 @@ não haja sido o objeto único e principal do ato que o contém.
 Parágrafo único. O reconhecimento pode preceder o nascimento do filho ou ser
 posterior ao seu falecimento, se ele deixar descendentes.
 
-## Art. 1.610.
+## Art. 1.610
 
-reconhecimento não pode ser revogado, nem mesmo quando feito em
+O reconhecimento não pode ser revogado, nem mesmo quando feito em
 
 testamento.
 
-## Art. 1.611.
+## Art. 1.611
 
-filho havido fora do casamento, reconhecido por um dos cônjuges, não
+O filho havido fora do casamento, reconhecido por um dos cônjuges, não
 
 poderá residir no lar conjugal sem o consentimento do outro.
 
-## Art. 1.612.
+## Art. 1.612
 
-filho reconhecido, enquanto menor, ficará sob a guarda do genitor que o
+O filho reconhecido, enquanto menor, ficará sob a guarda do genitor que o
 
 reconheceu, e, se ambos o reconheceram e não houver acordo, sob a de quem melhor atender
 aos interesses do menor.
 
-## Art. 1.613.
+## Art. 1.613
 
 São ineficazes a condição e o termo apostos ao ato de reconhecimento do
 
 filho.
 
-## Art. 1.614.
+## Art. 1.614
 
-filho maior não pode ser reconhecido sem o seu consentimento, e o menor
+O filho maior não pode ser reconhecido sem o seu consentimento, e o menor
 
 pode impugnar o reconhecimento, nos quatro anos que se seguirem à maioridade, ou à
 emancipação.
 
-## Art. 1.615.
+## Art. 1.615
 
 Qualquer pessoa, que justo interesse tenha, pode contestar a ação de
 
 investigação de paternidade, ou maternidade.
 
-## Art. 1.616.
+## Art. 1.616
 
 A sentença que julgar procedente a ação de investigação produzirá os
 
 mesmos efeitos do reconhecimento; mas poderá ordenar que o filho se crie e eduque fora da
 companhia dos pais ou daquele que lhe contestou essa qualidade.
 
-## Art. 1.617.
+## Art. 1.617
 
 A filiação materna ou paterna pode resultar de casamento declarado nulo,
 
@@ -17813,7 +17771,7 @@ ainda mesmo sem as condições do putativo.
 
 # CAPÍTULO IV — Da Adoção
 
-## Art. 1.618.
+## Art. 1.618
 
 A adoção de crianças e
 
@@ -17824,7 +17782,7 @@ o
 nº 12.010, de 2009)
 Vigência
 
-## Art. 1.619.
+## Art. 1.619
 
 A adoção de maiores de 18
 
@@ -17838,7 +17796,7 @@ Criança e do Adolescente.
 nº 12.010, de 2009)
 Vigência
 
-## Art. 1.620.
+## Art. 1.620
 
 a 1.629.
 
@@ -17850,11 +17808,11 @@ Vigência
 
 ### Seção I — Disposições Gerais
 
-## Art. 1.630.
+## Art. 1.630
 
-s filhos estão sujeitos ao poder familiar, enquanto menores.
+Os filhos estão sujeitos ao poder familiar, enquanto menores.
 
-## Art. 1.631.
+## Art. 1.631
 
 Durante o casamento e a união estável, compete o poder familiar aos pais;
 
@@ -17863,22 +17821,22 @@ na falta ou impedimento de um deles, o outro o exercerá com exclusividade.
 Parágrafo único. Divergindo os pais quanto ao exercício do poder familiar, é
 assegurado a qualquer deles recorrer ao juiz para solução do desacordo.
 
-## Art. 1.632.
+## Art. 1.632
 
 A separação judicial, o divórcio e a dissolução da união estável
 
 não alteram as relações entre pais e filhos senão quanto ao direito, que aos primeiros
 cabe, de terem em sua companhia os segundos.
 
-## Art. 1.633.
+## Art. 1.633
 
-filho, não reconhecido pelo pai, fica sob poder familiar exclusivo da
+O filho, não reconhecido pelo pai, fica sob poder familiar exclusivo da
 
 mãe; se a mãe não for conhecida ou capaz de exercê-lo, dar-se-á tutor ao menor.
 
 ### Seção II — Do Exercício do Poder Familiar
 
-## Art. 1.634.
+## Art. 1.634
 
 Compete a ambos os pais, qualquer que
 
@@ -17934,7 +17892,7 @@ os serviços próprios de sua idade e condição.
 
 ### Seção III — Da Suspensão e Extinção do Poder Familiar
 
-## Art. 1.635.
+## Art. 1.635
 
 Extingue-se o poder familiar:
 
@@ -17950,9 +17908,9 @@ IV - pela adoção;
 
 V - por decisão judicial, na forma do artigo 1.638.
 
-## Art. 1.636.
+## Art. 1.636
 
-pai ou a mãe que contrai novas núpcias, ou estabelece união estável,
+O pai ou a mãe que contrai novas núpcias, ou estabelece união estável,
 
 não perde, quanto aos filhos do relacionamento anterior, os direitos ao poder familiar,
 exercendo-os sem qualquer interferência do novo cônjuge ou companheiro.
@@ -17960,7 +17918,7 @@ exercendo-os sem qualquer interferência do novo cônjuge ou companheiro.
 Parágrafo único. Igual preceito ao estabelecido neste artigo aplica-se ao pai ou à
 mãe solteiros que casarem ou estabelecerem união estável.
 
-## Art. 1.637.
+## Art. 1.637
 
 Se o pai, ou a mãe, abusar de sua autoridade, faltando aos deveres a eles
 
@@ -17972,7 +17930,7 @@ Parágrafo único. Suspende-se igualmente o exercício do poder familiar ao pai 
 mãe condenados por sentença irrecorrível, em virtude de crime cuja pena exceda a dois
 anos de prisão.
 
-## Art. 1.638.
+## Art. 1.638
 
 Perderá por ato judicial o poder familiar o pai ou a mãe que:
 
@@ -18033,7 +17991,7 @@ pela Lei nº 13.715, de 2018)
 
 # CAPÍTULO I — Disposições Gerais
 
-## Art. 1.639.
+## Art. 1.639
 
 É lícito aos nubentes, antes de celebrado o casamento, estipular, quanto
 
@@ -18050,7 +18008,7 @@ o
 autorização judicial em pedido motivado de ambos os cônjuges, apurada a procedência
 das razões invocadas e ressalvados os direitos de terceiros.
 
-## Art. 1.640.
+## Art. 1.640
 
 Não havendo convenção, ou sendo ela nula ou ineficaz, vigorará, quanto
 
@@ -18061,7 +18019,7 @@ qualquer dos regimes que este código regula. Quanto à forma, reduzir-se-á a t
 opção pela comunhão parcial, fazendo-se o pacto antenupcial por escritura pública, nas
 demais escolhas.
 
-## Art. 1.641.
+## Art. 1.641
 
 É obrigatório o regime da separação de bens no casamento:
 
@@ -18074,7 +18032,7 @@ II  da pessoa maior de 70 (setenta) anos;
 
 III - de todos os que dependerem, para casar, de suprimento judicial.
 
-## Art. 1.642.
+## Art. 1.642
 
 Qualquer que seja o regime de bens, tanto o marido quanto a mulher podem
 
@@ -18098,7 +18056,7 @@ comum destes, se o casal estiver separado de fato por mais de cinco anos;
 
 VI - praticar todos os atos que não lhes forem vedados expressamente.
 
-## Art. 1.643.
+## Art. 1.643
 
 Podem os cônjuges, independentemente de autorização um do outro:
 
@@ -18106,26 +18064,26 @@ I - comprar, ainda a crédito, as coisas necessárias à economia doméstica;
 
 II - obter, por empréstimo, as quantias que a aquisição dessas coisas possa exigir.
 
-## Art. 1.644.
+## Art. 1.644
 
 As dívidas contraídas para os fins do artigo antecedente obrigam
 
 solidariamente ambos os cônjuges.
 
-## Art. 1.645.
+## Art. 1.645
 
 As ações fundadas nos incisos III, IV e V do art. 1.642 competem ao
 
 cônjuge prejudicado e a seus herdeiros.
 
-## Art. 1.646.
+## Art. 1.646
 
 No caso dos incisos III e IV do art. 1.642, o terceiro, prejudicado com a
 
 sentença favorável ao autor, terá direito regressivo contra o cônjuge, que realizou o
 negócio jurídico, ou seus herdeiros.
 
-## Art. 1.647.
+## Art. 1.647
 
 Ressalvado o disposto no art. 1.648, nenhum dos cônjuges pode, sem
 
@@ -18143,13 +18101,13 @@ integrar futura meação.
 Parágrafo único. São válidas as doações nupciais feitas aos filhos quando casarem
 ou estabelecerem economia separada.
 
-## Art. 1.648.
+## Art. 1.648
 
 Cabe ao juiz, nos casos do artigo antecedente, suprir a outorga, quando um
 
 dos cônjuges a denegue sem motivo justo, ou lhe seja impossível concedê-la.
 
-## Art. 1.649.
+## Art. 1.649
 
 A falta de autorização, não suprida pelo juiz, quando necessária (art.
 
@@ -18159,14 +18117,14 @@ anulação, até dois anos depois de terminada a sociedade conjugal.
 Parágrafo único. A aprovação torna válido o ato, desde que feita por instrumento
 público, ou particular, autenticado.
 
-## Art. 1.650.
+## Art. 1.650
 
 A decretação de invalidade dos atos praticados sem outorga, sem
 
 consentimento, ou sem suprimento do juiz, só poderá ser demandada pelo cônjuge a quem
 cabia concedê-la, ou por seus herdeiros.
 
-## Art. 1.651.
+## Art. 1.651
 
 Quando um dos cônjuges não puder exercer a administração dos bens que
 
@@ -18179,9 +18137,9 @@ II - alienar os bens móveis comuns;
 III - alienar os imóveis comuns e os móveis ou imóveis do consorte, mediante
 autorização judicial.
 
-## Art. 1.652.
+## Art. 1.652
 
-cônjuge, que estiver na posse dos bens particulares do outro, será para
+O cônjuge, que estiver na posse dos bens particulares do outro, será para
 
 com este e seus herdeiros responsável:
 
@@ -18193,33 +18151,33 @@ III - como depositário, se não for usufrutuário, nem administrador.
 
 # CAPÍTULO II — Do Pacto Antenupcial
 
-## Art. 1.653.
+## Art. 1.653
 
 É nulo o pacto antenupcial se não for feito por escritura pública, e
 
 ineficaz se não lhe seguir o casamento.
 
-## Art. 1.654.
+## Art. 1.654
 
 A eficácia do pacto antenupcial, realizado por menor, fica condicionada à
 
 aprovação de seu representante legal, salvo as hipóteses de regime obrigatório de
 separação de bens.
 
-## Art. 1.655.
+## Art. 1.655
 
 É nula a convenção ou cláusula dela que contravenha disposição
 
 absoluta de lei.
 
-## Art. 1.656.
+## Art. 1.656
 
 No pacto antenupcial, que adotar o regime de participação final nos
 
 aqüestos, poder-se-á convencionar a livre disposição dos bens imóveis, desde que
 particulares.
 
-## Art. 1.657.
+## Art. 1.657
 
 As convenções antenupciais não terão efeito perante terceiros senão
 
@@ -18228,13 +18186,13 @@ domicílio dos cônjuges.
 
 # CAPÍTULO III — Do Regime de Comunhão Parcial
 
-## Art. 1.658.
+## Art. 1.658
 
 No regime de comunhão parcial, comunicam-se os bens que sobrevierem ao
 
 casal, na constância do casamento, com as exceções dos artigos seguintes.
 
-## Art. 1.659.
+## Art. 1.659
 
 Excluem-se da comunhão:
 
@@ -18255,7 +18213,7 @@ VI - os proventos do trabalho pessoal de cada cônjuge;
 
 VII - as pensões, meios-soldos, montepios e outras rendas semelhantes.
 
-## Art. 1.660.
+## Art. 1.660
 
 Entram na comunhão:
 
@@ -18273,19 +18231,19 @@ IV - as benfeitorias em bens particulares de cada cônjuge;
 V - os frutos dos bens comuns, ou dos particulares de cada cônjuge, percebidos na
 constância do casamento, ou pendentes ao tempo de cessar a comunhão.
 
-## Art. 1.661.
+## Art. 1.661
 
 São incomunicáveis os bens cuja aquisição tiver por título uma causa
 
 anterior ao casamento.
 
-## Art. 1.662.
+## Art. 1.662
 
 No regime da comunhão parcial, presumem-se adquiridos na constância do
 
 casamento os bens móveis, quando não se provar que o foram em data anterior.
 
-## Art. 1.663.
+## Art. 1.663
 
 A administração do patrimônio comum compete a qualquer dos cônjuges.
 
@@ -18305,21 +18263,21 @@ o
 Em caso de malversação dos bens, o juiz poderá atribuir a
 administração a apenas um dos cônjuges.
 
-## Art. 1.664.
+## Art. 1.664
 
-s bens da comunhão respondem pelas obrigações contraídas pelo marido
+Os bens da comunhão respondem pelas obrigações contraídas pelo marido
 
 ou pela mulher para atender aos encargos da família, às despesas de administração e
 às decorrentes de imposição legal.
 
-## Art. 1.665.
+## Art. 1.665
 
 A administração e a disposição dos bens constitutivos do patrimônio
 
 particular competem ao cônjuge proprietário, salvo convenção diversa em pacto
 antenupcial.
 
-## Art. 1.666.
+## Art. 1.666
 
 As dívidas, contraídas por qualquer dos cônjuges na administração de
 
@@ -18327,14 +18285,14 @@ seus bens particulares e em benefício destes, não obrigam os bens comuns.
 
 # CAPÍTULO IV — Do Regime de Comunhão Universal
 
-## Art. 1.667.
+## Art. 1.667
 
-regime de comunhão universal importa a comunicação de todos os bens
+O regime de comunhão universal importa a comunicação de todos os bens
 
 presentes e futuros dos cônjuges e suas dívidas passivas, com as exceções do artigo
 seguinte.
 
-## Art. 1.668.
+## Art. 1.668
 
 São excluídos da comunhão:
 
@@ -18352,19 +18310,19 @@ incomunicabilidade;
 
 V - Os bens referidos nos incisos V a VII do art. 1.659.
 
-## Art. 1.669.
+## Art. 1.669
 
 A incomunicabilidade dos bens enumerados no artigo antecedente não se
 
 estende aos frutos, quando se percebam ou vençam durante o casamento.
 
-## Art. 1.670.
+## Art. 1.670
 
 Aplica-se ao regime da comunhão universal o disposto no Capítulo
 
 antecedente, quanto à administração dos bens.
 
-## Art. 1.671.
+## Art. 1.671
 
 Extinta a comunhão, e efetuada a divisão do ativo e do passivo, cessará
 
@@ -18372,7 +18330,7 @@ a responsabilidade de cada um dos cônjuges para com os credores do outro.
 
 # CAPÍTULO V — Do Regime de Participação Final nos Aqüestos
 
-## Art. 1.672.
+## Art. 1.672
 
 No regime de participação final nos aqüestos, cada cônjuge possui
 
@@ -18380,7 +18338,7 @@ patrimônio próprio, consoante disposto no artigo seguinte, e lhe cabe, à épo
 dissolução da sociedade conjugal, direito à metade dos bens adquiridos pelo casal, a
 título oneroso, na constância do casamento.
 
-## Art. 1.673.
+## Art. 1.673
 
 Integram o patrimônio próprio os bens que cada cônjuge possuía ao casar
 
@@ -18389,7 +18347,7 @@ e os por ele adquiridos, a qualquer título, na constância do casamento.
 Parágrafo único. A administração desses bens é exclusiva de cada cônjuge, que os
 poderá livremente alienar, se forem móveis.
 
-## Art. 1.674.
+## Art. 1.674
 
 Sobrevindo a dissolução da sociedade conjugal, apurar-se-á o montante
 
@@ -18404,7 +18362,7 @@ III - as dívidas relativas a esses bens.
 Parágrafo único. Salvo prova em contrário, presumem-se adquiridos durante o
 casamento os bens móveis.
 
-## Art. 1.675.
+## Art. 1.675
 
 Ao determinar-se o montante dos aqüestos, computar-se-á o valor das
 
@@ -18412,60 +18370,60 @@ doações feitas por um dos cônjuges, sem a necessária autorização do outro;
 caso, o bem poderá ser reivindicado pelo cônjuge prejudicado ou por seus herdeiros, ou
 declarado no monte partilhável, por valor equivalente ao da época da dissolução.
 
-## Art. 1.676.
+## Art. 1.676
 
 Incorpora-se ao monte o valor dos bens alienados em detrimento da meação,
 
 se não houver preferência do cônjuge lesado, ou de seus herdeiros, de os reivindicar.
 
-## Art. 1.677.
+## Art. 1.677
 
 Pelas dívidas posteriores ao casamento, contraídas por um dos cônjuges,
 
 somente este responderá, salvo prova de terem revertido, parcial ou totalmente, em
 benefício do outro.
 
-## Art. 1.678.
+## Art. 1.678
 
 Se um dos cônjuges solveu uma dívida do outro com bens do seu
 
 patrimônio, o valor do pagamento deve ser atualizado e imputado, na data da dissolução,
 à meação do outro cônjuge.
 
-## Art. 1.679.
+## Art. 1.679
 
 No caso de bens adquiridos pelo trabalho conjunto, terá cada um dos
 
 cônjuges uma quota igual no condomínio ou no crédito por aquele modo estabelecido.
 
-## Art. 1.680.
+## Art. 1.680
 
 As coisas móveis, em face de terceiros, presumem-se do domínio do
 
 cônjuge devedor, salvo se o bem for de uso pessoal do outro.
 
-## Art. 1.681.
+## Art. 1.681
 
-s bens imóveis são de propriedade do cônjuge cujo nome constar no
+Os bens imóveis são de propriedade do cônjuge cujo nome constar no
 
 registro.
 
 Parágrafo único. Impugnada a titularidade, caberá ao cônjuge proprietário provar a
 aquisição regular dos bens.
 
-## Art. 1.682.
+## Art. 1.682
 
-direito à meação não é renunciável, cessível ou penhorável na
+O direito à meação não é renunciável, cessível ou penhorável na
 
 vigência do regime matrimonial.
 
-## Art. 1.683.
+## Art. 1.683
 
 Na dissolução do regime de bens por separação judicial ou por
 
 divórcio, verificar-se-á o montante dos aqüestos à data em que cessou a convivência.
 
-## Art. 1.684.
+## Art. 1.684
 
 Se não for possível nem conveniente a divisão de todos os bens em
 
@@ -18475,14 +18433,14 @@ cônjuge não-proprietário.
 Parágrafo único. Não se podendo realizar a reposição em dinheiro, serão avaliados
 e, mediante autorização judicial, alienados tantos bens quantos bastarem.
 
-## Art. 1.685.
+## Art. 1.685
 
 Na dissolução da sociedade conjugal por morte, verificar-se-á a meação
 
 do cônjuge sobrevivente de conformidade com os artigos antecedentes, deferindo-se a
 herança aos herdeiros na forma estabelecida neste Código.
 
-## Art. 1.686.
+## Art. 1.686
 
 As dívidas de um dos cônjuges, quando superiores à sua meação, não
 
@@ -18490,29 +18448,29 @@ obrigam ao outro, ou a seus herdeiros.
 
 # CAPÍTULO VI — Do Regime de Separação de Bens
 
-## Art. 1.687.
+## Art. 1.687
 
 Estipulada a separação de bens, estes permanecerão sob a administração
 
 exclusiva de cada um dos cônjuges, que os poderá livremente alienar ou gravar de ônus
 real.
 
-## Art. 1.688.
+## Art. 1.688
 
 Ambos os cônjuges são obrigados a contribuir para as despesas do casal na
 
 proporção dos rendimentos de seu trabalho e de seus bens, salvo estipulação em
 contrário no pacto antenupcial.
 
-## Art. 1.689.
+## Art. 1.689
 
-pai e a mãe, enquanto no exercício do poder familiar:
+O pai e a mãe, enquanto no exercício do poder familiar:
 
 I - são usufrutuários dos bens dos filhos;
 
 II - têm a administração dos bens dos filhos menores sob sua autoridade.
 
-## Art. 1.690.
+## Art. 1.690
 
 Compete aos pais, e na falta de um deles ao outro, com exclusividade,
 
@@ -18523,7 +18481,7 @@ Parágrafo único. Os pais devem decidir em comum as questões relativas aos fil
 seus bens; havendo divergência, poderá qualquer deles recorrer ao juiz para a solução
 necessária.
 
-## Art. 1.691.
+## Art. 1.691
 
 Não podem os pais alienar, ou gravar de ônus real os imóveis dos filhos,
 
@@ -18540,14 +18498,14 @@ II - os herdeiros;
 
 III - o representante legal.
 
-## Art. 1.692.
+## Art. 1.692
 
 Sempre que no exercício do poder familiar colidir o interesse dos pais com
 
 o do filho, a requerimento deste ou do Ministério Público o juiz lhe dará curador
 especial.
 
-## Art. 1.693.
+## Art. 1.693
 
 Excluem-se do usufruto e da administração dos pais:
 
@@ -18562,7 +18520,7 @@ ou administrados, pelos pais;
 IV - os bens que aos filhos couberem na herança, quando os pais forem excluídos da
 sucessão.
 
-## Art. 1.694.
+## Art. 1.694
 
 Podem os parentes, os cônjuges ou companheiros pedir uns aos outros os
 
@@ -18579,27 +18537,27 @@ o
 Os alimentos serão apenas os indispensáveis à subsistência,
 quando a situação de necessidade resultar de culpa de quem os pleiteia.
 
-## Art. 1.695.
+## Art. 1.695
 
 São devidos os alimentos quando quem os pretende não tem bens
 
 suficientes, nem pode prover, pelo seu trabalho, à própria mantença, e aquele, de quem
 se reclamam, pode fornecê-los, sem desfalque do necessário ao seu sustento.
 
-## Art. 1.696.
+## Art. 1.696
 
-direito à prestação de alimentos é recíproco entre pais e filhos, e
+O direito à prestação de alimentos é recíproco entre pais e filhos, e
 
 extensivo a todos os ascendentes, recaindo a obrigação nos mais próximos em grau, uns
 em falta de outros.
 
-## Art. 1.697.
+## Art. 1.697
 
 Na falta dos ascendentes cabe a obrigação aos descendentes, guardada a
 
 ordem de sucessão e, faltando estes, aos irmãos, assim germanos como unilaterais.
 
-## Art. 1.698.
+## Art. 1.698
 
 Se o parente, que deve alimentos em primeiro lugar, não estiver em
 
@@ -18608,20 +18566,20 @@ imediato; sendo várias as pessoas obrigadas a prestar alimentos, todas devem co
 proporção dos respectivos recursos, e, intentada ação contra uma delas, poderão as
 demais ser chamadas a integrar a lide.
 
-## Art. 1.699.
+## Art. 1.699
 
 Se, fixados os alimentos, sobrevier mudança na situação financeira de
 
 quem os supre, ou na de quem os recebe, poderá o interessado reclamar ao juiz, conforme
 as circunstâncias, exoneração, redução ou majoração do encargo.
 
-## Art. 1.700.
+## Art. 1.700
 
 A obrigação de prestar alimentos transmite-se aos herdeiros do devedor,
 
 na forma do art. 1.694.
 
-## Art. 1.701.
+## Art. 1.701
 
 A pessoa obrigada a suprir alimentos poderá pensionar o alimentando, ou
 
@@ -18631,20 +18589,20 @@ educação, quando menor.
 Parágrafo único. Compete ao juiz, se as circunstâncias o exigirem, fixar a forma do
 cumprimento da prestação.
 
-## Art. 1.702.
+## Art. 1.702
 
 Na separação judicial litigiosa, sendo um dos cônjuges inocente e
 
 desprovido de recursos, prestar-lhe-á o outro a pensão alimentícia que o juiz fixar,
 obedecidos os critérios estabelecidos no art. 1.694.
 
-## Art. 1.703.
+## Art. 1.703
 
 Para a manutenção dos filhos, os cônjuges separados judicialmente
 
 contribuirão na proporção de seus recursos.
 
-## Art. 1.704.
+## Art. 1.704
 
 Se um dos cônjuges separados judicialmente vier a necessitar de alimentos,
 
@@ -18656,26 +18614,26 @@ não tiver parentes em condições de prestá-los, nem aptidão para o trabalho,
 cônjuge será obrigado a assegurá-los, fixando o juiz o valor indispensável à
 sobrevivência.
 
-## Art. 1.705.
+## Art. 1.705
 
 Para obter alimentos, o filho havido fora do casamento pode acionar o
 
 genitor, sendo facultado ao juiz determinar, a pedido de qualquer das partes, que a ação
 se processe em segredo de justiça.
 
-## Art. 1.706.
+## Art. 1.706
 
-s alimentos provisionais serão fixados pelo juiz, nos termos da lei
+Os alimentos provisionais serão fixados pelo juiz, nos termos da lei
 
 processual.
 
-## Art. 1.707.
+## Art. 1.707
 
 Pode o credor não exercer, porém lhe é vedado renunciar o direito a
 
 alimentos, sendo o respectivo crédito insuscetível de cessão, compensação ou penhora.
 
-## Art. 1.708.
+## Art. 1.708
 
 Com o casamento, a união estável ou o concubinato do credor, cessa o
 
@@ -18684,19 +18642,19 @@ dever de prestar alimentos.
 Parágrafo único. Com relação ao credor cessa, também, o direito a alimentos, se
 tiver procedimento indigno em relação ao devedor.
 
-## Art. 1.709.
+## Art. 1.709
 
-novo casamento do cônjuge devedor não extingue a obrigação constante
+O novo casamento do cônjuge devedor não extingue a obrigação constante
 
 da sentença de divórcio.
 
-## Art. 1.710.
+## Art. 1.710
 
 As prestações alimentícias, de qualquer natureza, serão atualizadas
 
 segundo índice oficial regularmente estabelecido.
 
-## Art. 1.711.
+## Art. 1.711
 
 Podem os cônjuges, ou a entidade familiar, mediante escritura pública ou
 
@@ -18709,17 +18667,17 @@ Parágrafo único. O terceiro poderá igualmente instituir bem de família por
 testamento ou doação, dependendo a eficácia do ato da aceitação expressa de ambos os
 cônjuges beneficiados ou da entidade familiar beneficiada.
 
-## Art. 1.712.
+## Art. 1.712
 
-bem de família consistirá em prédio residencial urbano ou rural, com
+O bem de família consistirá em prédio residencial urbano ou rural, com
 
 suas pertenças e acessórios, destinando-se em ambos os casos a domicílio familiar, e
 poderá abranger valores mobiliários, cuja renda será aplicada na conservação do
 imóvel e no sustento da família.
 
-## Art. 1.713.
+## Art. 1.713
 
-s valores mobiliários, destinados aos fins previstos no artigo
+Os valores mobiliários, destinados aos fins previstos no artigo
 
 antecedente, não poderão exceder o valor do prédio instituído em bem de família, à
 época de sua instituição.
@@ -18741,15 +18699,15 @@ valores mobiliários seja confiada a instituição financeira, bem como discipli
 forma de pagamento da respectiva renda aos beneficiários, caso em que a responsabilidade
 dos administradores obedecerá às regras do contrato de depósito.
 
-## Art. 1.714.
+## Art. 1.714
 
-bem de família, quer instituído pelos cônjuges ou por terceiro,
+O bem de família, quer instituído pelos cônjuges ou por terceiro,
 
 constitui-se pelo registro de seu título no Registro de Imóveis.
 
-## Art. 1.715.
+## Art. 1.715
 
-bem de família é isento de execução por dívidas posteriores à sua
+O bem de família é isento de execução por dívidas posteriores à sua
 
 instituição, salvo as que provierem de tributos relativos ao prédio, ou de despesas de
 condomínio.
@@ -18759,21 +18717,21 @@ existente será aplicado em outro prédio, como bem de família, ou em títulos 
 pública, para sustento familiar, salvo se motivos relevantes aconselharem outra
 solução, a critério do juiz.
 
-## Art. 1.716.
+## Art. 1.716
 
 A isenção de que trata o artigo antecedente durará enquanto viver um dos
 
 cônjuges, ou, na falta destes, até que os filhos completem a maioridade.
 
-## Art. 1.717.
+## Art. 1.717
 
-prédio e os valores mobiliários, constituídos como bem da família,
+O prédio e os valores mobiliários, constituídos como bem da família,
 
 não podem ter destino diverso do previsto no art. 1.712 ou serem alienados sem o
 consentimento dos interessados e seus representantes legais, ouvido o Ministério
 Público.
 
-## Art. 1.718.
+## Art. 1.718
 
 Qualquer forma de liquidação da entidade administradora, a que se refere
 
@@ -18783,7 +18741,7 @@ do art. 1.713, não atingirá os valores a ela confiados,
 ordenando o juiz a sua transferência para outra instituição semelhante, obedecendo-se,
 no caso de falência, ao disposto sobre pedido de restituição.
 
-## Art. 1.719.
+## Art. 1.719
 
 Comprovada a impossibilidade da manutenção do bem de família nas
 
@@ -18791,7 +18749,7 @@ condições em que foi instituído, poderá o juiz, a requerimento dos interessa
 extingui-lo ou autorizar a sub-rogação dos bens que o constituem em outros, ouvidos o
 instituidor e o Ministério Público.
 
-## Art. 1.720.
+## Art. 1.720
 
 Salvo disposição em contrário do ato de instituição, a administração
 
@@ -18801,14 +18759,14 @@ divergência.
 Parágrafo único. Com o falecimento de ambos os cônjuges, a administração passará
 ao filho mais velho, se for maior, e, do contrário, a seu tutor.
 
-## Art. 1.721.
+## Art. 1.721
 
 A dissolução da sociedade conjugal não extingue o bem de família.
 
 Parágrafo único. Dissolvida a sociedade conjugal pela morte de um dos cônjuges, o
 sobrevivente poderá pedir a extinção do bem de família, se for o único bem do casal.
 
-## Art. 1.722.
+## Art. 1.722
 
 Extingue-se, igualmente, o bem de família com a morte de ambos os
 
@@ -18816,7 +18774,7 @@ cônjuges e a maioridade dos filhos, desde que não sujeitos a curatela.
 
 # TÍTULO III — DA UNIÃO ESTÁVEL
 
-## Art. 1.723.
+## Art. 1.723
 
 É reconhecida como entidade familiar a união estável entre o homem e a
 
@@ -18834,25 +18792,25 @@ o
 As causas suspensivas do art. 1.523 não impedirão a
 caracterização da união estável.
 
-## Art. 1.724.
+## Art. 1.724
 
 As relações pessoais entre os companheiros obedecerão aos deveres de
 
 lealdade, respeito e assistência, e de guarda, sustento e educação dos filhos.
 
-## Art. 1.725.
+## Art. 1.725
 
 Na união estável, salvo contrato escrito entre os companheiros, aplica-se
 
 às relações patrimoniais, no que couber, o regime da comunhão parcial de bens.
 
-## Art. 1.726.
+## Art. 1.726
 
 A união estável poderá converter-se em casamento, mediante pedido dos
 
 companheiros ao juiz e assento no Registro Civil.
 
-## Art. 1.727.
+## Art. 1.727
 
 As relações não eventuais entre o homem e a mulher, impedidos de casar,
 
@@ -18864,28 +18822,28 @@ constituem concubinato.
 
 ### Seção I — Dos Tutores
 
-## Art. 1.728.
+## Art. 1.728
 
-s filhos menores são postos em tutela:
+Os filhos menores são postos em tutela:
 
 I - com o falecimento dos pais, ou sendo estes julgados ausentes;
 
 II - em caso de os pais decaírem do poder familiar.
 
-## Art. 1.729.
+## Art. 1.729
 
-direito de nomear tutor compete aos pais, em conjunto.
+O direito de nomear tutor compete aos pais, em conjunto.
 
 Parágrafo único. A nomeação deve constar de testamento ou de qualquer outro
 documento autêntico.
 
-## Art. 1.730.
+## Art. 1.730
 
 É nula a nomeação de tutor pelo pai ou pela mãe que, ao tempo de sua
 
 morte, não tinha o poder familiar.
 
-## Art. 1.731.
+## Art. 1.731
 
 Em falta de tutor nomeado pelos pais incumbe a tutela aos parentes
 
@@ -18897,9 +18855,9 @@ II - aos colaterais até o terceiro grau, preferindo os mais próximos aos mais
 remotos, e, no mesmo grau, os mais velhos aos mais moços; em qualquer dos casos, o juiz
 escolherá entre eles o mais apto a exercer a tutela em benefício do menor.
 
-## Art. 1.732.
+## Art. 1.732
 
-juiz nomeará tutor idôneo e residente no domicílio do menor:
+O juiz nomeará tutor idôneo e residente no domicílio do menor:
 
 I - na falta de tutor testamentário ou legítimo;
 
@@ -18907,7 +18865,7 @@ II - quando estes forem excluídos ou escusados da tutela;
 
 III - quando removidos por não idôneos o tutor legítimo e o testamentário.
 
-## Art. 1.733.
+## Art. 1.733
 
 Aos irmãos órfãos dar-se-á um só tutor.
 
@@ -18924,7 +18882,7 @@ Quem institui um menor herdeiro, ou legatário seu, poderá
 nomear-lhe curador especial para os bens deixados, ainda que o beneficiário se encontre
 sob o poder familiar, ou tutela.
 
-## Art. 1.734.
+## Art. 1.734
 
 As crianças e os adolescentes
 
@@ -18941,7 +18899,7 @@ Vigência
 
 ### Seção II — Dos Incapazes de Exercer a Tutela
 
-## Art. 1.735.
+## Art. 1.735
 
 Não podem ser tutores e serão exonerados da tutela, caso a exerçam:
 
@@ -18965,7 +18923,7 @@ tutela.
 
 ### Seção III — Da Escusa dos Tutores
 
-## Art. 1.736.
+## Art. 1.736
 
 Podem escusar-se da tutela:
 
@@ -18983,21 +18941,21 @@ VI - aqueles que já exercerem tutela ou curatela;
 
 VII - militares em serviço.
 
-## Art. 1.737.
+## Art. 1.737
 
 Quem não for parente do menor não poderá ser obrigado a aceitar a
 
 tutela, se houver no lugar parente idôneo, consangüíneo ou afim, em condições de
 exercê-la.
 
-## Art. 1.738.
+## Art. 1.738
 
 A escusa apresentar-se-á nos dez dias subseqüentes à designação, sob
 
 pena de entender-se renunciado o direito de alegá-la; se o motivo escusatório ocorrer
 depois de aceita a tutela, os dez dias contar-se-ão do em que ele sobrevier.
 
-## Art. 1.739.
+## Art. 1.739
 
 Se o juiz não admitir a escusa, exercerá o nomeado a tutela, enquanto o
 
@@ -19006,7 +18964,7 @@ que o menor venha a sofrer.
 
 ### Seção IV — Do Exercício da Tutela
 
-## Art. 1.740.
+## Art. 1.740
 
 Incumbe ao tutor, quanto à pessoa do menor:
 
@@ -19019,17 +18977,17 @@ correção;
 III - adimplir os demais deveres que normalmente cabem aos pais, ouvida a opinião do
 menor, se este já contar doze anos de idade.
 
-## Art. 1.741.
+## Art. 1.741
 
 Incumbe ao tutor, sob a inspeção do juiz, administrar os bens do
 
 tutelado, em proveito deste, cumprindo seus deveres com zelo e boa-fé.
 
-## Art. 1.742.
+## Art. 1.742
 
 Para fiscalização dos atos do tutor, pode o juiz nomear um protutor.
 
-## Art. 1.743.
+## Art. 1.743
 
 Se os bens e interesses administrativos exigirem conhecimentos técnicos,
 
@@ -19037,7 +18995,7 @@ forem complexos, ou realizados em lugares distantes do domicílio do tutor, pode
 mediante aprovação judicial, delegar a outras pessoas físicas ou jurídicas o
 exercício parcial da tutela.
 
-## Art. 1.744.
+## Art. 1.744
 
 A responsabilidade do juiz será:
 
@@ -19047,9 +19005,9 @@ oportunamente;
 II - subsidiária, quando não tiver exigido garantia legal do tutor, nem o removido,
 tanto que se tornou suspeito.
 
-## Art. 1.745.
+## Art. 1.745
 
-s bens do menor serão entregues ao tutor mediante termo especificado
+Os bens do menor serão entregues ao tutor mediante termo especificado
 
 deles e seus valores, ainda que os pais o tenham dispensado.
 
@@ -19057,14 +19015,14 @@ Parágrafo único. Se o patrimônio do menor for de valor considerável, poderá
 condicionar o exercício da tutela à prestação de caução bastante, podendo
 dispensá-la se o tutor for de reconhecida idoneidade.
 
-## Art. 1.746.
+## Art. 1.746
 
 Se o menor possuir bens, será sustentado e educado a expensas deles,
 
 arbitrando o juiz para tal fim as quantias que lhe pareçam necessárias, considerado o
 rendimento da fortuna do pupilo quando o pai ou a mãe não as houver fixado.
 
-## Art. 1.747.
+## Art. 1.747
 
 Compete mais ao tutor:
 
@@ -19080,7 +19038,7 @@ IV - alienar os bens do menor destinados a venda;
 
 V - promover-lhe, mediante preço conveniente, o arrendamento de bens de raiz.
 
-## Art. 1.748.
+## Art. 1.748
 
 Compete também ao tutor, com autorização do juiz:
 
@@ -19099,7 +19057,7 @@ diligências a bem deste, assim como defendê-lo nos pleitos contra ele movidos.
 Parágrafo único. No caso de falta de autorização, a eficácia de ato do tutor
 depende da aprovação ulterior do juiz.
 
-## Art. 1.749.
+## Art. 1.749
 
 Ainda com a autorização judicial, não pode o tutor, sob pena de
 
@@ -19112,23 +19070,23 @@ II - dispor dos bens do menor a título gratuito;
 
 III - constituir-se cessionário de crédito ou de direito, contra o menor.
 
-## Art. 1.750.
+## Art. 1.750
 
-s imóveis pertencentes aos menores sob tutela somente podem ser vendidos
+Os imóveis pertencentes aos menores sob tutela somente podem ser vendidos
 
 quando houver manifesta vantagem, mediante prévia avaliação judicial e aprovação do
 juiz.
 
-## Art. 1.751.
+## Art. 1.751
 
 Antes de assumir a tutela, o tutor declarará tudo o que o menor lhe deva,
 
 sob pena de não lhe poder cobrar, enquanto exerça a tutoria, salvo provando que não
 conhecia o débito quando a assumiu.
 
-## Art. 1.752.
+## Art. 1.752
 
-tutor responde pelos prejuízos que, por culpa, ou dolo, causar ao
+O tutor responde pelos prejuízos que, por culpa, ou dolo, causar ao
 
 tutelado; mas tem direito a ser pago pelo que realmente despender no exercício da tutela,
 salvo no caso do art. 1.734, e a perceber remuneração proporcional à importância dos
@@ -19146,9 +19104,9 @@ São solidariamente responsáveis pelos prejuízos as pessoas
 
 ### Seção V — Dos Bens do Tutelado
 
-## Art. 1.753.
+## Art. 1.753
 
-s tutores não podem conservar em seu poder dinheiro dos tutelados, além
+Os tutores não podem conservar em seu poder dinheiro dos tutelados, além
 
 do necessário para as despesas ordinárias com o seu sustento, a sua educação e a
 administração de seus bens.
@@ -19173,9 +19131,9 @@ Os tutores respondem pela demora na aplicação dos valores
 acima referidos, pagando os juros legais desde o dia em que deveriam dar esse destino, o
 que não os exime da obrigação, que o juiz fará efetiva, da referida aplicação.
 
-## Art. 1.754.
+## Art. 1.754
 
-s valores que existirem em estabelecimento bancário oficial, na forma do
+Os valores que existirem em estabelecimento bancário oficial, na forma do
 
 artigo antecedente, não se poderão retirar, senão mediante ordem do juiz, e somente:
 
@@ -19195,21 +19153,21 @@ aos seus herdeiros.
 
 ### Seção VI — Da Prestação de Contas
 
-## Art. 1.755.
+## Art. 1.755
 
-s tutores, embora o contrário tivessem disposto os pais dos tutelados,
+Os tutores, embora o contrário tivessem disposto os pais dos tutelados,
 
 são obrigados a prestar contas da sua administração.
 
-## Art. 1.756.
+## Art. 1.756
 
 No fim de cada ano de administração, os tutores submeterão ao juiz o
 
 balanço respectivo, que, depois de aprovado, se anexará aos autos do inventário.
 
-## Art. 1.757.
+## Art. 1.757
 
-s tutores prestarão contas de dois em dois anos, e também quando, por
+Os tutores prestarão contas de dois em dois anos, e também quando, por
 
 qualquer motivo, deixarem o exercício da tutela ou toda vez que o juiz achar conveniente.
 
@@ -19220,38 +19178,38 @@ forma do § 1
 o
 do art. 1.753.
 
-## Art. 1.758.
+## Art. 1.758
 
 Finda a tutela pela emancipação ou maioridade, a quitação do menor não
 
 produzirá efeito antes de aprovadas as contas pelo juiz, subsistindo inteira, até
 então, a responsabilidade do tutor.
 
-## Art. 1.759.
+## Art. 1.759
 
 Nos casos de morte, ausência, ou interdição do tutor, as contas serão
 
 prestadas por seus herdeiros ou representantes.
 
-## Art. 1.760.
+## Art. 1.760
 
 Serão levadas a crédito do tutor todas as despesas justificadas e
 
 reconhecidamente proveitosas ao menor.
 
-## Art. 1.761.
+## Art. 1.761
 
 As despesas com a prestação das contas serão pagas pelo tutelado.
 
-## Art. 1.762.
+## Art. 1.762
 
-alcance do tutor, bem como o saldo contra o tutelado, são dívidas de
+O alcance do tutor, bem como o saldo contra o tutelado, são dívidas de
 
 valor e vencem juros desde o julgamento definitivo das contas.
 
 ### Seção VII — Da Cessação da Tutela
 
-## Art. 1.763.
+## Art. 1.763
 
 Cessa a condição de tutelado:
 
@@ -19259,7 +19217,7 @@ I - com a maioridade ou a emancipação do menor;
 
 II - ao cair o menor sob o poder familiar, no caso de reconhecimento ou adoção.
 
-## Art. 1.764.
+## Art. 1.764
 
 Cessam as funções do tutor:
 
@@ -19269,14 +19227,14 @@ II - ao sobrevir escusa legítima;
 
 III - ao ser removido.
 
-## Art. 1.765.
+## Art. 1.765
 
-tutor é obrigado a servir por espaço de dois anos.
+O tutor é obrigado a servir por espaço de dois anos.
 
 Parágrafo único. Pode o tutor continuar no exercício da tutela, além do prazo
 previsto neste artigo, se o quiser e o juiz julgar conveniente ao menor.
 
-## Art. 1.766.
+## Art. 1.766
 
 Será destituído o tutor, quando negligente, prevaricador ou incurso em
 
@@ -19286,7 +19244,7 @@ incapacidade.
 
 ### Seção I — dos Interditos
 
-## Art. 1.767.
+## Art. 1.767
 
 Estão sujeitos a curatela:
 
@@ -19318,51 +19276,51 @@ IV -
 
 V - os pródigos.
 
-## Art. 1.768.
+## Art. 1.768
 
 (Revogado pela Lei n º 13.105, de
 2015)
 (Vigência)
 
-## Art. 1.769.
+## Art. 1.769
 
 (Revogado pela Lei n º 13.105, de
 2015)
 (Vigência)
 
-## Art. 1.770.
+## Art. 1.770
 
 (Revogado pela Lei n º 13.105, de
 2015)
 (Vigência)
 
-## Art. 1.771.
+## Art. 1.771
 
 (Revogado pela Lei n º 13.105, de
 2015)
 (Vigência)
 
-## Art. 1.772.
+## Art. 1.772
 
 (Revogado pela Lei n º 13.105, de
 2015)
 (Vigência)
 
-## Art. 1.773.
+## Art. 1.773
 
 (Revogado pela Lei n º 13.105, de
 2015)
 (Vigência)
 
-## Art. 1.774.
+## Art. 1.774
 
 Aplicam-se à curatela as disposições concernentes à tutela, com as
 
 modificações dos artigos seguintes.
 
-## Art. 1.775.
+## Art. 1.775
 
-cônjuge ou companheiro, não separado judicialmente ou de fato, é, de
+O cônjuge ou companheiro, não separado judicialmente ou de fato, é, de
 
 direito, curador do outro, quando interdito.
 
@@ -19383,7 +19341,7 @@ a escolha do curador.
 
 ## Art. 1.775-A
 
-. Na nomeação de curador para a
+Na nomeação de curador para a
 
 pessoa com deficiência, o juiz poderá estabelecer curatela compartilhada
 a mais de uma pessoa.
@@ -19391,13 +19349,13 @@ a mais de uma pessoa.
 2015)
 (Vigência)
 
-## Art. 1.776.
+## Art. 1.776
 
 (Revogado
 pela Lei nº 13.146, de 2015)
 (Vigência)
 
-## Art. 1.777.
+## Art. 1.777
 
 As pessoas referidas no
 
@@ -19409,7 +19367,7 @@ estabelecimento que os afaste desse convívio.
 2015)
 (Vigência)
 
-## Art. 1.778.
+## Art. 1.778
 
 A autoridade do curador estende-se à pessoa e aos bens dos filhos do
 
@@ -19419,7 +19377,7 @@ o
 
 ### Seção II — Da Curatela do Nascituro e do Enfermo ou Portador de Deficiência Física
 
-## Art. 1.779.
+## Art. 1.779
 
 Dar-se-á curador ao nascituro, se o pai falecer estando grávida a mulher,
 
@@ -19427,27 +19385,27 @@ e não tendo o poder familiar.
 
 Parágrafo único. Se a mulher estiver interdita, seu curador será o do nascituro.
 
-## Art. 1.780.
+## Art. 1.780
 
 (Revogado pela Lei nº 13.146, de 2015)
 (Vigência)
 
 ### Seção III — Do Exercício da Curatela
 
-## Art. 1.781.
+## Art. 1.781
 
 As regras a respeito do exercício da tutela aplicam-se ao da curatela, com
 
 a restrição do art. 1.772 e as desta Seção.
 
-## Art. 1.782.
+## Art. 1.782
 
 A interdição do pródigo só o privará de, sem curador, emprestar,
 
 transigir, dar quitação, alienar, hipotecar, demandar ou ser demandado, e praticar, em
 geral, os atos que não sejam de mera administração.
 
-## Art. 1.783.
+## Art. 1.783
 
 Quando o curador for o cônjuge e o regime de bens do casamento for de
 
@@ -19458,7 +19416,7 @@ judicial.
 
 ## Art. 1.783-A
 
-. A tomada de decisão apoiada é o
+A tomada de decisão apoiada é o
 
 processo pelo qual a pessoa com deficiência elege pelo menos 2 (duas)
 pessoas idôneas, com as quais mantenha vínculos e que gozem de sua
@@ -19582,40 +19540,40 @@ contas na curatela.
 
 # CAPÍTULO I — Disposições Gerais
 
-## Art. 1.784.
+## Art. 1.784
 
 Aberta a sucessão, a herança transmite-se, desde logo, aos herdeiros
 
 legítimos e testamentários.
 
-## Art. 1.785.
+## Art. 1.785
 
 A sucessão abre-se no lugar do último domicílio do falecido.
 
-## Art. 1.786.
+## Art. 1.786
 
 A sucessão dá-se por lei ou por disposição de última vontade.
 
-## Art. 1.787.
+## Art. 1.787
 
 Regula a sucessão e a legitimação para suceder a lei vigente ao tempo da
 
 abertura daquela.
 
-## Art. 1.788.
+## Art. 1.788
 
 Morrendo a pessoa sem testamento, transmite a herança aos herdeiros
 
 legítimos; o mesmo ocorrerá quanto aos bens que não forem compreendidos no testamento;
 e subsiste a sucessão legítima se o testamento caducar, ou for julgado nulo.
 
-## Art. 1.789.
+## Art. 1.789
 
 Havendo herdeiros necessários, o testador só poderá dispor da metade da
 
 herança.
 
-## Art. 1.790.
+## Art. 1.790
 
 A companheira ou o companheiro participará da sucessão do outro, quanto
 
@@ -19637,7 +19595,7 @@ IV - não havendo parentes sucessíveis, terá direito à totalidade da herança
 
 # CAPÍTULO II — Da Herança e de sua Administração
 
-## Art. 1.791.
+## Art. 1.791
 
 A herança defere-se como um todo unitário, ainda que vários sejam os
 
@@ -19647,16 +19605,16 @@ Parágrafo único. Até a partilha, o direito dos co-herdeiros, quanto à propri
 posse da herança, será indivisível, e regular-se-á pelas normas relativas ao
 condomínio.
 
-## Art. 1.792.
+## Art. 1.792
 
-herdeiro não responde por encargos superiores às forças da herança;
+O herdeiro não responde por encargos superiores às forças da herança;
 
 incumbe-lhe, porém, a prova do excesso, salvo se houver inventário que a escuse,
 demostrando o valor dos bens herdados.
 
-## Art. 1.793.
+## Art. 1.793
 
-direito à sucessão aberta, bem como o quinhão de que disponha o
+O direito à sucessão aberta, bem como o quinhão de que disponha o
 
 co-herdeiro, pode ser objeto de cessão por escritura pública.
 
@@ -19677,15 +19635,15 @@ Ineficaz é a disposição, sem prévia autorização do juiz
 da sucessão, por qualquer herdeiro, de bem componente do acervo hereditário, pendente a
 indivisibilidade.
 
-## Art. 1.794.
+## Art. 1.794
 
-co-herdeiro não poderá ceder a sua quota hereditária a pessoa estranha
+O co-herdeiro não poderá ceder a sua quota hereditária a pessoa estranha
 
 à sucessão, se outro co-herdeiro a quiser, tanto por tanto.
 
-## Art. 1.795.
+## Art. 1.795
 
-co-herdeiro, a quem não se der conhecimento da cessão, poderá,
+O co-herdeiro, a quem não se der conhecimento da cessão, poderá,
 
 depositado o preço, haver para si a quota cedida a estranho, se o requerer até cento e
 oitenta dias após a transmissão.
@@ -19693,14 +19651,14 @@ oitenta dias após a transmissão.
 Parágrafo único. Sendo vários os co-herdeiros a exercer a preferência, entre eles
 se distribuirá o quinhão cedido, na proporção das respectivas quotas hereditárias.
 
-## Art. 1.796.
+## Art. 1.796
 
 No prazo de trinta dias, a contar da abertura da sucessão, instaurar-se-á
 
 inventário do patrimônio hereditário, perante o juízo competente no lugar da
 sucessão, para fins de liquidação e, quando for o caso, de partilha da herança.
 
-## Art. 1.797.
+## Art. 1.797
 
 Até o compromisso do inventariante, a administração da herança caberá,
 
@@ -19720,13 +19678,13 @@ do juiz.
 
 # CAPÍTULO III — Da Vocação Hereditária
 
-## Art. 1.798.
+## Art. 1.798
 
 Legitimam-se a suceder as pessoas nascidas ou já concebidas no momento da
 
 abertura da sucessão.
 
-## Art. 1.799.
+## Art. 1.799
 
 Na sucessão testamentária podem ainda ser chamados a suceder:
 
@@ -19738,7 +19696,7 @@ II - as pessoas jurídicas;
 III - as pessoas jurídicas, cuja organização for determinada pelo testador sob a
 forma de fundação.
 
-## Art. 1.800.
+## Art. 1.800
 
 No caso do inciso I do artigo antecedente, os bens da herança serão
 
@@ -19767,7 +19725,7 @@ Se, decorridos dois anos após a abertura da sucessão, não
 for concebido o herdeiro esperado, os bens reservados, salvo disposição em contrário do
 testador, caberão aos herdeiros legítimos.
 
-## Art. 1.801.
+## Art. 1.801
 
 Não podem ser nomeados herdeiros nem legatários:
 
@@ -19782,7 +19740,7 @@ fato do cônjuge há mais de cinco anos;
 IV - o tabelião, civil ou militar, ou o comandante ou escrivão, perante quem se
 fizer, assim como o que fizer ou aprovar o testamento.
 
-## Art. 1.802.
+## Art. 1.802
 
 São nulas as disposições testamentárias em favor de pessoas não
 
@@ -19792,13 +19750,13 @@ mediante interposta pessoa.
 Parágrafo único. Presumem-se pessoas interpostas os ascendentes, os descendentes, os
 irmãos e o cônjuge ou companheiro do não legitimado a suceder.
 
-## Art. 1.803.
+## Art. 1.803
 
 É lícita a deixa ao filho do concubino, quando também o for do testador.
 
 # CAPÍTULO IV — Da Aceitação e Renúncia da Herança
 
-## Art. 1.804.
+## Art. 1.804
 
 Aceita a herança, torna-se definitiva a sua transmissão ao herdeiro,
 
@@ -19807,7 +19765,7 @@ desde a abertura da sucessão.
 Parágrafo único. A transmissão tem-se por não verificada quando o herdeiro renuncia
 à herança.
 
-## Art. 1.805.
+## Art. 1.805
 
 A aceitação da herança, quando expressa, faz-se por declaração
 
@@ -19825,21 +19783,21 @@ o
 Não importa igualmente aceitação a cessão gratuita, pura e
 simples, da herança, aos demais co-herdeiros.
 
-## Art. 1.806.
+## Art. 1.806
 
 A renúncia da herança deve constar expressamente de instrumento público
 
 ou termo judicial.
 
-## Art. 1.807.
+## Art. 1.807
 
-interessado em que o herdeiro declare se aceita, ou não, a herança,
+O interessado em que o herdeiro declare se aceita, ou não, a herança,
 
 poderá, vinte dias após aberta a sucessão, requerer ao juiz prazo razoável, não maior
 de trinta dias, para, nele, se pronunciar o herdeiro, sob pena de se haver a herança por
 aceita.
 
-## Art. 1.808.
+## Art. 1.808
 
 Não se pode aceitar ou renunciar a herança em parte, sob condição ou a
 
@@ -19856,7 +19814,7 @@ O herdeiro, chamado, na mesma sucessão, a mais de um quinhão
 hereditário, sob títulos sucessórios diversos, pode livremente deliberar quanto aos
 quinhões que aceita e aos que renuncia.
 
-## Art. 1.809.
+## Art. 1.809
 
 Falecendo o herdeiro antes de declarar se aceita a herança, o poder de
 
@@ -19867,24 +19825,24 @@ Parágrafo único. Os chamados à sucessão do herdeiro falecido antes da aceita
 desde que concordem em receber a segunda herança, poderão aceitar ou renunciar a
 primeira.
 
-## Art. 1.810.
+## Art. 1.810
 
 Na sucessão legítima, a parte do renunciante acresce à dos outros
 
 herdeiros da mesma classe e, sendo ele o único desta, devolve-se aos da subseqüente.
 
-## Art. 1.811.
+## Art. 1.811
 
 Ninguém pode suceder, representando herdeiro renunciante. Se, porém, ele
 
 for o único legítimo da sua classe, ou se todos os outros da mesma classe renunciarem a
 herança, poderão os filhos vir à sucessão, por direito próprio, e por cabeça.
 
-## Art. 1.812.
+## Art. 1.812
 
 São irrevogáveis os atos de aceitação ou de renúncia da herança.
 
-## Art. 1.813.
+## Art. 1.813
 
 Quando o herdeiro prejudicar os seus credores, renunciando à herança,
 
@@ -19902,7 +19860,7 @@ ao remanescente, que será devolvido aos demais herdeiros.
 
 # CAPÍTULO V — Dos Excluídos da Sucessão
 
-## Art. 1.814.
+## Art. 1.814
 
 São excluídos da sucessão os herdeiros ou legatários:
 
@@ -19916,7 +19874,7 @@ crime contra a sua honra, ou de seu cônjuge ou companheiro;
 III - que, por violência ou meios fraudulentos, inibirem ou obstarem o autor da
 herança de dispor livremente de seus bens por ato de última vontade.
 
-## Art. 1.815.
+## Art. 1.815
 
 A exclusão do herdeiro ou legatário, em qualquer desses casos de
 
@@ -19939,8 +19897,6 @@ exclusão do herdeiro ou legatário.
 
 ## Art. 1.815-A
 
-.
-
 Em qualquer dos casos de indignidade previstos no art. 1.814, o trânsito em
 julgado da sentença penal condenatória acarretará a imediata exclusão do
 herdeiro ou legatário indigno, independentemente da sentença prevista no
@@ -19948,7 +19904,7 @@ caput do art. 1.815 deste Código.
 (Incluído pela Lei nº
 14.661, de 2023)
 
-## Art. 1.816.
+## Art. 1.816
 
 São pessoais os efeitos da exclusão; os descendentes do herdeiro
 
@@ -19958,7 +19914,7 @@ Parágrafo único. O excluído da sucessão não terá direito ao usufruto ou à
 administração dos bens que a seus sucessores couberem na herança, nem à sucessão
 eventual desses bens.
 
-## Art. 1.817.
+## Art. 1.817
 
 São válidas as alienações onerosas de bens hereditários a terceiros de
 
@@ -19970,7 +19926,7 @@ Parágrafo único. O excluído da sucessão é obrigado a restituir os frutos e
 rendimentos que dos bens da herança houver percebido, mas tem direito a ser indenizado
 das despesas com a conservação deles.
 
-## Art. 1.818.
+## Art. 1.818
 
 Aquele que incorreu em atos que determinem a exclusão da herança será
 
@@ -19983,7 +19939,7 @@ pode suceder no limite da disposição testamentária.
 
 # CAPÍTULO VI — Da Herança Jacente
 
-## Art. 1.819.
+## Art. 1.819
 
 Falecendo alguém sem deixar testamento nem herdeiro legítimo notoriamente
 
@@ -19991,7 +19947,7 @@ conhecido, os bens da herança, depois de arrecadados, ficarão sob a guarda e
 administração de um curador, até a sua entrega ao sucessor devidamente habilitado ou à
 declaração de sua vacância.
 
-## Art. 1.820.
+## Art. 1.820
 
 Praticadas as diligências de arrecadação e ultimado o inventário,
 
@@ -19999,13 +19955,13 @@ serão expedidos editais na forma da lei processual, e, decorrido um ano de sua 
 publicação, sem que haja herdeiro habilitado, ou penda habilitação, será a herança
 declarada vacante.
 
-## Art. 1.821.
+## Art. 1.821
 
 É assegurado aos credores o direito de pedir o pagamento das dívidas
 
 reconhecidas, nos limites das forças da herança.
 
-## Art. 1.822.
+## Art. 1.822
 
 A declaração de vacância da herança não prejudicará os herdeiros que
 
@@ -20017,7 +19973,7 @@ território federal.
 Parágrafo único. Não se habilitando até a declaração de vacância, os colaterais
 ficarão excluídos da sucessão.
 
-## Art. 1.823.
+## Art. 1.823
 
 Quando todos os chamados a suceder renunciarem à herança, será esta
 
@@ -20025,22 +19981,22 @@ desde logo declarada vacante.
 
 # CAPÍTULO VII — Da petição de herança
 
-## Art. 1.824.
+## Art. 1.824
 
-herdeiro pode, em ação de petição de herança, demandar o
+O herdeiro pode, em ação de petição de herança, demandar o
 
 reconhecimento de seu direito sucessório, para obter a restituição da herança, ou de
 parte dela, contra quem, na qualidade de herdeiro, ou mesmo sem título, a possua.
 
-## Art. 1.825.
+## Art. 1.825
 
 A ação de petição de herança, ainda que exercida por um só dos
 
 herdeiros, poderá compreender todos os bens hereditários.
 
-## Art. 1.826.
+## Art. 1.826
 
-possuidor da herança está obrigado à restituição dos bens do acervo,
+O possuidor da herança está obrigado à restituição dos bens do acervo,
 
 fixando-se-lhe a responsabilidade segundo a sua posse, observado o disposto nos arts.
 1.214 a 1.222.
@@ -20048,18 +20004,18 @@ fixando-se-lhe a responsabilidade segundo a sua posse, observado o disposto nos 
 Parágrafo único. A partir da citação, a responsabilidade do possuidor se há de
 aferir pelas regras concernentes à posse de má-fé e à mora.
 
-## Art. 1.827.
+## Art. 1.827
 
-herdeiro pode demandar os bens da herança, mesmo em poder de terceiros,
+O herdeiro pode demandar os bens da herança, mesmo em poder de terceiros,
 
 sem prejuízo da responsabilidade do possuidor originário pelo valor dos bens alienados.
 
 Parágrafo único. São eficazes as alienações feitas, a título oneroso, pelo
 herdeiro aparente a terceiro de boa-fé.
 
-## Art. 1.828.
+## Art. 1.828
 
-herdeiro aparente, que de boa-fé houver pago um legado, não está
+O herdeiro aparente, que de boa-fé houver pago um legado, não está
 
 obrigado a prestar o equivalente ao verdadeiro sucessor, ressalvado a este o direito de
 proceder contra quem o recebeu.
@@ -20068,7 +20024,7 @@ proceder contra quem o recebeu.
 
 # CAPÍTULO I — Da Ordem da Vocação Hereditária
 
-## Art. 1.829.
+## Art. 1.829
 
 A sucessão legítima defere-se na ordem seguinte:
 
@@ -20086,7 +20042,7 @@ III - ao cônjuge sobrevivente;
 
 IV - aos colaterais.
 
-## Art. 1.830.
+## Art. 1.830
 
 Somente é reconhecido direito sucessório ao cônjuge sobrevivente se, ao
 
@@ -20094,7 +20050,7 @@ tempo da morte do outro, não estavam separados judicialmente, nem separados de 
 mais de dois anos, salvo prova, neste caso, de que essa convivência se tornara
 impossível sem culpa do sobrevivente.
 
-## Art. 1.831.
+## Art. 1.831
 
 Ao cônjuge sobrevivente, qualquer que seja o regime de bens, será
 
@@ -20102,32 +20058,32 @@ assegurado, sem prejuízo da participação que lhe caiba na herança, o direito
 habitação relativamente ao imóvel destinado à residência da família, desde que seja
 o único daquela natureza a inventariar.
 
-## Art. 1.832.
+## Art. 1.832
 
 Em concorrência com os descendentes (art. 1.829, inciso I) caberá ao
 
 cônjuge quinhão igual ao dos que sucederem por cabeça, não podendo a sua quota ser
 inferior à quarta parte da herança, se for ascendente dos herdeiros com que concorrer.
 
-## Art. 1.833.
+## Art. 1.833
 
 Entre os descendentes, os em grau mais próximo excluem os mais remotos,
 
 salvo o direito de representação.
 
-## Art. 1.834.
+## Art. 1.834
 
-s descendentes da mesma classe têm os mesmos direitos à sucessão de
+Os descendentes da mesma classe têm os mesmos direitos à sucessão de
 
 seus ascendentes.
 
-## Art. 1.835.
+## Art. 1.835
 
 Na linha descendente, os filhos sucedem por cabeça, e os outros
 
 descendentes, por cabeça ou por estirpe, conforme se achem ou não no mesmo grau.
 
-## Art. 1.836.
+## Art. 1.836
 
 Na falta de descendentes, são chamados à sucessão os ascendentes, em
 
@@ -20143,44 +20099,44 @@ o
 Havendo igualdade em grau e diversidade em linha, os
 ascendentes da linha paterna herdam a metade, cabendo a outra aos da linha materna.
 
-## Art. 1.837.
+## Art. 1.837
 
 Concorrendo com ascendente em primeiro grau, ao cônjuge tocará um terço
 
 da herança; caber-lhe-á a metade desta se houver um só ascendente, ou se maior for
 aquele grau.
 
-## Art. 1.838.
+## Art. 1.838
 
 Em falta de descendentes e ascendentes, será deferida a sucessão por
 
 inteiro ao cônjuge sobrevivente.
 
-## Art. 1.839.
+## Art. 1.839
 
 Se não houver cônjuge sobrevivente, nas condições estabelecidas no art.
 
 1.830, serão chamados a suceder os colaterais até o quarto grau.
 
-## Art. 1.840.
+## Art. 1.840
 
 Na classe dos colaterais, os mais próximos excluem os mais remotos, salvo
 
 o direito de representação concedido aos filhos de irmãos.
 
-## Art. 1.841.
+## Art. 1.841
 
 Concorrendo à herança do falecido irmãos bilaterais com irmãos
 
 unilaterais, cada um destes herdará metade do que cada um daqueles herdar.
 
-## Art. 1.842.
+## Art. 1.842
 
 Não concorrendo à herança irmão bilateral, herdarão, em partes iguais,
 
 os unilaterais.
 
-## Art. 1.843.
+## Art. 1.843
 
 Na falta de irmãos, herdarão os filhos destes e, não os havendo, os
 
@@ -20201,7 +20157,7 @@ o
 Se todos forem filhos de irmãos bilaterais, ou todos de
 irmãos unilaterais, herdarão por igual.
 
-## Art. 1.844.
+## Art. 1.844
 
 Não sobrevivendo cônjuge, ou companheiro, nem parente algum sucessível,
 
@@ -20211,24 +20167,24 @@ território federal.
 
 # CAPÍTULO II — Dos Herdeiros Necessários
 
-## Art. 1.845.
+## Art. 1.845
 
 São herdeiros necessários os descendentes, os ascendentes e o cônjuge.
 
-## Art. 1.846.
+## Art. 1.846
 
 Pertence aos herdeiros necessários, de pleno direito, a metade dos bens da
 
 herança, constituindo a legítima.
 
-## Art. 1.847.
+## Art. 1.847
 
 Calcula-se a legítima sobre o valor dos bens existentes na abertura da
 
 sucessão, abatidas as dívidas e as despesas do funeral, adicionando-se, em seguida, o
 valor dos bens sujeitos a colação.
 
-## Art. 1.848.
+## Art. 1.848
 
 Salvo se houver justa causa, declarada no testamento, não pode o testador
 
@@ -20246,13 +20202,13 @@ Mediante autorização judicial e havendo justa causa, podem
 ser alienados os bens gravados, convertendo-se o produto em outros bens, que ficarão
 sub-rogados nos ônus dos primeiros.
 
-## Art. 1.849.
+## Art. 1.849
 
-herdeiro necessário, a quem o testador deixar a sua parte disponível,
+O herdeiro necessário, a quem o testador deixar a sua parte disponível,
 
 ou algum legado, não perderá o direito à legítima.
 
-## Art. 1.850.
+## Art. 1.850
 
 Para excluir da sucessão os herdeiros colaterais, basta que o testador
 
@@ -20260,41 +20216,41 @@ disponha de seu patrimônio sem os contemplar.
 
 # CAPÍTULO III — Do Direito de Representação
 
-## Art. 1.851.
+## Art. 1.851
 
 Dá-se o direito de representação, quando a lei chama certos parentes do
 
 falecido a suceder em todos os direitos, em que ele sucederia, se vivo fosse.
 
-## Art. 1.852.
+## Art. 1.852
 
-direito de representação dá-se na linha reta descendente, mas nunca na
+O direito de representação dá-se na linha reta descendente, mas nunca na
 
 ascendente.
 
-## Art. 1.853.
+## Art. 1.853
 
 Na linha transversal, somente se dá o direito de representação em favor
 
 dos filhos de irmãos do falecido, quando com irmãos deste concorrerem.
 
-## Art. 1.854.
+## Art. 1.854
 
-s representantes só podem herdar, como tais, o que herdaria o
+Os representantes só podem herdar, como tais, o que herdaria o
 
 representado, se vivo fosse.
 
-## Art. 1.855.
+## Art. 1.855
 
-quinhão do representado partir-se-á por igual entre os representantes.
+O quinhão do representado partir-se-á por igual entre os representantes.
 
-## Art. 1.856.
+## Art. 1.856
 
-renunciante à herança de uma pessoa poderá representá-la na sucessão
+O renunciante à herança de uma pessoa poderá representá-la na sucessão
 
 de outra.
 
-## Art. 1.857.
+## Art. 1.857
 
 Toda pessoa capaz pode dispor, por testamento, da totalidade dos seus bens,
 
@@ -20310,11 +20266,11 @@ o
 São válidas as disposições testamentárias de caráter não
 patrimonial, ainda que o testador somente a elas se tenha limitado.
 
-## Art. 1.858.
+## Art. 1.858
 
-testamento é ato personalíssimo, podendo ser mudado a qualquer tempo.
+O testamento é ato personalíssimo, podendo ser mudado a qualquer tempo.
 
-## Art. 1.859.
+## Art. 1.859
 
 Extingue-se em cinco anos o direito de impugnar a validade do testamento,
 
@@ -20322,7 +20278,7 @@ contado o prazo da data do seu registro.
 
 # CAPÍTULO II — Da Capacidade de Testar
 
-## Art. 1.860.
+## Art. 1.860
 
 Além dos incapazes, não podem testar os que, no ato de fazê-lo, não
 
@@ -20330,7 +20286,7 @@ tiverem pleno discernimento.
 
 Parágrafo único. Podem testar os maiores de dezesseis anos.
 
-## Art. 1.861.
+## Art. 1.861
 
 A incapacidade superveniente do testador não invalida o testamento, nem o
 
@@ -20340,7 +20296,7 @@ testamento do incapaz se valida com a superveniência da capacidade.
 
 ### Seção I — Disposições Gerais
 
-## Art. 1.862.
+## Art. 1.862
 
 São testamentos ordinários:
 
@@ -20350,7 +20306,7 @@ II - o cerrado;
 
 III - o particular.
 
-## Art. 1.863.
+## Art. 1.863
 
 É proibido o testamento conjuntivo, seja simultâneo, recíproco ou
 
@@ -20358,7 +20314,7 @@ correspectivo.
 
 ### Seção II — Do Testamento Público
 
-## Art. 1.864.
+## Art. 1.864
 
 São requisitos essenciais do testamento público:
 
@@ -20377,20 +20333,20 @@ Parágrafo único. O testamento público pode ser escrito manualmente ou mecanic
 bem como ser feito pela inserção da declaração de vontade em partes impressas de livro
 de notas, desde que rubricadas todas as páginas pelo testador, se mais de uma.
 
-## Art. 1.865.
+## Art. 1.865
 
 Se o testador não souber, ou não puder assinar, o tabelião ou seu
 
 substituto legal assim o declarará, assinando, neste caso, pelo testador, e, a seu rogo,
 uma das testemunhas instrumentárias.
 
-## Art. 1.866.
+## Art. 1.866
 
-indivíduo inteiramente surdo, sabendo ler, lerá o seu testamento, e, se
+O indivíduo inteiramente surdo, sabendo ler, lerá o seu testamento, e, se
 
 não o souber, designará quem o leia em seu lugar, presentes as testemunhas.
 
-## Art. 1.867.
+## Art. 1.867
 
 Ao cego só se permite o testamento público, que lhe será lido, em voz
 
@@ -20400,9 +20356,9 @@ testamento.
 
 ### Seção III — Do Testamento Cerrado
 
-## Art. 1.868.
+## Art. 1.868
 
-testamento escrito pelo testador, ou por outra pessoa, a seu rogo, e por
+O testamento escrito pelo testador, ou por outra pessoa, a seu rogo, e por
 
 aquele assinado, será válido se aprovado pelo tabelião ou seu substituto legal,
 observadas as seguintes formalidades:
@@ -20420,9 +20376,9 @@ testador.
 Parágrafo único. O testamento cerrado pode ser escrito mecanicamente, desde que seu
 subscritor numere e autentique, com a sua assinatura, todas as paginas.
 
-## Art. 1.869.
+## Art. 1.869
 
-tabelião deve começar o auto de aprovação imediatamente depois da
+O tabelião deve começar o auto de aprovação imediatamente depois da
 
 última palavra do testador, declarando, sob sua fé, que o testador lhe entregou para ser
 aprovado na presença das testemunhas; passando a cerrar e coser o instrumento aprovado.
@@ -20431,25 +20387,25 @@ Parágrafo único. Se não houver espaço na última folha do testamento, para i
 da aprovação, o tabelião aporá nele o seu sinal público, mencionando a circunstância
 no auto.
 
-## Art. 1.870.
+## Art. 1.870
 
 Se o tabelião tiver escrito o testamento a rogo do testador, poderá, não
 
 obstante, aprová-lo.
 
-## Art. 1.871.
+## Art. 1.871
 
-testamento pode ser escrito em língua nacional ou estrangeira, pelo
+O testamento pode ser escrito em língua nacional ou estrangeira, pelo
 
 próprio testador, ou por outrem, a seu rogo.
 
-## Art. 1.872.
+## Art. 1.872
 
 Não pode dispor de seus bens em testamento cerrado quem não saiba ou não
 
 possa ler.
 
-## Art. 1.873.
+## Art. 1.873
 
 Pode fazer testamento cerrado o surdo-mudo, contanto que o escreva todo, e
 
@@ -20457,14 +20413,14 @@ o assine de sua mão, e que, ao entregá-lo ao oficial público, ante as duas te
 escreva, na face externa do papel ou do envoltório, que aquele é o seu testamento, cuja
 aprovação lhe pede.
 
-## Art. 1.874.
+## Art. 1.874
 
 Depois de aprovado e cerrado, será o testamento entregue ao testador, e o
 
 tabelião lançará, no seu livro, nota do lugar, dia, mês e ano em que o testamento foi
 aprovado e entregue.
 
-## Art. 1.875.
+## Art. 1.875
 
 Falecido o testador, o testamento será apresentado ao juiz, que o abrirá
 
@@ -20473,9 +20429,9 @@ eivado de nulidade ou suspeito de falsidade.
 
 ### Seção IV — Do Testamento Particular
 
-## Art. 1.876.
+## Art. 1.876
 
-testamento particular pode ser escrito de próprio punho ou mediante
+O testamento particular pode ser escrito de próprio punho ou mediante
 
 processo mecânico.
 
@@ -20491,13 +20447,13 @@ Se elaborado por processo mecânico, não pode conter rasuras
 ou espaços em branco, devendo ser assinado pelo testador, depois de o ter lido na
 presença de pelo menos três testemunhas, que o subscreverão.
 
-## Art. 1.877.
+## Art. 1.877
 
 Morto o testador, publicar-se-á em juízo o testamento, com citação dos
 
 herdeiros legítimos.
 
-## Art. 1.878.
+## Art. 1.878
 
 Se as testemunhas forem contestes sobre o fato da disposição, ou, ao
 
@@ -20508,22 +20464,22 @@ Parágrafo único. Se faltarem testemunhas, por morte ou ausência, e se pelo me
 delas o reconhecer, o testamento poderá ser confirmado, se, a critério do juiz, houver
 prova suficiente de sua veracidade.
 
-## Art. 1.879.
+## Art. 1.879
 
 Em circunstâncias excepcionais declaradas na cédula, o testamento
 
 particular de próprio punho e assinado pelo testador, sem testemunhas, poderá ser
 confirmado, a critério do juiz.
 
-## Art. 1.880.
+## Art. 1.880
 
-testamento particular pode ser escrito em língua estrangeira, contanto
+O testamento particular pode ser escrito em língua estrangeira, contanto
 
 que as testemunhas a compreendam.
 
 # CAPÍTULO IV — Dos Codicilos
 
-## Art. 1.881.
+## Art. 1.881
 
 Toda pessoa capaz de testar poderá, mediante escrito particular seu,
 
@@ -20531,26 +20487,26 @@ datado e assinado, fazer disposições especiais sobre o seu enterro, sobre esmo
 pouca monta a certas e determinadas pessoas, ou, indeterminadamente, aos pobres de certo
 lugar, assim como legar móveis, roupas ou jóias, de pouco valor, de seu uso pessoal.
 
-## Art. 1.882.
+## Art. 1.882
 
-s atos a que se refere o artigo antecedente, salvo direito de terceiro,
+Os atos a que se refere o artigo antecedente, salvo direito de terceiro,
 
 valerão como codicilos, deixe ou não testamento o autor.
 
-## Art. 1.883.
+## Art. 1.883
 
 Pelo modo estabelecido no art. 1.881, poder-se-ão nomear ou substituir
 
 testamenteiros.
 
-## Art. 1.884.
+## Art. 1.884
 
-s atos previstos nos artigos antecedentes revogam-se por atos iguais, e
+Os atos previstos nos artigos antecedentes revogam-se por atos iguais, e
 
 consideram-se revogados, se, havendo testamento posterior, de qualquer natureza, este os
 não confirmar ou modificar.
 
-## Art. 1.885.
+## Art. 1.885
 
 Se estiver fechado o codicilo, abrir-se-á do mesmo modo que o testamento
 
@@ -20560,7 +20516,7 @@ cerrado.
 
 ### Seção I — Disposições Gerais
 
-## Art. 1.886.
+## Art. 1.886
 
 São testamentos especiais:
 
@@ -20570,7 +20526,7 @@ II - o aeronáutico;
 
 III - o militar.
 
-## Art. 1.887.
+## Art. 1.887
 
 Não se admitem outros testamentos especiais além dos contemplados neste
 
@@ -20578,7 +20534,7 @@ Código.
 
 ### Seção II — Do Testamento Marítimo e do Testamento Aeronáutico
 
-## Art. 1.888.
+## Art. 1.888
 
 Quem estiver em viagem, a bordo de navio nacional, de guerra ou mercante,
 
@@ -20587,28 +20543,28 @@ corresponda ao testamento público ou ao cerrado.
 
 Parágrafo único. O registro do testamento será feito no diário de bordo.
 
-## Art. 1.889.
+## Art. 1.889
 
 Quem estiver em viagem, a bordo de aeronave militar ou comercial, pode
 
 testar perante pessoa designada pelo comandante, observado o disposto no artigo
 antecedente.
 
-## Art. 1.890.
+## Art. 1.890
 
-testamento marítimo ou aeronáutico ficará sob a guarda do comandante,
+O testamento marítimo ou aeronáutico ficará sob a guarda do comandante,
 
 que o entregará às autoridades administrativas do primeiro porto ou aeroporto nacional,
 contra recibo averbado no diário de bordo.
 
-## Art. 1.891.
+## Art. 1.891
 
 Caducará o testamento marítimo, ou aeronáutico, se o testador não
 
 morrer na viagem, nem nos noventa dias subseqüentes ao seu desembarque em terra, onde
 possa fazer, na forma ordinária, outro testamento.
 
-## Art. 1.892.
+## Art. 1.892
 
 Não valerá o testamento marítimo, ainda que feito no curso de uma
 
@@ -20617,9 +20573,9 @@ desembarcar e testar na forma ordinária.
 
 ### Seção III — Do Testamento Militar
 
-## Art. 1.893.
+## Art. 1.893
 
-testamento dos militares e demais pessoas a serviço das Forças Armadas
+O testamento dos militares e demais pessoas a serviço das Forças Armadas
 
 em campanha, dentro do País ou fora dele, assim como em praça sitiada, ou que esteja de
 comunicações interrompidas, poderá fazer-se, não havendo tabelião ou seu substituto
@@ -20642,7 +20598,7 @@ o
 Se o testador for o oficial mais graduado, o testamento será
 escrito por aquele que o substituir.
 
-## Art. 1.894.
+## Art. 1.894
 
 Se o testador souber escrever, poderá fazer o testamento de seu punho,
 
@@ -20654,7 +20610,7 @@ Parágrafo único. O auditor, ou o oficial a quem o testamento se apresente nota
 qualquer parte dele, lugar, dia, mês e ano, em que lhe for apresentado, nota esta que
 será assinada por ele e pelas testemunhas.
 
-## Art. 1.895.
+## Art. 1.895
 
 Caduca o testamento militar, desde que, depois dele, o testador esteja,
 
@@ -20662,7 +20618,7 @@ noventa dias seguidos, em lugar onde possa testar na forma ordinária, salvo se 
 testamento apresentar as solenidades prescritas no parágrafo único do artigo
 antecedente.
 
-## Art. 1.896.
+## Art. 1.896
 
 As pessoas designadas no art. 1.893, estando empenhadas em combate, ou
 
@@ -20673,25 +20629,25 @@ ou convalescer do ferimento.
 
 # CAPÍTULO VI — Das Disposições Testamentárias
 
-## Art. 1.897.
+## Art. 1.897
 
 A nomeação de herdeiro, ou legatário, pode fazer-se pura e simplesmente,
 
 sob condição, para certo fim ou modo, ou por certo motivo.
 
-## Art. 1.898.
+## Art. 1.898
 
 A designação do tempo em que deva começar ou cessar o direito do
 
 herdeiro, salvo nas disposições fideicomissárias, ter-se-á por não escrita.
 
-## Art. 1.899.
+## Art. 1.899
 
 Quando a cláusula testamentária for suscetível de interpretações
 
 diferentes, prevalecerá a que melhor assegure a observância da vontade do testador.
 
-## Art. 1.900.
+## Art. 1.900
 
 É nula a disposição:
 
@@ -20707,7 +20663,7 @@ IV - que deixe a arbítrio do herdeiro, ou de outrem, fixar o valor do legado;
 
 V - que favoreça as pessoas a que se referem os arts. 1.801 e 1.802.
 
-## Art. 1.901.
+## Art. 1.901
 
 Valerá a disposição:
 
@@ -20719,7 +20675,7 @@ II - em remuneração de serviços prestados ao testador, por ocasião da molés
 que faleceu, ainda que fique ao arbítrio do herdeiro ou de outrem determinar o valor do
 legado.
 
-## Art. 1.902.
+## Art. 1.902
 
 A disposição geral em favor dos pobres, dos estabelecimentos particulares
 
@@ -20730,48 +20686,48 @@ se manifestamente constar que tinha em mente beneficiar os de outra localidade.
 Parágrafo único. Nos casos deste artigo, as instituições particulares preferirão
 sempre às públicas.
 
-## Art. 1.903.
+## Art. 1.903
 
-erro na designação da pessoa do herdeiro, do legatário, ou da coisa
+O erro na designação da pessoa do herdeiro, do legatário, ou da coisa
 
 legada anula a disposição, salvo se, pelo contexto do testamento, por outros documentos,
 ou por fatos inequívocos, se puder identificar a pessoa ou coisa a que o testador queria
 referir-se.
 
-## Art. 1.904.
+## Art. 1.904
 
 Se o testamento nomear dois ou mais herdeiros, sem discriminar a parte de
 
 cada um, partilhar-se-á por igual, entre todos, a porção disponível do testador.
 
-## Art. 1.905.
+## Art. 1.905
 
 Se o testador nomear certos herdeiros individualmente e outros
 
 coletivamente, a herança será dividida em tantas quotas quantos forem os indivíduos e
 os grupos designados.
 
-## Art. 1.906.
+## Art. 1.906
 
 Se forem determinadas as quotas de cada herdeiro, e não absorverem toda a
 
 herança, o remanescente pertencerá aos herdeiros legítimos, segundo a ordem da
 vocação hereditária.
 
-## Art. 1.907.
+## Art. 1.907
 
 Se forem determinados os quinhões de uns e não os de outros herdeiros,
 
 distribuir-se-á por igual a estes últimos o que restar, depois de completas as porções
 hereditárias dos primeiros.
 
-## Art. 1.908.
+## Art. 1.908
 
 Dispondo o testador que não caiba ao herdeiro instituído certo e
 
 determinado objeto, dentre os da herança, tocará ele aos herdeiros legítimos.
 
-## Art. 1.909.
+## Art. 1.909
 
 São anuláveis as disposições testamentárias inquinadas de erro, dolo
 
@@ -20780,13 +20736,13 @@ ou coação.
 Parágrafo único. Extingue-se em quatro anos o direito de anular a disposição,
 contados de quando o interessado tiver conhecimento do vício.
 
-## Art. 1.910.
+## Art. 1.910
 
 A ineficácia de uma disposição testamentária importa a das outras que,
 
 sem aquela, não teriam sido determinadas pelo testador.
 
-## Art. 1.911.
+## Art. 1.911
 
 A cláusula de inalienabilidade, imposta aos bens por ato de liberalidade,
 
@@ -20801,33 +20757,33 @@ incidirão as restrições apostas aos primeiros.
 
 ### Seção I — Disposições Gerais
 
-## Art. 1.912.
+## Art. 1.912
 
 É ineficaz o legado de coisa certa que não pertença ao testador no
 
 momento da abertura da sucessão.
 
-## Art. 1.913.
+## Art. 1.913
 
 Se o testador ordenar que o herdeiro ou legatário entregue coisa de sua
 
 propriedade a outrem, não o cumprindo ele, entender-se-á que renunciou à herança ou ao
 legado.
 
-## Art. 1.914.
+## Art. 1.914
 
 Se tão-somente em parte a coisa legada pertencer ao testador, ou, no caso
 
 do artigo antecedente, ao herdeiro ou ao legatário, só quanto a essa parte valerá o
 legado.
 
-## Art. 1.915.
+## Art. 1.915
 
 Se o legado for de coisa que se determine pelo gênero, será o mesmo
 
 cumprido, ainda que tal coisa não exista entre os bens deixados pelo testador.
 
-## Art. 1.916.
+## Art. 1.916
 
 Se o testador legar coisa sua, singularizando-a, só terá eficácia o
 
@@ -20835,15 +20791,15 @@ legado se, ao tempo do seu falecimento, ela se achava entre os bens da herança;
 coisa legada existir entre os bens do testador, mas em quantidade inferior à do legado,
 este será eficaz apenas quanto à existente.
 
-## Art. 1.917.
+## Art. 1.917
 
-legado de coisa que deva encontrar-se em determinado lugar só terá
+O legado de coisa que deva encontrar-se em determinado lugar só terá
 
 eficácia se nele for achada, salvo se removida a título transitório.
 
-## Art. 1.918.
+## Art. 1.918
 
-legado de crédito, ou de quitação de dívida, terá eficácia somente
+O legado de crédito, ou de quitação de dívida, terá eficácia somente
 
 até a importância desta, ou daquele, ao tempo da morte do testador.
 
@@ -20857,7 +20813,7 @@ o
 Este legado não compreende as dívidas posteriores à data do
 testamento.
 
-## Art. 1.919.
+## Art. 1.919
 
 Não o declarando expressamente o testador, não se reputará compensação
 
@@ -20866,19 +20822,19 @@ da sua dívida o legado que ele faça ao credor.
 Parágrafo único. Subsistirá integralmente o legado, se a dívida lhe foi posterior,
 e o testador a solveu antes de morrer.
 
-## Art. 1.920.
+## Art. 1.920
 
-legado de alimentos abrange o sustento, a cura, o vestuário e a casa,
+O legado de alimentos abrange o sustento, a cura, o vestuário e a casa,
 
 enquanto o legatário viver, além da educação, se ele for menor.
 
-## Art. 1.921.
+## Art. 1.921
 
-legado de usufruto, sem fixação de tempo, entende-se deixado ao
+O legado de usufruto, sem fixação de tempo, entende-se deixado ao
 
 legatário por toda a sua vida.
 
-## Art. 1.922.
+## Art. 1.922
 
 Se aquele que legar um imóvel lhe ajuntar depois novas aquisições,
 
@@ -20890,7 +20846,7 @@ necessárias, úteis ou voluptuárias feitas no prédio legado.
 
 ### Seção II — Dos Efeitos do Legado e do seu Pagamento
 
-## Art. 1.923.
+## Art. 1.923
 
 Desde a abertura da sucessão, pertence ao legatário a coisa certa,
 
@@ -20907,26 +20863,26 @@ O legado de coisa certa existente na herança transfere também
 ao legatário os frutos que produzir, desde a morte do testador, exceto se dependente de
 condição suspensiva, ou de termo inicial.
 
-## Art. 1.924.
+## Art. 1.924
 
-direito de pedir o legado não se exercerá, enquanto se litigue sobre a
+O direito de pedir o legado não se exercerá, enquanto se litigue sobre a
 
 validade do testamento, e, nos legados condicionais, ou a prazo, enquanto esteja pendente
 a condição ou o prazo não se vença.
 
-## Art. 1.925.
+## Art. 1.925
 
-legado em dinheiro só vence juros desde o dia em que se constituir em
+O legado em dinheiro só vence juros desde o dia em que se constituir em
 
 mora a pessoa obrigada a prestá-lo.
 
-## Art. 1.926.
+## Art. 1.926
 
 Se o legado consistir em renda vitalícia ou pensão periódica, esta ou
 
 aquela correrá da morte do testador.
 
-## Art. 1.927.
+## Art. 1.927
 
 Se o legado for de quantidades certas, em prestações periódicas, datará
 
@@ -20934,7 +20890,7 @@ da morte do testador o primeiro período, e o legatário terá direito a cada pr
 uma vez encetado cada um dos períodos sucessivos, ainda que venha a falecer antes do
 termo dele.
 
-## Art. 1.928.
+## Art. 1.928
 
 Sendo periódicas as prestações, só no termo de cada período se
 
@@ -20944,20 +20900,20 @@ Parágrafo único. Se as prestações forem deixadas a título de alimentos,
 pagar-se-ão no começo de cada período, sempre que outra coisa não tenha disposto o
 testador.
 
-## Art. 1.929.
+## Art. 1.929
 
 Se o legado consiste em coisa determinada pelo gênero, ao herdeiro tocará
 
 escolhê-la, guardando o meio-termo entre as congêneres da melhor e pior qualidade.
 
-## Art. 1.930.
+## Art. 1.930
 
-estabelecido no artigo antecedente será observado, quando a escolha for
+O estabelecido no artigo antecedente será observado, quando a escolha for
 
 deixada a arbítrio de terceiro; e, se este não a quiser ou não a puder exercer, ao juiz
 competirá fazê-la, guardado o disposto na última parte do artigo antecedente.
 
-## Art. 1.931.
+## Art. 1.931
 
 Se a opção foi deixada ao legatário, este poderá escolher, do gênero
 
@@ -20965,17 +20921,17 @@ determinado, a melhor coisa que houver na herança; e, se nesta não existir coi
 gênero, dar-lhe-á de outra congênere o herdeiro, observada a disposição na última
 parte do art. 1.929.
 
-## Art. 1.932.
+## Art. 1.932
 
 No legado alternativo, presume-se deixada ao herdeiro a opção.
 
-## Art. 1.933.
+## Art. 1.933
 
 Se o herdeiro ou legatário a quem couber a opção falecer antes de
 
 exercê-la, passará este poder aos seus herdeiros.
 
-## Art. 1.934.
+## Art. 1.934
 
 No silêncio do testamento, o cumprimento dos legados incumbe aos herdeiros
 
@@ -20986,27 +20942,27 @@ testamentária em contrário, caberá ao herdeiro ou legatário incumbido pelo t
 execução do legado; quando indicados mais de um, os onerados dividirão entre si o
 ônus, na proporção do que recebam da herança.
 
-## Art. 1.935.
+## Art. 1.935
 
 Se algum legado consistir em coisa pertencente a herdeiro ou legatário
 
 (art. 1.913), só a ele incumbirá cumpri-lo, com regresso contra os co-herdeiros, pela
 quota de cada um, salvo se o contrário expressamente dispôs o testador.
 
-## Art. 1.936.
+## Art. 1.936
 
 As despesas e os riscos da entrega do legado correm à conta do legatário,
 
 se não dispuser diversamente o testador.
 
-## Art. 1.937.
+## Art. 1.937
 
 A coisa legada entregar-se-á, com seus acessórios, no lugar e estado em
 
 que se achava ao falecer o testador, passando ao legatário com todos os encargos que a
 onerarem.
 
-## Art. 1.938.
+## Art. 1.938
 
 Nos legados com encargo, aplica-se ao legatário o disposto neste Código
 
@@ -21014,7 +20970,7 @@ quanto às doações de igual natureza.
 
 ### Seção III — Da Caducidade dos Legados
 
-## Art. 1.939.
+## Art. 1.939
 
 Caducará o legado:
 
@@ -21031,7 +20987,7 @@ IV - se o legatário for excluído da sucessão, nos termos do art. 1.815;
 
 V - se o legatário falecer antes do testador.
 
-## Art. 1.940.
+## Art. 1.940
 
 Se o legado for de duas ou mais coisas alternativamente, e algumas delas
 
@@ -21040,7 +20996,7 @@ seu remanescente, o legado.
 
 # CAPÍTULO VIII — Do Direito de Acrescer entre Herdeiros e Legatários
 
-## Art. 1.941.
+## Art. 1.941
 
 Quando vários herdeiros, pela mesma disposição testamentária, forem
 
@@ -21048,14 +21004,14 @@ conjuntamente chamados à herança em quinhões não determinados, e qualquer de
 puder ou não quiser aceitá-la, a sua parte acrescerá à dos co-herdeiros, salvo o
 direito do substituto.
 
-## Art. 1.942.
+## Art. 1.942
 
-direito de acrescer competirá aos co-legatários, quando nomeados
+O direito de acrescer competirá aos co-legatários, quando nomeados
 
 conjuntamente a respeito de uma só coisa, determinada e certa, ou quando o objeto do
 legado não puder ser dividido sem risco de desvalorização.
 
-## Art. 1.943.
+## Art. 1.943
 
 Se um dos co-herdeiros ou co-legatários, nas condições do artigo
 
@@ -21068,7 +21024,7 @@ Parágrafo único. Os co-herdeiros ou co-legatários, aos quais acresceu o quinh
 daquele que não quis ou não pôde suceder, ficam sujeitos às obrigações ou encargos
 que o oneravam.
 
-## Art. 1.944.
+## Art. 1.944
 
 Quando não se efetua o direito de acrescer, transmite-se aos herdeiros
 
@@ -21079,7 +21035,7 @@ quota do que faltar acresce ao herdeiro ou ao legatário incumbido de satisfazer
 legado, ou a todos os herdeiros, na proporção dos seus quinhões, se o legado se deduziu
 da herança.
 
-## Art. 1.945.
+## Art. 1.945
 
 Não pode o beneficiário do acréscimo repudiá-lo separadamente da
 
@@ -21087,7 +21043,7 @@ herança ou legado que lhe caiba, salvo se o acréscimo comportar encargos espec
 impostos pelo testador; nesse caso, uma vez repudiado, reverte o acréscimo para a pessoa
 a favor de quem os encargos foram instituídos.
 
-## Art. 1.946.
+## Art. 1.946
 
 Legado um só usufruto conjuntamente a duas ou mais pessoas, a parte da que
 
@@ -21101,28 +21057,28 @@ as quotas dos que faltarem, à medida que eles forem faltando.
 
 ### Seção I — Da Substituição Vulgar e da Recíproca
 
-## Art. 1.947.
+## Art. 1.947
 
-testador pode substituir outra pessoa ao herdeiro ou ao legatário
+O testador pode substituir outra pessoa ao herdeiro ou ao legatário
 
 nomeado, para o caso de um ou outro não querer ou não poder aceitar a herança ou o
 legado, presumindo-se que a substituição foi determinada para as duas alternativas,
 ainda que o testador só a uma se refira.
 
-## Art. 1.948.
+## Art. 1.948
 
 Também é lícito ao testador substituir muitas pessoas por uma só, ou
 
 vice-versa, e ainda substituir com reciprocidade ou sem ela.
 
-## Art. 1.949.
+## Art. 1.949
 
-substituto fica sujeito à condição ou encargo imposto ao substituído,
+O substituto fica sujeito à condição ou encargo imposto ao substituído,
 
 quando não for diversa a intenção manifestada pelo testador, ou não resultar outra
 coisa da natureza da condição ou do encargo.
 
-## Art. 1.950.
+## Art. 1.950
 
 Se, entre muitos co-herdeiros ou legatários de partes desiguais, for
 
@@ -21133,7 +21089,7 @@ iguais aos substitutos.
 
 ### Seção II — Da Substituição Fideicomissária
 
-## Art. 1.951.
+## Art. 1.951
 
 Pode o testador instituir herdeiros ou legatários, estabelecendo que, por
 
@@ -21141,7 +21097,7 @@ ocasião de sua morte, a herança ou o legado se transmita ao fiduciário, resol
 direito deste, por sua morte, a certo tempo ou sob certa condição, em favor de outrem,
 que se qualifica de fideicomissário.
 
-## Art. 1.952.
+## Art. 1.952
 
 A substituição fideicomissária somente se permite em favor dos não
 
@@ -21151,52 +21107,52 @@ Parágrafo único. Se, ao tempo da morte do testador, já houver nascido o
 fideicomissário, adquirirá este a propriedade dos bens fideicometidos, convertendo-se em
 usufruto o direito do fiduciário.
 
-## Art. 1.953.
+## Art. 1.953
 
-fiduciário tem a propriedade da herança ou legado, mas restrita e
+O fiduciário tem a propriedade da herança ou legado, mas restrita e
 
 resolúvel.
 
 Parágrafo único. O fiduciário é obrigado a proceder ao inventário dos bens
 gravados, e a prestar caução de restituí-los se o exigir o fideicomissário.
 
-## Art. 1.954.
+## Art. 1.954
 
 Salvo disposição em contrário do testador, se o fiduciário renunciar a
 
 herança ou o legado, defere-se ao fideicomissário o poder de aceitar.
 
-## Art. 1.955.
+## Art. 1.955
 
-fideicomissário pode renunciar a herança ou o legado, e, neste caso, o
+O fideicomissário pode renunciar a herança ou o legado, e, neste caso, o
 
 fideicomisso caduca, deixando de ser resolúvel a propriedade do fiduciário, se não
 houver disposição contrária do testador.
 
-## Art. 1.956.
+## Art. 1.956
 
 Se o fideicomissário aceitar a herança ou o legado, terá direito à
 
 parte que, ao fiduciário, em qualquer tempo acrescer.
 
-## Art. 1.957.
+## Art. 1.957
 
 Ao sobrevir a sucessão, o fideicomissário responde pelos encargos da
 
 herança que ainda restarem.
 
-## Art. 1.958.
+## Art. 1.958
 
 Caduca o fideicomisso se o fideicomissário morrer antes do fiduciário, ou
 
 antes de realizar-se a condição resolutória do direito deste último; nesse caso, a
 propriedade consolida-se no fiduciário, nos termos do art. 1.955.
 
-## Art. 1.959.
+## Art. 1.959
 
 São nulos os fideicomissos além do segundo grau.
 
-## Art. 1.960.
+## Art. 1.960
 
 A nulidade da substituição ilegal não prejudica a instituição, que
 
@@ -21204,13 +21160,13 @@ valerá sem o encargo resolutório.
 
 # CAPÍTULO X — Da Deserdação
 
-## Art. 1.961.
+## Art. 1.961
 
-s herdeiros necessários podem ser privados de sua legítima, ou
+Os herdeiros necessários podem ser privados de sua legítima, ou
 
 deserdados, em todos os casos em que podem ser excluídos da sucessão.
 
-## Art. 1.962.
+## Art. 1.962
 
 Além das causas mencionadas no art. 1.814, autorizam a deserdação dos
 
@@ -21224,7 +21180,7 @@ III - relações ilícitas com a madrasta ou com o padrasto;
 
 IV - desamparo do ascendente em alienação mental ou grave enfermidade.
 
-## Art. 1.963.
+## Art. 1.963
 
 Além das causas enumeradas no art. 1.814, autorizam a deserdação dos
 
@@ -21239,13 +21195,13 @@ marido ou companheiro da filha ou o da neta;
 
 IV - desamparo do filho ou neto com deficiência mental ou grave enfermidade.
 
-## Art. 1.964.
+## Art. 1.964
 
 Somente com expressa declaração de causa pode a deserdação ser ordenada
 
 em testamento.
 
-## Art. 1.965.
+## Art. 1.965
 
 Ao herdeiro instituído, ou àquele a quem aproveite a deserdação,
 
@@ -21256,13 +21212,13 @@ quatro anos, a contar da data da abertura do testamento.
 
 # CAPÍTULO XI — Da Redução das Disposições Testamentárias
 
-## Art. 1.966.
+## Art. 1.966
 
-remanescente pertencerá aos herdeiros legítimos, quando o testador só
+O remanescente pertencerá aos herdeiros legítimos, quando o testador só
 
 em parte dispuser da quota hereditária disponível.
 
-## Art. 1.967.
+## Art. 1.967
 
 As disposições que excederem a parte disponível reduzir-se-ão aos
 
@@ -21281,7 +21237,7 @@ Se o testador, prevenindo o caso, dispuser que se inteirem, de
 preferência, certos herdeiros e legatários, a redução far-se-á nos outros quinhões
 ou legados, observando-se a seu respeito a ordem estabelecida no parágrafo antecedente.
 
-## Art. 1.968.
+## Art. 1.968
 
 Quando consistir em prédio divisível o legado sujeito a redução,
 
@@ -21303,18 +21259,18 @@ e a parte subsistente do legado lhe absorverem o valor.
 
 # CAPÍTULO XII — Da Revogação do Testamento
 
-## Art. 1.969.
+## Art. 1.969
 
-testamento pode ser revogado pelo mesmo modo e forma como pode ser feito.
+O testamento pode ser revogado pelo mesmo modo e forma como pode ser feito.
 
-## Art. 1.970.
+## Art. 1.970
 
 A revogação do testamento pode ser total ou parcial.
 
 Parágrafo único. Se parcial, ou se o testamento posterior não contiver cláusula
 revogatória expressa, o anterior subsiste em tudo que não for contrário ao posterior.
 
-## Art. 1.971.
+## Art. 1.971
 
 A revogação produzirá seus efeitos, ainda quando o testamento, que a
 
@@ -21322,28 +21278,28 @@ encerra, vier a caducar por exclusão, incapacidade ou renúncia do herdeiro nel
 não valerá, se o testamento revogatório for anulado por omissão ou infração de
 solenidades essenciais ou por vícios intrínsecos.
 
-## Art. 1.972.
+## Art. 1.972
 
-testamento cerrado que o testador abrir ou dilacerar, ou for aberto ou
+O testamento cerrado que o testador abrir ou dilacerar, ou for aberto ou
 
 dilacerado com seu consentimento, haver-se-á como revogado.
 
 # CAPÍTULO XIII — Do Rompimento do Testamento
 
-## Art. 1.973.
+## Art. 1.973
 
 Sobrevindo descendente sucessível ao testador, que não o tinha ou não o
 
 conhecia quando testou, rompe-se o testamento em todas as suas disposições, se esse
 descendente sobreviver ao testador.
 
-## Art. 1.974.
+## Art. 1.974
 
 Rompe-se também o testamento feito na ignorância de existirem outros
 
 herdeiros necessários.
 
-## Art. 1.975.
+## Art. 1.975
 
 Não se rompe o testamento, se o testador dispuser da sua metade, não
 
@@ -21352,15 +21308,15 @@ dessa parte.
 
 # CAPÍTULO XIV — Do Testamenteiro
 
-## Art. 1.976.
+## Art. 1.976
 
-testador pode nomear um ou mais testamenteiros, conjuntos ou separados,
+O testador pode nomear um ou mais testamenteiros, conjuntos ou separados,
 
 para lhe darem cumprimento às disposições de última vontade.
 
-## Art. 1.977.
+## Art. 1.977
 
-testador pode conceder ao testamenteiro a posse e a administração da
+O testador pode conceder ao testamenteiro a posse e a administração da
 
 herança, ou de parte dela, não havendo cônjuge ou herdeiros necessários.
 
@@ -21368,39 +21324,39 @@ Parágrafo único. Qualquer herdeiro pode requerer partilha imediata, ou devolu�
 herança, habilitando o testamenteiro com os meios necessários para o cumprimento dos
 legados, ou dando caução de prestá-los.
 
-## Art. 1.978.
+## Art. 1.978
 
 Tendo o testamenteiro a posse e a administração dos bens, incumbe-lhe
 
 requerer inventário e cumprir o testamento.
 
-## Art. 1.979.
+## Art. 1.979
 
-testamenteiro nomeado, ou qualquer parte interessada, pode requerer,
+O testamenteiro nomeado, ou qualquer parte interessada, pode requerer,
 
 assim como o juiz pode ordenar, de ofício, ao detentor do testamento, que o leve a
 registro.
 
-## Art. 1.980.
+## Art. 1.980
 
-testamenteiro é obrigado a cumprir as disposições testamentárias, no
+O testamenteiro é obrigado a cumprir as disposições testamentárias, no
 
 prazo marcado pelo testador, e a dar contas do que recebeu e despendeu, subsistindo sua
 responsabilidade enquanto durar a execução do testamento.
 
-## Art. 1.981.
+## Art. 1.981
 
 Compete ao testamenteiro, com ou sem o concurso do inventariante e dos
 
 herdeiros instituídos, defender a validade do testamento.
 
-## Art. 1.982.
+## Art. 1.982
 
 Além das atribuições exaradas nos artigos antecedentes, terá o
 
 testamenteiro as que lhe conferir o testador, nos limites da lei.
 
-## Art. 1.983.
+## Art. 1.983
 
 Não concedendo o testador prazo maior, cumprirá o testamenteiro o
 
@@ -21409,21 +21365,21 @@ testamentaria.
 
 Parágrafo único. Pode esse prazo ser prorrogado se houver motivo suficiente.
 
-## Art. 1.984.
+## Art. 1.984
 
 Na falta de testamenteiro nomeado pelo testador, a execução
 
 testamentária compete a um dos cônjuges, e, em falta destes, ao herdeiro nomeado pelo
 juiz.
 
-## Art. 1.985.
+## Art. 1.985
 
-encargo da testamentaria não se transmite aos herdeiros do
+O encargo da testamentaria não se transmite aos herdeiros do
 
 testamenteiro, nem é delegável; mas o testamenteiro pode fazer-se representar em juízo
 e fora dele, mediante mandatário com poderes especiais.
 
-## Art. 1.986.
+## Art. 1.986
 
 Havendo simultaneamente mais de um testamenteiro, que tenha aceitado o
 
@@ -21431,7 +21387,7 @@ cargo, poderá cada qual exercê-lo, em falta dos outros; mas todos ficam solida
 obrigados a dar conta dos bens que lhes forem confiados, salvo se cada um tiver, pelo
 testamento, funções distintas, e a elas se limitar.
 
-## Art. 1.987.
+## Art. 1.987
 
 Salvo disposição testamentária em contrário, o testamenteiro, que não
 
@@ -21442,19 +21398,19 @@ conforme a importância dela e maior ou menor dificuldade na execução do testa
 Parágrafo único. O prêmio arbitrado será pago à conta da parte disponível, quando
 houver herdeiro necessário.
 
-## Art. 1.988.
+## Art. 1.988
 
-herdeiro ou o legatário nomeado testamenteiro poderá preferir o prêmio
+O herdeiro ou o legatário nomeado testamenteiro poderá preferir o prêmio
 
 à herança ou ao legado.
 
-## Art. 1.989.
+## Art. 1.989
 
 Reverterá à herança o prêmio que o testamenteiro perder, por ser
 
 removido ou por não ter cumprido o testamento.
 
-## Art. 1.990.
+## Art. 1.990
 
 Se o testador tiver distribuído toda a herança em legados, exercerá o
 
@@ -21464,7 +21420,7 @@ testamenteiro as funções de inventariante.
 
 # CAPÍTULO I — Do Inventário
 
-## Art. 1.991.
+## Art. 1.991
 
 Desde a assinatura do compromisso até a homologação da partilha, a
 
@@ -21472,22 +21428,22 @@ administração da herança será exercida pelo inventariante.
 
 # CAPÍTULO II — Dos Sonegados
 
-## Art. 1.992.
+## Art. 1.992
 
-herdeiro que sonegar bens da herança, não os descrevendo no inventário
+O herdeiro que sonegar bens da herança, não os descrevendo no inventário
 
 quando estejam em seu poder, ou, com o seu conhecimento, no de outrem, ou que os omitir na
 colação, a que os deva levar, ou que deixar de restituí-los, perderá o direito que
 sobre eles lhe cabia.
 
-## Art. 1.993.
+## Art. 1.993
 
 Além da pena cominada no artigo antecedente, se o sonegador for o próprio
 
 inventariante, remover-se-á, em se provando a sonegação, ou negando ele a existência
 dos bens, quando indicados.
 
-## Art. 1.994.
+## Art. 1.994
 
 A pena de sonegados só se pode requerer e impor em ação movida pelos
 
@@ -21496,13 +21452,13 @@ herdeiros ou pelos credores da herança.
 Parágrafo único. A sentença que se proferir na ação de sonegados, movida por
 qualquer dos herdeiros ou credores, aproveita aos demais interessados.
 
-## Art. 1.995.
+## Art. 1.995
 
 Se não se restituírem os bens sonegados, por já não os ter o sonegador
 
 em seu poder, pagará ele a importância dos valores que ocultou, mais as perdas e danos.
 
-## Art. 1.996.
+## Art. 1.996
 
 Só se pode argüir de sonegação o inventariante depois de encerrada a
 
@@ -21512,7 +21468,7 @@ que não os possui.
 
 # CAPÍTULO III — Do Pagamento das Dívidas
 
-## Art. 1.997.
+## Art. 1.997
 
 A herança responde pelo pagamento das dívidas do falecido; mas, feita a
 
@@ -21534,27 +21490,27 @@ No caso previsto no parágrafo antecedente, o credor será
 obrigado a iniciar a ação de cobrança no prazo de trinta dias, sob pena de se tornar de
 nenhum efeito a providência indicada.
 
-## Art. 1.998.
+## Art. 1.998
 
 As despesas funerárias, haja ou não herdeiros legítimos, sairão do
 
 monte da herança; mas as de sufrágios por alma do falecido só obrigarão a herança
 quando ordenadas em testamento ou codicilo.
 
-## Art. 1.999.
+## Art. 1.999
 
 Sempre que houver ação regressiva de uns contra outros herdeiros, a parte
 
 do co-herdeiro insolvente dividir-se-á em proporção entre os demais.
 
-## Art. 2.000.
+## Art. 2.000
 
-s legatários e credores da herança podem exigir que do patrimônio do
+Os legatários e credores da herança podem exigir que do patrimônio do
 
 falecido se discrimine o do herdeiro, e, em concurso com os credores deste, ser-lhes-ão
 preferidos no pagamento.
 
-## Art. 2.001.
+## Art. 2.001
 
 Se o herdeiro for devedor ao espólio, sua dívida será partilhada
 
@@ -21563,9 +21519,9 @@ inteiramente no quinhão do devedor.
 
 # CAPÍTULO IV — Da Colação
 
-## Art. 2.002.
+## Art. 2.002
 
-s descendentes que concorrerem à sucessão do ascendente comum são
+Os descendentes que concorrerem à sucessão do ascendente comum são
 
 obrigados, para igualar as legítimas, a conferir o valor das doações que dele em vida
 receberam, sob pena de sonegação.
@@ -21573,7 +21529,7 @@ receberam, sob pena de sonegação.
 Parágrafo único. Para cálculo da legítima, o valor dos bens conferidos será
 computado na parte indisponível, sem aumentar a disponível.
 
-## Art. 2.003.
+## Art. 2.003
 
 A colação tem por fim igualar, na proporção estabelecida neste Código,
 
@@ -21585,9 +21541,9 @@ legítima, não houver no acervo bens suficientes para igualar as legítimas dos
 descendentes e do cônjuge, os bens assim doados serão conferidos em espécie, ou, quando
 deles já não disponha o donatário, pelo seu valor ao tempo da liberalidade.
 
-## Art. 2.004.
+## Art. 2.004
 
-valor de colação dos bens doados será aquele, certo ou estimativo, que
+O valor de colação dos bens doados será aquele, certo ou estimativo, que
 
 lhes atribuir o ato de liberalidade.
 
@@ -21604,7 +21560,7 @@ das benfeitorias acrescidas, as quais pertencerão ao herdeiro donatário, corre
 também à conta deste os rendimentos ou lucros, assim como os danos e perdas que eles
 sofrerem.
 
-## Art. 2.005.
+## Art. 2.005
 
 São dispensadas da colação as doações que o doador determinar saiam da
 
@@ -21615,13 +21571,13 @@ Parágrafo único. Presume-se imputada na parte disponível a liberalidade feita
 descendente que, ao tempo do ato, não seria chamado à sucessão na qualidade de herdeiro
 necessário.
 
-## Art. 2.006.
+## Art. 2.006
 
 A dispensa da colação pode ser outorgada pelo doador em testamento, ou no
 
 próprio título de liberalidade.
 
-## Art. 2.007.
+## Art. 2.007
 
 São sujeitas à redução as doações em que se apurar excesso quanto ao
 
@@ -21652,20 +21608,20 @@ Sendo várias as doações a herdeiros necessários, feitas em
 diferentes datas, serão elas reduzidas a partir da última, até a eliminação do
 excesso.
 
-## Art. 2.008.
+## Art. 2.008
 
 Aquele que renunciou a herança ou dela foi excluído, deve, não obstante,
 
 conferir as doações recebidas, para o fim de repor o que exceder o disponível.
 
-## Art. 2.009.
+## Art. 2.009
 
 Quando os netos, representando os seus pais, sucederem aos avós, serão
 
 obrigados a trazer à colação, ainda que não o hajam herdado, o que os pais teriam de
 conferir.
 
-## Art. 2.010.
+## Art. 2.010
 
 Não virão à colação os gastos ordinários do ascendente com o
 
@@ -21673,13 +21629,13 @@ descendente, enquanto menor, na sua educação, estudos, sustento, vestuário, t
 nas enfermidades, enxoval, assim como as despesas de casamento, ou as feitas no interesse
 de sua defesa em processo-crime.
 
-## Art. 2.011.
+## Art. 2.011
 
 As doações remuneratórias de serviços feitos ao ascendente também não
 
 estão sujeitas a colação.
 
-## Art. 2.012.
+## Art. 2.012
 
 Sendo feita a doação por ambos os cônjuges, no inventário de cada um se
 
@@ -21687,47 +21643,47 @@ conferirá por metade.
 
 # CAPÍTULO V — Da Partilha
 
-## Art. 2.013.
+## Art. 2.013
 
-herdeiro pode sempre requerer a partilha, ainda que o testador o proíba,
+O herdeiro pode sempre requerer a partilha, ainda que o testador o proíba,
 
 cabendo igual faculdade aos seus cessionários e credores.
 
-## Art. 2.014.
+## Art. 2.014
 
 Pode o testador indicar os bens e valores que devem compor os quinhões
 
 hereditários, deliberando ele próprio a partilha, que prevalecerá, salvo se o valor dos
 bens não corresponder às quotas estabelecidas.
 
-## Art. 2.015.
+## Art. 2.015
 
 Se os herdeiros forem capazes, poderão fazer partilha amigável, por
 
 escritura pública, termo nos autos do inventário, ou escrito particular, homologado pelo
 juiz.
 
-## Art. 2.016.
+## Art. 2.016
 
 Será sempre judicial a partilha, se os herdeiros divergirem, assim como se
 
 algum deles for incapaz.
 
-## Art. 2.017.
+## Art. 2.017
 
 No partilhar os bens, observar-se-á, quanto ao seu valor, natureza e
 
 qualidade, a maior igualdade possível.
 
-## Art. 2.018.
+## Art. 2.018
 
 É válida a partilha feita por ascendente, por ato entre vivos ou de
 
 última vontade, contanto que não prejudique a legítima dos herdeiros necessários.
 
-## Art. 2.019.
+## Art. 2.019
 
-s bens insuscetíveis de divisão cômoda, que não couberem na meação
+Os bens insuscetíveis de divisão cômoda, que não couberem na meação
 
 do cônjuge sobrevivente ou no quinhão de um só herdeiro, serão vendidos judicialmente,
 partilhando-se o valor apurado, a não ser que haja acordo para serem adjudicados a todos.
@@ -21743,15 +21699,15 @@ o
 Se a adjudicação for requerida por mais de um herdeiro,
 observar-se-á o processo da licitação.
 
-## Art. 2.020.
+## Art. 2.020
 
-s herdeiros em posse dos bens da herança, o cônjuge sobrevivente e o
+Os herdeiros em posse dos bens da herança, o cônjuge sobrevivente e o
 
 inventariante são obrigados a trazer ao acervo os frutos que perceberam, desde a abertura
 da sucessão; têm direito ao reembolso das despesas necessárias e úteis que fizeram, e
 respondem pelo dano a que, por dolo ou culpa, deram causa.
 
-## Art. 2.021.
+## Art. 2.021
 
 Quando parte da herança consistir em bens remotos do lugar do inventário,
 
@@ -21760,7 +21716,7 @@ partilha dos outros, reservando-se aqueles para uma ou mais sobrepartilhas, sob 
 a administração do mesmo ou diverso inventariante, e consentimento da maioria dos
 herdeiros.
 
-## Art. 2.022.
+## Art. 2.022
 
 Ficam sujeitos a sobrepartilha os bens sonegados e quaisquer outros bens da
 
@@ -21768,35 +21724,35 @@ herança de que se tiver ciência após a partilha.
 
 # CAPÍTULO VI — Da Garantia dos Quinhões Hereditários
 
-## Art. 2.023.
+## Art. 2.023
 
 Julgada a partilha, fica o direito de cada um dos herdeiros circunscrito
 
 aos bens do seu quinhão.
 
-## Art. 2.024.
+## Art. 2.024
 
-s co-herdeiros são reciprocamente obrigados a indenizar-se no caso de
+Os co-herdeiros são reciprocamente obrigados a indenizar-se no caso de
 
 evicção dos bens aquinhoados.
 
-## Art. 2.025.
+## Art. 2.025
 
 Cessa a obrigação mútua estabelecida no artigo antecedente, havendo
 
 convenção em contrário, e bem assim dando-se a evicção por culpa do evicto, ou por
 fato posterior à partilha.
 
-## Art. 2.026.
+## Art. 2.026
 
-evicto será indenizado pelos co-herdeiros na proporção de suas quotas
+O evicto será indenizado pelos co-herdeiros na proporção de suas quotas
 
 hereditárias, mas, se algum deles se achar insolvente, responderão os demais na mesma
 proporção, pela parte desse, menos a quota que corresponderia ao indenizado.
 
 # CAPÍTULO VII — Da Anulação da Partilha
 
-## Art. 2.027.
+## Art. 2.027
 
 A partilha é anulável pelos vícios e defeitos que
 
@@ -21808,14 +21764,14 @@ Parágrafo único. Extingue-se em um ano o direito de anular a partilha.
 
 # LIVRO COMPLEMENTAR — DAS Disposições Finais e Transitórias
 
-## Art. 2.028.
+## Art. 2.028
 
 Serão os da lei anterior os prazos, quando reduzidos por este Código, e
 
 se, na data de sua entrada em vigor, já houver transcorrido mais da metade do tempo
 estabelecido na lei revogada.
 
-## Art. 2.029.
+## Art. 2.029
 
 Até dois anos após a entrada em vigor deste Código, os prazos
 
@@ -21828,15 +21784,15 @@ o
 o
 de janeiro de 1916.
 
-## Art. 2.030.
+## Art. 2.030
 
-acréscimo de que trata o artigo antecedente, será feito nos casos a que
+O acréscimo de que trata o artigo antecedente, será feito nos casos a que
 
 se refere o § 4
 o
 do art. 1.228.
 
-## Art. 2.031.
+## Art. 2.031
 
 As associações, sociedades e fundações,
 
@@ -21849,28 +21805,28 @@ Parágrafo único. O disposto neste artigo não se aplica
 às organizações religiosas nem aos partidos políticos.
 (Incluído pela Lei nº 10.825, de 22.12.2003)
 
-## Art. 2.032.
+## Art. 2.032
 
 As fundações, instituídas segundo a legislação anterior, inclusive as
 
 de fins diversos dos previstos no parágrafo único do art. 62, subordinam-se, quanto ao
 seu funcionamento, ao disposto neste Código.
 
-## Art. 2.033.
+## Art. 2.033
 
 Salvo o disposto em lei especial, as modificações dos atos constitutivos
 
 das pessoas jurídicas referidas no art. 44, bem como a sua transformação,
 incorporação, cisão ou fusão, regem-se desde logo por este Código.
 
-## Art. 2.034.
+## Art. 2.034
 
 A dissolução e a liquidação das pessoas jurídicas referidas no artigo
 
 antecedente, quando iniciadas antes da vigência deste Código, obedecerão ao disposto
 nas leis anteriores.
 
-## Art. 2.035.
+## Art. 2.035
 
 A validade dos negócios e demais atos jurídicos, constituídos antes da
 
@@ -21882,20 +21838,20 @@ Parágrafo único. Nenhuma convenção prevalecerá se contrariar preceitos de o
 pública, tais como os estabelecidos por este Código para assegurar a função social da
 propriedade e dos contratos.
 
-## Art. 2.036.
+## Art. 2.036
 
 A locação de prédio urbano, que esteja sujeita à lei especial, por esta
 
 continua a ser regida.
 
-## Art. 2.037.
+## Art. 2.037
 
 Salvo disposição em contrário, aplicam-se aos empresários e sociedades
 
 empresárias as disposições de lei não revogadas por este Código, referentes a
 comerciantes, ou a sociedades comerciais, bem como a atividades mercantis.
 
-## Art. 2.038.
+## Art. 2.038
 
 Fica proibida a constituição de enfiteuses e subenfiteuses,
 
@@ -21921,9 +21877,9 @@ o
 A enfiteuse dos terrenos de marinha e acrescidos regula-se por
 lei especial.
 
-## Art. 2.039.
+## Art. 2.039
 
-regime de bens nos casamentos celebrados na vigência do Código Civil
+O regime de bens nos casamentos celebrados na vigência do Código Civil
 
 anterior,
 Lei n
@@ -21932,7 +21888,7 @@ o
 o
 de janeiro de 1916, é o por ele estabelecido.
 
-## Art. 2.040.
+## Art. 2.040
 
 A hipoteca legal dos bens do tutor ou curador, inscrita em conformidade com
 
@@ -21944,7 +21900,7 @@ o
 de janeiro de 1916, poderá ser cancelada, obedecido o
 disposto no parágrafo único do art. 1.745 deste Código.
 
-## Art. 2.041.
+## Art. 2.041
 
 As disposições deste Código relativas à ordem da vocação hereditária
 
@@ -21956,7 +21912,7 @@ o
 o
 de janeiro de 1916).
 
-## Art. 2.042.
+## Art. 2.042
 
 Aplica-se o disposto no caput do art. 1.848, quando aberta a sucessão no
 
@@ -21971,20 +21927,20 @@ de janeiro de 1916; se, no prazo, o testador não aditar o
 testamento para declarar a justa causa de cláusula aposta à legítima, não subsistirá
 a restrição.
 
-## Art. 2.043.
+## Art. 2.043
 
 Até que por outra forma se disciplinem, continuam em vigor as
 
 disposições de natureza processual, administrativa ou penal, constantes de leis cujos
 preceitos de natureza civil hajam sido incorporados a este Código.
 
-## Art. 2.044.
+## Art. 2.044
 
 Este Código entrará em vigor 1 (um) ano após a sua
 
 publicação.
 
-## Art. 2.045.
+## Art. 2.045
 
 Revogam-se a
 
@@ -21998,7 +21954,7 @@ Parte Primeira do Código Comercial, Lei n
 o
 556, de 25 de junho de 1850.
 
-## Art. 2.046.
+## Art. 2.046
 
 Todas as remissões, em diplomas legislativos, aos Códigos referidos no
 

@@ -1,10 +1,16 @@
-"""Regression: article-range coverage per vendored federal code (Fase B P1).
+"""Integration: article-range coverage per vendored federal code (Fase B P1).
 
 A thousands-separator bug ("Art. 1.000" parsed as article "1") silently dropped
 the entire CC Família/Sucessões range (arts. 1.000–2.046) and truncated the CPC.
 The chunk *count* masked it (truncated articles became `-occ-K` duplicates of
 art. 1). These tests read the real vendored HTML (offline, no network) and pin
 landmark high-numbered articles so the hole cannot reopen unnoticed.
+
+Lives under ``tests/integration`` (not ``tests/unit``): it loads the full
+multi-MB vendored Planalto HTML of all 7 codes, too large for the "small,
+reproducible seed" rule binding unit tests (§8). Still offline (vendored bytes,
+no network) and collected by ``make test`` / CI because ``pyproject.toml`` sets
+``testpaths = ["tests"]``.
 """
 
 from __future__ import annotations
@@ -40,8 +46,10 @@ def _articles_for(short_name: str) -> set[str]:
 
 # (short_name, landmark articles that MUST be present in the vendored source)
 _LANDMARKS = [
-    ("cc", ["1.000", "1.511", "1.711", "1.784", "2.046"]),  # Família + Sucessões
-    ("cpc", ["1.000", "1.072"]),  # CPC tail
+    # The `article` field is the dotless match token (no thousands separator),
+    # so the ranking/filter path matches high CC/CPC articles.
+    ("cc", ["1000", "1511", "1711", "1784", "2046"]),  # Família + Sucessões
+    ("cpc", ["1000", "1072"]),  # CPC tail
     ("cp", ["359", "361"]),
     ("cpp", ["800", "811"]),
     ("clt", ["900", "922"]),

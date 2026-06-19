@@ -273,7 +273,7 @@ adquiridos por seus empregados.
 
 ## Art. 10-A
 
-. O sócio retirante responde
+O sócio retirante responde
 
 subsidiariamente pelas obrigações trabalhistas da sociedade relativas ao período
 em que figurou como sócio, somente em ações ajuizadas até dois anos depois de
@@ -305,7 +305,7 @@ contrato.
 nº 13.467, de 2017)
 (Vigência)
 
-## Art. 11.
+## Art. 11
 
 A pretensão quanto a créditos resultantes
 
@@ -349,7 +349,7 @@ nº 13.467, de 2017)
 
 ## Art. 11-A
 
-. Ocorre a prescrição intercorrente no
+Ocorre a prescrição intercorrente no
 
 processo do trabalho no prazo de dois anos.
 (Incluído pela Lei
@@ -414,7 +414,7 @@ aos modelos que o Ministério da Economia adotar.
 
 ### SEÇÃO II
 
-## Art. 14.
+## Art. 14
 
 A CTPS será emitida pelo Ministério da Economia
 
@@ -442,16 +442,16 @@ administração, garantidas as condições de segurança das informações.
 (Incluído pela Lei nº
 13.874, de 2019)
 
-## Art. 15.
+## Art. 15
 
-s procedimentos para emissão da CTPS ao interessado
+Os procedimentos para emissão da CTPS ao interessado
 
 serão estabelecidos pelo Ministério da Economia em regulamento
 próprio, privilegiada a emissão em formato eletrônico.
 (Redação dada pela Lei nº 13.874, de
 2019)
 
-## Art. 16.
+## Art. 16
 
 A CTPS terá como identificação única do empregado o
 
@@ -541,11 +541,11 @@ pela Lei nº 13.874, de 2019)
 (Revogado
 pela Lei nº 13.874, de 2019)
 
-## Art. 27.
+## Art. 27
 
 (Revogado pela Lei nº 7.855, de 24.10.1989)
 
-## Art. 28.
+## Art. 28
 
 (Revogado
 pela Lei nº 7.855, de 24.10.1989)
@@ -555,9 +555,9 @@ pela Lei nº 7.855, de 24.10.1989)
 Anotações na
 Carteira de Trabalho e Previdência Social
 
-## Art. 29.
+## Art. 29
 
-empregador terá o prazo de 5 (cinco) dias úteis para
+O empregador terá o prazo de 5 (cinco) dias úteis para
 
 anotar na CTPS, em relação aos trabalhadores que admitir, a data de
 admissão, a remuneração e as condições especiais, se houver,
@@ -622,7 +622,7 @@ prazo de até 48 (quarenta e oito) horas a partir de sua anotação.
 
 ## Art. 29-A
 
-. O empregador que infringir o disposto no caput e no § 1º do
+O empregador que infringir o disposto no caput e no § 1º do
 
 art. 29 desta Consolidação ficará sujeito a multa no valor de R$ 3.000,00
 (três mil reais) por empregado prejudicado, acrescido de igual valor em cada
@@ -647,7 +647,7 @@ Produção de efeitos
 
 ## Art. 29-B
 
-. Na hipótese de não serem realizadas as anotações a que se refere o § 2º do
+Na hipótese de não serem realizadas as anotações a que se refere o § 2º do
 
 art. 29 desta Consolidação, o empregador ficará sujeito a multa no valor de R$
 600,00 (seiscentos reais) por empregado prejudicado.
@@ -758,7 +758,7 @@ pelo Decreto-lei nº 229, de 28.2.1967)
 
 ### SEÇÃO VI
 
-## Art. 40.
+## Art. 40
 
 A CTPS regularmente emitida e anotada servirá de prova:
 
@@ -820,9 +820,9 @@ pela Lei nº 7.855, de 24.10.1989)
 
 - (Revogado pelo Decreto-Lei nº 229, de 28.2.1967)
 
-## Art. 47.
+## Art. 47
 
-empregador que mantiver empregado não
+O empregador que mantiver empregado não
 
 registrado nos termos do art. 41 desta Consolidação ficará sujeito a multa no
 valor de R$ 3.000,00 (três mil reais) por empregado não registrado, acrescido de
@@ -847,7 +847,7 @@ nº 13.467, de 2017)
 
 ## Art. 47-A
 
-. Na hipótese
+Na hipótese
 
 de não serem informados os dados a que se refere o parágrafo único do
 art. 41 desta Consolidação, o empregador ficará sujeito à multa de R$
@@ -986,7 +986,7 @@ nº 13.467, de 2017)
 
 ## Art. 58-A
 
-. Considera-se trabalho em regime de tempo
+Considera-se trabalho em regime de tempo
 
 parcial aquele cuja duração não exceda a trinta horas semanais, sem a
 possibilidade de horas suplementares semanais, ou, ainda, aquele cuja duração
@@ -1045,7 +1045,7 @@ As férias do regime de tempo parcial são regidas pelo disposto no art.
 nº 13.467, de 2017)
 (Vigência)
 
-## Art. 59.
+## Art. 59
 
 A duração diária do trabalho poderá ser
 
@@ -1098,7 +1098,7 @@ nº 13.467, de 2017)
 
 ## Art. 59-A
 
-. Em exceção ao disposto no art. 59 desta
+Em exceção ao disposto no art. 59 desta
 
 Consolidação, é facultado às partes, mediante acordo individual escrito,
 convenção coletiva ou acordo coletivo de trabalho, estabelecer horário de
@@ -1119,7 +1119,7 @@ nº 13.467, de 2017)
 
 ## Art. 59-B
 
-. O não atendimento das exigências legais
+O não atendimento das exigências legais
 
 para compensação de jornada, inclusive quando estabelecida mediante acordo
 tácito, não implica a repetição do pagamento das horas excedentes à jornada
@@ -1344,7 +1344,7 @@ um repouso de 10 (dez) minutos não deduzidos da duração normal de trabalho.
 
 ### SEÇÃO IV
 
-## Art. 73.
+## Art. 73
 
 Salvo nos casos de revezamento semanal ou
 
@@ -1388,9 +1388,9 @@ de 1946)
 
 ### SEÇÃO V
 
-## Art. 74.
+## Art. 74
 
-horário de trabalho será anotado em registro de
+O horário de trabalho será anotado em registro de
 
 empregados.
 (Redação dada pela Lei nº 13.874, de
@@ -1441,7 +1441,7 @@ Comercio.
 
 ## Art. 75-A
 
-. A prestação de serviços pelo empregado
+A prestação de serviços pelo empregado
 
 em regime de teletrabalho observará o disposto neste Capítulo.
 (Incluído pela Lei nº
@@ -1450,7 +1450,7 @@ em regime de teletrabalho observará o disposto neste Capítulo.
 
 ## Art. 75-B
 
-. Considera-se teletrabalho ou trabalho remoto a prestação
+Considera-se teletrabalho ou trabalho remoto a prestação
 
 de serviços fora das dependências do empregador, de maneira
 preponderante ou não, com a utilização de tecnologias de informação
@@ -1524,7 +1524,7 @@ Lei nº 14.442, de 2022)
 
 ## Art. 75-C
 
-. A prestação de serviços na modalidade de teletrabalho
+A prestação de serviços na modalidade de teletrabalho
 
 deverá constar expressamente do instrumento de contrato individual
 de trabalho.
@@ -1556,7 +1556,7 @@ Lei nº 14.442, de 2022)
 
 ## Art. 75-D
 
-. As disposições relativas à
+As disposições relativas à
 
 responsabilidade pela aquisição, manutenção ou fornecimento dos equipamentos
 tecnológicos e da infraestrutura necessária e adequada à prestação do trabalho
@@ -1574,7 +1574,7 @@ caput deste artigo não integram a remuneração do empregado.
 
 ## Art. 75-E
 
-. O empregador deverá instruir os
+O empregador deverá instruir os
 
 empregados, de maneira expressa e ostensiva, quanto às precauções a tomar a fim
 de evitar doenças e acidentes de trabalho.
@@ -1591,7 +1591,7 @@ fornecidas pelo empregador.
 
 ## Art. 75-F
 
-. Os empregadores deverão dar prioridade aos empregados
+Os empregadores deverão dar prioridade aos empregados
 
 com deficiência e aos empregados com filhos ou criança sob guarda
 judicial até 4 (quatro) anos de idade na alocação em vagas para
@@ -1640,7 +1640,7 @@ compensação. (Incluído pelo Decreto-lei nº 229, de
 (Revogado pela
 Lei nº 4.589, de 11.12.1964)
 
-## Art. 80.
+## Art. 80
 
 (Revogado
 
@@ -1969,8 +1969,6 @@ serviço. (Incluído pelo Decreto-lei nº 1.535, de 13.4.1977)
 
 ## Art. 130-A
 
-.
-
 (Revogado pela Lei
 nº 13.467, de 2017)
 
@@ -2247,9 +2245,9 @@ abono. (Incluído pelo Decreto-lei nº 1.535, de 13.4.1977
 (Revogado pela Lei
 nº 13.467, de 2017)
 
-## Art. 144.
+## Art. 144
 
-abono de
+O abono de
 
 férias de que trata o artigo anterior, bem como o concedido em virtude de cláusula do
 contrato de trabalho, do regulamento da empresa, de convenção ou acordo coletivo, desde
@@ -2581,7 +2579,7 @@ trabalho;
   d) as demais características e atribuições dos serviços especializados em segurança e
 em medicina do trabalho, nas empresas. (Incluído pela Lei nº 6.514, de 22.12.1977)
 
-## Art. 163.
+## Art. 163
 
 Será obrigatória a constituição de Comissão Interna de Prevenção
 
@@ -2756,7 +2754,7 @@ com as instruções expedidas pelo Ministério do Trabalho. (Redação dada pela
 
 ## Art. 169-A
 
-. É obrigação das
+É obrigação das
 
 empresas disponibilizar a seus empregados informações sobre campanhas oficiais
 de vacinação, sobre o papilomavírus humano (HPV) e sobre os cânceres de mama, de
@@ -3061,7 +3059,7 @@ do salário-mínimo da região, segundo se classifiquem nos graus máximo, médi
 mínimo. (Redação dada pela Lei nº 6.514, de
 22.12.1977)
 
-## Art. 193.
+## Art. 193
 
 São consideradas atividades ou operações
 
@@ -3286,13 +3284,13 @@ emprego de artifício ou simulação com o objetivo de fraudar a lei, a multa se
 aplicada em seu valor máximo. (Incluído
 pela Lei nº 6.514, de 22.12.1977)
 
-## Art. 202.
+## Art. 202
 
 (Revogado
 
 pela Lei nº 6.514, de 22.12.1977)
 
-## Art. 203.
+## Art. 203
 
 (Revogado pela Lei nº 6.514, de 22.12.1977)
 
@@ -3301,53 +3299,53 @@ pela Lei nº 6.514, de 22.12.1977)
 - (Revogado pela Lei nº 6.514, de
 22.12.1977)
 
-## Art. 205.
+## Art. 205
 
 (Revogado pela Lei nº 6.514, de
 
 22.12.1977)
 
-## Art. 206.
+## Art. 206
 
 (Revogado pela Lei nº 6.514, de
 
 22.12.1977)
 
-## Art. 207.
+## Art. 207
 
 (Revogado pela Lei nº 6.514, de 22.12.1977)
 
-## Art. 208.
+## Art. 208
 
 (Revogado pela Lei nº 6.514, de 22.12.1977)
 
-## Art. 209.
+## Art. 209
 
 (Revogado pela Lei nº 6.514, de
 
 22.12.1977)
 
-## Art. 210.
+## Art. 210
 
 (Revogado pela Lei nº 6.514, de 22.12.1977)
 
-## Art. 211.
+## Art. 211
 
 (Revogado pela Lei nº 6.514, de 22.12.1977)
 
-## Art. 212.
+## Art. 212
 
 (Revogado
 
 pela Lei nº 6.514, de 22.12.1977)
 
-## Art. 213.
+## Art. 213
 
 (Revogado pela Lei nº
 
 6.514, de 22.12.1977)
 
-## Art. 214.
+## Art. 214
 
 (Revogado pela Lei nº 6.514, de 22.12.1977)
 
@@ -3357,39 +3355,39 @@ pela Lei nº 6.514, de 22.12.1977)
 
 pela Lei nº 6.514, de 22.12.1977)
 
-## Art. 216.
+## Art. 216
 
 (Revogado pela Lei nº 6.514, de 22.12.1977)
 
-## Art. 217.
+## Art. 217
 
 (Revogado pela Lei nº 6.514, de 22.12.1977)
 
-## Art. 218.
+## Art. 218
 
 (Revogado pela Lei nº 6.514, de
 
 22.12.1977)
 
-## Art. 219.
+## Art. 219
 
 (Revogado pela Lei
 
 nº 6.514, de 22.12.1977)
 
-## Art. 220.
+## Art. 220
 
 (Revogado pela Lei nº
 
 6.514, de 22.12.1977)
 
-## Art. 221.
+## Art. 221
 
 (Revogado pela Lei nº 6.514, de
 
 22.12.1977)
 
-## Art. 222.
+## Art. 222
 
 (Revogado pela Lei nº 6.514, de 22.12.1977)
 
@@ -3404,7 +3402,7 @@ pela Lei nº 6.514, de 22.12.1977)
 
 ## Art. 223-A
 
-. Aplicam-se à reparação de danos de
+Aplicam-se à reparação de danos de
 
 natureza extrapatrimonial decorrentes da relação de trabalho apenas os
 dispositivos deste Título. (Incluído pela Lei nº 13.467, de 2017)
@@ -3414,7 +3412,7 @@ dispositivos deste Título. (Incluído pela Lei nº 13.467, de 2017)
 
 ## Art. 223-B
 
-. Causa dano de natureza extrapatrimonial
+Causa dano de natureza extrapatrimonial
 
 a ação ou omissão que ofenda a esfera moral ou existencial da pessoa física ou
 jurídica, as quais são as titulares exclusivas do direito à reparação. (Incluído pela Lei nº
@@ -3425,7 +3423,7 @@ jurídica, as quais são as titulares exclusivas do direito à reparação. (Inc
 
 ## Art. 223-C
 
-. A honra, a imagem, a intimidade, a
+A honra, a imagem, a intimidade, a
 
 liberdade de ação, a autoestima, a sexualidade, a saúde, o lazer e a integridade
 física são os bens juridicamente tutelados inerentes à pessoa física. (Incluído pela Lei nº
@@ -3433,7 +3431,7 @@ física são os bens juridicamente tutelados inerentes à pessoa física. (Inclu
 
 ## Art. 223-D
 
-. A imagem, a marca, o nome, o segredo
+A imagem, a marca, o nome, o segredo
 
 empresarial e o sigilo da correspondência são bens juridicamente tutelados
 inerentes à pessoa jurídica. (Incluído pela Lei nº
@@ -3441,14 +3439,14 @@ inerentes à pessoa jurídica. (Incluído pela Lei nº
 
 ## Art. 223-E
 
-. São responsáveis pelo dano extrapatrimonial todos os que tenham colaborado para a ofensa ao bem jurídico
+São responsáveis pelo dano extrapatrimonial todos os que tenham colaborado para a ofensa ao bem jurídico
 
 tutelado, na proporção da ação ou da omissão. (Incluído pela Lei nº
 13.467, de 2017)
 
 ## Art. 223-F
 
-. A reparação por danos extrapatrimoniais
+A reparação por danos extrapatrimoniais
 
 pode ser pedida cumulativamente com a indenização por danos materiais
 decorrentes do mesmo ato lesivo. (Incluído
@@ -3467,7 +3465,7 @@ interfere na avaliação dos danos extrapatrimoniais. (Incluído pela Lei nº
 
 ## Art. 223-G
 
-. Ao apreciar o pedido, o juízo
+Ao apreciar o pedido, o juízo
 
 considerará: (Incluído
 pela Lei nº 13.467, de 2017)
@@ -3760,7 +3758,7 @@ exceder de 10 (dez) horas.
 
 ## Art. 235-A
 
-. Os
+Os
 
 preceitos especiais desta Seção aplicam-se ao motorista profissional
 empregado:
@@ -3781,7 +3779,7 @@ Lei nº 13.103, de 2015)
 
 ## Art. 235-B
 
-. São
+São
 
 deveres do motorista profissional empregado:
 (Redação dada pela
@@ -3857,7 +3855,7 @@ Lei nº 13.103, de 2015)
 
 ## Art. 235-C
 
-. A
+A
 
 jornada diária de trabalho do motorista profissional será de 8 (oito) horas,
 admitindo-se a sua prorrogação por até 2 (duas) horas extraordinárias ou,
@@ -4028,7 +4026,7 @@ nº 13.154, de 2015)
 
 ## Art. 235-D
 
-. Nas viagens de longa distância
+Nas viagens de longa distância
 
 com duração superior a 7 (sete) dias, o repouso semanal será de 24
 (vinte e quatro) horas por semana ou fração trabalhada, sem prejuízo do
@@ -4139,7 +4137,7 @@ nº 13.103, de 2015)
 
 ## Art. 235-E
 
-. Para
+Para
 
 o transporte de passageiros, serão observados os seguintes dispositivos:
 (Redação dada pela
@@ -4260,8 +4258,6 @@ Lei nº 13.103, de 2015)
 
 ## Art. 235-F
 
-.
-
 Convenção e acordo coletivo poderão prever jornada especial de 12
 (doze) horas de trabalho por 36 (trinta e seis) horas de descanso para o
 trabalho do motorista profissional empregado em regime de
@@ -4272,7 +4268,7 @@ Lei nº 13.103, de 2015)
 
 ## Art. 235-G
 
-. É
+É
 
 permitida a remuneração do motorista em função da distância percorrida, do
 tempo de viagem ou da natureza e quantidade de produtos transportados,
@@ -4285,8 +4281,6 @@ Lei nº 13.103, de 2015)
 (Vigência)
 
 ## Art. 235-H
-
-.
 
 (Revogado).
 (Redação dada pela
@@ -4329,7 +4323,7 @@ serviço é de natureza intermitente ou de pouca intensidade, embora com perman�
 prolongada nos locais de trabalho; vigias e pessoal das estações do interior, inclusive
 os respectivos telegrafistas.
 
-## Art. 238.
+## Art. 238
 
 Será computado como de
 
@@ -4444,7 +4438,7 @@ intermitente ou de pouca intensidade, não se aplicam os preceitos gerais sobre 
 do trabalho, sendo-lhes, entretanto, assegurado o repouso contínuo de dez horas, no
 mínimo, entre dois períodos de trabalho e descanso semanal.
 
-## Art. 244.
+## Art. 244
 
 As estradas de ferro
 
@@ -5051,7 +5045,7 @@ apreciará o valor da prova oferecida.
 implica no reconhecimento de direitos que decorrem do exercício remunerado e profissional
 do jornalismo.
 
-## Art. 314.
+## Art. 314
 
 (Revogado pelo Decreto-Lei nº 972, de 17.10.1969)
 
@@ -5087,9 +5081,9 @@ particulares de ensino, exigirá apenas habilitação legal e registro no Minist
 Educação. (Redação dada pela Lei nº 7.855,
 de 24.10.1989)
 
-## Art. 318.
+## Art. 318
 
-professor
+O professor
 
 poderá lecionar em um mesmo estabelecimento por mais de um turno, desde que não
 ultrapasse a jornada de trabalho semanal estabelecida legalmente, assegurado e
@@ -5162,7 +5156,7 @@ Parágrafo único - Compete ao Ministério da Educação e Saúde fixar os crit�
 a determinação da condigna remuneração devida aos professores bem como assegurar a
 execução do preceito estabelecido no presente artigo.
 
-## Art. 324.
+## Art. 324
 
 (Revogado pela Lei nº 7.855, de 24.10.1989)
 
@@ -5344,7 +5338,7 @@ destaque, conter a menção do título de nomeação ou admissão e respectiva d
 funcionário público, ou do atestado relativo ao exercício, na qualidade de químico, de
 um cargo em empresa particular, com designação desta e da data inicial do exercício.
 
-## Art. 330.
+## Art. 330
 
 A carteira profissional, expedida nos têrmos deste
 
@@ -5950,8 +5944,6 @@ exceto nos casos para os quais for fixada duração inferior.
 
 ## Art. 373-A
 
-.
-
 Ressalvadas as disposições legais destinadas a corrigir as distorções que afetam o
 acesso da mulher ao mercado de trabalho e certas especificidades estabelecidas nos acordos
 trabalhistas, é vedado: (Incluído pela Lei nº 9.799,
@@ -5991,12 +5983,12 @@ que visem ao estabelecimento das políticas de igualdade entre homens e mulheres
 particular as que se destinam a corrigir as distorções que afetam a formação
 profissional, o acesso ao emprego e as condições gerais de trabalho da mulher. (Incluído pela Lei nº 9.799, de 26.5.1999)
 
-## Art. 374.
+## Art. 374
 
 (Revogado pela Lei nº 7.855, de
 24.10.1989)
 
-## Art. 375.
+## Art. 375
 
 (Revogado pela Lei nº 7.855, de
 
@@ -6014,7 +6006,7 @@ nº 10.244, de 2001)
 
 ordem pública, não justificando, em hipótese alguma, a redução de salário.
 
-## Art. 378.
+## Art. 378
 
 (Revogado pela Lei nº 7.855, de
 
@@ -6155,13 +6147,13 @@ quaisquer aparelhos mecânicos.
 
 ## Art. 390-A
 
-. (VETADO). (Incluído pela Lei nº 9.799,
+(VETADO). (Incluído pela Lei nº 9.799,
 
 de 1999)
 
 ## Art. 390-B
 
-. As vagas dos cursos de formação de mão-de-obra,
+As vagas dos cursos de formação de mão-de-obra,
 
 ministrados por instituições governamentais, pelos próprios empregadores ou por
 qualquer órgão de ensino profissionalizante, serão oferecidas aos empregados de ambos
@@ -6170,7 +6162,7 @@ de 1999)
 
 ## Art. 390-C
 
-. As empresas com
+As empresas com
 
 mais de cem empregados, de ambos os sexos, deverão manter programas especiais de
 incentivos e aperfeiçoamento profissional da mão-de-obra.
@@ -6179,14 +6171,14 @@ de 1999)
 
 ## Art. 390-D
 
-. (VETADO).
+(VETADO).
 
 (Incluído pela Lei nº 9.799,
 de 1999)
 
 ## Art. 390-E
 
-. A pessoa jurídica
+A pessoa jurídica
 
 poderá associar-se a entidade de formação profissional, sociedades civis, sociedades
 cooperativas, órgãos e entidades públicas ou entidades sindicais, bem como firmar
@@ -6208,7 +6200,7 @@ por motivo de casamento ou de gravidez.
 
 ## Art. 391-A
 
-. A confirmação do estado de gravidez advindo no curso do
+A confirmação do estado de gravidez advindo no curso do
 
 contrato de trabalho, ainda que durante o prazo do aviso prévio trabalhado ou
 indenizado, garante à empregada gestante a estabilidade provisória prevista na
@@ -6223,7 +6215,7 @@ concedida guarda provisória para fins de adoção.
 (Incluído
 pela Lei nº 13.509, de 2017)
 
-## Art. 392.
+## Art. 392
 
 A empregada gestante tem direito à licença-maternidade
 
@@ -6276,7 +6268,7 @@ alta da mãe e do recém-nascido, descontado o tempo de repouso anterior ao part
 
 ## Art. 392-A
 
-. À empregada que adotar ou
+À empregada que adotar ou
 
 obtiver guarda judicial para fins de adoção de criança ou adolescente
 será concedida licença-maternidade nos termos do art. 392 desta Lei.
@@ -6311,7 +6303,7 @@ pela Lei nº 12.873, de 2013)
 
 ## Art. 392-B
 
-. Em caso de
+Em caso de
 
 morte da genitora, é assegurado ao cônjuge ou companheiro empregado o gozo
 de licença por todo o período da licença-maternidade ou pelo tempo restante
@@ -6323,7 +6315,7 @@ de 2013)
 
 ## Art. 392-C
 
-. Aplica-se, no
+Aplica-se, no
 
 que couber, o disposto no art. 392-A e 392-B ao empregado que adotar ou
 obtiver guarda judicial para fins de adoção.
@@ -6349,7 +6341,7 @@ gestação.
 
 ## Art. 394-A
 
-. Sem prejuízo de sua
+Sem prejuízo de sua
 
 remuneração, nesta incluído o valor do adicional de insalubridade, a
 empregada deverá ser afastada de: (Redação
@@ -6404,7 +6396,7 @@ pela Lei nº 13.467, de 2017)
 mulher terá um repouso remunerado de 2 (duas) semanas, ficando-lhe assegurado o direito
 de retornar à função que ocupava antes de seu afastamento.
 
-## Art. 396.
+## Art. 396
 
 Para amamentar seu filho,
 
@@ -6500,7 +6492,7 @@ pela Lei nº 9.799, de 1999)
 
 ### SEÇÃO I
 
-## Art. 402.
+## Art. 402
 
 Considera-se menor para os efeitos desta
 
@@ -6514,7 +6506,7 @@ este sob a direção do pai, mãe ou tutor, observado, entretanto, o disposto no
 arts. 404, 405 e na Seção II. (Redação dada
 pelo Decreto-lei nº 229, de 28.2.1967)
 
-## Art. 403.
+## Art. 403
 
 É proibido qualquer trabalho a menores de
 
@@ -6715,7 +6707,7 @@ artigo anterior, salvo a hipótese do art. 422. (Vide Decreto-lei nº 926, de 10
 (Revogado
 pela Lei nº 13.874, de 2019)
 
-## Art. 418.
+## Art. 418
 
 (Revogado pela
 Lei nº 7.855, de 24.10.1989)
@@ -6734,7 +6726,7 @@ pela Lei nº 13.874, de 2019)
 (Revogado
 pela Lei nº 13.874, de 2019)
 
-## Art. 421.
+## Art. 421
 
 (Revogado
 
@@ -6791,7 +6783,7 @@ de 30 (trinta) menores analfabetos, de 14 (quatorze) a 18 (dezoito) anos, serão
 obrigados a manter local apropriado em que lhes seja ministrada a instrução
 primária.
 
-## Art. 428.
+## Art. 428
 
 Contrato de aprendizagem é o contrato de
 
@@ -6855,9 +6847,9 @@ qualificada em formação técnico-profissional metódica.
 2015)
 (Vigência)
 
-## Art. 429.
+## Art. 429
 
-s estabelecimentos de qualquer natureza são
+Os estabelecimentos de qualquer natureza são
 
 obrigados a empregar e matricular nos cursos dos Serviços Nacionais de
 Aprendizagem número de aprendizes equivalente a cinco por cento, no mínimo, e
@@ -6909,7 +6901,7 @@ reinserção social de usuários e dependentes de drogas.
 (Incluído pela
 Lei nº 13.840, de 2019)
 
-## Art. 430.
+## Art. 430
 
 Na hipótese de os Serviços Nacionais de
 
@@ -6956,7 +6948,7 @@ neste artigo poderão firmar parcerias entre si para o desenvolvimento dos
 programas de aprendizagem, conforme regulamento.
 (Incluído pela Lei nº 13.420, de 2017)
 
-## Art. 431.
+## Art. 431
 
 A contratação do aprendiz poderá ser
 
@@ -6981,7 +6973,7 @@ Parágrafo
 tanto quanto possível, orientação profissional para ingresso em atividade mais
 adequada às qualidades e aptidões que tiverem demonstrado.
 
-## Art. 432.
+## Art. 432
 
 A duração do trabalho do aprendiz não
 
@@ -6996,9 +6988,9 @@ nelas forem computadas as horas destinadas à aprendizagem teórica. (Redação 
 § 2o Revogado. (Redação dada pela
 Lei nº 10.097, de 19.12.2000)
 
-## Art. 433.
+## Art. 433
 
-contrato de aprendizagem extinguir-se-á no
+O contrato de aprendizagem extinguir-se-á no
 
 seu termo ou quando o aprendiz completar 24 (vinte e quatro) anos, ressalvada a
 hipótese prevista no § 5o do art. 428 desta Consolidação, ou
@@ -7057,7 +7049,7 @@ exceder a 5 (cinco) vêzes o salário-mínimo, salvo no caso de reincidência em
 pagamento da emissão de nova via a emprêsa que fizer na Carteira de Trabalho e
 Previdência Social anotação não prevista em lei. (Redação dada pelo Decreto-lei nº 229, de 28.2.1967)
 
-## Art. 436.
+## Art. 436
 
 (Revogado pela Lei 10.097, de 2000)
 
@@ -7137,7 +7129,7 @@ voluntária.
 
 ## Art. 442-A
 
-. Para fins de contratação, o
+Para fins de contratação, o
 
 empregador não exigirá do candidato a emprego comprovação de experiência prévia
 por tempo superior a 6 (seis) meses no mesmo tipo de atividade.
@@ -7146,16 +7138,16 @@ por tempo superior a 6 (seis) meses no mesmo tipo de atividade.
 
 ## Art. 442-B
 
-. A contratação do autônomo, cumpridas
+A contratação do autônomo, cumpridas
 
 por este todas as formalidades legais, com ou sem exclusividade, de forma
 contínua ou não, afasta a qualidade de empregado prevista no art. 3o
 desta Consolidação.
 (Incluído pela Lei nº 13.467, de 2017)
 
-## Art. 443.
+## Art. 443
 
-contrato individual de trabalho poderá
+O contrato individual de trabalho poderá
 
 ser acordado tácita ou expressamente, verbalmente ou por escrito, por prazo
 determinado ou indeterminado, ou para prestação de trabalho intermitente.
@@ -7239,7 +7231,7 @@ da empresa não afetará os contratos de trabalho dos respectivos empregados.
 
 ## Art. 448-A
 
-. Caracterizada a sucessão empresarial ou
+Caracterizada a sucessão empresarial ou
 
 de empregadores prevista nos arts. 10 e 448 desta Consolidação, as obrigações
 trabalhistas, inclusive as contraídas à época em que os empregados trabalhavam
@@ -7293,7 +7285,7 @@ realização de certos acontecimentos.
 
 ## Art. 452-A
 
-. O contrato de trabalho intermitente
+O contrato de trabalho intermitente
 
 deve ser celebrado por escrito e deve conter especificamente o valor da hora de
 trabalho, que não pode ser inferior ao valor horário do salário mínimo ou àquele
@@ -7416,7 +7408,7 @@ Parágrafo único - Ao empreiteiro principal fica ressalvada, nos termos da lei
 civil, ação regressiva contra o subempreiteiro e a retenção de importâncias a
 este devidas, para a garantia das obrigações previstas neste artigo.
 
-## Art. 456.
+## Art. 456
 
 A prova do contrato individual do trabalho
 
@@ -7429,7 +7421,7 @@ compatível com a sua condição pessoal.
 
 ## Art. 456-A
 
-. Cabe ao empregador definir o padrão de
+Cabe ao empregador definir o padrão de
 
 vestimenta no meio ambiente laboral, sendo lícita a inclusão no uniforme de
 logomarcas da própria empresa ou de empresas parceiras e de outros itens de
@@ -7573,7 +7565,7 @@ importância ajustada, o empregado terá direito a perceber salário igual ao da
 na mesma empresa, fizer serviço equivalente ou do que for habitualmente pago para
 serviço semelhante.
 
-## Art. 461.
+## Art. 461
 
 Sendo idêntica a função, a todo trabalho
 
@@ -7679,7 +7671,9 @@ esse fim em nome de cada empregado, com o consentimento deste, em estabeleciment
 crédito próximo ao local de trabalho. (Parágrafo
 incluído pela Lei nº 9.528, de 10.12.1997)
 
-## Art. 465.
+## Art. 465
+
+O
 
 pagamento dos salários será efetuado em dia útil e no local do trabalho, dentro do
 horário do serviço ou imediatamente após o encerramento deste, salvo quando efetuado
@@ -7700,7 +7694,7 @@ liquidação.
 2º - A cessação das relações de trabalho não prejudica a percepção das comissões
 e percentagens devidas na forma estabelecida por este artigo.
 
-## Art. 467.
+## Art. 467
 
 Em caso de rescisão de contrato de trabalho, havendo controvérsia sobre o
 
@@ -7759,7 +7753,7 @@ pela Lei nº 6.203, de 17.4.1975)
 
 ## Art. 469-A
 
-. Os empregados da administração pública têm direito à transferência
+Os empregados da administração pública têm direito à transferência
 
 para acompanhar cônjuge ou companheiro servidor público, militar ou empregado
 público, de qualquer dos Poderes da União, dos Estados, do Distrito Federal e
@@ -7946,7 +7940,7 @@ em licença não remunerada, durante o prazo desse benefício.
 
 ## Art. 476-A
 
-. O
+O
 
 contrato de trabalho poderá ser suspenso, por um período de dois a cinco meses, para
 participação do empregado em curso ou programa de qualificação profissional oferecido
@@ -8002,7 +7996,7 @@ período.
 
 # CAPÍTULO V
 
-## Art. 477.
+## Art. 477
 
 Na extinção do contrato de trabalho, o
 
@@ -8088,7 +8082,7 @@ Tempo de Serviço, nas hipóteses legais, desde que a comunicação prevista no 
 
 ## Art. 477-A
 
-. As dispensas imotivadas individuais, plúrimas ou coletivas equiparam-se para todos os fins, não havendo necessidade
+As dispensas imotivadas individuais, plúrimas ou coletivas equiparam-se para todos os fins, não havendo necessidade
 
 de autorização prévia de entidade sindical ou de celebração de convenção
 coletiva ou acordo coletivo de trabalho para sua efetivação.
@@ -8097,7 +8091,7 @@ nº 13.467, de 2017)
 
 ## Art. 477-B
 
-. Plano de Demissão Voluntária ou
+Plano de Demissão Voluntária ou
 
 Incentivada, para dispensa individual, plúrima ou coletiva, previsto em
 convenção coletiva ou acordo coletivo de trabalho, enseja quitação plena e
@@ -8283,7 +8277,7 @@ culpa exclusiva do empregador, por metade.
 
 ## Art. 484-A
 
-. O contrato de trabalho poderá ser
+O contrato de trabalho poderá ser
 
 extinto por acordo entre empregado e empregador, caso em que serão devidas as
 seguintes verbas trabalhistas: (Incluído
@@ -8605,7 +8599,7 @@ Parágrafo único - (Revogado pela Lei nº
 
 ## Art. 507-A
 
-. Nos contratos individuais de trabalho
+Nos contratos individuais de trabalho
 
 cuja remuneração seja superior a duas vezes o limite máximo estabelecido para os
 benefícios do Regime Geral de Previdência Social, poderá ser pactuada cláusula compromissória de arbitragem, desde que por iniciativa do empregado ou mediante
@@ -8616,7 +8610,7 @@ nº 13.467, de 2017)
 
 ## Art. 507-B
 
-. É facultado a empregados e
+É facultado a empregados e
 
 empregadores, na vigência ou não do contrato de emprego, firmar o termo de
 quitação anual de obrigações trabalhistas, perante o sindicato dos empregados da
@@ -8654,7 +8648,7 @@ cominações legais. (Redação dada pela Lei nº
 
 ## Art. 510-A
 
-. Nas empresas com mais de duzentos
+Nas empresas com mais de duzentos
 
 empregados, é assegurada a eleição de uma comissão para representá-los, com a
 finalidade de promover-lhes o entendimento direto com os empregadores. (Incluído
@@ -8685,7 +8679,7 @@ artigo.
 
 ## Art. 510-B
 
-. A comissão de representantes dos
+A comissão de representantes dos
 
 empregados terá as seguintes atribuições:
 (Incluído pela Lei nº
@@ -8734,7 +8728,7 @@ atuação de forma independente.
 
 ## Art. 510-C
 
-. A eleição será convocada, com
+A eleição será convocada, com
 
 antecedência mínima de trinta dias, contados do término do mandato anterior, por
 meio de edital que deverá ser fixado na empresa, com ampla publicidade, para
@@ -8774,7 +8768,7 @@ candidatura, será lavrada ata e convocada nova eleição no prazo de um ano.
 
 ## Art. 510-D
 
-. O mandato dos membros da comissão de
+O mandato dos membros da comissão de
 
 representantes dos empregados será de um ano.
 (Incluído pela Lei nº
@@ -8812,7 +8806,7 @@ e do Ministério do Trabalho.
 
 ### SEÇÃO I
 
-## Art. 511.
+## Art. 511
 
 É lícita a associação para fins de estudo, defesa e coordenação dos seus
 
@@ -8846,7 +8840,7 @@ quais a categoria econômica ou profissional é homogênea e a associação é n
 artigo anterior e registradas de acordo com o art. 558 poderão ser reconhecidas como
 Sindicatos e investidas nas prerrogativas definidas nesta Lei.
 
-## Art. 513.
+## Art. 513
 
 São prerrogativas dos sindicatos :
 
@@ -8874,7 +8868,7 @@ profissionais ou das profissões liberais representadas.
 Parágrafo Único. Os sindicatos de empregados terão, outrossim, a prerrogativa de fundar
 e manter agências de colocação. (Redação restabelecida pelo Decreto-lei nº 8.987-A, de 1946)
 
-## Art. 514.
+## Art. 514
 
 São deveres dos sindicatos :
 
@@ -8905,7 +8899,7 @@ Parágrafo único. Os sindicatos de empregados terão, outrossim, o dever de :
 
 ### SEÇÃO II
 
-## Art. 515.
+## Art. 515
 
 As associações profissionais deverão satisfazer os seguintes requisitos para
 
@@ -8933,9 +8927,9 @@ inferior ao terço a que se refere a alínea a.
 
 econômica ou profissional, ou profissão liberal, em uma dada base territorial.
 
-## Art. 517.
+## Art. 517
 
-s sindicatos poderão ser distritais, municipais, intermunicipais, estaduais e
+Os sindicatos poderão ser distritais, municipais, intermunicipais, estaduais e
 
 interestaduais. Excepcionalmente, e atendendo às peculiaridades de determinadas
 categorias ou profissões, o ministro do Trabalho, Indústria e Comércio poderá
@@ -8948,9 +8942,9 @@ territorial do sindicato.
 instituir delegacias ou secções para melhor proteção dos associados e da categoria
 econômica ou profissional ou profissão liberal representada.
 
-## Art. 518.
+## Art. 518
 
-pedido de reconhecimento será dirigido ao ministro do Trabalho, Indústria e
+O pedido de reconhecimento será dirigido ao ministro do Trabalho, Indústria e
 
 Comércio, instruido com exemplar ou cópia autenticada dos estatutos da associação.
 
@@ -8989,7 +8983,7 @@ apreciação, entre outros:
 
   c) o valor do patrimônio.
 
-## Art. 520.
+## Art. 520
 
 Reconhecida como sindicato a associação profissional, ser-Ihe-á expedida
 
@@ -9032,7 +9026,7 @@ na profissão respectiva.
 
 ### SEÇÃO III
 
-## Art. 522.
+## Art. 522
 
 A administração do sindicato será exercida por uma diretoria constituída no
 
@@ -9156,7 +9150,7 @@ pela Lei nº 11.295, de 2006)
 sindical os preceitos das leis de proteção do trabalho e de previdência social,
 inclusive o direito de associação em sindicato. (Incluído pela Lei nº 11.295, de 2006)
 
-## Art. 527.
+## Art. 527
 
 Na sede de cada sindicato haverá um livro de registro, autenticado pelo
 
@@ -9235,7 +9229,7 @@ VIII -
 
 Parágrafo único. (Revogado pela Lei nº 2.693, de 23.12.1955)
 
-## Art. 531.
+## Art. 531
 
 Nas eleições para cargos de diretoria e do conselho
 
@@ -9365,9 +9359,9 @@ atividades ou profissões.
 
 pelo Decreto-Lei nº 229, de 28.2.1967)
 
-## Art. 537.
+## Art. 537
 
-pedido de reconhecimento de uma federação será dirigido ao ministro do
+O pedido de reconhecimento de uma federação será dirigido ao ministro do
 
 Trabalho, Indústria e Comércio, acompanhado de um exemplar dos respectivos estatutos e
 das cópias autenticadas das atas da assembléia de cada sindicato ou federação que
@@ -9436,7 +9430,7 @@ que for aplicável, as disposições das Seções II e III do presente Capítulo
 
 ### SEÇÃO VI
 
-## Art. 540.
+## Art. 540
 
 A tôda emprêsa, ou indivíduo que exerçam respectivamente atividade ou
 
@@ -9467,7 +9461,7 @@ Parágrafo único - O disposto neste artigo se aplica aos Sindicatos em relaçã
 respectivas federações, na conformidade do Quadro de Atividades e Profissões a que se
 refere o art. 577.
 
-## Art. 542.
+## Art. 542
 
 De todo o ato lesivo de direitos ou contrário a esta lei, emanado da Diretoria,
 
@@ -9559,9 +9553,9 @@ IX - na concessão de bolsas de estudo
 para si ou para seus filhos, obedecida a legislação que regule a matéria. (Incluído pelo Decreto-lei nº 229,
 de 28.2.1967)
 
-## Art. 545.
+## Art. 545
 
-s empregadores ficam obrigados a
+Os empregadores ficam obrigados a
 
 descontar da folha de pagamento dos seus empregados, desde que por eles
 devidamente autorizados, as contribuições devidas ao sindicato, quando por este
@@ -9665,9 +9659,9 @@ pagamento total ou parcelado dos bens imóveis adquiridos serão consignados,
 obrigatoriamente, nos orçamentos anuais das entidades sindicais.
 (Incluído pela Lei nº 6.386, de 9.12.1976)
 
-## Art. 550.
+## Art. 550
 
-s orçamentos das entidades sindicais serão aprovados,
+Os orçamentos das entidades sindicais serão aprovados,
 
 em escrutínio secreto, pelas respectivas Assembléias Gerais ou Conselho de
 Representantes, até 30 (trinta) dias antes do início do exercício financeiro a que se
@@ -9729,7 +9723,7 @@ créditos adicionais abertos no exercício. (Incluída pela Lei nº 6.386, de 9.
 coincidirá com o ano civil, a ele pertencendo todas as receitas arrecadadas e as despesas
 compromissadas. (Incluída pela Lei nº 6.386, de 9.12.1976)
 
-## Art. 551.
+## Art. 551
 
 Todas as operações de ordem financeira e patrimonial
 
@@ -9827,7 +9821,7 @@ determinar o afastamento preventivo de cargo ou representação sindicais de seu
 exercentes, com fundamento em elementos constantes de denúncia formalizada que constituam
 indício veemente ou início de prova bastante do fato e da autoria denunciados. (Incluído pelo Decreto-lei nº 925, de 10.10.1969)
 
-## Art. 554.
+## Art. 554
 
 Destituida a administração na hipótese da alínea c do artigo anterior, o
 
@@ -9835,7 +9829,7 @@ ministro do Trabalho, Indústria e Comércio nomeará um delegado para dirigir a
 associação e proceder, dentro do prazo de 90 dias, em assembléia geral por ele
 convocada e presidida; à eleição dos novos diretores e membros do Conselho Fiscal.
 
-## Art. 555.
+## Art. 555
 
 A pena de cassação da carta de reconhecimento será imposta à entidade
 
@@ -9851,7 +9845,7 @@ Decreto nº 229, de 1967)
 
   c) que criar obstáculos à execução da política econômica adotada pelo Governo. (Redação dada pelo Decreto-lei nº 8.080, 11.10.1945)
 
-## Art. 556.
+## Art. 556
 
 A cassação da carta de reconhecimento da entidade sindical não importará no
 
@@ -9980,7 +9974,7 @@ economia mista, da Caixa Econômica Federal e das fundações criadas ou mantida
 Poder Público da União, dos Estados e Municípios. (Redação
 dada pela Lei nº 7.449, de 20.12.1985)
 
-## Art. 567.
+## Art. 567
 
 (Revogado pelo
 
@@ -10000,9 +9994,9 @@ Decreto-Lei nº 229, de 28.2.1967)
 
 # CAPÍTULO II
 
-## Art. 570.
+## Art. 570
 
-s sindicatos constituir-se-ão, normalmente, por categorias econômicas ou
+Os sindicatos constituir-se-ão, normalmente, por categorias econômicas ou
 
 profissionais, específicas, na conformidade da discriminação do quadro das atividades e
 profissões a que se refere o art. 577 ou segundo as subdivisões que, sob proposta da
@@ -10017,7 +10011,7 @@ permitido sindicalizar-se pelo critério de categorias similares ou conexas, ent
 como tais as que se acham compreendidas nos limites de cada grupo constante do Quadro de
 Atividades e Profissões.
 
-## Art. 571.
+## Art. 571
 
 Qualquer das atividades ou profissões concentradas na forma do parágrafo único
 
@@ -10025,9 +10019,9 @@ do artigo anterior poderá dissociar-se do sindicato principal, formando um sind
 específico, desde que o novo sindicato, a juizo da Comissão do Enquadramento Sindical,
 ofereça possibilidade de vida associativa regular e de ação sindical eficiente.
 
-## Art. 572.
+## Art. 572
 
-s sindicatos que se constituirem por categorias similares ou conexas, nos termos
+Os sindicatos que se constituirem por categorias similares ou conexas, nos termos
 
 do parágrafo único do art. 570, adotarão denominação em que fiquem, tanto como
 possivel, explicitamente mencionadas as atividades ou profissões concentradas, de
@@ -10062,9 +10056,9 @@ Parágrafo único. Compete à Comissão de Enquadramento Sindical definir, de mo
 genérico, com a aprovação do ministro do Trabalho, Indústria e Comércio, a dimensão
 e os demais característicos das empresas industriais de tipo artesanal.
 
-## Art. 575.
+## Art. 575
 
-quadro de atividades e profissões será revisto de dois em dois anos, por
+O quadro de atividades e profissões será revisto de dois em dois anos, por
 
 proposta da Comissão do Enquadramento Sindical, para o fim de ajustá-lo às condições
 da estrutura econômica e profissional do país.
@@ -10149,7 +10143,7 @@ plano básico do enquadramento sindical.
 
 ### SEÇÃO I
 
-## Art. 578.
+## Art. 578
 
 As contribuições devidas aos sindicatos
 
@@ -10160,9 +10154,9 @@ Capítulo, desde que prévia e expressamente autorizadas.
 (Redação dada pela Lei nº
 13.467, de 2017)
 
-## Art. 579.
+## Art. 579
 
-desconto da
+O desconto da
 
 contribuição sindical está condicionado à autorização prévia e expressa dos que
 participarem de uma determinada categoria econômica ou profissional, ou de uma
@@ -10172,7 +10166,7 @@ Consolidação.
 (Redação dada pela Lei nº
 13.467, de 2017)
 
-## Art. 580.
+## Art. 580
 
 A contribuição sindical será recolhida, de uma só vez,
 
@@ -10239,7 +10233,7 @@ através de requerimento dirigido ao Ministério do Trabalho, que não exercem a
 econômica com fins lucrativos.
 (Incluído pela Lei nº 6.386, de 9.12.1976)
 
-## Art. 581.
+## Art. 581
 
 Para os fins do item III do artigo anterior, as empresas atribuirão
 
@@ -10265,9 +10259,9 @@ Entende-se por atividade preponderante a que caracterizar a unidade de produto, 
 ou objetivo final, para cuja obtenção todas as demais atividades convirjam,
 exclusivamente em regime de conexão funcional. (Redação dada pela Lei nº 6.386, de 9.12.1976)
 
-## Art. 582.
+## Art. 582
 
-s empregadores são obrigados a
+Os empregadores são obrigados a
 
 descontar da folha de pagamento de seus empregados relativa ao mês de março de
 cada ano a contribuição sindical dos empregados que autorizaram prévia e
@@ -10293,9 +10287,9 @@ receba, habitualmente, gorjetas, a contribuição sindical corresponderá a 1/30
 para a contribuição do empregado à Previdência Social.
 (Redação dada pela Lei nº 6.386, de 9.12.1976)
 
-## Art. 583.
+## Art. 583
 
-recolhimento da contribuição sindical
+O recolhimento da contribuição sindical
 
 referente aos empregados e trabalhadores avulsos será efetuado no mês de abril
 de cada ano, e o relativo aos agentes ou trabalhadores autônomos e profissionais
@@ -10314,7 +10308,7 @@ superior, e, se for o caso, ao Ministério do Trabalho.
 (Incluído
 pela Lei nº 6.386, de 9.12.1976)
 
-## Art. 584.
+## Art. 584
 
 Servirá de base para o pagamento da contribuição
 
@@ -10325,9 +10319,9 @@ federações ou confederações coordenadoras da categoria.
 (Vide Lei nº 11.648, de
 2008)
 
-## Art. 585.
+## Art. 585
 
-s profissionais liberais
+Os profissionais liberais
 
 poderão optar pelo pagamento da contribuição sindical unicamente à entidade sindical
 representativa da respectiva profissão, desde que a exerça, efetivamente, na firma ou
@@ -10342,7 +10336,7 @@ de profissionais liberais, o empregador deixará de efetuar, no salário do cont
 o desconto a que se refere o Art. 582.
 (Redação dada pela Lei nº 6.386, de 9.12.1976)
 
-## Art. 586.
+## Art. 586
 
 A contribuição sindical será recolhida, nos meses
 
@@ -10367,16 +10361,16 @@ arrecadador.
 recolhida pelo empregador e pelo sindicato, respectivamente.
 (Redação dada pela Lei nº 6.386, de 9.12.1976)
 
-## Art. 587.
+## Art. 587
 
-s empregadores que optarem pelo recolhimento
+Os empregadores que optarem pelo recolhimento
 
 da contribuição sindical deverão fazê-lo no mês de janeiro de cada ano, ou, para
 os que venham a se estabelecer após o referido mês, na ocasião em que requererem
 às repartições o registro ou a licença para o exercício da respectiva atividade.
 (Redação dada pela Lei nº 13.467, de 2017)
 
-## Art. 588.
+## Art. 588
 
 A Caixa Econômica Federal manterá conta corrente
 
@@ -10397,7 +10391,7 @@ A Caixa Econômica Federal remeterá, mensalmente, a cada entidade sindical, um 
 respectiva conta corrente, e, quando solicitado, aos órgãos do Ministério do Trabalho.
 (Redação dada pela Lei nº 6.386, de 9.12.1976)
 
-## Art. 589.
+## Art. 589
 
 Da importância da arrecadação da contribuição
 
@@ -10460,7 +10454,7 @@ representatividade previstos na legislação específica sobre a matéria.
 (Redação dada pela
 Lei nº 11.648, de 2008)
 
-## Art. 590.
+## Art. 590
 
 Inexistindo confederação, o percentual
 
@@ -10487,7 +10481,7 @@ caberiam serão destinados à Conta Especial Emprego e Salário
 (Incluído pela Lei nº
 11.648, de 2008)
 
-## Art. 591.
+## Art. 591
 
 Inexistindo sindicato, os percentuais
 
@@ -10760,7 +10754,7 @@ autorização expressa do Ministro do Trabalho.
 (Incluída
 pela Lei nº 6.386, de 9.12.1976)
 
-## Art. 593.
+## Art. 593
 
 As percentagens atribuídas às entidades
 
@@ -10797,12 +10791,12 @@ Decreto-lei nº 9.615, de 20.8.1946) (Vide Lei nº 4.589, de 1964)
 
 11.12.1964)
 
-## Art. 596.
+## Art. 596
 
 (Revogado pela Lei nº 4.589, de
 11.12.1964)
 
-## Art. 597.
+## Art. 597
 
 (Revogado pela Lei nº 4.589, de
 11.12.1964)
@@ -10870,9 +10864,9 @@ parágrafo precedente reverterá à conta "Emprego e Salário. (Redação dada p
 (Revogado pela Lei nº
 13.467, de 2017)
 
-## Art. 602.
+## Art. 602
 
-s empregados que não estiverem
+Os empregados que não estiverem
 
 trabalhando no mês destinado ao desconto da contribuição sindical e que venham a
 autorizar prévia e expressamente o recolhimento serão descontados no primeiro
@@ -11001,7 +10995,7 @@ dada pelo Decreto-lei nº 229, de 28.2.1967)
 
 ## Art. 611-A
 
-. A convenção coletiva e o acordo
+A convenção coletiva e o acordo
 
 coletivo de trabalho têm prevalência sobre a lei quando, entre outros,
 dispuserem sobre: (Incluído pela Lei
@@ -11104,7 +11098,7 @@ nº 13.467, de 2017)
 
 ## Art. 611-B
 
-. Constituem objeto ilícito de convenção
+Constituem objeto ilícito de convenção
 
 coletiva ou de acordo coletivo de trabalho, exclusivamente, a supressão ou a
 redução dos seguintes direitos: (Incluído
@@ -11412,7 +11406,7 @@ Trabalho com os Sindicatos representativos dos respectivos empregados, nos têrm
 Título. (Redação dada pelo Decreto-lei nº 229, de
 28.2.1967)
 
-## Art. 619.
+## Art. 619
 
 Nenhuma
 
@@ -11421,7 +11415,7 @@ Acôrdo Coletivo de Trabalho poderá prevalecer na execução do mesmo, sendo co
 nula de pleno direito. (Redação dada pelo Decreto-lei
 nº 229, de 28.2.1967)
 
-## Art. 620.
+## Art. 620
 
 As condições estabelecidas em acordo
 
@@ -11430,7 +11424,7 @@ coletiva de trabalho.
 (Redação dada pela Lei nº
 13.467, de 2017)
 
-## Art. 621.
+## Art. 621
 
 As
 
@@ -11441,9 +11435,9 @@ de constituição, o modo de funcionamento e as atribuições das comissões, as
 plano de participação, quando fôr o caso. (Redação
 dada pelo Decreto-lei nº 229, de 28.2.1967)
 
-## Art. 622.
+## Art. 622
 
-s
+Os
 
 empregados e as emprêsas que celebrarem contratos individuais de trabalho, estabelecendo
 condições contrárias ao que tiver sido ajustado em Convenção ou Acôrdo que lhes fôr
@@ -11453,7 +11447,7 @@ dada pelo Decreto-lei nº 229, de 28.2.1967)
 Parágrafo único. A multa a ser imposta ao empregado não poderá exceder da metade
 daquela que, nas mesmas condições seja estipulada para a emprêsa. (Redação dada pelo Decreto-lei nº 229, de 28.2.1967)
 
-## Art. 623.
+## Art. 623
 
 Será
 
@@ -11468,7 +11462,7 @@ Parágrafo único. Na hipótese dêste artigo, a nulidade será declarada, de of
 mediante representação, pelo Ministro do Trabalho e Previdência Social, ou pela
 Justiça do Trabalho em processo submetido ao seu julgamento. (Incluído pelo Decreto-lei nº 229, de 28.2.1967)
 
-## Art. 624.
+## Art. 624
 
 A
 
@@ -11479,7 +11473,7 @@ declaração no tocante à possibilidade de elevação da tarifa ou do preço e 
 valor dessa elevação. (Redação dada pelo
 Decreto-lei nº 229, de 28.2.1967)
 
-## Art. 625.
+## Art. 625
 
 As controvérsias resultantes da aplicação
 
@@ -11490,7 +11484,7 @@ Justiça do Trabalho. (Redação dada pelo Decreto-lei nº 229, de 28.2.1967)
 
 ## Art. 625-A
 
-. As empresas e os sindicatos podem instituir Comissões de
+As empresas e os sindicatos podem instituir Comissões de
 
 Conciliação Prévia, de composição paritária, com representante dos empregados e dos
 empregadores, com a atribuição de tentar conciliar os conflitos individuais do
@@ -11499,7 +11493,7 @@ ser constituídas por grupos de empresas ou ter caráter intersindical. (Incluí
 
 ## Art. 625-B
 
-. A Comissão instituída no âmbito da empresa será
+A Comissão instituída no âmbito da empresa será
 
 composta de, no mínimo, dois e, no máximo, dez membros, e observará as seguintes
 normas: (Incluído pela Lei nº 9.958, de
@@ -11531,14 +11525,14 @@ computado como tempo de trabalho efetivo o despendido nessa atividade. (Incluíd
 
 ## Art. 625-C
 
-. A Comissão instituída no âmbito do sindicato
+A Comissão instituída no âmbito do sindicato
 
 terá sua constituição e normas de funcionamento definidas em convenção ou acordo
 coletivo. (Incluído pela Lei nº 9.958, de 12.1.2000)
 
 ## Art. 625-D
 
-. Qualquer demanda de natureza trabalhista será
+Qualquer demanda de natureza trabalhista será
 
 submetida à Comissão de Conciliação Prévia se, na localidade da prestação de
 serviços, houver sido instituída a Comissão no âmbito da empresa ou do sindicato da
@@ -11583,7 +11577,7 @@ ADIN 2139)
 
 ## Art. 625-E
 
-. Aceita a conciliação, será lavrado termo
+Aceita a conciliação, será lavrado termo
 
 assinado pelo empregado, pelo empregador ou seu proposto e pelos membros da Comissão,
 fornecendo-se cópia às partes. (Incluído pela Lei nº
@@ -11594,7 +11588,7 @@ eficácia liberatória geral, exceto quanto às parcelas expressamente ressalvad
 
 ## Art. 625-F
 
-. As Comissões de Conciliação Prévia têm
+As Comissões de Conciliação Prévia têm
 
 prazo de dez dias para a realização da sessão de tentativa de conciliação a partir da
 provocação do interessado. (Incluído pela Lei
@@ -11605,7 +11599,7 @@ Parágrafo único. Esgotado o prazo sem a realização da sessão, será forneci
 
 ## Art. 625-G
 
-. O prazo prescricional será suspenso a partir da
+O prazo prescricional será suspenso a partir da
 
 provocação da Comissão de Conciliação Prévia, recomeçando a fluir, pelo que lhe
 resta, a partir da tentativa frustrada de conciliação ou do esgotamento do prazo previsto
@@ -11614,7 +11608,7 @@ no art. 625-F. (Incluído pela Lei nº 9.958, de
 
 ## Art. 625-H
 
-. Aplicam-se aos Núcleos Intersindicais de
+Aplicam-se aos Núcleos Intersindicais de
 
 Conciliação Trabalhista em funcionamento ou que vierem a ser criados, no que couber, as
 disposições previstas neste Título, desde que observados os princípios da paridade e
@@ -11656,7 +11650,7 @@ recentemente inaugurados ou empreendidos.
 
 ## Art. 627-A
 
-. Poderá
+Poderá
 
 ser instaurado procedimento especial para a ação fiscal, objetivando a orientação
 sobre o cumprimento das leis de proteção ao trabalho, bem como a prevenção e o
@@ -11664,7 +11658,7 @@ saneamento de infrações à legislação mediante Termo de Compromisso, na form
 disciplinada no Regulamento da Inspeção do Trabalho.
 (Incluído pela Medida Provisória nº 2.164-41, de 2001)
 
-## Art. 628.
+## Art. 628
 
 Salvo
 
@@ -11695,7 +11689,7 @@ forma do § 3º. (Incluído pelo Decreto-lei nº 229, de
 
 ## Art. 628-A
 
-. Fica instituído o Domicílio Eletrônico Trabalhista,
+Fica instituído o Domicílio Eletrônico Trabalhista,
 
 regulamentado pelo Ministério do Trabalho e Previdência, destinado a:
 (Incluído pela Lei
@@ -11757,7 +11751,7 @@ modo a assegurar o contrôle do seu processamento.
 (Incluído
 pelo Decreto-lei nº 229, de 28.2.1967)
 
-## Art. 630.
+## Art. 630
 
 Nenhum
 
@@ -11872,9 +11866,9 @@ competente na matéria. (Redação dada pelo Decreto-lei nº
 Parágrafo único. As decisões serão sempre fundamentadas. (Incluído
 pelo Decreto-lei nº 229, de 28.2.1967)
 
-## Art. 636.
+## Art. 636
 
-s
+Os
 
 recursos devem ser interpostos no prazo de 10 (dez) dias, contados do recebimento da
 notificação, perante autoridade que houver imposto a multa, a qual, depois de os
@@ -11912,7 +11906,7 @@ notificação com a prova da data do seu recebimento, ou a fôlha do órgão ofi
 que publicou o edital. (Incluído pelo Decreto-lei nº 229,
 de 28.2.1967)
 
-## Art. 637.
+## Art. 637
 
 De
 
@@ -11973,7 +11967,7 @@ Procuradoria do Departamento Estadual do Trabalho, na forma do convênio em vigo
 
 ## Art. 642-A
 
-. É instituída a Certidão Negativa
+É instituída a Certidão Negativa
 
 de Débitos Trabalhistas (CNDT), expedida gratuita e eletronicamente,
 para comprovar a inexistência de débitos inadimplidos perante a Justiça
@@ -12059,9 +12053,9 @@ pelo Decreto-lei nº 9.797, de 9.9.1946)
 
 podendo eximir-se, salvo motivo justificado.
 
-## Art. 646.
+## Art. 646
 
-s orgãos da Justiça do Trabalho funcionarão perfeitamente coordenados,
+Os orgãos da Justiça do Trabalho funcionarão perfeitamente coordenados,
 
 em regime de mútua colaboração, sob a orientação do presidente do Tribunal
 Superior
@@ -12155,7 +12149,7 @@ Constituição Federal de 1988)
 contrato de trabalho, é assegurado ao empregado apresentar reclamação no foro da
 celebração do contrato ou no da prestação dos respectivos serviços.
 
-## Art. 652.
+## Art. 652
 
 Compete às Varas do Trabalho:
 
@@ -12463,7 +12457,7 @@ contar mais de 2 (dois) anos de efetivo exercício na profissão e ser sindicali
 Parágrafo único - A prova da qualidade profissional a que se refere a alínea
 "f" deste artigo é feita mediante declaração do respectivo Sindicato.
 
-## Art. 662.
+## Art. 662
 
 A escolha dos vogais das Juntas e seus suplentes far-se-á dentre os nomes
 
@@ -12832,7 +12826,7 @@ exceto no caso do item I, alínea "c" , inciso 1, dêste artigo. (Incluído pela
 o julgamento das matérias a que se refere o artigo anterior, exceto a de que trata o
 inciso I da alínea c do Item I, como os conflitos de jurisdição entre Turmas. (Redação dada pela Lei nº 5.442, de 24.5.1968)
 
-## Art. 680.
+## Art. 680
 
 Compete, ainda, aos Tribunais Regionais, ou suas Turmas: (Restabelecido com nova redação pela Lei nº 5.442, de
 
@@ -12986,9 +12980,9 @@ do Trabalho. (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
 
 ### SEÇÃO IV
 
-## Art. 684.
+## Art. 684
 
-s
+Os
 
 Juízes representantes classistas dos Tribunais Regionais
 são designados pelo Presidente da República.
@@ -13015,7 +13009,7 @@ Trabalho, organizará, por maioria de votos, uma lista de 3 (três) nomes.
 O Presidente do Tribunal Superior do Trabalho submeterá os nomes constantes das listas ao
 Presidente da República, por intermédio do Ministro da Justiça e Negócios Interiores. (Redação dada pela Lei nº 2.244, de 23.6.1954)
 
-## Art. 686.
+## Art. 686
 
 (Suprimido
 
@@ -13116,13 +13110,13 @@ Trabalho. (Restabelecido com nova redação dada pela
 Lei nº 5.442, de 24.5.1968)
 (Vide Constituição Federal de 1988)
 
-## Art. 695.
+## Art. 695
 
 (Suprimido pelo Decreto-lei nº
 
 9.797, de 9.9.1946)
 
-## Art. 696.
+## Art. 696
 
 Importará em renúncia o não comparecimento do membro do Conselho, sem motivo
 justificado, a mais de três sessões ordinárias consecutivas. (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
@@ -13165,13 +13159,15 @@ também a este funcionar como relator ou revisor nos feitos que lhe forem
 distribuídos conforme estabelecer o regimento interno. (Incluído
 pela Lei nº 2.244, de 23.6.1954)
 
-## Art. 700.
+## Art. 700
+
+O
 
 Tribunal reunir-se-á em dias prèviamente fixados pelo
 presidente, o qual poderá, sempre
 que fôr necessário, convocar sessões extraordinárias. (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
 
-## Art. 701.
+## Art. 701
 
 As sessões do
 
@@ -13416,7 +13412,7 @@ condições. (Redação dada pelo Decreto-lei nº 8.737, de
 
 ### SEÇÃO VII
 
-## Art. 708.
+## Art. 708
 
 Compete ao Vice-Presidente do Tribunal
 
@@ -13447,7 +13443,7 @@ presidido pelo Juiz togado mais antigo, ou pelo mais idoso quando igual a antig�
 
 ### SEÇÃO I
 
-## Art. 710.
+## Art. 710
 
 Cada
 
@@ -13493,7 +13489,7 @@ a realização das penhoras e demais diligências processuais;
 o desempenho dos demais trabalhos que lhe forem cometidos pelo Presidente da Junta, para
 melhor execução dos serviços que lhe estão afetos.
 
-## Art. 712.
+## Art. 712
 
 Compete especialmente aos secretários das Juntas de Conciliação e Julgamento:
 (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
@@ -13880,9 +13876,9 @@ diretamente subordinadas ao Ministro de Estado.
 (Redação
 dada pelo Decreto-lei nº 8.737, de 19.1.1946)
 
-## Art. 738.
+## Art. 738
 
-s procuradores, alem dos vencimentos fixados na tabela constante do
+Os procuradores, alem dos vencimentos fixados na tabela constante do
 
 decreto-lei nº 2.874, de 16 de dezembro de 1940, continuarão a perceber a percentagem de 8%, por
 motivo de cobrança da dívida ativa da União ou de multas impostas pelas autoridades
@@ -14472,9 +14468,9 @@ recebimento, o Correio ficará obrigado, pena de responsabilidade do servidor, a
 devolvê-la, no prazo de 48 horas, ao Tribunal de origem.
 (Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
 
-## Art. 775.
+## Art. 775
 
-s prazos estabelecidos neste Título
+Os prazos estabelecidos neste Título
 
 serão contados em dias úteis, com exclusão do dia do começo e inclusão do dia do
 vencimento.
@@ -14502,7 +14498,7 @@ Lei nº 13.467, de 2017)
 
 ## Art. 775-A
 
-. Suspende-se
+Suspende-se
 
 o curso do prazo processual nos dias compreendidos entre 20 de dezembro e 20 de
 janeiro, inclusive.
@@ -14617,7 +14613,7 @@ Junta ou Juízo competente, acompanhada do bilhete de distribuição.
 
 ### Seção III
 
-## Art. 789.
+## Art. 789
 
 Nos dissídios individuais e nos dissídios
 
@@ -14661,7 +14657,7 @@ dada pela Lei nº 10.537, de 27.8.2002)
 
 ## Art. 789-A
 
-. No processo de
+No processo de
 
 execução são devidas custas, sempre de responsabilidade do executado e pagas ao final,
 de conformidade com a seguinte tabela: (Incluído
@@ -14714,7 +14710,7 @@ trinta e oito reais e quarenta e seis centavos). (Incluído pela Lei nº 10.537,
 
 ## Art. 789-B
 
-. Os emolumentos serão
+Os emolumentos serão
 
 suportados pelo Requerente, nos valores fixados na seguinte tabela: (Incluído pela Lei nº 10.537, de 27.8.2002)
 
@@ -14738,7 +14734,7 @@ V – certidões – por folha: R$ 5,53 (cinco reais e cinqüenta e três centav
 (Incluído pela Lei nº 10.537, de
 27.8.2002)
 
-## Art. 790.
+## Art. 790
 
 Nas Varas do
 
@@ -14774,7 +14770,7 @@ nº 13.467, de 2017)
 
 ## Art. 790-A
 
-. São isentos do
+São isentos do
 
 pagamento de custas, além dos beneficiários de justiça gratuita: (Incluído pela Lei nº 10.537, de 27.8.2002)
 
@@ -14795,7 +14791,7 @@ vencedora.
 
 ## Art. 790-B
 
-. A
+A
 
 responsabilidade pelo pagamento dos honorários periciais é da parte
 sucumbente na pretensão objeto da perícia, ainda que
@@ -14847,7 +14843,7 @@ de 2011)
 
 ## Art. 791-A
 
-. Ao advogado, ainda que atue em causa
+Ao advogado, ainda que atue em causa
 
 própria, serão devidos honorários de sucumbência, fixados entre o mínimo de 5%
 (cinco por cento) e o máximo de 15% (quinze por cento) sobre o valor que
@@ -14911,7 +14907,7 @@ nº 13.467, de 2017)
 (Revogado pela Lei nº
 13.467, de 2017)
 
-## Art. 793.
+## Art. 793
 
 A reclamação trabalhista do menor de 18 anos será
 
@@ -14923,7 +14919,7 @@ Trabalho, pelo sindicato, pelo Ministério Público estadual ou curador nomeado 
 
 ## Art. 793-A
 
-. Responde por perdas e danos aquele que
+Responde por perdas e danos aquele que
 
 litigar de má-fé como reclamante, reclamado ou interveniente.
 (Incluído pela Lei nº
@@ -14931,7 +14927,7 @@ litigar de má-fé como reclamante, reclamado ou interveniente.
 
 ## Art. 793-B
 
-. Considera-se litigante de má-fé aquele
+Considera-se litigante de má-fé aquele
 
 que: (Incluído pela
 Lei nº 13.467, de 2017)
@@ -14968,7 +14964,7 @@ Lei nº 13.467, de 2017)
 
 ## Art. 793-C
 
-. De ofício ou a requerimento, o juízo
+De ofício ou a requerimento, o juízo
 
 condenará o litigante de má-fé a pagar multa, que deverá ser superior a 1% (um
 por cento) e inferior a 10% (dez por cento) do valor corrigido da causa, a
@@ -14997,7 +14993,7 @@ arbitramento ou pelo procedimento comum, nos próprios autos.
 
 ## Art. 793-D
 
-. Aplica-se a multa prevista no art.
+Aplica-se a multa prevista no art.
 
 793-C desta Consolidação à testemunha que intencionalmente alterar a verdade dos
 fatos ou omitir fatos essenciais ao julgamento da causa.
@@ -15057,7 +15053,7 @@ sejam conseqüência.
 
 ### SEÇÃO VI
 
-## Art. 799.
+## Art. 799
 
 Nas
 
@@ -15073,7 +15069,7 @@ estas, se terminativas do feito, não caberá recurso, podendo, no entanto, as p
 alegá-las novamente no recurso que couber da decisão final. (Redação
 dada pelo Decreto-lei nº 8.737, de 19.1.1946)
 
-## Art. 800.
+## Art. 800
 
 Apresentada exceção de incompetência
 
@@ -15342,9 +15338,9 @@ pessoas que o requererem.
 
 ### SEÇÃO IX
 
-## Art. 818.
+## Art. 818
 
-ônus da prova incumbe:
+O ônus da prova incumbe:
 
 (Redação dada pela
 Lei nº 13.467, de 2017)
@@ -15402,7 +15398,7 @@ parte sucumbente, salvo se beneficiária de justiça gratuita.
 reinquiridas, por seu intermédio, a requerimento dos vogais, das partes, seus
 representantes ou advogados.
 
-## Art. 821.
+## Art. 821
 
 Cada
 
@@ -15471,9 +15467,9 @@ súmula ser assinada pelo Presidente do Tribunal e pelos depoentes.
 inimigo de qualquer das partes, não prestará compromisso, e seu depoimento valerá como
 simples informação.
 
-## Art. 830.
+## Art. 830
 
-documento em cópia oferecido para
+O documento em cópia oferecido para
 
 prova poderá ser declarado autêntico pelo próprio advogado, sob sua
 responsabilidade pessoal.
@@ -15608,7 +15604,7 @@ próprias audiências em que forem as mesmas proferidas.
 
 estabelecidas.
 
-## Art. 836.
+## Art. 836
 
 É vedado aos órgãos da Justiça do Trabalho
 
@@ -15861,9 +15857,9 @@ os votos dos vogais e, havendo divergência entre estes, poderá desempatar ou p
 decisão que melhor atenda ao cumprimento da lei e ao justo equilíbrio entre os votos
 divergentes e ao interesse social.
 
-## Art. 851.
+## Art. 851
 
-s
+Os
 
 trâmites de instrução e julgamento da reclamação serão resumidos em ata, de que
 constará, na íntegra, a decisão.
@@ -15892,7 +15888,7 @@ forma estabelecida no § 1º do art. 841.
 
 ## Art. 852-A
 
-. Os dissídios individuais cujo valor não exceda a
+Os dissídios individuais cujo valor não exceda a
 
 quarenta vezes o salário mínimo vigente na data do ajuizamento da reclamação ficam
 submetidos ao procedimento sumaríssimo.
@@ -15904,7 +15900,7 @@ parte a Administração Pública direta, autárquica e fundacional.
 
 ## Art. 852-B
 
-. Nas reclamações enquadradas no procedimento
+Nas reclamações enquadradas no procedimento
 
 sumaríssimo: (Incluído pela Lei nº 9.957, de 2000)
 
@@ -15936,7 +15932,7 @@ indicado, na ausência de comunicação.
 
 ## Art. 852-C
 
-. As demandas sujeitas a rito sumaríssimo serão
+As demandas sujeitas a rito sumaríssimo serão
 
 instruídas e julgadas em audiência única, sob a direção de juiz presidente ou
 substituto, que poderá ser convocado para atuar simultaneamente com o titular.
@@ -15944,7 +15940,7 @@ substituto, que poderá ser convocado para atuar simultaneamente com o titular.
 
 ## Art. 852-D
 
-. O juiz dirigirá o processo com liberdade para determinar
+O juiz dirigirá o processo com liberdade para determinar
 
 as provas a serem produzidas, considerado o ônus probatório de cada litigante, podendo
 limitar ou excluir as que considerar excessivas, impertinentes ou protelatórias, bem como
@@ -15953,7 +15949,7 @@ para apreciá-las e dar especial valor às regras de experiência comum ou técn
 
 ## Art. 852-E
 
-. Aberta a sessão, o juiz esclarecerá as partes
+Aberta a sessão, o juiz esclarecerá as partes
 
 presentes sobre as vantagens da conciliação e usará os meios adequados de persuasão
 para a solução conciliatória do litígio, em qualquer fase da audiência.
@@ -15961,7 +15957,7 @@ para a solução conciliatória do litígio, em qualquer fase da audiência.
 
 ## Art. 852-F
 
-. Na ata de audiência serão registrados
+Na ata de audiência serão registrados
 
 resumidamente os atos essenciais, as afirmações fundamentais das partes e as
 informações úteis à solução da causa trazidas pela prova testemunhal.
@@ -15969,7 +15965,7 @@ informações úteis à solução da causa trazidas pela prova testemunhal.
 
 ## Art. 852-G
 
-. Serão decididos, de plano, todos os incidentes e
+Serão decididos, de plano, todos os incidentes e
 
 exceções que possam interferir no prosseguimento da audiência e do processo. As demais
 questões serão decididas na sentença.
@@ -15977,7 +15973,7 @@ questões serão decididas na sentença.
 
 ## Art. 852-H
 
-. Todas as provas serão produzidas na audiência de
+Todas as provas serão produzidas na audiência de
 
 instrução e julgamento, ainda que não requeridas previamente.
 (Incluído pela Lei nº 9.957, de 2000)
@@ -16010,7 +16006,7 @@ pelo juiz da causa. (Incluído pela Lei nº 9.957, de 2000)
 
 ## Art. 852-I
 
-. A sentença mencionará os elementos de convicção
+A sentença mencionará os elementos de convicção
 
 do juízo, com resumo dos fatos relevantes ocorridos em audiência, dispensado o
 relatório. (Incluído pela Lei nº 9.957, de 2000)
@@ -16053,7 +16049,7 @@ inquérito.
 
 ## Art. 855-A
 
-. Aplica-se ao processo do trabalho o
+Aplica-se ao processo do trabalho o
 
 incidente de desconsideração da personalidade jurídica previsto nos
 arts. 133 a
@@ -16094,7 +16090,7 @@ art. 301 da Lei no 13.105, de
 
 ## Art. 855-B
 
-. O processo de homologação de acordo
+O processo de homologação de acordo
 
 extrajudicial terá início por petição conjunta, sendo obrigatória a
 representação das partes por advogado.
@@ -16113,7 +16109,7 @@ assistido pelo advogado do sindicato de sua categoria.
 
 ## Art. 855-C
 
-. O disposto neste Capítulo não prejudica
+O disposto neste Capítulo não prejudica
 
 o prazo estabelecido no § 6o do art. 477 desta Consolidação e
 não afasta a aplicação da multa prevista no § 8o art. 477
@@ -16122,7 +16118,7 @@ desta Consolidação.
 
 ## Art. 855-D
 
-. No prazo de quinze dias a contar da
+No prazo de quinze dias a contar da
 
 distribuição da petição, o juiz analisará o acordo, designará audiência se
 entender necessário e proferirá sentença.
@@ -16131,7 +16127,7 @@ entender necessário e proferirá sentença.
 
 ## Art. 855-E
 
-. A petição de homologação de acordo
+A petição de homologação de acordo
 
 extrajudicial suspende o prazo prescricional da ação quanto aos direitos nela
 especificados.
@@ -16230,7 +16226,7 @@ solução que lhe pareça capaz de resolver o dissídio.
 
 primeira sessão.
 
-## Art. 864.
+## Art. 864
 
 Não
 
@@ -16377,7 +16373,7 @@ de ouvida a Procuradoria da Justiça do Trabalho.
 
 ### SEÇÃO I
 
-## Art. 876.
+## Art. 876
 
 As decisões passadas em julgado ou das
 
@@ -16408,7 +16404,7 @@ que tiver conciliado ou julgado originariamente o dissídio.
 competência para o processo de conhecimento relativo à matéria.
 (Incluído pela Lei nº 9.958, de 25.10.2000)
 
-## Art. 878.
+## Art. 878
 
 A execução será promovida pelas partes,
 
@@ -16423,7 +16419,7 @@ Lei nº 13.467, de 2017)
 
 ## Art. 878-A
 
-. Faculta-se ao devedor o pagamento
+Faculta-se ao devedor o pagamento
 
 imediato da parte que entender devida à Previdência Social, sem prejuízo da cobrança
 de eventuais diferenças encontradas na execução ex officio.
@@ -16512,7 +16508,7 @@ ADC 59)
 
 ### SEÇÃO II
 
-## Art. 880.
+## Art. 880
 
 Requerida
 
@@ -16556,9 +16552,9 @@ Parágrafo único - Não estando
 presente o exeqüente, será depositada a importância, mediante guia, em estabelecimento
 oficial de crédito ou, em falta deste, em estabelecimento bancário idôneo. (Redação dada pela Lei nº 7.305, 2.4.1985)
 
-## Art. 882.
+## Art. 882
 
-executado que não pagar a importância
+O executado que não pagar a importância
 
 reclamada poderá garantir a execução mediante depósito da quantia
 correspondente, atualizada e acrescida das despesas processuais, apresentação de
@@ -16581,7 +16577,7 @@ reclamação inicial. (Redação dada pela Lei nº
 
 ## Art. 883-A
 
-. A decisão judicial transitada em
+A decisão judicial transitada em
 
 julgado somente poderá ser levada a protesto, gerar inscrição do nome do
 executado em órgãos de proteção ao crédito ou no Banco Nacional de Devedores
@@ -16709,7 +16705,7 @@ executivos fiscais para a cobrança judicial da dívida ativa da Fazenda Públic
 
 ## Art. 889-A
 
-. Os
+Os
 
 recolhimentos das importâncias devidas, referentes às contribuições sociais, serão
 efetuados nas agências locais da Caixa Econômica Federal ou do Banco do Brasil S.A., por
@@ -16790,7 +16786,7 @@ execução do julgado.
 (Incluído pelo Decreto-lei nº 8.737,
 de 19.1.1946)
 
-## Art. 894.
+## Art. 894
 
 No Tribunal Superior do Trabalho cabem embargos, no prazo de 8 (oito)
 
@@ -17124,7 +17120,7 @@ nº 13.467, de 2017)
 
 ## Art. 896-B
 
-. Aplicam-se ao recurso de revista, no que couber, as normas da
+Aplicam-se ao recurso de revista, no que couber, as normas da
 
 Lei no 5.869, de 11 de janeiro
 de 1973 (Código de Processo Civil), relativas ao julgamento dos recursos
@@ -17134,7 +17130,7 @@ extraordinário e especial repetitivos.
 
 ## Art. 896-C
 
-. Quando houver multiplicidade de recursos de revista fundados em
+Quando houver multiplicidade de recursos de revista fundados em
 
 idêntica questão de direito, a questão poderá ser afetada à Seção
 Especializada em Dissídios Individuais ou ao Tribunal Pleno, por decisão da
@@ -17503,7 +17499,7 @@ Lei nº 8.638, de 31.3.1993)
 
 # CAPÍTULO VII
 
-## Art. 903.
+## Art. 903
 
 As penalidades estabelecidas no título anterior serão aplicadas pelo
 
@@ -17627,9 +17623,9 @@ Consolidação.
 correr da data da vigência desta, quando menores do que os previstos pela legislação
 anterior.
 
-## Art. 917.
+## Art. 917
 
-Ministro do Trabalho, Indústria e Comércio marcará prazo para adaptação
+O Ministro do Trabalho, Indústria e Comércio marcará prazo para adaptação
 
 dos atuais estabelecimentos às exigências contidas no capítulo "De Higiene e
 Segurança do Trabalho". Compete ainda àquela autoridade fixar os prazos dentro dos

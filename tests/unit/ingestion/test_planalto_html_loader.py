@@ -129,13 +129,62 @@ def test_thousands_separator_articles_are_captured(tmp_path: Path) -> None:
     raw = LocalMarkdownLoader(seed_path).load()
     chunks = chunk_document(raw)
 
-    display = {c.article for c in chunks}
+    match_tokens = {c.article for c in chunks}
     ids = {c.chunk_id for c in chunks}
-    # Display keeps the canonical thousands dot; ids are dotless.
-    assert {"999", "1.000", "1.711", "1.337", "2.046"} <= display
+    # The `article` field is the dotless match token (so ranking/filter, which
+    # compares dotless, matches these high articles). Both source spellings of
+    # the same number ("1.337" and "1337") converge to one token "1337".
+    assert {"999", "1000", "1711", "1337", "2046"} <= match_tokens
     assert any(cid.endswith("art-1000") for cid in ids)
     assert any(cid.endswith("art-2046") for cid in ids)
+    # The human-readable citation surface keeps the thousands dot in `text`.
+    text_by_token = {c.article: c.text for c in chunks}
+    assert "## Art. 1.000" in text_by_token["1000"]
+    assert "## Art. 2.046" in text_by_token["2046"]
     # No article was truncated to its leading digit (the bug): "1" must not
     # appear as an article when the source had no plain "Art. 1".
-    assert "1" not in display
-    assert "1º" not in display
+    assert "1" not in match_tokens
+    assert "1º" not in match_tokens
+
+
+# --- Regression: capital "O" opening a caput is not eaten by the ordinal -------
+# The ordinal suffix `[º°o]?` under IGNORECASE used to swallow the uppercase "O"
+# that starts many capute bodies ("Art. 10. O fornecedor..." -> "fornecedor..."),
+# silently corrupting persisted legal text. The fix accepts only real ordinal
+# glyphs (º/°) and the case-sensitive ASCII "o" (the "1o" ordinal).
+_LEADING_O_HTML = """\
+<html><body>
+<p><font>&nbsp;&nbsp;Art. 10. O fornecedor responde pelo defeito.</font></p>
+<p><font>&nbsp;&nbsp;Art. 1o Esta lei entra em vigor.</font></p>
+<p><font>&nbsp;&nbsp;Art. 5-A. O produto deve ser seguro.</font></p>
+<p><font>&nbsp;&nbsp;Art. 12&ordm; Os direitos sao assegurados.</font></p>
+</body></html>
+""".encode("iso-8859-1")
+
+
+def test_leading_capital_o_is_preserved_in_caput() -> None:
+    md = html_to_markdown(_LEADING_O_HTML)
+    # The capital "O" opening the caput survives (BUG 1 regression guard).
+    assert "O fornecedor responde pelo defeito." in md
+    assert "O produto deve ser seguro." in md
+    # The real "1o" ASCII ordinal is consumed, body text intact.
+    assert "Esta lei entra em vigor." in md
+    assert "1o Esta lei" not in md
+    # The º ordinal glyph is consumed; the capital "Os" of the body survives.
+    assert "Os direitos sao assegurados." in md
+
+
+def test_leading_capital_o_preserved_through_chunk(tmp_path: Path) -> None:
+    """The capital "O" survives end-to-end into the chunk text (BUG 1 guard)."""
+    html_path = tmp_path / "x.html"
+    html_path.write_bytes(_LEADING_O_HTML)
+    seed_path = tmp_path / "x.md"
+    seed_path.write_text(build_seed_markdown(html_path), encoding="utf-8")
+
+    raw = LocalMarkdownLoader(seed_path).load()
+    chunks = chunk_document(raw)
+    text_by_article = {c.article: c.text for c in chunks}
+    assert "O fornecedor responde pelo defeito." in text_by_article["10"]
+    # "Art. 5-A" renders the ordinal before the suffix and keeps the caput "O".
+    assert "5º-A" in text_by_article
+    assert "O produto deve ser seguro." in text_by_article["5º-A"]

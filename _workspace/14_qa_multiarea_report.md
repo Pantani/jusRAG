@@ -1,5 +1,13 @@
 # Fase F — QA de integração multi-área (v1.4 candidata)
 
+> **NOTA DE RESOLUÇÃO (snapshot histórico).** Este relatório é o estado de UM ponto no tempo:
+> o veredito "NÃO APTO a fechar" e os "209 passed, 3 FAILED" refletem o build ANTES das
+> correções. Os 3 bloqueadores P0 foram subsequentemente resolvidos (gate overfit substituído
+> por sinal principled de escopo; testes religados; falsos-negativos in-scope corrigidos) e
+> validados: suíte completa verde e gate §36 PASSED honesto — ver STATE.md "Fase 14.D" e a
+> rodada de fixes de review do PR #3 (_workspace/14_eval_oos_restore_summary.md e correlatos).
+> Mantido como rastro de auditoria; NÃO representa o estado final do PR.
+
 Dono: qa. Read-only sobre código de outros agentes; rodei scripts/testes offline (fake providers,
 sem rede). Toda execução via `.venv/bin/{pytest,ruff,mypy,python}` (mypy/pytest não estão no PATH do
 shell — é infra de ambiente, não falha de projeto).

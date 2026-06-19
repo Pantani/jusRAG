@@ -16,7 +16,11 @@ Protocol, so fakes drive it offline.
 from __future__ import annotations
 
 from packages.agents.citation_auditor import audit_answer
-from packages.agents.classify_area import classify_area, is_in_scope
+from packages.agents.classify_area import (
+    classify_area,
+    is_in_scope,
+    matched_out_of_scope_regime,
+)
 from packages.answer.citation_auditor import CitationAuditResult
 from packages.answer.formatter import build_answer, build_refusal
 from packages.answer.prompts import build_answer_messages
@@ -26,6 +30,7 @@ from packages.answer.schemas import (
     CitationAudit,
     LegalBasisItem,
 )
+from packages.legal_types.enums import LegalArea
 from packages.llm.base import LLMProvider
 from packages.rag.context_builder import BuiltContext, build_context
 from packages.rag.search_service import SearchService
@@ -42,22 +47,46 @@ from packages.rag.types import RetrievedChunk
 #
 # The principled signal is area classification + absence of corpus, reusing the agentic
 # area classifier (packages/agents/classify_area.py — a pure, deterministic, importable
-# function with a general taxonomy, not tuned to the golden). If the classified area is
-# NOT in scope (administrative/unknown), the legal regime is outside the corpus's
-# competence → safe refusal (§2.2). For in-scope areas we do NOT refuse on keywords;
-# grounding is left to retrieval/_grounded below — if retrieval brings no sufficient
-# basis, the answer is refused for absence of basis, not for a matched string. This
-# eliminates the in-scope false negatives and refuses unseen OOS by area class, which
-# generalizes to OOS regimes never seen before.
+# function with a general taxonomy, not tuned to the golden).
 #
-# Contract dependency documented in CONTRACTS.md: answer imports the area classifier and
-# IN_SCOPE_AREAS from agentic. classify_area is pure/importable, so importing it is not
-# editing the agentic module. We do NOT duplicate the classifier's keyword list here
-# (that would re-introduce the same overfit).
+# CRITICAL (CodeRabbit #3): classify_area collapses TWO distinct cases into UNKNOWN:
+#   (a) a corpus-less regime matched by a discriminant out-of-scope term (previdência,
+#       INSS, falência, INPI, ambiental, ...) — genuinely out of scope; and
+#   (b) NO keyword evidence at all — an in-corpus question the keyword map simply did
+#       not recognize (e.g. an "inventário"/"usucapião" phrasing that misses the stems).
+# At the LegalArea level these are indistinguishable, so a UNKNOWN-only gate had to choose
+# between leaking (a) or pre-refusing (b). The agentic node now exposes the missing signal
+# (_workspace/14_agentic_oos_signal_summary.md): matched_out_of_scope_regime(question) is
+# True for (a) and False for (b), letting us decide each correctly.
+#
+# Gate logic:
+#   - matched_out_of_scope_regime → True: deterministic §2.2 pre-refusal. A corpus-less
+#     regime was explicitly matched; refuse before retrieval, independent of the embedding
+#     provider (fixes the §2.2 leak where INPI/ambiental/previdenciário answered with
+#     spurious FakeEmbedding sources).
+#   - UNKNOWN with no regime match → proceed to retrieval. The researcher-node contract
+#     (§14/§15.2) skips the legal_area filter for UNKNOWN precisely so a real source can
+#     still surface; safe refusal then happens downstream when retrieval yields no grounded
+#     source or the CitationAuditor (§31) rejects unsupported claims (fixes the in-corpus
+#     false-negative on "inventário"/"usucapião" phrasings the keyword map misses).
+#   - A defined area outside IN_SCOPE_AREAS (administrative) → refuse here. (administrative
+#     also matches the regime check, so this is belt-and-suspenders.)
+#
+# This does NOT loosen §2.2: it splits the UNKNOWN decision on an explicit deterministic
+# signal instead of a blind keyword gate. Contract dependency documented in CONTRACTS.md:
+# answer imports classify_area, is_in_scope and matched_out_of_scope_regime (all pure,
+# importable) plus LegalArea from agentic/legal_types.
 def _is_out_of_scope(question: str) -> bool:
-    """True when the classified legal area has no corpus in scope (§2.2)."""
+    """Refuse matched corpus-less regimes; let no-evidence UNKNOWN proceed (§2.2)."""
 
-    return not is_in_scope(classify_area(question))
+    if matched_out_of_scope_regime(question):
+        # Corpus-less regime explicitly matched → deterministic §2.2 pre-refusal.
+        return True
+    area = classify_area(question)
+    if area is LegalArea.UNKNOWN:
+        # No evidence: let retrieval/auditor decide grounding, not a keyword pre-gate.
+        return False
+    return not is_in_scope(area)
 
 # Minimum raw semantic similarity for a retrieved chunk to count as grounding.
 # Below this, the recovered text is lexically/conceptually off-topic (e.g. an
@@ -104,10 +133,10 @@ class AnswerWriter:
         top_k: int = 8,
         filters: dict[str, object] | None = None,
     ) -> AnswerResponse:
-        # Area-scope gate (§2.2): refuse before spending an LLM call when the
-        # question classifies to an area with no ingested corpus
-        # (administrative/unknown). For in-scope areas, grounding is decided by
-        # retrieval (_grounded) and the auditor, not by any keyword. See above.
+        # Area-scope gate (§2.2): refuse before spending an LLM call only when the
+        # question classifies to a *defined* out-of-scope area (administrative). UNKNOWN
+        # and in-scope areas proceed; grounding is decided by retrieval (_grounded) and
+        # the auditor, not by a keyword pre-gate. See _is_out_of_scope note above.
         if _is_out_of_scope(question):
             return build_refusal(BuiltContext(text="", citations=[], chunks=[]))
 
