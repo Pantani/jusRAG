@@ -72,18 +72,26 @@ class FakeBM25Store:
 
     def index_chunks(self, chunks: list[LegalChunk]) -> None:
         for chunk in chunks:
-            payload = chunk_to_payload(chunk)
             tokens = _tokenize(chunk.text)
-            previous = self._tokens.get(chunk.chunk_id)
-            if previous is not None:
-                for tok in set(previous):
-                    self._df[tok] = max(0, self._df.get(tok, 0) - 1)
-                    if self._df[tok] == 0:
-                        del self._df[tok]
-            self._payloads[chunk.chunk_id] = payload
+            self._decref_df(self._tokens.get(chunk.chunk_id))
+            self._payloads[chunk.chunk_id] = chunk_to_payload(chunk)
             self._tokens[chunk.chunk_id] = tokens
-            for tok in set(tokens):
-                self._df[tok] = self._df.get(tok, 0) + 1
+            self._incref_df(tokens)
+
+    def _decref_df(self, previous: list[str] | None) -> None:
+        """Drop document-frequency counts for a chunk's prior tokens (re-index)."""
+        if previous is None:
+            return
+        for tok in set(previous):
+            remaining = self._df.get(tok, 0) - 1
+            if remaining <= 0:
+                self._df.pop(tok, None)
+            else:
+                self._df[tok] = remaining
+
+    def _incref_df(self, tokens: list[str]) -> None:
+        for tok in set(tokens):
+            self._df[tok] = self._df.get(tok, 0) + 1
 
     def __len__(self) -> int:
         return len(self._payloads)

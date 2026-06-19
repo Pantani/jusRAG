@@ -249,26 +249,31 @@ def _convert_paragraphs(paragraphs: list[_Paragraph]) -> str:
         if para.centered:
             _emit_centered(lines, text)
             continue
-        # The Planalto HTML sometimes packs the article heading and a multi-line
-        # caput into a single ``<p>``. ``_ARTICLE_RE`` only matches the first
-        # line, so split off any remaining lines and emit them as body so the
-        # full caput reaches the chunk (was silently truncated before).
-        first_line, _, remainder = text.partition("\n")
-        art_match = _ARTICLE_RE.match(first_line)
-        if art_match:
-            _emit_article(lines, art_match)
-            in_article = True
-            remainder = remainder.strip()
-            if remainder:
-                _emit_article_body(lines, remainder)
-            continue
-        if not in_article:
-            # Preamble lines stay above the first article (chunker skips them).
-            lines.append(text)
-            continue
-        _emit_article_body(lines, text)
+        in_article = _emit_paragraph(lines, text, in_article=in_article)
 
     return _collapse_blank_runs(lines)
+
+
+def _emit_paragraph(lines: list[str], text: str, *, in_article: bool) -> bool:
+    """Emit one non-centered paragraph; return the updated ``in_article`` state."""
+    # The Planalto HTML sometimes packs the article heading and a multi-line
+    # caput into a single ``<p>``. ``_ARTICLE_RE`` only matches the first line,
+    # so split off any remaining lines and emit them as body so the full caput
+    # reaches the chunk (was silently truncated before).
+    first_line, _, remainder = text.partition("\n")
+    art_match = _ARTICLE_RE.match(first_line)
+    if art_match:
+        _emit_article(lines, art_match)
+        remainder = remainder.strip()
+        if remainder:
+            _emit_article_body(lines, remainder)
+        return True
+    if not in_article:
+        # Preamble lines stay above the first article (chunker skips them).
+        lines.append(text)
+        return in_article
+    _emit_article_body(lines, text)
+    return in_article
 
 
 # ---------- Public entrypoint ----------
