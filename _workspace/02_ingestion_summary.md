@@ -43,7 +43,7 @@ Metadata por chunk: `doc_type=statute`, `source=planalto`, `legal_area=consumer`
 ## Prova de idempotência
 
 `make ingest-cdc` rodado 2x; `shasum` do JSONL idêntico:
-```
+```text
 RUN1: adbe3ad440bb8ca3df13948af74b4856964b5faf  data/generated/cdc_chunks.jsonl
 RUN2: adbe3ad440bb8ca3df13948af74b4856964b5faf  data/generated/cdc_chunks.jsonl
 ```
@@ -52,20 +52,23 @@ RUN2: adbe3ad440bb8ca3df13948af74b4856964b5faf  data/generated/cdc_chunks.jsonl
 ## Saída real
 
 ### make ingest-cdc
-```
+
+```text
 Ingested 6 chunk(s) from .../data/seed/cdc/cdc.md
 Articles detected: 6º, 12, 14, 18, 26, 49
 Wrote .../data/generated/cdc_chunks.jsonl
 ```
 
 ### make test
-```
+
+```text
 51 passed, 1 warning in 0.14s
 ```
 (1 warning: StarletteDeprecationWarning do FastAPI TestClient — herdado da Fase 1, fora do ownership.)
 
 ### make lint
-```
+
+```bash
 ruff check .  -> All checks passed!
 mypy packages apps -> Success: no issues found in 25 source files
 ```

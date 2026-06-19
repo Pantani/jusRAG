@@ -83,7 +83,7 @@ uma das 6 — recomendação no follow-up.
 
 ## Idempotência
 
-```
+```bash
 $ make ingest-case-law && shasum data/generated/case_law_chunks.jsonl
 b8194b54e5813036c9bfd3bf0eb5032084e54493
 $ make ingest-case-law && shasum data/generated/case_law_chunks.jsonl
@@ -97,7 +97,7 @@ b8194b54e5813036c9bfd3bf0eb5032084e54493
   para apontar para os substitutos).
 - `make lint` → ruff `All checks passed!`; mypy `Success: no issues found in 93 source files`.
 - `make eval` → todos os 4 gates §36 PASSED:
-  ```
+  ```text
   retrieval_recall_at_5        = 0.9590 (≥ 0.80)
   citation_coverage            = 1.0000 (≥ 0.90)
   unsupported_legal_claim_rate = 0.0000 (≤ 0.05)

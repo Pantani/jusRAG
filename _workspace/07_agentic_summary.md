@@ -36,7 +36,7 @@ Testes: `tests/unit/agents/test_graph.py` (8 testes) + `__init__.py`.
 
 ## Diagrama do grafo (§14)
 
-```
+```text
 START → intake ─┬─(missing_facts)→ needs_more_info ─────────────────────────┐
                 └─→ classify_legal_area → retrieve_statutes → retrieve_case_law
                      → analyze_precedents → rerank_and_select_context
@@ -76,7 +76,7 @@ inflar o estado §13.
 
 ## Prova dos 3 cenários (saída real, fakes + InMemoryVectorStore)
 
-```
+```text
 === answered: 'O fornecedor responde por defeito do produto?'
 status: answered | legal_area: consumer
 trace: intake -> classify_legal_area -> retrieve_statutes -> retrieve_case_law ->
@@ -129,4 +129,3 @@ limpa (sem `# type: ignore`): `_traced` retorna `StateNode[LegalResearchState, A
 - Ratificar `langgraph` no `pyproject.toml` (FoundationAgent).
 - `IntakeAgent`/`LegalAreaClassifier` são heurísticos/offline (mesma assinatura de nó); trocar
   por LLM atrás do mesmo contrato é drop-in.
-```

@@ -67,7 +67,7 @@ Consome `SearchService.search_separated(...) -> SeparatedRetrieval{statutes[], c
 ## Saída real
 
 `make ask-demo` (pergunta de jurisprudência):
-```
+```text
 PERGUNTA: O CDC se aplica a banco e instituição financeira?
   status: answered
   short_answer: Com base em STJ Súmula 297, O Código de Defesa do Consumidor é aplicável às instituições financeiras.
@@ -78,7 +78,7 @@ PERGUNTA: O CDC se aplica a banco e instituição financeira?
   not_legal_advice: True
 ```
 
-```
+```text
 make test  -> 134 passed (era 125; +9 answer/jurisprudência)
 make lint  -> ruff: All checks passed ; mypy: Success, 69 files
 ```

@@ -25,7 +25,8 @@ Campos mínimos EXATOS de §8 — ver CONTRACTS.md. Pontos para ingestion:
 ## Saída real
 
 ### make test
-```
+
+```bash
 pytest
 ..............................                                           [100%]
 30 passed, 1 warning in 0.15s
@@ -33,7 +34,8 @@ pytest
 (1 warning: StarletteDeprecationWarning do FastAPI TestClient — herdado da Fase 1, fora do ownership.)
 
 ### make lint
-```
+
+```bash
 ruff check .
 All checks passed!
 mypy packages apps

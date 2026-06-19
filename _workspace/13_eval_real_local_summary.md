@@ -45,7 +45,7 @@ Metal/CUDA é inviável para a suíte completa.
 
 ## Tentativa eval-real completo (foreground)
 
-```
+```bash
 $ EVAL_PROVIDER=local python -m packages.evals.run_all --provider=local
 ...
 httpx.ReadTimeout: timed out

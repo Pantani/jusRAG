@@ -4,7 +4,7 @@
 
 Um LLM bom escreve texto jurídico convincente, mas não tem garantia de veracidade: pode alucinar artigos, súmulas, números de processo e teses. Trocar de modelo melhora a fluência, **não** a confiabilidade. O valor do JusRAG Brasil está na arquitetura ao redor do modelo, que impõe verificabilidade em cada etapa:
 
-```
+```text
 fonte → recuperação → ranking → síntese → auditoria → ressalva → avaliação
 ```
 
@@ -28,7 +28,7 @@ Cada chunk é um `LegalChunk` (§8) com metadata jurídica que sustenta filtros 
 
 O score combina relevância semântica com **autoridade da fonte**. No MVP (antes de BM25):
 
-```
+```text
 final_score = 0.70 * semantic_similarity
             + 0.20 * legal_authority
             + 0.10 * exact_citation_match
@@ -36,7 +36,7 @@ final_score = 0.70 * semantic_similarity
 
 Versão completa (com BM25):
 
-```
+```text
 final_score = 0.30 * semantic_similarity
             + 0.20 * bm25_score
             + 0.15 * legal_authority
@@ -66,13 +66,13 @@ final_score = 0.30 * semantic_similarity
 
 O Answer Writer produz uma forma estruturada e auditável:
 
-```
+```json
 { short_answer, legal_basis[], case_law[], caveats[], sources[], not_legal_advice: true }
 ```
 
 O Citation Auditor produz:
 
-```
+```json
 { citation_coverage, unsupported_legal_claim_rate, unsupported_claims[], passed }
 ```
 

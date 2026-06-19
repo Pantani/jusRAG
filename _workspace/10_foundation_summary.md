@@ -3,6 +3,7 @@
 Data: 2026-06-17. Ownership: pyproject.toml, Makefile, docker-compose, CI.
 
 ## 1. CI — `.github/workflows/ci.yml`
+
 - Triggers: `push` (todas as branches) + `pull_request`. `concurrency` cancela runs antigos por ref.
 - Job `lint-test`: checkout → setup-python 3.12 (cache pip) → `pip install -e ".[dev]"` → `make lint` → `make test`.
 - Job `eval` (separado, `needs: lint-test`): mesma instalação → `make eval` (gate §36, offline).
@@ -11,6 +12,7 @@ Data: 2026-06-17. Ownership: pyproject.toml, Makefile, docker-compose, CI.
 - YAML validado: `python -c "yaml.safe_load(...)"` → OK.
 
 ## 2. Decisão de deps (pyproject.toml) — ratificada
+
 Padrão de import verificado em disco:
 - `openai` → import **lazy** (dentro do construtor / `TYPE_CHECKING`) em embeddings/llm openai_provider.
 - `qdrant-client` → import **lazy** (dentro de métodos) em storage/qdrant.py.
@@ -26,6 +28,7 @@ Padrão de import verificado em disco:
 `pip install -e ".[dev]"` continua suficiente para lint+test+eval verdes.
 
 ## 3. Matriz make targets — offline vs stack
+
 | Target | Modo | Observação |
 |--------|------|-----------|
 | test | offline | fake providers, 164 passed |
@@ -44,17 +47,20 @@ Padrão de import verificado em disco:
 levanta `RuntimeError: OPENAI_API_KEY is not set; ...` (validado). Não mascarado.
 
 ## 4. Saídas reais validadas
+
 - `python -c yaml.safe_load(ci.yml)` → `ci.yml YAML OK`
 - `make lint` → `ruff All checks passed!` + `mypy Success: no issues found in 88 source files`
 - `make test` → `164 passed, 1 warning in 1.03s` (warning: StarletteDeprecationWarning no TestClient, benigno)
 - `make eval` → todas as 4 métricas PASS; `Gate (strict): PASSED`; exit 0
 
 ## 5. Pendência para o retrieval (não invadida — ownership de apps/worker/jobs/index_cdc.py)
+
 - Opcional (§3 da tarefa): permitir `index-cdc` rodar offline com `EMBEDDING_PROVIDER=fake` (FakeEmbeddingProvider)
   para demo sem OpenAI. Exigiria seleção de provider em `apps/worker/jobs/index_cdc.py:main()` (hoje instancia
   `OpenAIEmbeddingProvider()` direto). **Não feito** (fora do ownership de foundation; não-trivial). Reportado
   para retrieval avaliar. Sem isso, `index-cdc` permanece stack-only com erro explícito — aceitável.
 
 ## 6. Notas
+
 - README/docs **não tocados** (ui-docs reescreve em paralelo). packages/* não tocados.
 - `make up` simultâneo dos 4 serviços continua pendente de ambiente Docker estável (dívida do STATE, ambiental).

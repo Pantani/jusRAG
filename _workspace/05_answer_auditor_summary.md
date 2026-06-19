@@ -51,7 +51,7 @@ robusto é o auditor de claims.
 
 `_HallucinatingLLM` (fake) força um `legal_basis` citando `art. 999 do CDC` (nunca
 recuperado) junto de um claim genuíno sobre `art. 12`. Resultado end-to-end:
-```
+```text
 status answered
 basis ['Segundo o art. 12, o fabricante e o impo...']   # art. 999 REMOVIDO
 audit {citation_coverage: 1.0, unsupported_legal_claim_rate: 0.0, passed: True}
