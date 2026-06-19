@@ -15,6 +15,7 @@ metrics (they are scored by the answer/refusal eval instead). Pure and offline.
 
 from __future__ import annotations
 
+from collections import defaultdict
 from dataclasses import dataclass, field
 
 from packages.evals.golden import GoldenQuestion, in_scope_questions
@@ -31,11 +32,46 @@ class RetrievalCase:
     """Per-question retrieval outcome for report drill-down."""
 
     case_id: str
+    area: str
     expected: list[str]
     retrieved: list[str]
     hits: int
     recall: float
     precision: float
+
+
+@dataclass(frozen=True)
+class AreaRecall:
+    """Micro-averaged recall@k for one legal area."""
+
+    area: str
+    recall: float
+    total_expected: int
+    total_found: int
+    passed: bool
+
+
+def _per_area_recall(
+    cases: list[RetrievalCase], k: int, min_recall: float
+) -> dict[str, AreaRecall]:
+    expected: dict[str, int] = defaultdict(int)
+    found: dict[str, int] = defaultdict(int)
+    for c in cases:
+        expected[c.area] += len(c.expected)
+        found[c.area] += c.hits
+    out: dict[str, AreaRecall] = {}
+    for area in sorted(expected):
+        exp = expected[area]
+        fnd = found[area]
+        recall = fnd / exp if exp else 1.0
+        out[area] = AreaRecall(
+            area=area,
+            recall=recall,
+            total_expected=exp,
+            total_found=fnd,
+            passed=recall >= min_recall,
+        )
+    return out
 
 
 @dataclass(frozen=True)
@@ -50,6 +86,7 @@ class RetrievalEvalReport:
     cases: list[RetrievalCase] = field(default_factory=list)
     recall_passed: bool = True
     failing_case_ids: list[str] = field(default_factory=list)
+    per_area: dict[str, AreaRecall] = field(default_factory=dict)
 
     def as_dict(self) -> dict[str, object]:
         return {
@@ -61,6 +98,15 @@ class RetrievalEvalReport:
             f"retrieval_precision_at_{self.k}": {"value": self.precision_at_k},
             "total_expected": self.total_expected,
             "total_found": self.total_found,
+            "per_area": {
+                area: {
+                    "recall": ar.recall,
+                    "total_expected": ar.total_expected,
+                    "total_found": ar.total_found,
+                    "passed": ar.passed,
+                }
+                for area, ar in self.per_area.items()
+            },
             "failing_case_ids": list(self.failing_case_ids),
             "cases": [
                 {
@@ -84,6 +130,7 @@ def _eval_one(search: SearchService, q: GoldenQuestion, k: int) -> RetrievalCase
     precision = hits / len(retrieved) if retrieved else 0.0
     return RetrievalCase(
         case_id=q.id,
+        area=q.metric_area,
         expected=list(q.expected_chunk_ids),
         retrieved=retrieved,
         hits=hits,
@@ -122,4 +169,5 @@ def evaluate_retrieval(
         cases=cases,
         recall_passed=recall_passed,
         failing_case_ids=failing,
+        per_area=_per_area_recall(cases, k, min_recall),
     )

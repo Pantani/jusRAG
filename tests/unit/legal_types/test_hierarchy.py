@@ -48,8 +48,28 @@ def test_statute_tiers() -> None:
     assert tier_for_statute(_chunk(None)) is AuthorityTier.UNKNOWN
 
 
+def test_decreto_lei_maps_to_federal_law() -> None:
+    # CP/CPP/CLT são decretos-lei recepcionados com força de lei federal (§39):
+    # devem pesar 0.95, como lei federal vigente — não tier infralegal.
+    assert tier_for_statute(_chunk("decreto_lei")) is AuthorityTier.FEDERAL_LAW
+    assert authority_weight_for_chunk(_chunk("decreto_lei")) == 0.95
+    assert tier_for_statute(_chunk("lei_complementar")) is AuthorityTier.FEDERAL_LAW
+    assert tier_for_statute(_chunk("medida_provisoria")) is AuthorityTier.FEDERAL_LAW
+
+
 def test_statute_weight_for_federal_law() -> None:
     assert authority_weight_for_chunk(_chunk("lei")) == 0.95
+
+
+def test_unknown_norm_type_does_not_inflate_to_federal_law() -> None:
+    # Asserção negativa: norm_type desconhecido/infralegal não-vazio (ex.:
+    # "portaria") NÃO recebe força de lei federal — cai em UNKNOWN (0.10),
+    # nunca 0.95. Mantém _FEDERAL_LAW_NORMS autoritativo e paridade com retrieval.
+    assert tier_for_statute(_chunk("portaria")) is AuthorityTier.UNKNOWN
+    assert authority_weight_for_chunk(_chunk("portaria")) == 0.10
+    assert authority_weight_for_chunk(_chunk("portaria")) != 0.95
+    # "decreto" regulamentar infralegal também não é lei federal.
+    assert tier_for_statute(_chunk("decreto")) is AuthorityTier.UNKNOWN
 
 
 def _case(court: str, precedent: PrecedentType | None) -> CaseLawDocument:

@@ -9,9 +9,11 @@ from __future__ import annotations
 
 import pytest
 
-from packages.answer.answer_writer import AnswerWriter
+from packages.agents.classify_area import classify_area
+from packages.answer.answer_writer import AnswerWriter, _is_out_of_scope
 from packages.answer.schemas import AnswerStatus
 from packages.embeddings.fake_provider import FakeEmbeddingProvider
+from packages.legal_types.enums import LegalArea
 from packages.legal_types.schemas import LegalChunk
 from packages.llm.fake_provider import FakeLLMProvider
 from packages.rag.retriever import LegalRetriever
@@ -96,3 +98,100 @@ def test_no_chunks_at_all_refuses(cdc_chunks: list[LegalChunk]) -> None:
 
     answer = writer.write("O fornecedor responde por defeito do produto?", top_k=3)
     assert answer.status is AnswerStatus.REFUSED
+
+
+# --- Scope gate (§2.2), CodeRabbit #3: UNKNOWN must not be pre-refused ----------------
+
+
+def test_administrative_question_classifies_to_defined_out_of_scope_area() -> None:
+    # (a) precondition: an administrative question is a *defined* out-of-scope area,
+    # not UNKNOWN — so the pre-retrieval gate is allowed to refuse it.
+    area = classify_area("Quero saber sobre improbidade administrativa de um prefeito")
+    assert area is LegalArea.ADMINISTRATIVE
+    assert _is_out_of_scope("Quero saber sobre improbidade administrativa de um prefeito")
+
+
+def test_administrative_question_refuses_safely(writer: AnswerWriter) -> None:
+    # (a) defined out-of-scope class (administrative) still pre-refuses before retrieval.
+    answer = writer.write(
+        "Quero saber sobre improbidade administrativa de um prefeito", top_k=3
+    )
+    assert answer.status is AnswerStatus.REFUSED
+    assert answer.legal_basis == []
+    assert answer.not_legal_advice is True
+
+
+# --- Corpus-less regime signal (§2.2), agentic matched_out_of_scope_regime ------------
+# These regimes classify UNKNOWN (no enum class) yet must pre-refuse deterministically:
+# the explicit signal distinguishes them from no-evidence UNKNOWN. See
+# _workspace/14_answer_oos_signal_consume_summary.md.
+
+
+def test_inpi_trademark_regime_pre_refuses() -> None:
+    # (a) INPI/marca: corpus-less regime matched -> UNKNOWN area but pre-refused.
+    question = "Como registrar marca no INPI?"
+    assert classify_area(question) is LegalArea.UNKNOWN
+    assert _is_out_of_scope(question) is True
+
+
+def test_inpi_trademark_regime_refuses_safely(writer: AnswerWriter) -> None:
+    answer = writer.write("Como registrar marca no INPI?", top_k=3)
+    assert answer.status is AnswerStatus.REFUSED
+    assert answer.legal_basis == []
+    assert answer.not_legal_advice is True
+
+
+def test_environmental_licensing_regime_pre_refuses() -> None:
+    # (b) licenciamento ambiental: corpus-less regime matched -> pre-refused.
+    question = "Quais os requisitos do licenciamento ambiental?"
+    assert classify_area(question) is LegalArea.UNKNOWN
+    assert _is_out_of_scope(question) is True
+
+
+def test_environmental_licensing_regime_refuses_safely(writer: AnswerWriter) -> None:
+    answer = writer.write("Quais os requisitos do licenciamento ambiental?", top_k=3)
+    assert answer.status is AnswerStatus.REFUSED
+    assert answer.legal_basis == []
+
+
+def test_social_security_regime_pre_refuses() -> None:
+    question = "Aposentadoria por tempo de contribuicao no INSS"
+    assert classify_area(question) is LegalArea.UNKNOWN
+    assert _is_out_of_scope(question) is True
+
+
+def test_unknown_no_evidence_question_is_not_pre_refused_by_scope_gate() -> None:
+    # (b) an in-corpus question (judicial inventory: CC art. 610 / CPC) the keyword map
+    # fails to recognize classifies UNKNOWN. UNKNOWN must NOT be pre-refused: grounding is
+    # left to retrieval/auditor, mirroring the researcher-node contract (§14/§15.2).
+    question = "Como funciona o procedimento de arrolamento dos bens deixados?"
+    assert classify_area(question) is LegalArea.UNKNOWN
+    assert _is_out_of_scope(question) is False
+
+
+def test_in_scope_civil_usucapiao_is_not_pre_refused() -> None:
+    # (c/e) usucapião classifies CIVIL (in scope) -> not pre-refused.
+    question = "Quais os requisitos da usucapião extraordinária de imóvel?"
+    assert classify_area(question) is LegalArea.CIVIL
+    assert _is_out_of_scope(question) is False
+
+
+def test_unknown_question_can_be_answered_when_retrieval_grounds_it(
+    cdc_chunks: list[LegalChunk],
+) -> None:
+    # (b) end-to-end: a question classified UNKNOWN reaches retrieval and, when a real
+    # source surfaces, is answered — not refused by the scope gate. The fake embedding
+    # matches lexical overlap, so we phrase the (UNKNOWN-classified) question around the
+    # in-corpus art. 12 text to force a grounded hit.
+    question = "O fabricante e o importador respondem pela reparacao dos danos?"
+    assert classify_area(question) is LegalArea.UNKNOWN  # no keyword evidence
+
+    embeddings = FakeEmbeddingProvider()
+    store = InMemoryVectorStore()
+    store.upsert_chunks(cdc_chunks, embeddings.embed_texts([c.text for c in cdc_chunks]))
+    service = SearchService(LegalRetriever(embeddings, store))
+    writer = AnswerWriter(service, FakeLLMProvider())
+
+    answer = writer.write(question, top_k=3)
+    assert answer.status is AnswerStatus.ANSWERED
+    assert answer.sources, "a grounded UNKNOWN question must carry sources"

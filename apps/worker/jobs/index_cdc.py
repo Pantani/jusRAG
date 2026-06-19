@@ -2,11 +2,17 @@
 
 ``make index-cdc`` -> ``python -m apps.worker.jobs.index_cdc``.
 
-Reads ``data/generated/cdc_chunks.jsonl`` (statutes) AND, when present,
-``data/generated/case_law_chunks.jsonl`` (STJ case law, doc_type=case_law),
-embeds each chunk with the configured ``EmbeddingProvider`` and upserts both into
-the single ``legal_chunks`` Qdrant collection. The retriever then separates
-statute from case_law via the ``doc_type`` metadata filter (§9/§22).
+Reads ``data/generated/cdc_chunks.jsonl`` (CDC statutes), AND, when present,
+``data/generated/statutes_chunks.jsonl`` (the 7 federal codes — CF/88, CC, CP,
+CLT, CTN, CPC, CPP) and ``data/generated/case_law_chunks.jsonl`` (STJ case law,
+doc_type=case_law), embeds each chunk with the configured ``EmbeddingProvider``
+and upserts all of them into the single ``legal_chunks`` Qdrant collection. The
+retriever then separates statute from case_law via the ``doc_type`` filter and
+narrows by area via the ``legal_area`` filter (§9/§22).
+
+This job indexes the FULL statute corpus (CDC + 7 codes). ``make index-cdc`` and
+``make index-corpus`` are aliases for it; the name is kept for backwards
+compatibility — the load set comes from ``load_indexable_chunks`` either way.
 
 Idempotent: the point id is derived from the stable ``chunk_id`` (§28/§40.4), so
 re-running after ``make ingest-cdc`` and ``ingest-case-law`` overwrites in place.

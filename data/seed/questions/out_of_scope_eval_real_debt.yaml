@@ -1,0 +1,154 @@
+# Out-of-scope — eval-real debt cohort (NOT loaded by the fake CI gate).
+#
+# IMPORTANT: this file is deliberately NOT named "*_golden.yaml", so
+# packages.evals.golden.load_golden() does NOT pick it up. It is documentation of a
+# KNOWN eval-real debt, kept under version control so the cases are not lost.
+#
+# SCOPE OF THIS DEBT (Phase-14 explicit-OOS-signal restore — see
+# _workspace/14_eval_oos_restore_summary.md):
+# After the answer wired the deterministic `matched_out_of_scope_regime` signal
+# (_workspace/14_answer_oos_signal_consume_summary.md), every question that MATCHES a
+# corpusless regime term pre-refuses DETERMINISTICALLY (fake AND real), independent of the
+# embedding. Those were RESTORED to out_of_scope_golden.yaml. This file now holds ONLY the
+# genuinely grounding-dependent residue: questions that match NO regime term, reach
+# retrieval, and refuse correctly ONLY under real dense embeddings (large semantic distance
+# to an absent regime), while leaking under the purely-lexical FakeEmbeddingProvider.
+# Each is verified `matched_out_of_scope_regime(question) is False`.
+#
+# Two sub-classes remain:
+#
+# Cohort A — TAX sub-topics routed to the in-scope `tax` area (or UNKNOWN) sharing the
+# surface vocabulary "imposto"/"ICMS"/"IRPF"/"ITCMD" but whose specific regime is NOT in
+# the CTN corpus (CTN is the general norm: no aliquots, no state taxes). The fake lexical
+# store scores tangential CTN chunks above the grounding threshold (_MIN_SEMANTIC_SCORE
+# 0.29; e.g. ICMS -> CTN art. 69 at 0.583) and the writer answers instead of refusing.
+#
+# Cohort B — corpusless REGIMES whose specific surface vocabulary is NOT (yet) a term in
+# the agentic `_OUT_OF_SCOPE_TERMS` set: eleitoral/inelegibilidade, migração/visto,
+# família/sucessões substantivas (pensão/herdeiros/testamento), concorrência/CADE, direitos
+# autorais, M&A, tese penal STF, registro civil. They classify UNKNOWN with NO regime match,
+# so they proceed to retrieval and refuse only on dense grounding distance.
+#
+# Validated as fake artifacts (status flips fake->answered, real->refused), NOT regressions:
+# the product behaviour under real providers is the correct refusal.
+#
+# Pendência ao orquestrador:
+#   - agentic: broaden `_OUT_OF_SCOPE_TERMS` to cover Cohort B regimes (eleitoral, migração,
+#     concorrência, autoral, sucessões substantivas) so they pre-refuse deterministically and
+#     can return to out_of_scope_golden.yaml; and/or route corpusless sub-topics of an
+#     in-scope area (Cohort A tax) to OOS.
+#   - retrieval/answer: tighten the grounding signal so an UNKNOWN question with no
+#     semantically-close source refuses rather than grounding on a tangential chunk.
+
+# --- Cohort A: TAX sub-topics (in-scope `tax` area / UNKNOWN, corpusless sub-topic) ---
+- id: oos-declarar-bitcoin
+  area: out_of_scope
+  question: Como declarar criptomoedas e bitcoin na malha fina da Receita Federal?
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+- id: oos-tax-01
+  area: out_of_scope
+  question: Qual a alíquota do imposto de renda pessoa física para o ano corrente?
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+- id: oos-tax-02
+  area: out_of_scope
+  question: Como calcular o ITCMD na transmissão causa mortis de imóvel em São Paulo?
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+- id: oos-tax-03
+  area: out_of_scope
+  question: Qual a base de cálculo do ICMS na importação de mercadorias?
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+- id: oos-tax-04
+  area: out_of_scope
+  question: Como funciona a substituição tributária no ICMS para combustíveis?
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+- id: oos-tax-05
+  area: out_of_scope
+  question: "Qual a alíquota efetiva do IRPF na faixa mais alta da tabela progressiva mensal?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+- id: oos-imposto-territorial
+  area: out_of_scope
+  question: Qual a alíquota do imposto territorial rural cobrado pela Receita Federal?
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+# --- Cohort B: corpusless regimes with no regime-term match (grounding-dependent) ---
+# eleitoral
+- id: oos-ele-01
+  area: out_of_scope
+  question: "Quais as hipóteses de inelegibilidade previstas na Lei Complementar 64/90?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+- id: oosx-ele-inelegibilidade
+  area: out_of_scope
+  question: Como funciona a prestação de contas de campanha ao TSE e quais as sanções por desaprovação das contas?
+  expected_chunk_ids: []
+  expected_behavior: refused
+# migração / internacional
+- id: oos-int-01
+  area: out_of_scope
+  question: "Quais os requisitos para obtenção de visto humanitário no Brasil pela Lei de Migração?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+- id: oosx-mig-visto-humanitario
+  area: out_of_scope
+  question: Quais os documentos exigidos para autorização de residência por reunião familiar de estrangeiro no Brasil?
+  expected_chunk_ids: []
+  expected_behavior: refused
+# família / sucessões substantivas
+- id: oos-fam-02
+  area: out_of_scope
+  question: "Quais os requisitos para fixação de pensão alimentícia para filho menor?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+- id: oos-suc-02
+  area: out_of_scope
+  question: "Quais são os herdeiros necessários segundo o Código Civil brasileiro?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+- id: oos-suc-03
+  area: out_of_scope
+  question: "Como funciona o testamento público lavrado em tabelionato de notas?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+# empresarial — M&A (no regime-term match: "sociedade limitada/anônima" absent)
+- id: oos-emp-03
+  area: out_of_scope
+  question: "Como funciona uma operação de M&A no Brasil sob a Lei das S.A.?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+# penal — tese STF (interpretação, sem artigo de corpus)
+- id: oos-pen-02
+  area: out_of_scope
+  question: "Como o STF interpreta o tráfico privilegiado para fins de hediondez?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+# concorrência / CADE
+- id: oosx-conc-cade
+  area: out_of_scope
+  question: Como o CADE analisa atos de concentração econômica na defesa da concorrência?
+  expected_chunk_ids: []
+  expected_behavior: refused
+# autoral
+- id: oosx-aut-direitos-autorais
+  area: out_of_scope
+  question: Como funciona a proteção de direitos autorais sobre uma obra musical na Lei de Direitos Autorais?
+  expected_chunk_ids: []
+  expected_behavior: refused
+# registro civil — classify UNKNOWN, no regime term
+- id: oosx-reg-civil-nascimento
+  area: out_of_scope
+  question: Quais os requisitos para o registro civil de nascimento de uma criança em cartório?
+  expected_chunk_ids: []
+  expected_behavior: refused

@@ -3,6 +3,7 @@
 from packages.legal_types.enums import (
     DocType,
     LegalArea,
+    NormType,
     PrecedentType,
     SupportLevel,
 )
@@ -47,3 +48,22 @@ def test_precedent_type_covers_spec() -> None:
 
 def test_support_level_values() -> None:
     assert SupportLevel.DIRECT.value == "direct"
+
+
+def test_norm_type_covers_federal_codes() -> None:
+    expected = {
+        "constituicao",
+        "lei",
+        "lei_complementar",
+        "decreto",
+        "decreto_lei",
+        "medida_provisoria",
+        "unknown",
+    }
+    assert {n.value for n in NormType} == expected
+
+
+def test_norm_type_decreto_lei_distinct_from_decreto() -> None:
+    # CP (DL 2.848/1940), CPP (DL 3.689/1941), CLT (DL 5.452/1943).
+    assert NormType.DECRETO_LEI.value == "decreto_lei"
+    assert NormType.DECRETO_LEI is not NormType.DECRETO

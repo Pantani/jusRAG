@@ -155,6 +155,7 @@ class EvalSuiteResult:
                 "out_of_scope": self.golden.out_of_scope,
                 "min_required": MIN_GOLDEN,
                 "meets_minimum": self.golden.total >= MIN_GOLDEN,
+                "per_area": self.golden.per_area,
             },
             "gate": {
                 "strict": strict,
@@ -279,6 +280,7 @@ def _print_summary(result: EvalSuiteResult, *, strict: bool) -> None:
     for name, value, threshold, passed in rows:
         mark = "PASS" if passed else "FAIL"
         print(f"  [{mark}] {name} = {value:.4f} (threshold {threshold}){suffix}")
+    _print_per_area(result)
     if sampled:
         print(
             f"LLM sample active: {result.llm_sample.size} questions "
@@ -290,6 +292,21 @@ def _print_summary(result: EvalSuiteResult, *, strict: bool) -> None:
     mode = "strict" if strict else "hallucination-only"
     print(f"Gate ({mode}): {verdict}")
     print(f"Report: {REPORT_JSON} | {REPORT_MD}")
+
+
+def _print_per_area(result: EvalSuiteResult) -> None:
+    """Per-area recall@5 breakdown (aggregate gate stays the build verdict)."""
+
+    per_area = result.retrieval.per_area
+    if not per_area:
+        return
+    print("Per-area retrieval recall@5:")
+    for area, ar in per_area.items():
+        mark = "PASS" if ar.passed else "FAIL"
+        print(
+            f"  [{mark}] {area} = {ar.recall:.4f} "
+            f"({ar.total_found}/{ar.total_expected})"
+        )
 
 
 def _strict_mode() -> bool:

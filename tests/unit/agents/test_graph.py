@@ -172,11 +172,18 @@ def test_intake_node_extracts_facts_and_missing() -> None:
 def test_classify_area_node_consumer_vs_out_of_scope() -> None:
     assert classify_area("defeito do produto e direito do consumidor") is LegalArea.CONSUMER
     assert classify_area("alíquota de imposto sobre cripto") is LegalArea.TAX
+    # In-scope areas (corpus ingested) carry no out-of-scope caveat.
     out = run_classify_area(
         LegalResearchState(run_id="r", question="alíquota de imposto sobre cripto")
     )
     assert out["legal_area"] == LegalArea.TAX.value
-    assert any("Direito do Consumidor" in c for c in out["caveats"])
+    assert "caveats" not in out
+    # Administrative has no corpus → out of scope → caveat emitted.
+    adm = run_classify_area(
+        LegalResearchState(run_id="r", question="regras de licitação para servidor público")
+    )
+    assert adm["legal_area"] == LegalArea.ADMINISTRATIVE.value
+    assert any("fora da cobertura" in c for c in adm["caveats"])
 
 
 def test_retry_marker_counting_is_isolated() -> None:

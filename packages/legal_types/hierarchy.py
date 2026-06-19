@@ -67,14 +67,25 @@ _STJ_PRECEDENT_TIERS: dict[PrecedentType, AuthorityTier] = {
 }
 
 
+# Norm types com força de lei federal vigente (§39). decreto_lei recepcionado
+# (CP/CPP/CLT) pertence a este grupo, distinto de decreto regulamentar infralegal.
+_FEDERAL_LAW_NORMS: frozenset[str] = frozenset(
+    {"lei", "lei_complementar", "decreto_lei", "medida_provisoria"}
+)
+
+
 def tier_for_statute(chunk: LegalChunk) -> AuthorityTier:
     """Map a statute chunk to an authority tier (§39)."""
 
     norm = (chunk.norm_type or "").lower()
     if norm in {"constituicao", "constituição"}:
         return AuthorityTier.CONSTITUTION
-    if norm:
+    # decreto_lei recepcionado tem força de lei federal (CP/CPP/CLT), assim como
+    # lei / lei_complementar / medida_provisoria. Lista autoritativa (§39).
+    if norm in _FEDERAL_LAW_NORMS:
         return AuthorityTier.FEDERAL_LAW
+    # Qualquer outro norm_type (typo, infralegal como "portaria"/"decreto", ou
+    # vazio) NÃO recebe força de lei federal: cai em UNKNOWN (0.10), não 0.95.
     return AuthorityTier.UNKNOWN
 
 

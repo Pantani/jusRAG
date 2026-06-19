@@ -19,6 +19,7 @@ import re
 
 from packages.legal_types.enums import DocType, PrecedentType
 from packages.legal_types.hierarchy import (
+    _FEDERAL_LAW_NORMS,
     AuthorityTier,
     authority_weight_for_doc_type,
     weight_for,
@@ -62,12 +63,14 @@ def authority_for_payload(payload: dict[str, object]) -> float:
         return weight_for(AuthorityTier.UNKNOWN)
 
     if doc_type is DocType.STATUTE:
-        # Statute tier from norm_type (§39): constituição = top, any other norm
-        # = federal-law tier, none = unknown. Mirrors hierarchy.tier_for_statute.
+        # Strict statute tier from norm_type (§39), mirroring
+        # hierarchy.tier_for_statute: constituição = top, only the recognised
+        # federal-law norm types (_FEDERAL_LAW_NORMS) = federal-law tier, any
+        # other/unknown norm (e.g. "portaria") = UNKNOWN — no permissive 0.95.
         norm = str(payload.get("norm_type") or "").lower()
         if norm in {"constituicao", "constituição"}:
             return weight_for(AuthorityTier.CONSTITUTION)
-        if norm:
+        if norm in _FEDERAL_LAW_NORMS:
             return weight_for(AuthorityTier.FEDERAL_LAW)
         return weight_for(AuthorityTier.UNKNOWN)
     if doc_type is DocType.CASE_LAW:

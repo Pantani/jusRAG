@@ -17,6 +17,7 @@ def render_markdown(payload: dict[str, Any]) -> str:
     lines += _sample_section(payload.get("llm_sampled"))
     lines += _gate_section(payload["gate"])
     lines += _metrics_table(payload)
+    lines += _per_area_section(payload)
     lines += _failures_section(payload["metrics"])
     lines.append("")
     return "\n".join(lines)
@@ -119,6 +120,48 @@ def _heuristic_rows(answer: dict[str, Any]) -> list[str]:
         f"| answer_relevancy (heuristic) | {answer['answer_relevancy']['value']:.4f} | — | — |",
         f"| faithfulness (heuristic) | {answer['faithfulness']['value']:.4f} | — | — |",
     ]
+
+
+def _per_area_section(payload: dict[str, Any]) -> list[str]:
+    metrics = payload["metrics"]
+    ret_area = metrics["retrieval"].get("per_area", {})
+    cit_area = metrics["citation"].get("per_area", {})
+    rel_area = metrics["answer"].get("answer_relevancy_per_area", {})
+    counts = payload["golden"].get("per_area", {})
+    areas = sorted(set(ret_area) | set(cit_area) | set(rel_area) | set(counts))
+    if not areas:
+        return []
+    lines = [
+        "## Per-area metrics",
+        "",
+        "| Area | Questions | recall@5 | citation_coverage | unsupported_rate | relevancy |",
+        "| --- | --- | --- | --- | --- | --- |",
+    ]
+    for area in areas:
+        lines.append(_per_area_row(area, counts, ret_area, cit_area, rel_area))
+    lines.append("")
+    return lines
+
+
+def _fmt(value: float | None) -> str:
+    return f"{value:.4f}" if value is not None else "—"
+
+
+def _per_area_row(
+    area: str,
+    counts: dict[str, Any],
+    ret_area: dict[str, Any],
+    cit_area: dict[str, Any],
+    rel_area: dict[str, Any],
+) -> str:
+    n = counts.get(area, "—")
+    rec = ret_area.get(area, {}).get("recall")
+    cov = cit_area.get(area, {}).get("citation_coverage")
+    uns = cit_area.get(area, {}).get("unsupported_legal_claim_rate")
+    rel = rel_area.get(area, {}).get("value")
+    return (
+        f"| {area} | {n} | {_fmt(rec)} | {_fmt(cov)} | {_fmt(uns)} | {_fmt(rel)} |"
+    )
 
 
 def _failures_section(metrics: dict[str, Any]) -> list[str]:

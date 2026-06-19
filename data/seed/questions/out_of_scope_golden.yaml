@@ -1,0 +1,141 @@
+# Golden dataset — Out-of-scope (refusal) for the multi-area corpus (§36, §2.2).
+#
+# DETERMINISTIC refusal cohort. After the Phase-14 explicit OOS-signal wiring
+# (_workspace/14_answer_oos_signal_consume_summary.md), the AnswerWriter pre-refuses,
+# BEFORE retrieval and INDEPENDENT of the embedding provider, every question whose text
+# matches a corpusless juridical regime via `matched_out_of_scope_regime(question)`
+# (agentic, _workspace/14_agentic_oos_signal_summary.md). Only a question that classifies
+# UNKNOWN AND matches NO regime ("no evidence") proceeds to retrieval, where grounding +
+# the CitationAuditor decide.
+#
+# Therefore this golden holds exactly the questions that refuse DETERMINISTICALLY under
+# both the fake and the real pipeline:
+#   1. defined out-of-scope `administrative` area (licitação, concurso, improbidade,
+#      servidor) — pre-refused by the scope gate; and
+#   2. UNKNOWN-classified corpusless regimes whose text matches a term in the agentic
+#      `_OUT_OF_SCOPE_TERMS` set (previdenciário/INSS/aposentadoria, ambiental/
+#      licenciamento, propriedade industrial/INPI/marca/patente, marítimo, empresarial/
+#      recuperação judicial/sociedade) — pre-refused by `matched_out_of_scope_regime`,
+#      independent of the embedding (no lexical-luck involved).
+#
+# What is NOT here (kept in out_of_scope_eval_real_debt.yaml): questions that match NO
+# regime term and therefore reach retrieval, refusing only on dense-embedding grounding
+# distance. Under the fake purely-lexical store they leak. These are the genuine
+# eval-real debt: corpusless TAX sub-topics of the in-scope `tax` area (alíquota IRPF,
+# ITCMD, ICMS específico), plus regimes whose specific surface vocabulary is not yet a
+# regime term (eleitoral/inelegibilidade, migração/visto, família/sucessões substantivas,
+# concorrência/CADE, autoral, M&A, tese penal STF, registro civil). They depend on real
+# dense grounding, not on a deterministic pre-refusal.
+#
+# Pendência ao orquestrador (agentic): broaden `_OUT_OF_SCOPE_TERMS` to cover the
+# remaining corpusless regimes (eleitoral, migração, concorrência, autoral, sucessões
+# substantivas) so they too pre-refuse deterministically and can return to this golden.
+
+- id: oosx-adm-licitacao-modalidades
+  area: out_of_scope
+  question: Quais são as modalidades de licitação previstas na Lei 14.133/2021 de Licitações e Contratos Administrativos?
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+- id: oosx-adm-servidor-estabilidade
+  area: out_of_scope
+  question: Quais os requisitos de estabilidade do servidor público estatutário após o estágio probatório na Lei 8.112/1990?
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+- id: oosx-adm-improbidade
+  area: out_of_scope
+  question: Quais os atos de improbidade administrativa que importam enriquecimento ilícito na Lei 8.429/1992?
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+- id: oos-adm-01
+  area: out_of_scope
+  question: "Em quais hipóteses a contratação direta por dispensa ou inexigibilidade de licitação é admitida pela administração pública?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+- id: oos-adm-02
+  area: out_of_scope
+  question: "Como funciona o concurso público segundo princípios da administração pública?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+- id: oos-adm-03
+  area: out_of_scope
+  question: "Quais os requisitos para improbidade administrativa por enriquecimento ilícito?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+
+# --- Corpusless regimes restored from eval-debt: match matched_out_of_scope_regime,
+# pre-refused deterministically (fake AND real), independent of the embedding provider.
+# previdenciário / INSS / aposentadoria
+- id: oos-aposentadoria-inss
+  area: out_of_scope
+  question: Quais são os requisitos para aposentadoria por tempo de contribuição junto ao INSS?
+  expected_chunk_ids: []
+  expected_behavior: refused
+- id: oos-pre-01
+  area: out_of_scope
+  question: "Quais os requisitos para a concessão de pensão por morte como benefício previdenciário pelo INSS aos dependentes do segurado falecido?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+- id: oos-pre-02
+  area: out_of_scope
+  question: "Quais os critérios de renda e deficiência para concessão do benefício de prestação continuada (BPC/LOAS) administrado pelo INSS?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+- id: oos-pre-03
+  area: out_of_scope
+  question: "Quais os requisitos para aposentadoria especial por exposição a agentes nocivos?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+- id: oosx-prev-aposentadoria-tempo
+  area: out_of_scope
+  question: Quais os requisitos para aposentadoria por tempo de contribuição junto ao INSS após a reforma da previdência?
+  expected_chunk_ids: []
+  expected_behavior: refused
+- id: oosx-prev-incapacidade
+  area: out_of_scope
+  question: Quais perícias o INSS exige para conceder o benefício por incapacidade temporária ao segurado?
+  expected_chunk_ids: []
+  expected_behavior: refused
+# empresarial / societário (recuperação judicial, sociedade anônima/limitada)
+- id: oos-emp-01
+  area: out_of_scope
+  question: "Como funciona o processo de recuperação judicial de uma sociedade limitada?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+- id: oos-emp-02
+  area: out_of_scope
+  question: "Quais os requisitos para constituição de uma sociedade anônima fechada?"
+  expected_chunk_ids: []
+  expected_behavior: refused
+# ambiental / licenciamento
+- id: oosx-amb-licenciamento
+  area: out_of_scope
+  question: Quais as licenças exigidas no licenciamento ambiental de uma usina hidrelétrica?
+  expected_chunk_ids: []
+  expected_behavior: refused
+- id: oosx-amb-eia-rima
+  area: out_of_scope
+  question: Como funciona o estudo prévio de impacto ambiental EIA RIMA para obras potencialmente poluidoras?
+  expected_chunk_ids: []
+  expected_behavior: refused
+# propriedade industrial / INPI / marca / patente
+- id: oosx-pi-marca-inpi
+  area: out_of_scope
+  question: Quais os requisitos para registro de marca no INPI segundo a Lei da Propriedade Industrial?
+  expected_chunk_ids: []
+  expected_behavior: refused
+- id: oosx-pi-patente-prazo
+  area: out_of_scope
+  question: Qual o prazo de vigência de uma patente de invenção concedida pelo INPI?
+  expected_chunk_ids: []
+  expected_behavior: refused
+# marítimo
+- id: oosx-mar-transporte
+  area: out_of_scope
+  question: Como funciona o transporte marítimo de cargas e o conhecimento de embarque na navegação?
+  expected_chunk_ids: []
+  expected_behavior: refused

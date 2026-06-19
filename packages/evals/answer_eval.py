@@ -20,6 +20,7 @@ pipeline — one pass, consistent numbers.
 
 from __future__ import annotations
 
+from collections import defaultdict
 from dataclasses import dataclass, field
 
 from packages.answer.citation_auditor import AuditChunk, LegalClaim
@@ -64,6 +65,7 @@ class AnswerEvalReport:
     refusal_cases: list[RefusalCase] = field(default_factory=list)
     refusal_passed: bool = True
     failing_case_ids: list[str] = field(default_factory=list)
+    relevancy_per_area: dict[str, float] = field(default_factory=dict)
 
     def as_dict(self) -> dict[str, object]:
         return {
@@ -73,6 +75,10 @@ class AnswerEvalReport:
                 "passed": self.refusal_passed,
             },
             "answer_relevancy": {"value": self.answer_relevancy, "heuristic": True},
+            "answer_relevancy_per_area": {
+                area: {"value": value, "heuristic": True}
+                for area, value in self.relevancy_per_area.items()
+            },
             "faithfulness": {"value": self.faithfulness, "heuristic": True},
             "out_of_scope_total": self.out_of_scope_total,
             "correctly_refused": self.correctly_refused,
@@ -150,6 +156,28 @@ def _answer_relevancy(
     return relevant / total if total else 1.0
 
 
+def _relevancy_per_area(
+    produced: list[ProducedAnswer],
+    questions: list[GoldenQuestion],
+) -> dict[str, float]:
+    """answer_relevancy broken down by legal area over in-scope questions."""
+
+    in_scope = {q.id: q for q in in_scope_questions(questions)}
+    relevant: dict[str, int] = defaultdict(int)
+    total: dict[str, int] = defaultdict(int)
+    for p in produced:
+        q = in_scope.get(p.question.id)
+        if q is None:
+            continue
+        total[q.metric_area] += 1
+        if _cited_ids(p.answer) & set(q.expected_chunk_ids):
+            relevant[q.metric_area] += 1
+    return {
+        area: (relevant[area] / total[area] if total[area] else 1.0)
+        for area in sorted(total)
+    }
+
+
 def _faithfulness(produced: list[ProducedAnswer], questions: list[GoldenQuestion]) -> float:
     """Fraction of in-scope answers whose attached citation audit passed."""
 
@@ -196,6 +224,7 @@ def evaluate_answers(
         refusal_cases=cases,
         refusal_passed=passed,
         failing_case_ids=failing,
+        relevancy_per_area=_relevancy_per_area(answers, questions),
     )
 
 
@@ -231,6 +260,7 @@ def answer_cases_for_citation(
                 short_answer=ans.short_answer,
                 legal_basis=basis,
                 chunks=chunks,
+                area=p.question.metric_area,
             )
         )
     return cases

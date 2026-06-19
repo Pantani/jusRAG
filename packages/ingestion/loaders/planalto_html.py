@@ -82,7 +82,32 @@ class _ParagraphCollector(HTMLParser):
 # ---------- Classification ----------
 
 _HEADER_PREFIXES = ("TÍTULO ", "CAPÍTULO ", "SEÇÃO ", "SUBSEÇÃO ", "LIVRO ")
-_ARTICLE_RE = re.compile(r"^\s*Art\.?\s*(\d+(?:-[A-Z])?)\s*[º°o]?\s*(.*)", re.IGNORECASE)
+# Article number may carry a thousands separator on Planalto ("Art. 1.000.",
+# "Art. 1.711.") and an optional letter suffix ("Art. 1.240-A"). We capture the
+# full numeric run *with* its dots and strip them in _format_article_line, so a
+# 4-digit article is never truncated to its leading digit (root cause of the CC
+# parser stopping at ~art. 999 and losing Família/Sucessões).
+# The optional ordinal suffix must NOT swallow the capital "O" that opens many
+# capute bodies ("Art. 10. O fornecedor..."). With ``re.IGNORECASE`` a bare
+# ``[º°o]?`` matched that "O" and silently dropped it. We accept only the real
+# ordinal glyphs ``º``/``°`` plus a *case-sensitive* lowercase ``o`` (the "1o"
+# ASCII ordinal) via ``(?-i:o)`` — never the uppercase "O" of a sentence start.
+# A single trailing ``.`` after the number/ordinal ("Art. 10.") is consumed too.
+# The optional letter suffix may itself carry the ordinal mark *inside* the
+# number, as in the canonical Brazilian spelling of amended low articles
+# ("Art. 1º-A", arts. 1º–9º). The ordinal therefore lives inside the capture
+# group, before the ``-A`` suffix, so "1º-A" yields the whole "1º-A" run rather
+# than capturing "1" and leaking "-A" into the body. A bare suffix without the
+# ordinal ("Art. 1-A") and a trailing ordinal on a plain number ("Art. 1º.")
+# both remain valid because each segment is optional.
+_ARTICLE_RE = re.compile(
+    r"^\s*Art\.?\s*(\d(?:[\d.]*\d)?(?:(?:[º°]|(?-i:o))?-[A-Z])?)(?:[º°]|(?-i:o))?\.?\s*(.*)",
+    re.IGNORECASE,
+)
+# Some Planalto pages (e.g. CTN) split the article marker and its number across
+# a <br>: "Art.\n1º Esta Lei...". Join "Art." + newline + digit back so the
+# article heading is detected instead of being swallowed as body (no content loss).
+_ART_LINEBREAK_RE = re.compile(r"^(\s*Art\.?)\s*\n\s*(\d)", re.IGNORECASE)
 _PARAGRAPH_RE = re.compile(r"^\s*(§\s*\d+\s*[º°o]?|Parágrafo único\.?)", re.IGNORECASE)
 _INCISO_RE = re.compile(r"^\s*([IVXLCDM]+)\s*[-–]\s*", re.IGNORECASE)
 _ALINEA_RE = re.compile(r"^\s*([a-z])\)\s*", re.IGNORECASE)
@@ -158,8 +183,16 @@ def _format_article_line(num: str, rest: str) -> tuple[str, str]:
     the same paragraph (often the article caput).
     """
 
-    base = num.split("-")[0]
-    token = f"{num}º" if base.isdigit() and int(base) < 10 else num
+    # Preserve the source's thousands separator in the heading ("Art. 1.000")
+    # for citation fidelity; the chunker strips it only for the id, never for
+    # display or body text.
+    stem, sep, suffix = num.partition("-")
+    base = stem.replace(".", "")
+    if base.isdigit() and int(base) < 10:
+        # Ordinal mark before the letter suffix: "1-A" -> "1º-A", never "1-Aº".
+        token = f"{stem}º-{suffix}" if sep else f"{stem}º"
+    else:
+        token = num
     return token, rest.strip()
 
 
@@ -217,7 +250,7 @@ def _convert_paragraphs(paragraphs: list[_Paragraph]) -> str:
     in_article = False
 
     for para in paragraphs:
-        text = _clean_inline(para.text)
+        text = _ART_LINEBREAK_RE.sub(r"\1 \2", _clean_inline(para.text))
         if not text:
             continue
         if para.centered:
@@ -253,8 +286,39 @@ def _emit_paragraph(lines: list[str], text: str, *, in_article: bool) -> bool:
 # ---------- Public entrypoint ----------
 
 
-_PUBLICATION_RE = re.compile(
-    r"LEI N[º°]?\s*8\.?078,\s*DE\s*11\s*DE\s*SETEMBRO\s*DE\s*1990", re.IGNORECASE
+@dataclass(frozen=True, slots=True)
+class SeedSpec:
+    """Provenance descriptor that parametrizes the seed-markdown frontmatter.
+
+    Lets the deterministic HTML->markdown converter serve any Planalto-vendored
+    federal code (CDC, CF/88, CC, CP, CLT, CTN, CPC, CPP), not just the CDC. The
+    body conversion stays identical; only the frontmatter (consumed by
+    ``LocalMarkdownLoader``) changes per code. ``source_html_rel`` is the repo
+    path of the vendored HTML, embedded for auditability (§2/§40.4).
+    """
+
+    short_name: str
+    title: str
+    source_url: str
+    norm_type: str
+    norm_number: str
+    norm_year: str
+    legal_area: str
+    source_html_rel: str
+    version: str = "compilado"
+    jurisdiction: str = "federal"
+    source: str = "planalto"
+
+
+_CDC_SPEC = SeedSpec(
+    short_name="cdc",
+    title="Código de Defesa do Consumidor (Lei nº 8.078/1990)",
+    source_url="https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+    norm_type="lei",
+    norm_number="8078",
+    norm_year="1990",
+    legal_area="consumer",
+    source_html_rel="data/seed/cdc/_source/planalto_l8078compilado.html",
 )
 
 
@@ -271,37 +335,39 @@ def html_to_markdown(html_bytes: bytes) -> str:
     return _convert_paragraphs(parser.paragraphs)
 
 
-def build_seed_markdown(html_path: Path) -> str:
-    """Build the full ``cdc.md`` (frontmatter + body) from a vendored HTML file.
+def build_seed_markdown(html_path: Path, spec: SeedSpec | None = None) -> str:
+    """Build a seed markdown (frontmatter + body) from a vendored HTML file.
 
-    Idempotent: invoking twice on the same bytes returns byte-identical text.
-    No timestamp inside the output — provenance is pinned by
-    ``fonte_html_hash``.
+    ``spec`` selects the code's provenance frontmatter; it defaults to the CDC
+    (backward-compatible with the Phase-13 ``ingest_cdc`` flow). Idempotent:
+    invoking twice on the same bytes returns byte-identical text. No timestamp
+    inside the output — provenance is pinned by ``fonte_html_hash``.
     """
 
+    spec = spec or _CDC_SPEC
     html_bytes = html_path.read_bytes()
     body = html_to_markdown(html_bytes)
     fonte_hash = hashlib.sha256(html_bytes).hexdigest()
 
     frontmatter = (
         "<!--\n"
-        "short_name: cdc\n"
-        "title: Código de Defesa do Consumidor (Lei nº 8.078/1990)\n"
-        "source: planalto\n"
-        "source_url: https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm\n"
-        "norm_type: lei\n"
-        "norm_number: 8078\n"
-        "norm_year: 1990\n"
-        "version: compilado\n"
-        "legal_area: consumer\n"
-        "jurisdiction: federal\n"
+        f"short_name: {spec.short_name}\n"
+        f"title: {spec.title}\n"
+        f"source: {spec.source}\n"
+        f"source_url: {spec.source_url}\n"
+        f"norm_type: {spec.norm_type}\n"
+        f"norm_number: {spec.norm_number}\n"
+        f"norm_year: {spec.norm_year}\n"
+        f"version: {spec.version}\n"
+        f"legal_area: {spec.legal_area}\n"
+        f"jurisdiction: {spec.jurisdiction}\n"
         f"fonte_html_hash: {fonte_hash}\n"
         "-->\n\n"
-        "# Código de Defesa do Consumidor — Lei nº 8.078, de 11 de setembro de 1990\n\n"
-        "Fonte: Planalto — https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm\n"
+        f"# {spec.title}\n\n"
+        f"Fonte: Planalto — {spec.source_url}\n"
         f"SHA256 do HTML fonte: {fonte_hash}\n\n"
         "Texto integral gerado deterministicamente a partir do HTML vendored em\n"
-        "`data/seed/cdc/_source/planalto_l8078compilado.html`. Conversão sem\n"
+        f"`{spec.source_html_rel}`. Conversão sem\n"
         "interpretação: o loader apenas reformata a estrutura (§40.4).\n\n"
     )
     return frontmatter + body
