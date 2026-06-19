@@ -97,23 +97,41 @@ def render_legal_basis(legal_basis: list[dict[str, Any]]) -> None:
                 st.caption("Citações: " + ", ".join(citations))
 
 
+def _render_case_law_card(item: dict[str, Any]) -> None:
+    with st.container(border=True):
+        header_parts = [p for p in (item.get("court"), item.get("case_number")) if p]
+        if header_parts:
+            st.markdown("**" + " — ".join(header_parts) + "**")
+        st.markdown(f"*{item.get('title', '')}*")
+        ementa = item.get("ementa")
+        if ementa:
+            st.write(ementa)
+        source_url = item.get("source_url")
+        if source_url:
+            st.markdown(f"[Fonte]({source_url})")
+
+
 def render_case_law(case_law: list[dict[str, Any]]) -> None:
     """Render jurisprudence cards, clearly separated from legislation (§2.3, §22)."""
     if not case_law:
         return
     st.subheader("Jurisprudência relevante")
     for item in case_law:
-        with st.container(border=True):
-            header_parts = [p for p in (item.get("court"), item.get("case_number")) if p]
-            if header_parts:
-                st.markdown("**" + " — ".join(header_parts) + "**")
-            st.markdown(f"*{item.get('title', '')}*")
-            ementa = item.get("ementa")
-            if ementa:
-                st.write(ementa)
-            source_url = item.get("source_url")
-            if source_url:
-                st.markdown(f"[Fonte]({source_url})")
+        _render_case_law_card(item)
+
+
+def _render_source_card(item: dict[str, Any]) -> None:
+    with st.container(border=True):
+        title = item.get("title", "")
+        article = item.get("article")
+        heading = f"{title} — {article}" if article else title
+        st.markdown(f"**{heading}**")
+        badges = [b for b in (item.get("doc_type"), item.get("source")) if b]
+        if badges:
+            st.caption(" · ".join(badges) + f" · `{item.get('chunk_id', '')}`")
+        source_url = item.get("source_url")
+        if source_url:
+            st.markdown(f"[Fonte oficial]({source_url})")
 
 
 def render_sources(sources: list[dict[str, Any]]) -> None:
@@ -122,17 +140,7 @@ def render_sources(sources: list[dict[str, Any]]) -> None:
         return
     st.subheader("Fontes e chunks usados")
     for item in sources:
-        with st.container(border=True):
-            title = item.get("title", "")
-            article = item.get("article")
-            heading = f"{title} — {article}" if article else title
-            st.markdown(f"**{heading}**")
-            badges = [b for b in (item.get("doc_type"), item.get("source")) if b]
-            if badges:
-                st.caption(" · ".join(badges) + f" · `{item.get('chunk_id', '')}`")
-            source_url = item.get("source_url")
-            if source_url:
-                st.markdown(f"[Fonte oficial]({source_url})")
+        _render_source_card(item)
 
 
 def render_caveats(caveats: list[str]) -> None:

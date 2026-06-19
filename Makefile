@@ -11,6 +11,7 @@ test:
 
 lint:
 	ruff check .
+	complexipy -q packages apps
 	mypy packages apps
 
 format:
