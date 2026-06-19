@@ -4,13 +4,13 @@
 
 O JusRAG Brasil é um pipeline de pesquisa jurídica em que **nenhuma afirmação jurídica relevante é emitida sem uma fonte recuperada**. O encadeamento conceitual é:
 
-```
+```text
 fonte → recuperação → ranking → síntese → auditoria → ressalva → avaliação
 ```
 
 ## Fluxo runtime
 
-```
+```text
 Usuário
   ↓
 Web UI ou API
@@ -69,7 +69,7 @@ Na v1.0 o **LangGraph é o runtime** (`packages/agents/graph.py`, `run_graph`): 
 
 A ingestão é offline (jobs `apps/worker/jobs/`, alvos `make`) e transforma fonte oficial em chunks citáveis:
 
-```
+```text
 loader → normalizer → chunker (por artigo) → versioning (content_hash) → JSONL
 ```
 

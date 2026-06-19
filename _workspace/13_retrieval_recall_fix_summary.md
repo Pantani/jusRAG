@@ -69,7 +69,7 @@ Nenhuma mudança em retriever/ranker/chunker — gate §36 mantido sem relaxar (
 
 ## Métricas finais (`make eval`, fake providers)
 
-```
+```text
 Golden questions: 31 (in-scope 24, out-of-scope 7)
   [PASS] retrieval_recall_at_5         = 0.8333 (threshold 0.80)
   [PASS] citation_coverage             = 1.0000 (threshold 0.90)

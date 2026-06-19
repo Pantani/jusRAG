@@ -31,6 +31,7 @@ citar verbatim com alta confiança. **Bloquear release v1.2 até revisão humana
 contra a fonte oficial (https://www.stj.jus.br/sumulasstj/, /repetitivos-temas/):
 
 ### Súmulas a revisar (10)
+
 - `stj-sumula-321` (CDC × previdência privada aberta)
 - `stj-sumula-359` (notificação prévia cadastro de proteção ao crédito)
 - `stj-sumula-385` (anotação irregular SCPC)
@@ -43,17 +44,19 @@ contra a fonte oficial (https://www.stj.jus.br/sumulasstj/, /repetitivos-temas/)
 - `stj-sumula-632` (inversão do ônus da prova em seguro)
 
 ### Repetitivos a revisar (15) — todos os 15 Temas adicionados
+
 - Temas 666, 717, 887, 932, 938, 939, 950, 952, 958, 960, 988, 990, 1006, 1020, 1030.
 - Para cada um: confirmar (a) número exato do Tema, (b) REsp paradigma e número de processo,
   (c) wording exato da tese fixada, (d) datas de julgamento/publicação.
 - Ementas atuais são *resumos topicais* mantidos curtos e consumer-específicos para não inventar.
 
 ### Verificadas (5) — entradas originais inalteradas
+
 `stj-sumula-130`, `stj-sumula-297`, `stj-sumula-302`, `stj-sumula-479`, `stj-sumula-543`.
 
 ## Idempotência
 
-```
+```bash
 $ python -m apps.worker.jobs.ingest_case_law && shasum data/generated/case_law_chunks.jsonl
 f45a068008cdf0c56c30521d2dcad38787397a82  data/generated/case_law_chunks.jsonl
 $ python -m apps.worker.jobs.ingest_case_law && shasum data/generated/case_law_chunks.jsonl
@@ -76,7 +79,7 @@ Bytes idênticos em re-runs consecutivos. Dedupe por `content_hash` confirmado p
 Após a expansão, `tests/evals/test_answer_eval.py::test_refusal_rate_meets_threshold_on_seed` e
 dois testes correlatos em `test_run_all.py` falham:
 
-```
+```text
 refusal_when_no_source_rate = 0.5714 (threshold 0.9)
 failing_case_ids = ['oos-imposto-territorial', 'oos-crime-homicidio', 'oos-usucapiao-imovel']
 ```

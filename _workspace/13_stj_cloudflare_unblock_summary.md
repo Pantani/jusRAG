@@ -36,7 +36,7 @@ explícito + 5 originais do seed v1.0 sem o campo) / **3 needs_review** com tare
 Cada `wayback_{N}.html` foi decodificado em latin-1 (encoding original do SCON), tags HTML
 strippadas, e o texto comparado com o campo `ementa` do seed. Match exato em todos os 3 casos:
 
-```
+```text
 === Súmula 472 === EMENTA MATCH: True
 === Súmula 595 === EMENTA MATCH: True
 === Súmula 608 === EMENTA MATCH: True
@@ -67,7 +67,7 @@ documental da tentativa**, com hashes registrados em `MANIFEST.txt`.
 
 ## Idempotência preservada
 
-```
+```bash
 $ make ingest-case-law && shasum data/generated/case_law_chunks.jsonl
 ... Ingested 30 case_law chunk(s) ...
 d2d058ca48efef5163a069a2f52769bd08c1a551  data/generated/case_law_chunks.jsonl

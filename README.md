@@ -16,7 +16,7 @@ LLMs geram respostas jurídicas convincentes, mas podem **inventar** artigos, s�
 
 O JusRAG Brasil é um **copiloto de pesquisa** que ataca esse problema: nenhuma afirmação jurídica relevante é emitida sem uma fonte recuperada. Toda resposta percorre o encadeamento:
 
-```
+```text
 fonte → recuperação → ranking → síntese → auditoria → ressalva → avaliação
 ```
 
@@ -45,7 +45,7 @@ Perguntas fora desse recorte tendem a **recusa segura** — comportamento espera
 
 Em runtime, a pergunta passa por um grafo **LangGraph** ponta a ponta:
 
-```
+```text
 intake → classify_legal_area → retrieve_statutes / retrieve_case_law
        → rerank_and_select_context → synthesize_answer
        → audit_citations → check_risks → final_answer

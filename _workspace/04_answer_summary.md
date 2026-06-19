@@ -17,7 +17,7 @@ declarado pela Fase 3; usado só com lazy import, nunca em unit).
 
 ## Shape do AnswerResponse (§30)
 
-```
+```text
 AnswerResponse {
   status: "answered" | "refused",
   short_answer: str,

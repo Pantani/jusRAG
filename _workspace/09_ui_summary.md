@@ -1,6 +1,7 @@
 # Fase 9 (v0.9) — UI demo — summary (ui-docs)
 
 ## Arquivos criados / alterados
+
 - `apps/web/app.py` — app Streamlit (apresentação only, consome `POST /ask`).
 - `apps/web/README.md` — como rodar e o que a UI exibe.
 - `docs/demo-script.md` — roteiro de demo real (substitui placeholder da Fase 1).
@@ -8,6 +9,7 @@
 - `pyproject.toml` — grupo opcional `[project.optional-dependencies] demo = [streamlit, httpx]`.
 
 ## O que a UI exibe (§25 / §12.12)
+
 - campo de pergunta + slider `top_k` (sidebar);
 - `short_answer` (resposta);
 - **fundamento legal** (legislação) e **jurisprudência** em cards SEPARADOS (§2.3) —
@@ -22,6 +24,7 @@
 - Sem lógica de negócio jurídica: só renderiza o que a API devolve.
 
 ## Como rodar
+
 ```bash
 make up && make ingest-cdc && make ingest-case-law && make index-cdc
 pip install -e ".[demo]"
@@ -30,11 +33,13 @@ JUSRAG_API_URL=http://localhost:8000 streamlit run apps/web/app.py
 `JUSRAG_API_URL` configurável (default http://localhost:8000).
 
 ## Deps adicionadas
+
 - `[project.optional-dependencies].demo`: `streamlit>=1.39`, `httpx>=0.27`. NÃO no core
   (mantém install/test base leve). Outros grupos/core intactos.
 - **Pendência:** ratificação do pyproject pelo FoundationAgent.
 
 ## Validado vs requer stack
+
 Validado aqui (sem subir API+Qdrant):
 - `pip install -e ".[demo]"` ok; `python -c "import apps.web.app"` ok.
 - render contra o schema REAL `AnswerResponse` (model_dump) via stub do streamlit:
@@ -50,7 +55,7 @@ Requer stack (NÃO executado aqui, demo end-to-end NÃO foi rodada):
   o schema, mas o fluxo HTTP ponta a ponta depende de `make up` + index.
 
 ## Saída lint/test
+
 - ruff: No issues found
 - mypy packages apps: No issues found
 - pytest tests: todos passam (120 unit; suíte completa verde, só StarletteDeprecationWarning).
-```
