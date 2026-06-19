@@ -76,9 +76,9 @@ Garantias
 Lei nº 13.964, de 2019)
 (Vigência)
 
-## Art. 3º
+## Art. 3º-A
 
--A. O
+O
 
 processo penal terá estrutura acusatória, vedadas a iniciativa do juiz
 na fase de investigação e a substituição da atuação probatória do órgão
@@ -90,9 +90,9 @@ Lei nº 13.964, de 2019)
 ADI 6.300)
 (Vide ADI 6.305)
 
-## Art. 3º
+## Art. 3º-B
 
--B. O
+O
 
 juiz das garantias é responsável pelo controle da legalidade da
 investigação criminal e pela salvaguarda dos direitos individuais cuja
@@ -294,9 +294,9 @@ Lei nº 13.964, de 2019)
 (Vigência)
 (Vide ADI 6.298)
 
-## Art. 3º
+## Art. 3º-C
 
--C. A
+A
 
 competência do juiz das garantias abrange todas as infrações penais,
 exceto as de menor potencial ofensivo, e cessa com o recebimento da
@@ -349,9 +349,9 @@ Lei nº 13.964, de 2019)
 (Vigência)
 (Vide ADI 6.298)
 
-## Art. 3º
+## Art. 3º-D
 
--D. O
+O
 
 juiz que, na fase de investigação, praticar qualquer ato incluído nas
 competências dos arts. 4º e 5º deste Código ficará impedido de funcionar
@@ -375,9 +375,9 @@ Lei nº 13.964, de 2019)
 (Vide ADI 6.298)
 (Vide ADI 6.299)
 
-## Art. 3º
+## Art. 3º-E
 
--E. O
+O
 
 juiz das garantias será designado conforme as normas de organização
 judiciária da União, dos Estados e do Distrito Federal, observando
@@ -392,9 +392,9 @@ Lei nº 13.964, de 2019)
 ADI 6.300)
 (Vide ADI 6.305)
 
-## Art. 3º
+## Art. 3º-F
 
--F. O
+O
 
 juiz das garantias deverá assegurar o cumprimento das regras para o
 tratamento dos presos, impedindo o acordo ou ajuste de qualquer

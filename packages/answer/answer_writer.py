@@ -133,9 +133,11 @@ class AnswerWriter:
         top_k: int = 8,
         filters: dict[str, object] | None = None,
     ) -> AnswerResponse:
-        # Area-scope gate (§2.2): refuse before spending an LLM call only when the
-        # question classifies to a *defined* out-of-scope area (administrative). UNKNOWN
-        # and in-scope areas proceed; grounding is decided by retrieval (_grounded) and
+        # Area-scope gate (§2.2): refuse before spending an LLM call when either
+        # (a) a deterministic corpus-less regime term is matched
+        # (matched_out_of_scope_regime), or (b) the classifier returns a *defined*
+        # out-of-scope area (administrative). Evidence-free UNKNOWN (no regime match) and
+        # in-scope areas proceed; grounding is then decided by retrieval (_grounded) and
         # the auditor, not by a keyword pre-gate. See _is_out_of_scope note above.
         if _is_out_of_scope(question):
             return build_refusal(BuiltContext(text="", citations=[], chunks=[]))

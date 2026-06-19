@@ -93,8 +93,15 @@ _HEADER_PREFIXES = ("TÍTULO ", "CAPÍTULO ", "SEÇÃO ", "SUBSEÇÃO ", "LIVRO 
 # ordinal glyphs ``º``/``°`` plus a *case-sensitive* lowercase ``o`` (the "1o"
 # ASCII ordinal) via ``(?-i:o)`` — never the uppercase "O" of a sentence start.
 # A single trailing ``.`` after the number/ordinal ("Art. 10.") is consumed too.
+# The optional letter suffix may itself carry the ordinal mark *inside* the
+# number, as in the canonical Brazilian spelling of amended low articles
+# ("Art. 1º-A", arts. 1º–9º). The ordinal therefore lives inside the capture
+# group, before the ``-A`` suffix, so "1º-A" yields the whole "1º-A" run rather
+# than capturing "1" and leaking "-A" into the body. A bare suffix without the
+# ordinal ("Art. 1-A") and a trailing ordinal on a plain number ("Art. 1º.")
+# both remain valid because each segment is optional.
 _ARTICLE_RE = re.compile(
-    r"^\s*Art\.?\s*(\d(?:[\d.]*\d)?(?:-[A-Z])?)(?:[º°]|(?-i:o))?\.?\s*(.*)",
+    r"^\s*Art\.?\s*(\d(?:[\d.]*\d)?(?:(?:[º°]|(?-i:o))?-[A-Z])?)(?:[º°]|(?-i:o))?\.?\s*(.*)",
     re.IGNORECASE,
 )
 # Some Planalto pages (e.g. CTN) split the article marker and its number across

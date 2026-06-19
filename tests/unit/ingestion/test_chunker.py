@@ -169,7 +169,7 @@ def test_thousands_article_matches_ranker_citation_path() -> None:
 
     assert extract_article("art 1238") == "1238"
     assert exact_citation_match(payload, extract_article("art 1238")) == 1.0
-    assert exact_citation_match(payload, extract_article("art. 1.238")) == 0.0
+    assert exact_citation_match(payload, extract_article("art. 1.238")) == 1.0
 
 
 def test_match_article_ordinal_before_letter_suffix() -> None:

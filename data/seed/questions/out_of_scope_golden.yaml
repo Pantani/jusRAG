@@ -51,7 +51,7 @@
 
 - id: oos-adm-01
   area: out_of_scope
-  question: "Quais são as modalidades de licitação previstas na Lei de Licitações e Contratos?"
+  question: "Em quais hipóteses a contratação direta por dispensa ou inexigibilidade de licitação é admitida pela administração pública?"
   expected_chunk_ids: []
   expected_behavior: refused
 
@@ -77,12 +77,12 @@
   expected_behavior: refused
 - id: oos-pre-01
   area: out_of_scope
-  question: "Quais os requisitos para aposentadoria por tempo de contribuição junto ao INSS?"
+  question: "Quais os requisitos para a concessão de pensão por morte como benefício previdenciário pelo INSS aos dependentes do segurado falecido?"
   expected_chunk_ids: []
   expected_behavior: refused
 - id: oos-pre-02
   area: out_of_scope
-  question: "Quais perícias o INSS exige para conceder benefício por incapacidade temporária?"
+  question: "Quais os critérios de renda e deficiência para concessão do benefício de prestação continuada (BPC/LOAS) administrado pelo INSS?"
   expected_chunk_ids: []
   expected_behavior: refused
 - id: oos-pre-03

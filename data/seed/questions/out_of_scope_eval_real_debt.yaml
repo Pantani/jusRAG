@@ -92,7 +92,7 @@
   expected_behavior: refused
 - id: oosx-ele-inelegibilidade
   area: out_of_scope
-  question: Quais as hipóteses de inelegibilidade previstas na Lei Complementar 64 de 1990 ficha limpa?
+  question: Como funciona a prestação de contas de campanha ao TSE e quais as sanções por desaprovação das contas?
   expected_chunk_ids: []
   expected_behavior: refused
 # migração / internacional
@@ -103,7 +103,7 @@
   expected_behavior: refused
 - id: oosx-mig-visto-humanitario
   area: out_of_scope
-  question: Quais os requisitos para obtenção de visto humanitário no Brasil pela Lei de Migração 13.445?
+  question: Quais os documentos exigidos para autorização de residência por reunião familiar de estrangeiro no Brasil?
   expected_chunk_ids: []
   expected_behavior: refused
 # família / sucessões substantivas

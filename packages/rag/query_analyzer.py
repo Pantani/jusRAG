@@ -13,15 +13,32 @@ import re
 from packages.rag.types import RetrievalQuery
 from packages.storage.payload import FILTERABLE_KEYS
 
-# Matches "art. 12", "artigo 49", "art 6º" — captures the article number.
-_ARTICLE_RE = re.compile(r"\bart(?:igo|\.)?\s*(\d+)", re.IGNORECASE)
+# Matches "art. 12", "artigo 49", "art 6º", "art. 1.238", "art 1240-A".
+# The numeric stem allows internal thousands dots (``1.238``) but the capture
+# stops before a trailing dot (sentence-final ".") because ``[\d.]*`` is greedy
+# yet a lone non-digit-followed dot is shed by the ``.replace`` + the fact that
+# the class only matches digits/dots — a final "." is captured then stripped to
+# dotless, and the optional ordinal mark / ``-A`` letter suffix are preserved so
+# the token converges to the chunker's dotless ``article`` field (§ chunker doc:
+# "art. 1.238"/"art 1238" -> "1238"; "art. 6º" -> "6º"; "art 1240-A" -> "1240-A").
+_ARTICLE_RE = re.compile(
+    r"\bart(?:igo|\.)?\s*(\d[\d.]*[ºo°]?(?:-[A-Z])?)",
+    re.IGNORECASE,
+)
 
 
 def extract_article(query: str) -> str | None:
-    """Return the first article number referenced in the query, if any."""
+    """Return the first article number referenced in the query, if any.
+
+    Normalizes the captured number to the **dotless** token used by the chunker's
+    ``article`` field and ``legal_ranker.exact_citation_match`` (thousands dots
+    removed; ordinal mark / letter suffix preserved): ``art. 1.238`` -> ``1238``.
+    """
 
     match = _ARTICLE_RE.search(query)
-    return match.group(1) if match else None
+    if not match:
+        return None
+    return match.group(1).replace(".", "")
 
 
 def build_filters(request: RetrievalQuery) -> dict[str, object]:

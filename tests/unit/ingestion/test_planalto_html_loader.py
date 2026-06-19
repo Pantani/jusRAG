@@ -188,3 +188,39 @@ def test_leading_capital_o_preserved_through_chunk(tmp_path: Path) -> None:
     # "Art. 5-A" renders the ordinal before the suffix and keeps the caput "O".
     assert "5º-A" in text_by_article
     assert "O produto deve ser seguro." in text_by_article["5º-A"]
+
+
+# --- Regression: ordinal mark *inside* a lettered suffix ("Art. 1º-A") ---------
+# The canonical Brazilian spelling of an amended low article (arts. 1º–9º) puts
+# the ordinal before the suffix: "Art. 1º-A". The old regex captured only "1"
+# and leaked "-A" into the caput body. The fix moves the ordinal inside the
+# capture group, before the "-A", so the whole "1º-A" run is captured and the
+# capital "O" opening the caput survives untouched.
+_ORDINAL_SUFFIX_HTML = """\
+<html><body>
+<p><font>&nbsp;&nbsp;Art. 1&ordm;-A. O texto do artigo emendado.</font></p>
+</body></html>
+""".encode("iso-8859-1")
+
+
+def test_ordinal_suffix_article_is_captured() -> None:
+    md = html_to_markdown(_ORDINAL_SUFFIX_HTML)
+    # The full "1º-A" run becomes the article heading; "-A" no longer leaks.
+    assert "## Art. 1º-A" in md
+    # The caput body — including its leading capital "O" — is preserved intact.
+    assert "O texto do artigo emendado." in md
+    assert "-A. O texto" not in md
+
+
+def test_ordinal_suffix_article_chunks_correctly(tmp_path: Path) -> None:
+    """End-to-end: "Art. 1º-A" yields article "1º-A" with the caput intact."""
+    html_path = tmp_path / "ord.html"
+    html_path.write_bytes(_ORDINAL_SUFFIX_HTML)
+    seed_path = tmp_path / "ord.md"
+    seed_path.write_text(build_seed_markdown(html_path), encoding="utf-8")
+
+    raw = LocalMarkdownLoader(seed_path).load()
+    chunks = chunk_document(raw)
+    text_by_article = {c.article: c.text for c in chunks}
+    assert "1º-A" in text_by_article
+    assert "O texto do artigo emendado." in text_by_article["1º-A"]
